@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 500" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+  <rect width="680" height="500" fill="#fff"/>
+  <text x="340" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#222">Filtro de areia lento (biofiltro) — corte lateral</text>
+  <defs>
+    <pattern id="areia" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#f1dfa6"/><circle cx="2" cy="2" r="0.8" fill="#c9a85c"/><circle cx="6" cy="5" r="0.8" fill="#c9a85c"/>
+    </pattern>
+    <pattern id="grossa" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#e3c98a"/><circle cx="3" cy="3" r="1.6" fill="#b08a45"/><circle cx="8" cy="7" r="1.6" fill="#b08a45"/>
+    </pattern>
+    <pattern id="brita" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="#cfcfcf"/><circle cx="4" cy="5" r="3" fill="#9a9a9a"/><circle cx="12" cy="12" r="3.3" fill="#8a8a8a"/>
+    </pattern>
+    <pattern id="britag" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="#bdbdbd"/><circle cx="7" cy="7" r="5.5" fill="#7d7d7d"/><circle cx="18" cy="18" r="5.5" fill="#6d6d6d"/>
+    </pattern>
+  </defs>
+  <!-- tampa -->
+  <rect x="96" y="58" width="268" height="14" rx="3" fill="#3f6d9e" stroke="#222" stroke-width="2"/>
+  <!-- corpo -->
+  <rect x="104" y="72" width="252" height="380" fill="#f7f7f7" stroke="#222" stroke-width="3"/>
+  <!-- agua bruta -->
+  <rect x="106" y="96" width="248" height="70" fill="#b9d4ee"/>
+  <!-- difusor -->
+  <rect x="150" y="150" width="160" height="7" fill="#7a4e2a" stroke="#222"/>
+  <g fill="#fff"><circle cx="170" cy="153.5" r="2"/><circle cx="200" cy="153.5" r="2"/><circle cx="230" cy="153.5" r="2"/><circle cx="260" cy="153.5" r="2"/><circle cx="290" cy="153.5" r="2"/></g>
+  <!-- biofilme -->
+  <rect x="106" y="166" width="248" height="6" fill="#5c8f3a"/>
+  <!-- areia fina -->
+  <rect x="106" y="172" width="248" height="170" fill="url(#areia)"/>
+  <!-- areia grossa -->
+  <rect x="106" y="342" width="248" height="28" fill="url(#grossa)"/>
+  <!-- brita fina -->
+  <rect x="106" y="370" width="248" height="34" fill="url(#brita)"/>
+  <!-- brita grossa -->
+  <rect x="106" y="404" width="248" height="46" fill="url(#britag)"/>
+  <!-- cano coletor -->
+  <rect x="120" y="428" width="240" height="10" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+  <rect x="356" y="160" width="12" height="278" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+  <rect x="356" y="152" width="52" height="12" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+  <!-- gota saida -->
+  <path d="M410 172 q-6 10 0 16 q6 -6 0 -16z" fill="#4a90d9"/>
+  <!-- balde -->
+  <path d="M385 200 L435 200 L428 250 L392 250 Z" fill="#cfe6fb" stroke="#222" stroke-width="2"/>
+  <!-- nivel referencia -->
+  <line x1="300" y1="157" x2="470" y2="157" stroke="#d33" stroke-dasharray="5 4" stroke-width="1.5"/>
+  <line x1="300" y1="172" x2="470" y2="172" stroke="#d33" stroke-dasharray="2 3" stroke-width="1"/>
+  <!-- rotulos -->
+  <g font-size="13" fill="#222">
+    <text x="12" y="66">tampa</text>
+    <text x="12" y="126">água bruta</text>
+    <text x="12" y="142" font-size="11" fill="#444">(sempre acima</text>
+    <text x="12" y="155" font-size="11" fill="#444">da areia)</text>
+    <text x="12" y="176" fill="#2d5a12" font-weight="bold">biofilme</text>
+    <text x="12" y="250">areia fina</text>
+    <text x="12" y="266" font-size="11" fill="#444">lavada</text>
+    <text x="12" y="282" font-size="11" fill="#444">50–60 cm</text>
+    <text x="12" y="355">areia grossa</text>
+    <text x="12" y="367" font-size="11" fill="#444">5 cm</text>
+    <text x="12" y="386">brita fina</text>
+    <text x="12" y="398" font-size="11" fill="#444">5 cm</text>
+    <text x="12" y="425">brita grossa</text>
+    <text x="12" y="441" font-size="11" fill="#444">cobre o cano</text>
+  </g>
+  <g font-size="12.5" fill="#222">
+    <text x="476" y="150" fill="#b22">A saída fica MAIS ALTA</text>
+    <text x="476" y="166" fill="#b22">que a areia: a areia</text>
+    <text x="476" y="182" fill="#b22">nunca seca.</text>
+    <text x="446" y="226">← água filtrada</text>
+    <text x="446" y="242" font-size="11" fill="#444">  (ainda desinfete:</text>
+    <text x="446" y="256" font-size="11" fill="#444">  ferva, cloro ou sol)</text>
+    <text x="380" y="300" font-weight="bold">Regras:</text>
+    <text x="380" y="318">• Use todos os dias.</text>
+    <text x="380" y="336">• 2–3 semanas para amadurecer.</text>
+    <text x="380" y="354">• Vazão lenta: 0,1–0,4 L/min.</text>
+    <text x="380" y="372">• Entupiu? Mexa só 1–2 cm</text>
+    <text x="380" y="388">  do topo da areia e retire</text>
+    <text x="380" y="404">  a água suja de cima.</text>
+    <text x="380" y="422">• Nunca lave a areia toda.</text>
+  </g>
+  <text x="230" y="480" text-anchor="middle" font-size="12" fill="#444">Tambor de 200 L ou bombona de grau alimentício</text>
+</svg>

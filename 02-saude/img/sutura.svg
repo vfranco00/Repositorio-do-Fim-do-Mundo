@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 330" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="330" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Sutura com ponto simples</text>
+<text x="170" y="62" font-size="14.5" fill="#222" font-weight="bold" text-anchor="middle">A) Corte lateral de um ponto</text>
+<path d="M20 90 L148 90 L170 200 L190 90 L320 90 L320 112 L20 112 Z" fill="#e8b49a" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M20 112 L152 112 L170 200 L188 112 L320 112 L320 170 L20 170 Z" fill="#f2cdb6" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M20 170 L164 170 L170 200 L176 170 L320 170 L320 230 L20 230 Z" fill="#fbe7a6" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M128 90 C 128 236, 212 236, 212 90" fill="none" stroke="#1d4ed8" stroke-width="3.5"/>
+<path d="M128 90 C 140 70, 200 70, 212 90" fill="none" stroke="#1d4ed8" stroke-width="3.5"/>
+<circle cx="170" cy="76" r="6" fill="#1d4ed8"/>
+<line x1="128" y1="250" x2="148" y2="250" stroke="#d62828" stroke-width="2"/><line x1="128" y1="244" x2="128" y2="256" stroke="#d62828" stroke-width="2"/><line x1="148" y1="244" x2="148" y2="256" stroke="#d62828" stroke-width="2"/>
+<text x="152" y="262" font-size="12" fill="#b22" font-weight="bold" text-anchor="start">~5 mm da borda</text>
+<text x="24" y="104" font-size="11" fill="#5a2d1a" text-anchor="start">pele</text>
+<text x="24" y="145" font-size="11" fill="#5a2d1a" text-anchor="start">derme</text>
+<text x="24" y="205" font-size="11" fill="#5a2d1a" text-anchor="start">gordura</text>
+<text x="222" y="84" font-size="11.5" fill="#1d4ed8" font-weight="bold" text-anchor="start">← nó (3 voltas)</text>
+<text x="20" y="284" font-size="12.5" fill="#222" text-anchor="start">Agulha entra em ângulo reto, desce até o</text>
+<text x="20" y="300" font-size="12.5" fill="#222" text-anchor="start">fundo do corte e sai do outro lado na mesma</text>
+<text x="20" y="316" font-size="12.5" fill="#222" text-anchor="start">distância. Sem espaço vazio embaixo.</text>
+<line x1="340" y1="44" x2="340" y2="330" stroke="#ccc" stroke-width="2"/>
+<text x="510" y="62" font-size="14.5" fill="#222" font-weight="bold" text-anchor="middle">B) Visto de cima</text>
+<rect x="360" y="100" width="300" height="110" rx="12" fill="#f2cdb6" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M380 156 Q510 150 640 156" stroke="#9b1c1c" stroke-width="3" fill="none"/>
+<line x1="400" y1="134" x2="400" y2="176" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="406" cy="134" r="4" fill="#1d4ed8"/><path d="M406 134 l10 -10 M406 134 l12 -4" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="450" y1="134" x2="450" y2="176" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="456" cy="134" r="4" fill="#1d4ed8"/><path d="M456 134 l10 -10 M456 134 l12 -4" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="500" y1="134" x2="500" y2="176" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="506" cy="134" r="4" fill="#1d4ed8"/><path d="M506 134 l10 -10 M506 134 l12 -4" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="550" y1="134" x2="550" y2="176" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="556" cy="134" r="4" fill="#1d4ed8"/><path d="M556 134 l10 -10 M556 134 l12 -4" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="600" y1="134" x2="600" y2="176" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="606" cy="134" r="4" fill="#1d4ed8"/><path d="M606 134 l10 -10 M606 134 l12 -4" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="400" y1="196" x2="450" y2="196" stroke="#d62828" stroke-width="2"/>
+<text x="426" y="232" font-size="12" fill="#b22" font-weight="bold" text-anchor="middle">5–10 mm entre pontos</text>
+<text x="360" y="262" font-size="12.5" fill="#222" text-anchor="start">Cada ponto é separado e com nó próprio.</text>
+<text x="360" y="280" font-size="12.5" fill="#222" text-anchor="start">Nó para o lado, não em cima do corte.</text>
+<text x="360" y="298" font-size="12.5" fill="#222" text-anchor="start">Bordas só se encostam: não aperte até</text>
+<text x="360" y="314" font-size="12.5" fill="#222" text-anchor="start">a pele ficar branca ou enrugada.</text>
+</svg>

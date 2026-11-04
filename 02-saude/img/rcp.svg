@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 444" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="444" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">RCP em adulto — compressões no peito</text>
+<line x1="20" y1="342" x2="440" y2="342" stroke="#6b4f2a" stroke-width="3"/>
+<polyline points="300,300 424,302" fill="none" stroke="#1e1e1e" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/><polyline points="300,300 424,302" fill="none" stroke="#6f8aa3" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="432,300 438,276" fill="none" stroke="#1e1e1e" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/><polyline points="432,300 438,276" fill="none" stroke="#6f8aa3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="130,296 300,298" fill="none" stroke="#1e1e1e" stroke-width="51" stroke-linecap="round" stroke-linejoin="round"/><polyline points="130,296 300,298" fill="none" stroke="#6f8aa3" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="96" cy="294" r="25" fill="#6f8aa3" stroke="#1e1e1e" stroke-width="2.5"/><circle cx="96" cy="269" r="7.0" fill="#6f8aa3" stroke="#1e1e1e" stroke-width="2"/><circle cx="104.8" cy="280.2" r="2.8" fill="#1e1e1e"/>
+<polyline points="258,330 362,332" fill="none" stroke="#1e1e1e" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/><polyline points="258,330 362,332" fill="none" stroke="#ef8a2b" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="272,238 258,330" fill="none" stroke="#1e1e1e" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/><polyline points="272,238 258,330" fill="none" stroke="#ef8a2b" stroke-width="27" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="272,238 206,154" fill="none" stroke="#1e1e1e" stroke-width="47" stroke-linecap="round" stroke-linejoin="round"/><polyline points="272,238 206,154" fill="none" stroke="#ef8a2b" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="182" cy="122" r="23" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="2.5"/><circle cx="169.35" cy="141.09" r="6.4" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="2"/><circle cx="168.4" cy="136.9" r="2.5" fill="#1e1e1e"/>
+<polyline points="206,158 206,262" fill="none" stroke="#1e1e1e" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/><polyline points="206,158 206,262" fill="none" stroke="#ef8a2b" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="206" cy="268" rx="17" ry="8" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="206" y1="62" x2="206" y2="282" stroke="#d62828" stroke-dasharray="7 5" stroke-width="2"/>
+<line x1="150" y1="196" x2="150.0" y2="264.0" stroke="#d62828" stroke-width="4"/><polygon points="150,270 144.8,259.2 155.2,259.2" fill="#d62828"/>
+<line x1="124" y1="270" x2="124.0" y2="210.0" stroke="#2b8a3e" stroke-width="3"/><polygon points="124,204 129.2,214.8 118.8,214.8" fill="#2b8a3e"/>
+<text x="20" y="188" font-size="13" fill="#b22" font-weight="bold" text-anchor="start">afunde</text>
+<text x="20" y="205" font-size="13" fill="#b22" font-weight="bold" text-anchor="start">5–6 cm</text>
+<text x="20" y="236" font-size="12" fill="#2b6a1e" text-anchor="start">deixe o peito</text>
+<text x="20" y="251" font-size="12" fill="#2b6a1e" text-anchor="start">voltar todo</text>
+<text x="216" y="74" font-size="12.5" fill="#b22" text-anchor="start">ombros em cima das mãos,</text>
+<text x="216" y="91" font-size="12.5" fill="#b22" text-anchor="start">braços RETOS, use o peso do corpo</text>
+<rect x="460" y="56" width="206" height="252" rx="8" fill="#f7f7f7" stroke="#999"/>
+<text x="563" y="80" font-size="13.5" fill="#222" font-weight="bold" text-anchor="middle">Onde pôr as mãos</text>
+<path d="M500 100 Q563 86 626 100 L636 282 Q563 298 490 282 Z" fill="#f2d7c2" stroke="#8a6a50" stroke-width="2"/>
+<rect x="556" y="110" width="14" height="122" rx="5" fill="#fff" stroke="#8a6a50"/>
+<circle cx="523" cy="170" r="4" fill="#a0705a"/><circle cx="603" cy="170" r="4" fill="#a0705a"/><line x1="510" y1="170" x2="616" y2="170" stroke="#999" stroke-dasharray="3 3"/>
+<ellipse cx="563" cy="184" rx="23" ry="17" fill="#d62828" fill-opacity="0.8" stroke="#7a1010" stroke-width="2"/>
+<text x="563" y="189" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">AQUI</text>
+<text x="470" y="326" font-size="11.5" fill="#222" text-anchor="start">Centro do peito, metade de</text>
+<text x="470" y="341" font-size="11.5" fill="#222" text-anchor="start">baixo do esterno (osso do meio),</text>
+<text x="470" y="356" font-size="11.5" fill="#222" text-anchor="start">na linha dos mamilos.</text>
+<rect x="20" y="368" width="640" height="64" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="34" y="390" font-size="13.5" fill="#222" text-anchor="start"><tspan font-weight="bold">Ritmo:</tspan> 100–120/min · <tspan font-weight="bold">Profundidade:</tspan> 5–6 cm · <tspan font-weight="bold">30 compressões : 2 ventilações</tspan></text>
+<text x="34" y="409" font-size="13" fill="#222" text-anchor="start">Sem treino para ventilar? Só compressões, sem parar. Troque de pessoa a cada 2 minutos.</text>
+<text x="34" y="426" font-size="12.5" fill="#222" text-anchor="start">Criança: 1–2 mãos, ~5 cm · Bebê: 2 dedos, ~4 cm · Afogado: 5 ventilações primeiro.</text>
+</svg>

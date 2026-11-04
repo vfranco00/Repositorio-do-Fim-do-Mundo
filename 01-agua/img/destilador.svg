@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 360" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+  <rect width="680" height="360" fill="#fff"/>
+  <text x="340" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#222">Destiladores caseiros (removem sal e químicos)</text>
+  <!-- Panela -->
+  <text x="170" y="58" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">A) Panela com tampa invertida</text>
+  <!-- gelo -->
+  <g fill="#e3f2ff" stroke="#6aa0d8"><rect x="125" y="78" width="22" height="18"/><rect x="152" y="74" width="22" height="20"/><rect x="180" y="79" width="22" height="18"/></g>
+  <!-- tampa invertida (cone p/ baixo) -->
+  <path d="M60 92 L163 128 L270 92" fill="none" stroke="#222" stroke-width="4"/>
+  <circle cx="163" cy="131" r="5" fill="#555"/>
+  <!-- panela -->
+  <path d="M60 100 L60 250 Q60 262 72 262 L258 262 Q270 262 270 250 L270 100" fill="none" stroke="#222" stroke-width="3"/>
+  <rect x="62" y="200" width="206" height="60" fill="#b9d4ee"/>
+  <text x="80" y="245" font-size="11.5" fill="#14385f">água salgada / suja</text>
+  <!-- caneca -->
+  <rect x="140" y="160" width="46" height="44" fill="#fff" stroke="#222" stroke-width="2"/>
+  <rect x="142" y="186" width="42" height="16" fill="#4a90d9"/>
+  <!-- pedras -->
+  <g fill="#888" stroke="#333"><ellipse cx="146" cy="214" rx="10" ry="8"/><ellipse cx="180" cy="214" rx="10" ry="8"/></g>
+  <!-- gotas -->
+  <path d="M163 140 q-4 7 0 11 q4 -4 0 -11z" fill="#4a90d9"/>
+  <!-- vapor -->
+  <g stroke="#9ab" stroke-width="2" fill="none"><path d="M90 190 q8 -15 0 -30 q-8 -15 0 -30"/><path d="M240 190 q8 -15 0 -30 q-8 -15 0 -30"/></g>
+  <!-- fogo -->
+  <path d="M120 290 q10 -25 22 -10 q6 -24 22 -12 q8 -20 20 0 q10 -10 18 6 q-4 22 -40 22 q-40 0 -42 -6z" fill="#f08020" stroke="#c0501a"/>
+  <g font-size="12" fill="#222">
+    <text x="210" y="80">gelo / água fria</text>
+    <text x="40" y="320">O vapor condensa na tampa, escorre</text>
+    <text x="40" y="336">até o centro e pinga na caneca.</text>
+  </g>
+  <!-- Solar -->
+  <text x="510" y="58" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">B) Destilador solar no chão</text>
+  <circle cx="640" cy="90" r="18" fill="#f7c331" stroke="#e09b00" stroke-width="2"/>
+  <!-- buraco -->
+  <path d="M380 180 L410 270 L610 270 L640 180 Z" fill="#c9a26b" stroke="#6b4f2a" stroke-width="2"/>
+  <rect x="360" y="176" width="300" height="8" fill="#a77b45"/>
+  <!-- plastico cone -->
+  <path d="M370 180 L510 236 L650 180" fill="none" stroke="#6aa0d8" stroke-width="3"/>
+  <circle cx="510" cy="228" r="6" fill="#777" stroke="#333"/>
+  <!-- recipiente -->
+  <rect x="488" y="242" width="44" height="28" fill="#fff" stroke="#222" stroke-width="2"/>
+  <rect x="490" y="256" width="40" height="12" fill="#4a90d9"/>
+  <!-- folhas -->
+  <g fill="#3a9a3a"><ellipse cx="430" cy="258" rx="14" ry="5"/><ellipse cx="455" cy="262" rx="12" ry="5"/><ellipse cx="575" cy="258" rx="14" ry="5"/><ellipse cx="595" cy="262" rx="12" ry="5"/></g>
+  <!-- terra nas bordas -->
+  <g fill="#8b6b3e"><ellipse cx="372" cy="178" rx="16" ry="8"/><ellipse cx="648" cy="178" rx="16" ry="8"/></g>
+  <g font-size="12" fill="#222">
+    <text x="365" y="140">plástico transparente</text>
+    <text x="365" y="156">vedado com terra nas bordas</text>
+    <text x="545" y="230">pedrinha</text>
+    <text x="365" y="296">plantas verdes ou água salgada</text>
+    <text x="365" y="312">em volta do recipiente</text>
+    <text x="365" y="336" font-weight="bold">Rende só 0,5–1 L/dia: complemento.</text>
+  </g>
+</svg>

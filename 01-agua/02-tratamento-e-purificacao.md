@@ -32,6 +32,9 @@ da areia que "come" os micróbios.
 
 Montagem em um tambor de 200 L ou bombona (de baixo para cima):
 
+![Filtro de areia lento em corte: camadas de brita, areia grossa e areia fina, com saída mais alta que a areia](img/filtro-areia.svg)
+
+
 ```
   ┌──────────────────────────┐  ← tampa (impede luz e insetos)
   │   água bruta (5 cm acima │
@@ -126,6 +129,9 @@ persistente, prefira ferver.
 ### 3. Desinfecção solar (SODIS)
 Método reconhecido pela OMS, grátis, perfeito para clima tropical.
 
+![SODIS: garrafas PET transparentes deitadas sobre o telhado ao sol](img/sodis.svg)
+
+
 1. Use garrafas **PET transparentes, lisas, de até 2 litros**, sem rótulo e sem arranhões fortes.
 2. A água precisa estar **clara** (você consegue ler letras de jornal através da garrafa cheia
    olhando de cima). Se não estiver, filtre antes.
@@ -147,6 +153,9 @@ Trocar as garrafas quando ficarem riscadas ou opacas. Garrafas de vidro funciona
 
 Remove sal, metais pesados e a maioria dos químicos. É a **única forma caseira de tornar
 água do mar potável**. Gasta muita energia.
+
+![Destilador de panela com tampa invertida e destilador solar no chão](img/destilador.svg)
+
 
 ### Destilador de panela (rápido)
 1. Panela grande com água salgada/contaminada.

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 470" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="470" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Como medir o tamanho de uma queimadura</text>
+<text x="180" y="64" font-size="15" fill="#222" font-weight="bold" text-anchor="middle">Regra dos 9 (adulto)</text>
+<polyline points="79,270 75,380" fill="none" stroke="#1e1e1e" stroke-width="31" stroke-linecap="round" stroke-linejoin="round"/><polyline points="79,270 75,380" fill="none" stroke="#f6d3b7" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/><polyline points="111,270 115,380" fill="none" stroke="#1e1e1e" stroke-width="31" stroke-linecap="round" stroke-linejoin="round"/><polyline points="111,270 115,380" fill="none" stroke="#f6d3b7" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/><polyline points="95,150 95,260" fill="none" stroke="#1e1e1e" stroke-width="83" stroke-linecap="round" stroke-linejoin="round"/><polyline points="95,150 95,260" fill="none" stroke="#f6d3b7" stroke-width="78" stroke-linecap="round" stroke-linejoin="round"/><polyline points="49,146 33,250" fill="none" stroke="#1e1e1e" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/><polyline points="49,146 33,250" fill="none" stroke="#f6d3b7" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/><polyline points="141,146 157,250" fill="none" stroke="#1e1e1e" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/><polyline points="141,146 157,250" fill="none" stroke="#f6d3b7" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/><circle cx="95" cy="108" r="26" fill="#f6d3b7" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="95" y="414" font-size="12" fill="#444" font-weight="bold" text-anchor="middle">FRENTE</text>
+<polyline points="252,270 248,380" fill="none" stroke="#1e1e1e" stroke-width="31" stroke-linecap="round" stroke-linejoin="round"/><polyline points="252,270 248,380" fill="none" stroke="#e9c2a2" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/><polyline points="284,270 288,380" fill="none" stroke="#1e1e1e" stroke-width="31" stroke-linecap="round" stroke-linejoin="round"/><polyline points="284,270 288,380" fill="none" stroke="#e9c2a2" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/><polyline points="268,150 268,260" fill="none" stroke="#1e1e1e" stroke-width="83" stroke-linecap="round" stroke-linejoin="round"/><polyline points="268,150 268,260" fill="none" stroke="#e9c2a2" stroke-width="78" stroke-linecap="round" stroke-linejoin="round"/><polyline points="222,146 206,250" fill="none" stroke="#1e1e1e" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/><polyline points="222,146 206,250" fill="none" stroke="#e9c2a2" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/><polyline points="314,146 330,250" fill="none" stroke="#1e1e1e" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/><polyline points="314,146 330,250" fill="none" stroke="#e9c2a2" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/><circle cx="268" cy="108" r="26" fill="#e9c2a2" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="268" y="414" font-size="12" fill="#444" font-weight="bold" text-anchor="middle">COSTAS</text>
+<text x="95" y="113" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">4,5</text>
+<text x="268" y="113" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">4,5</text>
+<text x="95" y="212" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">18</text>
+<text x="268" y="212" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">18</text>
+<text x="41" y="206" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">4,5</text>
+<text x="149" y="206" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">4,5</text>
+<text x="214" y="206" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">4,5</text>
+<text x="322" y="206" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">4,5</text>
+<text x="77" y="330" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">9</text>
+<text x="113" y="330" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">9</text>
+<text x="250" y="330" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">9</text>
+<text x="286" y="330" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">9</text>
+<text x="95" y="262" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">1</text>
+<text x="20" y="440" font-size="12" fill="#222" text-anchor="start">Cabeça 9 · cada braço 9 · tronco frente 18 · costas 18</text>
+<text x="20" y="456" font-size="12" fill="#222" text-anchor="start">cada perna 18 · genitais 1  (total 100%)</text>
+<line x1="360" y1="48" x2="360" y2="462" stroke="#ccc" stroke-width="2"/>
+<text x="520" y="64" font-size="15" fill="#222" font-weight="bold" text-anchor="middle">Regra da palma</text>
+<rect x="472" y="180" width="96" height="104" rx="22" fill="#f6d3b7" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="473" y="116" width="22" height="78" rx="11" fill="#f6d3b7" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="497" y="102" width="22" height="92" rx="11" fill="#f6d3b7" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="521" y="106" width="22" height="88" rx="11" fill="#f6d3b7" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="545" y="122" width="22" height="72" rx="11" fill="#f6d3b7" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="430" y="214" width="56" height="22" rx="11" fill="#f6d3b7" stroke="#1e1e1e" stroke-width="2.5" transform="rotate(-30 480 225)"/>
+<rect x="474" y="184" width="92" height="98" rx="20" fill="#f6d3b7"/>
+<text x="520" y="240" font-size="22" fill="#b3001b" font-weight="bold" text-anchor="middle">≈ 1%</text>
+<text x="380" y="330" font-size="13" fill="#222" font-weight="bold" text-anchor="start">A palma da mão DA VÍTIMA,</text>
+<text x="380" y="348" font-size="13" fill="#222" text-anchor="start">com os dedos juntos, cobre</text>
+<text x="380" y="366" font-size="13" fill="#222" text-anchor="start">cerca de 1% do corpo dela.</text>
+<text x="380" y="396" font-size="13" fill="#b22" font-weight="bold" text-anchor="start">É GRAVE se passar de:</text>
+<text x="380" y="414" font-size="12.5" fill="#222" text-anchor="start">• 10% em criança ou idoso</text>
+<text x="380" y="430" font-size="12.5" fill="#222" text-anchor="start">• 15–20% em adulto</text>
+<text x="380" y="446" font-size="12.5" fill="#222" text-anchor="start">• rosto, mãos, pés, genitais, juntas</text>
+</svg>

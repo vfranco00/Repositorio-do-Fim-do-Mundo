@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 490" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+  <rect width="680" height="490" fill="#fff"/>
+  <text x="340" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#222">Poço raso protegido — corte lateral</text>
+  <g transform="translate(0,34)">
+  <!-- solo -->
+  <rect x="0" y="140" width="680" height="320" fill="#e8d3b0"/>
+  <rect x="0" y="330" width="680" height="130" fill="#b9d4ee" opacity="0.7"/>
+  <line x1="0" y1="330" x2="680" y2="330" stroke="#3f6d9e" stroke-dasharray="8 5" stroke-width="2"/>
+  <text x="560" y="350" font-size="12" fill="#14385f">lençol freático</text>
+  <!-- calcada com caimento -->
+  <polygon points="150,132 300,126 300,140 150,146" fill="#aaa" stroke="#222" stroke-width="1.5"/>
+  <polygon points="380,126 530,132 530,146 380,140" fill="#aaa" stroke="#222" stroke-width="1.5"/>
+  <!-- paredes impermeaveis -->
+  <rect x="290" y="60" width="16" height="200" fill="#888" stroke="#222" stroke-width="1.5"/>
+  <rect x="374" y="60" width="16" height="200" fill="#888" stroke="#222" stroke-width="1.5"/>
+  <!-- paredes inferiores com juntas abertas -->
+  <g fill="#b0a090" stroke="#222" stroke-width="1">
+    <rect x="290" y="262" width="16" height="22"/><rect x="290" y="288" width="16" height="22"/><rect x="290" y="314" width="16" height="22"/><rect x="290" y="340" width="16" height="22"/><rect x="290" y="366" width="16" height="22"/><rect x="290" y="392" width="16" height="22"/>
+    <rect x="374" y="262" width="16" height="22"/><rect x="374" y="288" width="16" height="22"/><rect x="374" y="314" width="16" height="22"/><rect x="374" y="340" width="16" height="22"/><rect x="374" y="366" width="16" height="22"/><rect x="374" y="392" width="16" height="22"/>
+  </g>
+  <!-- agua no poco -->
+  <rect x="306" y="330" width="68" height="90" fill="#4a90d9" opacity="0.8"/>
+  <rect x="306" y="410" width="68" height="12" fill="#9a9a9a"/>
+  <!-- tampa e sarilho -->
+  <rect x="280" y="52" width="120" height="10" fill="#7a4e2a" stroke="#222"/>
+  <line x1="300" y1="52" x2="300" y2="10" stroke="#7a4e2a" stroke-width="6"/>
+  <line x1="380" y1="52" x2="380" y2="10" stroke="#7a4e2a" stroke-width="6"/>
+  <rect x="296" y="30" width="88" height="12" rx="6" fill="#b5835a" stroke="#222"/>
+  <line x1="340" y1="42" x2="340" y2="340" stroke="#555" stroke-width="1.5"/>
+  <rect x="330" y="340" width="20" height="18" fill="#3f6d9e" stroke="#222"/>
+  <!-- enxurrada desviada -->
+  <path d="M20 120 Q90 128 140 136" fill="none" stroke="#4a90d9" stroke-width="2.5"/>
+  <path d="M660 120 Q590 128 540 136" fill="none" stroke="#4a90d9" stroke-width="2.5"/>
+  <!-- fossa -->
+  <rect x="580" y="160" width="80" height="60" fill="#8a7458" stroke="#222"/>
+  <text x="620" y="195" text-anchor="middle" font-size="12" fill="#fff">fossa</text>
+  <g font-size="12.5" fill="#222">
+    <text x="10" y="170" font-weight="bold">3 m de cima: parede</text>
+    <text x="10" y="186" font-weight="bold">REBOCADA (impermeável)</text>
+    <text x="10" y="202">impede a água suja da</text>
+    <text x="10" y="218">superfície de entrar</text>
+    <line x1="200" y1="190" x2="288" y2="190" stroke="#555"/>
+    <text x="10" y="290">Embaixo: juntas abertas</text>
+    <text x="10" y="306">(a água do lençol entra)</text>
+    <line x1="180" y1="300" x2="288" y2="300" stroke="#555"/>
+    <text x="10" y="400">Fundo: 1–2 m abaixo do nível</text>
+    <text x="10" y="416">na seca + camada de cascalho</text>
+    <text x="10" y="102">Calçada com caimento para fora</text>
+    <text x="10" y="118" font-size="11.5" fill="#444">+ valeta desviando a enxurrada</text>
+    <text x="410" y="40">Tampa + sarilho com balde</text>
+    <text x="410" y="56" font-size="11.5" fill="#444">corda própria que não toca o chão</text>
+    <text x="440" y="250" font-weight="bold" fill="#b22">Mínimo 30 m de fossas,</text>
+    <text x="440" y="266" font-weight="bold" fill="#b22">chiqueiros e currais,</text>
+    <text x="440" y="282" font-weight="bold" fill="#b22">e acima deles no terreno.</text>
+  </g>
+  <text x="340" y="448" text-anchor="middle" font-size="12" fill="#b22">Antes de descer: vela acesa no fundo. Apagou = gás = NÃO DESÇA.</text>
+</g>
+</svg>

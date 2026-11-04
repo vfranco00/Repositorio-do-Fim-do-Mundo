@@ -39,6 +39,9 @@ Exemplo: telhado de 60 m², chuva de 20 mm → 60 × 20 × 0,8 = **960 L** em um
 Uma casa de 60 m² em região com 1.200 mm/ano capta cerca de **57.600 L/ano** — mais que o
 suficiente para beber e cozinhar para uma família grande.
 
+![Captação de água de chuva com calha, descarte da primeira água e caixa fechada](img/captacao-chuva.svg)
+
+
 ### Montagem simples
 1. **Telhado:** telha cerâmica, metálica ou fibrocimento sem pintura tóxica. Evite telhados
    com muito musgo, fezes de pássaros ou árvores em cima.
@@ -74,6 +77,9 @@ suficiente para beber e cozinhar para uma família grande.
   para fora, valeta para desviar a enxurrada.
 - **Retirada:** balde com corda própria (que não encosta no chão) e sarilho; melhor ainda,
   bomba manual.
+
+![Poço raso protegido em corte: parede rebocada em cima, juntas abertas embaixo, calçada e tampa](img/poco-protegido.svg)
+
 
 > **ATENÇÃO — escavar poço mata gente todo ano.** Gases (CO₂, metano, gás de motor) se
 > acumulam no fundo. Antes de descer: baixe uma **vela acesa** — se apagar, não desça.

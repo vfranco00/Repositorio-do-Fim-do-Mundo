@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 466" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="466" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Torniquete improvisado (braço ou perna)</text>
+<rect x="10" y="42" width="325" height="186" rx="10" fill="#fafafa" stroke="#ccc"/>
+<text x="22" y="62" font-size="13.5" fill="#222" font-weight="bold" text-anchor="start">1. Faixa LARGA (4 cm ou mais)</text>
+<polyline points="30,154 272,158" fill="none" stroke="#1e1e1e" stroke-width="47" stroke-linecap="round" stroke-linejoin="round"/><polyline points="30,154 272,158" fill="none" stroke="#f2c9a5" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="294" cy="158" rx="18" ry="22" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2.5"/><ellipse cx="232" cy="156" rx="13" ry="8" fill="#b3001b" stroke="#600" stroke-width="1.5"/><path d="M232 170 q-4 9 0 13 q4 -4 0 -13z" fill="#b3001b"/>
+<rect x="138" y="126" width="26" height="60" rx="4" fill="#e9e1c8" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="164" y1="196" x2="220" y2="196" stroke="#d62828" stroke-width="2"/>
+<line x1="164" y1="190" x2="164" y2="202" stroke="#d62828" stroke-width="2"/><line x1="220" y1="190" x2="220" y2="202" stroke="#d62828" stroke-width="2"/>
+<text x="192" y="216" font-size="12" fill="#b22" font-weight="bold" text-anchor="middle">5 a 8 cm ACIMA da ferida</text>
+<text x="28" y="120" font-size="11.5" fill="#444" text-anchor="start">nunca sobre cotovelo ou joelho</text>
+<text x="28" y="216" font-size="11" fill="#666" text-anchor="start">ombro →</text>
+<rect x="345" y="42" width="325" height="186" rx="10" fill="#fafafa" stroke="#ccc"/>
+<text x="357" y="62" font-size="13.5" fill="#222" font-weight="bold" text-anchor="start">2. Nó, bastão por cima, outro nó</text>
+<polyline points="365,154 607,158" fill="none" stroke="#1e1e1e" stroke-width="47" stroke-linecap="round" stroke-linejoin="round"/><polyline points="365,154 607,158" fill="none" stroke="#f2c9a5" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="629" cy="158" rx="18" ry="22" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2.5"/><ellipse cx="567" cy="156" rx="13" ry="8" fill="#b3001b" stroke="#600" stroke-width="1.5"/><path d="M567 170 q-4 9 0 13 q4 -4 0 -13z" fill="#b3001b"/>
+<rect x="473" y="126" width="26" height="60" rx="4" fill="#e9e1c8" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="449" y="116" width="74" height="10" rx="4" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="486" cy="128" r="7" fill="#e9e1c8" stroke="#1e1e1e" stroke-width="2"/>
+<text x="363" y="106" font-size="11.5" fill="#444" text-anchor="start">bastão: galho firme, caneta grossa, colher</text>
+<text x="363" y="216" font-size="12" fill="#b22" font-weight="bold" text-anchor="start">NUNCA use fio, arame ou corda fina</text>
+<rect x="10" y="234" width="325" height="186" rx="10" fill="#fafafa" stroke="#ccc"/>
+<text x="22" y="254" font-size="13.5" fill="#222" font-weight="bold" text-anchor="start">3. Gire o bastão até o sangue PARAR</text>
+<polyline points="30,346 272,350" fill="none" stroke="#1e1e1e" stroke-width="47" stroke-linecap="round" stroke-linejoin="round"/><polyline points="30,346 272,350" fill="none" stroke="#f2c9a5" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="294" cy="350" rx="18" ry="22" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2.5"/><ellipse cx="232" cy="348" rx="13" ry="8" fill="#b3001b" stroke="#600" stroke-width="1.5"/><path d="M232 362 q-4 9 0 13 q4 -4 0 -13z" fill="#b3001b"/>
+<rect x="138" y="318" width="26" height="60" rx="4" fill="#e9e1c8" stroke="#1e1e1e" stroke-width="2"/><line x1="140" y1="322" x2="162" y2="328" stroke="#8a7d5a" stroke-width="2"/><line x1="140" y1="333" x2="162" y2="339" stroke="#8a7d5a" stroke-width="2"/><line x1="140" y1="344" x2="162" y2="350" stroke="#8a7d5a" stroke-width="2"/><line x1="140" y1="355" x2="162" y2="361" stroke="#8a7d5a" stroke-width="2"/><line x1="140" y1="366" x2="162" y2="372" stroke="#8a7d5a" stroke-width="2"/>
+<rect x="114" y="308" width="74" height="10" rx="4" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="151" cy="320" r="7" fill="#e9e1c8" stroke="#1e1e1e" stroke-width="2"/>
+<path d="M110 284 A 42 18 0 1 1 192 284" fill="none" stroke="#d62828" stroke-width="3.5"/>
+<polygon points="192,296 184,282 200,282" fill="#d62828"/>
+<text x="206" y="278" font-size="12.5" fill="#b22" font-weight="bold" text-anchor="start">gire</text>
+<text x="28" y="408" font-size="12" fill="#b22" font-weight="bold" text-anchor="start">Vai doer muito. É normal. NÃO afrouxe.</text>
+<rect x="345" y="234" width="325" height="186" rx="10" fill="#fafafa" stroke="#ccc"/>
+<text x="357" y="254" font-size="13.5" fill="#222" font-weight="bold" text-anchor="start">4. Prenda o bastão e anote a HORA</text>
+<polyline points="365,346 607,350" fill="none" stroke="#1e1e1e" stroke-width="47" stroke-linecap="round" stroke-linejoin="round"/><polyline points="365,346 607,350" fill="none" stroke="#f2c9a5" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="629" cy="350" rx="18" ry="22" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2.5"/><ellipse cx="567" cy="348" rx="13" ry="8" fill="#b3001b" stroke="#600" stroke-width="1.5"/><path d="M567 362 q-4 9 0 13 q4 -4 0 -13z" fill="#b3001b"/>
+<rect x="473" y="318" width="26" height="60" rx="4" fill="#e9e1c8" stroke="#1e1e1e" stroke-width="2"/><line x1="475" y1="322" x2="497" y2="328" stroke="#8a7d5a" stroke-width="2"/><line x1="475" y1="333" x2="497" y2="339" stroke="#8a7d5a" stroke-width="2"/><line x1="475" y1="344" x2="497" y2="350" stroke="#8a7d5a" stroke-width="2"/><line x1="475" y1="355" x2="497" y2="361" stroke="#8a7d5a" stroke-width="2"/><line x1="475" y1="366" x2="497" y2="372" stroke="#8a7d5a" stroke-width="2"/>
+<rect x="449" y="308" width="74" height="10" rx="4" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="486" cy="320" r="7" fill="#e9e1c8" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="515" y="302" width="12" height="22" rx="3" fill="#e9e1c8" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="583" y="286" width="72" height="30" rx="4" fill="#fff" stroke="#d62828" stroke-width="2"/>
+<text x="619" y="306" font-size="15" fill="#b22" font-weight="bold" text-anchor="middle">T 14:35</text>
+<text x="363" y="408" font-size="12" fill="#222" text-anchor="start">Escreva a hora no torniquete ou na testa.</text>
+</svg>
