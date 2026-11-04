@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 696" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="696" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Pilha de compostagem em camadas (corte)</text>
+<rect x="0" y="360" width="680" height="22" fill="#e8d3b0"/>
+<line x1="0" y1="360" x2="680" y2="360" stroke="#6b4f2a" stroke-width="2"/>
+<polygon points="70.0,360 79.7,332 420.3,332 430.0,360" fill="#d8c3a0" stroke="#1e1e1e" stroke-width="0.8"/>
+<line x1="84.0" y1="354" x2="104.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="108.0" y1="354" x2="128.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="132.0" y1="354" x2="152.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="156.0" y1="354" x2="176.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="180.0" y1="354" x2="200.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="204.0" y1="354" x2="224.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="228.0" y1="354" x2="248.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="252.0" y1="354" x2="272.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="276.0" y1="354" x2="296.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="300.0" y1="354" x2="320.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="324.0" y1="354" x2="344.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="348.0" y1="354" x2="368.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="372.0" y1="354" x2="392.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="396.0" y1="354" x2="416.0" y2="338" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
+<polygon points="79.7,332 91.4,298 408.6,298 420.3,332" fill="#b08850" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="91.4,298 95.2,287 404.8,287 408.6,298" fill="#7cc47f" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="95.2,287 96.6,283 403.4,283 404.8,287" fill="#5a4630" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="96.6,283 108.3,249 391.7,249 403.4,283" fill="#b08850" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="108.3,249 112.1,238 387.9,238 391.7,249" fill="#7cc47f" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="112.1,238 113.4,234 386.6,234 387.9,238" fill="#5a4630" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="113.4,234 125.2,200 374.8,200 386.6,234" fill="#b08850" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="125.2,200 129.0,189 371.0,189 374.8,200" fill="#7cc47f" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="129.0,189 130.3,185 369.7,185 371.0,189" fill="#5a4630" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="130.3,185 142.1,151 357.9,151 369.7,185" fill="#b08850" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="142.1,151 145.9,140 354.1,140 357.9,151" fill="#7cc47f" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="145.9,140 147.2,136 352.8,136 354.1,140" fill="#5a4630" stroke="#1e1e1e" stroke-width="0.8"/>
+<polygon points="141.2,136 146.0,116 354.0,116 358.8,136" fill="#efd27a" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="154.0" y1="120" x2="166.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="171.0" y1="120" x2="183.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="188.0" y1="120" x2="200.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="205.0" y1="120" x2="217.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="222.0" y1="120" x2="234.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="239.0" y1="120" x2="251.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="256.0" y1="120" x2="268.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="273.0" y1="120" x2="285.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="290.0" y1="120" x2="302.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="307.0" y1="120" x2="319.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="324.0" y1="120" x2="336.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="341.0" y1="120" x2="353.0" y2="126" stroke="#b8932f" stroke-width="2"/>
+<line x1="250" y1="70" x2="250" y2="300" stroke="#666" stroke-width="5"/>
+<line x1="238" y1="70" x2="262" y2="70" stroke="#666" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="250" cy="250" rx="70" ry="40" fill="#d62828" fill-opacity="0.18"/>
+<text x="250" y="264" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">55–65 °C</text>
+<text x="20" y="60.0" font-size="11.5" fill="#333" font-weight="bold" text-anchor="start">Barra de ferro no meio:</text><text x="20" y="74.5" font-size="11.5" fill="#333" text-anchor="start">puxe e sinta. Quente de</text><text x="20" y="89.0" font-size="11.5" fill="#333" text-anchor="start">não aguentar segurar = OK</text>
+<line x1="185" y1="68" x2="244" y2="86" stroke="#555" stroke-width="1.2"/><circle cx="244" cy="86" r="2.5" fill="#555"/>
+<line x1="70" y1="400" x2="430" y2="400" stroke="#333" stroke-width="1.5"/><line x1="70" y1="394" x2="70" y2="406" stroke="#333" stroke-width="1.5"/><line x1="430" y1="394" x2="430" y2="406" stroke="#333" stroke-width="1.5"/><text x="250.0" y="416" font-size="12" fill="#333" font-weight="bold" text-anchor="middle">1,5 a 2 m de largura na base</text>
+<line x1="56" y1="116" x2="56" y2="360" stroke="#333" stroke-width="1.5"/><line x1="50" y1="116" x2="62" y2="116" stroke="#333" stroke-width="1.5"/><line x1="50" y1="360" x2="62" y2="360" stroke="#333" stroke-width="1.5"/><text x="64" y="242.0" font-size="12" fill="#333" font-weight="bold" text-anchor="start"></text>
+<text x="48" y="236" font-size="12" fill="#333" font-weight="bold" text-anchor="end">1 a</text><text x="48" y="251" font-size="12" fill="#333" text-anchor="end">1,5 m</text>
+<line x1="451" y1="124" x2="344.0" y2="122" stroke="#555" stroke-width="1.2"/><circle cx="344.0" cy="122" r="2.5" fill="#555"/>
+<text x="455" y="110" font-size="12" fill="#7a5d00" font-weight="bold" text-anchor="start">COBERTURA: palha ou</text><text x="455" y="125" font-size="12" fill="#7a5d00" text-anchor="start">folhas (protege do sol e</text><text x="455" y="140" font-size="12" fill="#7a5d00" text-anchor="start">da chuva)</text>
+<line x1="451" y1="196" x2="360.6896551724138" y2="217" stroke="#555" stroke-width="1.2"/><circle cx="360.6896551724138" cy="217" r="2.5" fill="#555"/>
+<text x="455" y="186" font-size="12" fill="#6b4f2a" font-weight="bold" text-anchor="start">MARROM 15–20 cm: folhas</text><text x="455" y="201" font-size="12" fill="#6b4f2a" text-anchor="start">secas, palha, capim seco,</text><text x="455" y="216" font-size="12" fill="#6b4f2a" text-anchor="start">serragem, papelão</text>
+<line x1="451" y1="243" x2="375.6551724137931" y2="243" stroke="#555" stroke-width="1.2"/><circle cx="375.6551724137931" cy="243" r="2.5" fill="#555"/>
+<text x="455" y="240" font-size="12" fill="#1e6a2a" font-weight="bold" text-anchor="start">VERDE 5 cm: restos de</text><text x="455" y="255" font-size="12" fill="#1e6a2a" text-anchor="start">cozinha, esterco, grama</text><text x="455" y="270" font-size="12" fill="#1e6a2a" text-anchor="start">fresca, folhas verdes</text>
+<line x1="451" y1="292" x2="394.13793103448273" y2="285" stroke="#555" stroke-width="1.2"/><circle cx="394.13793103448273" cy="285" r="2.5" fill="#555"/>
+<text x="455" y="296" font-size="12" fill="#333" font-weight="bold" text-anchor="start">punhado de terra ou</text><text x="455" y="311" font-size="12" fill="#333" text-anchor="start">composto velho + ÁGUA</text>
+<line x1="451" y1="340" x2="405.17241379310343" y2="346" stroke="#555" stroke-width="1.2"/><circle cx="405.17241379310343" cy="346" r="2.5" fill="#555"/>
+<text x="455" y="336" font-size="12" fill="#333" font-weight="bold" text-anchor="start">base de galhos (20 cm):</text><text x="455" y="351" font-size="12" fill="#333" text-anchor="start">deixa o ar entrar</text>
+<text x="20" y="428" font-size="13" fill="#222" font-weight="bold" text-anchor="start">Mistura certa:</text>
+<path d="M130 438 L136 482 L168 482 L174 438 Z" fill="#b08850" stroke="#1e1e1e" stroke-width="2"/><path d="M132 438 Q 152 416 172 438" fill="none" stroke="#1e1e1e" stroke-width="2"/><text x="152" y="466" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">M</text>
+<path d="M186 438 L192 482 L224 482 L230 438 Z" fill="#b08850" stroke="#1e1e1e" stroke-width="2"/><path d="M188 438 Q 208 416 228 438" fill="none" stroke="#1e1e1e" stroke-width="2"/><text x="208" y="466" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">M</text>
+<path d="M242 438 L248 482 L280 482 L286 438 Z" fill="#b08850" stroke="#1e1e1e" stroke-width="2"/><path d="M244 438 Q 264 416 284 438" fill="none" stroke="#1e1e1e" stroke-width="2"/><text x="264" y="466" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">M</text>
+<text x="311" y="468" font-size="26" fill="#222" font-weight="bold" text-anchor="middle">+</text>
+<path d="M330 438 L336 482 L368 482 L374 438 Z" fill="#7cc47f" stroke="#1e1e1e" stroke-width="2"/><path d="M332 438 Q 352 416 372 438" fill="none" stroke="#1e1e1e" stroke-width="2"/><text x="352" y="466" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">V</text>
+<text x="392" y="442" font-size="12" fill="#222" font-weight="bold" text-anchor="start">3 partes de MARROM (carbono)</text><text x="392" y="457" font-size="12" fill="#222" text-anchor="start">para 1 parte de VERDE (nitrogênio)</text><text x="392" y="472" font-size="12" fill="#222" text-anchor="start">— mais ou menos 30 de C para 1 de N</text>
+<text x="20" y="516" font-size="13" fill="#222" font-weight="bold" text-anchor="start">Teste da esponja: aperte um punhado com força</text>
+<ellipse cx="110" cy="548" rx="26" ry="18" fill="#c9a878" stroke="#1e1e1e" stroke-width="2"/>
+<text x="110" y="600" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="middle">SECO: esfarela</text>
+<text x="110" y="616" font-size="12" fill="#333" text-anchor="middle">→ molhe e misture</text>
+<ellipse cx="340" cy="548" rx="26" ry="18" fill="#8a6a3e" stroke="#1e1e1e" stroke-width="2"/><path d="M333 570 q -5 9 0 13 q 5 -4 0 -13 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/><path d="M347 570 q -5 9 0 13 q 5 -4 0 -13 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/>
+<text x="340" y="600" font-size="12.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">CERTO: 1 ou 2 gotas</text>
+<text x="340" y="616" font-size="12" fill="#333" text-anchor="middle">(como esponja torcida)</text>
+<ellipse cx="570" cy="548" rx="26" ry="18" fill="#5a4630" stroke="#1e1e1e" stroke-width="2"/><path d="M542 570 q -5 9 0 13 q 5 -4 0 -13 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/><path d="M556 570 q -5 9 0 13 q 5 -4 0 -13 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/><path d="M570 570 q -5 9 0 13 q 5 -4 0 -13 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/><path d="M584 570 q -5 9 0 13 q 5 -4 0 -13 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/><path d="M598 570 q -5 9 0 13 q 5 -4 0 -13 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/>
+<text x="570" y="600" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="middle">ENCHARCADO: escorre</text>
+<text x="570" y="616" font-size="12" fill="#333" text-anchor="middle">→ junte marrom e revire</text>
+<rect x="20" y="630" width="640" height="54" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="34" y="651.0" font-size="12.5" fill="#222" text-anchor="start">Revire (bordas para o meio) aos 7–15 dias e depois a cada 15 dias. Pronto em 2–4 meses:</text><text x="34" y="666.5" font-size="12.5" fill="#222" text-anchor="start">escuro, esfarelando, cheiro de terra de mata, frio no meio. Sem revirar: 4–6 meses.</text>
+</svg>

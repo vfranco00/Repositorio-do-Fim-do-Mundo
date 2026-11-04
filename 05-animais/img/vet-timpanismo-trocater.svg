@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 630" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="630" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Timpanismo (boi estufado): onde furar em último caso</text>
+<g transform="translate(10,70) scale(0.84)"><path d="M206,240 L212,300 L214,368 C214,374 212,378 210,382 L240,382 L240,368 L238,300 L236,246 Z" fill="#b89d7c" stroke="#1e1e1e" stroke-width="2"/><path d="M420,240 C428,262 432,282 434,300 L432,368 C432,374 430,378 428,382 L458,382 L458,368 L460,322 C462,312 466,304 468,296 L470,250 Z" fill="#b89d7c" stroke="#1e1e1e" stroke-width="2"/><path d="M482,74 C496,100 500,160 498,232" fill="none" stroke="#1e1e1e" stroke-width="5" stroke-linecap="round"/><path d="M498,226 C490,240 492,262 500,272 C508,262 508,240 498,226 Z" fill="#6b5236" stroke="#1e1e1e" stroke-width="2"/><path d="M95,70 C80,66 62,74 50,86 C36,100 24,124 16,148 C12,160 12,170 22,180 C34,186 58,182 78,166 C88,162 96,164 102,176 C110,196 126,214 146,226 C154,232 158,236 160,240 C164,262 166,284 166,300 L168,368 C168,374 166,378 164,382 L196,382 C196,376 196,372 196,368 L198,300 C200,280 202,262 206,242 C240,248 300,250 340,246 C366,243 382,236 392,226 C400,246 408,262 414,282 C418,292 418,300 416,310 L414,368 C414,374 412,378 410,382 L442,382 C442,376 442,372 442,368 L444,322 C446,312 450,304 454,298 C460,272 468,248 472,228 C482,190 490,140 486,84 C484,76 482,72 478,68 C462,58 446,56 430,56 C390,56 350,54 300,52 C260,50 236,48 214,44 C196,34 180,30 166,34 C150,40 136,52 120,60 C110,64 102,68 95,70 Z" fill="#dcc6a6" stroke="#1e1e1e" stroke-width="2.5" stroke-linejoin="round"/><path d="M92,68 C90,56 92,46 100,38 C100,48 102,58 104,66 Z" fill="#efe6d2" stroke="#1e1e1e" stroke-width="2"/><path d="M104,74 C120,70 136,74 146,84 C132,90 116,88 104,82 Z" fill="#dcc6a6" stroke="#1e1e1e" stroke-width="2"/><path d="M24,140 C16,150 14,166 22,178 C34,184 50,182 60,174 C50,160 38,146 24,140 Z" fill="#c9a98a" stroke="none"/><ellipse cx="68" cy="100" rx="6" ry="4.5" fill="#1e1e1e"/><ellipse cx="22" cy="156" rx="3.5" ry="5" fill="#1e1e1e"/><path d="M20,172 C30,176 44,176 52,172" fill="none" stroke="#1e1e1e" stroke-width="1.8"/><rect x="164" y="374" width="32" height="8" fill="#3a2e22"/><rect x="410" y="374" width="32" height="8" fill="#3a2e22"/></g>
+<defs><clipPath id="corpoT"><path d="M95,70 C80,66 62,74 50,86 C36,100 24,124 16,148 C12,160 12,170 22,180 C34,186 58,182 78,166 C88,162 96,164 102,176 C110,196 126,214 146,226 C154,232 158,236 160,240 C164,262 166,284 166,300 L168,368 C168,374 166,378 164,382 L196,382 C196,376 196,372 196,368 L198,300 C200,280 202,262 206,242 C240,248 300,250 340,246 C366,243 382,236 392,226 C400,246 408,262 414,282 C418,292 418,300 416,310 L414,368 C414,374 412,378 410,382 L442,382 C442,376 442,372 442,368 L444,322 C446,312 450,304 454,298 C460,272 468,248 472,228 C482,190 490,140 486,84 C484,76 482,72 478,68 C462,58 446,56 430,56 C390,56 350,54 300,52 C260,50 236,48 214,44 C196,34 180,30 166,34 C150,40 136,52 120,60 C110,64 102,68 95,70 Z"/></clipPath></defs>
+<g transform="translate(10,70) scale(0.84)"><path clip-path="url(#corpoT)" d="M236,72 C280,62 380,60 430,70 C412,130 400,190 360,236 C300,252 250,246 226,238 C214,170 216,112 236,72 Z" fill="#a8d5f0" fill-opacity="0.55" stroke="#1f5fa8" stroke-width="2.5" stroke-dasharray="8 5"/><path d="M352,62 C346,110 338,160 326,214" fill="none" stroke="#6b4f2a" stroke-width="3" stroke-dasharray="6 4"/><path d="M356,74 L428,74 L368,150 Z" fill="#ffd2d2" fill-opacity="0.85" stroke="#d62828" stroke-width="2"/><circle cx="434" cy="66" r="6" fill="#6b4f2a"/></g>
+<line x1="327" y1="143" x2="345" y2="161" stroke="#b3001b" stroke-width="5"/><line x1="327" y1="161" x2="345" y2="143" stroke="#b3001b" stroke-width="5"/>
+<text x="246.88" y="196.0" font-size="12.5" fill="#1f5fa8" font-weight="bold" text-anchor="middle">rúmen (pança)</text>
+<text x="246.88" y="211.0" font-size="12.5" fill="#1f5fa8" font-weight="bold" text-anchor="middle">cheio de gás</text>
+<line x1="284" y1="250" x2="264" y2="310" stroke="#6b4f2a" stroke-width="1.5"/>
+<text x="263.84" y="323.76" font-size="11.5" fill="#6b4f2a" font-weight="bold" text-anchor="middle">última costela</text>
+<line x1="375" y1="125" x2="415" y2="99" stroke="#6b4f2a" stroke-width="1.5"/>
+<text x="418.56" y="95.44" font-size="11.5" fill="#6b4f2a" font-weight="bold" text-anchor="start">ponta do quadril</text>
+<line x1="344" y1="142" x2="376" y2="80" stroke="#b3001b" stroke-width="1.5"/>
+<text x="349.92" y="60.31999999999999" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="start">X = vão do flanco ESQUERDO</text>
+<text x="349.92" y="75.32" font-size="11.5" fill="#b3001b" text-anchor="start">(atrás da última costela)</text>
+<text x="14" y="60" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Lado ESQUERDO do boi</text>
+<text x="14" y="76" font-size="11.5" fill="#444" text-anchor="start">(cabeça à esquerda)</text>
+<rect x="14" y="410" width="652" height="70" rx="8" fill="#ffecec" stroke="#b3001b" stroke-width="1.5"/>
+<text x="26" y="431" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Onde: no meio entre a última costela e a ponta do quadril, um palmo (10 cm)</text>
+<text x="26" y="450" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">abaixo da linha do lombo, no ponto mais estufado (soa como tambor).</text>
+<text x="26" y="469" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="start">NUNCA do lado direito (lá ficam intestinos, coagulador e fígado).</text>
+<text x="462" y="282" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Trocater (trocarte):</text>
+<rect x="462" y="300" width="22" height="20" rx="4" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="484" y="307" width="140" height="6" fill="#bbb" stroke="#1e1e1e" stroke-width="1.5"/>
+<polygon points="624,307 642,310 624,313" fill="#bbb" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="462" y="336" font-size="11.5" fill="#222" text-anchor="start">1. estilete pontudo por dentro</text>
+<rect x="462" y="348" width="10" height="20" fill="#ccc" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="472" y="353" width="112" height="10" fill="#e6e6e6" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="462" y="386" font-size="11.5" fill="#222" text-anchor="start">2. tira o estilete: a cânula</text>
+<text x="462" y="400" font-size="11.5" fill="#222" text-anchor="start">(tubo) fica e o gás sai</text>
+<text x="22" y="504" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">1.</text>
+<text x="44" y="504" font-size="12.5" fill="#222" text-anchor="start">Tire do pasto. Faça andar com as patas da frente mais ALTAS (barranco).</text>
+<text x="22" y="524" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">2.</text>
+<text x="44" y="524" font-size="12.5" fill="#222" text-anchor="start">Pau atravessado na boca, amarrado atrás dos chifres: faz salivar e arrotar.</text>
+<text x="22" y="544" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">3.</text>
+<text x="44" y="544" font-size="12.5" fill="#222" text-anchor="start">Sonda: mangueira lisa de 2 cm pela boca até o rúmen. Saiu gás = resolveu.</text>
+<text x="22" y="564" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start"></text>
+<text x="44" y="564" font-size="12.5" fill="#222" text-anchor="start">Se for espuma: 250–500 mL de óleo de cozinha pela sonda (ovelha/cabra: 50–100 mL).</text>
+<text x="22" y="584" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="start">4.</text>
+<text x="44" y="584" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="start">ÚLTIMO CASO (caindo, língua roxa, sufocando): trocater no X, firme, mirando</text>
+<text x="22" y="604" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="start"></text>
+<text x="44" y="604" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="start">o cotovelo do lado DIREITO. Deixe a cânula; solte o gás aos poucos.</text>
+</svg>

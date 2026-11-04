@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 588" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="588" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Chocadeira caseira (corte) — 21 dias para galinha</text>
+<rect x="50" y="92" width="350" height="290" fill="#f4f4f4" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="68" y="110" width="314" height="254" fill="#fffdf6" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="50" y1="110" x2="400" y2="110" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="200" y="92" width="90" height="18" fill="#cfe6fb" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="50" y="350" width="18" height="8" fill="#fffdf6" stroke="none"/>
+<rect x="382" y="128" width="18" height="8" fill="#fffdf6" stroke="none"/>
+<line x1="22" y1="354" x2="56.0" y2="354.0" stroke="#4a90d9" stroke-width="2.5"/><polygon points="62,354 51.2,359.2 51.2,348.8" fill="#4a90d9"/>
+<line x1="392" y1="132" x2="426.0" y2="132.0" stroke="#f08c00" stroke-width="2.5"/><polygon points="432,132 421.2,137.2 421.2,126.8" fill="#f08c00"/>
+<rect x="112" y="110" width="20" height="14" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/>
+<circle cx="122" cy="140" r="17" fill="#ffe066" stroke="#1e1e1e" stroke-width="1.8"/>
+<circle cx="122" cy="140" r="28" fill="#ffd21f" fill-opacity="0.18"/>
+<circle cx="178" cy="140" r="18" fill="#dcdcdc" stroke="#1e1e1e" stroke-width="1.8"/>
+<ellipse cx="186.0" cy="140.0" rx="8" ry="3.5" fill="#888" transform="rotate(0 186.0 140.0)"/>
+<ellipse cx="174.0" cy="146.9" rx="8" ry="3.5" fill="#888" transform="rotate(120 174.0 146.9)"/>
+<ellipse cx="174.0" cy="133.1" rx="8" ry="3.5" fill="#888" transform="rotate(240 174.0 133.1)"/>
+<circle cx="178" cy="140" r="3" fill="#1e1e1e"/>
+<rect x="110" y="322" width="230" height="40" fill="#ddd" stroke="#1e1e1e" stroke-width="1.8"/>
+<rect x="112" y="334" width="226" height="26" fill="#4a90d9" fill-opacity="0.7"/>
+<line x1="68" y1="300" x2="382" y2="300" stroke="#555" stroke-width="3" stroke-dasharray="2 3"/>
+<ellipse cx="100" cy="286" rx="18" ry="13" fill="#f3e1c4" stroke="#1e1e1e" stroke-width="1.6"/>
+<ellipse cx="142" cy="286" rx="18" ry="13" fill="#f3e1c4" stroke="#1e1e1e" stroke-width="1.6"/>
+<ellipse cx="184" cy="286" rx="18" ry="13" fill="#f3e1c4" stroke="#1e1e1e" stroke-width="1.6"/>
+<ellipse cx="226" cy="286" rx="18" ry="13" fill="#f3e1c4" stroke="#1e1e1e" stroke-width="1.6"/>
+<ellipse cx="268" cy="286" rx="18" ry="13" fill="#f3e1c4" stroke="#1e1e1e" stroke-width="1.6"/>
+<ellipse cx="310" cy="286" rx="18" ry="13" fill="#f3e1c4" stroke="#1e1e1e" stroke-width="1.6"/>
+<ellipse cx="352" cy="286" rx="18" ry="13" fill="#f3e1c4" stroke="#1e1e1e" stroke-width="1.6"/>
+<text x="100" y="291" font-size="10" fill="#555" font-weight="bold" text-anchor="middle">X</text>
+<text x="142" y="291" font-size="10" fill="#555" font-weight="bold" text-anchor="middle">O</text>
+<rect x="76" y="200" width="62" height="40" rx="4" fill="#fff" stroke="#1e1e1e" stroke-width="1.6"/>
+<text x="107" y="216" font-size="11" fill="#222" font-weight="bold" text-anchor="middle">37,7 °C</text>
+<text x="107" y="232" font-size="11" fill="#1f5fa8" font-weight="bold" text-anchor="middle">UR 55%</text>
+<text x="107" y="254" font-size="10" fill="#222" text-anchor="middle">termômetro e</text>
+<text x="107" y="265" font-size="10" fill="#222" text-anchor="middle">higrômetro</text>
+<path d="M420 222 L300 222 L300 258" fill="none" stroke="#333" stroke-width="2"/>
+<rect x="294" y="256" width="12" height="12" rx="2" fill="#333"/>
+<line x1="250" y1="270" x2="350" y2="270" stroke="#b3001b" stroke-width="1.2" stroke-dasharray="4 3"/>
+<rect x="420" y="196" width="78" height="52" rx="6" fill="#3a3a3a" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="428" y="204" width="62" height="22" rx="3" fill="#0b2a12"/>
+<text x="459" y="221" font-size="15" fill="#3cff6a" font-weight="bold" text-anchor="middle">37.7</text>
+<text x="459" y="242" font-size="9.5" fill="#fff" text-anchor="middle">termostato</text>
+<path d="M459 196 L459 64 L122 64 L122 92" fill="none" stroke="#333" stroke-width="2"/>
+<text x="290" y="84" font-size="11" fill="#222" font-weight="bold" text-anchor="middle">visor de vidro (olhe sem abrir)</text>
+<text x="122" y="172" font-size="10.5" fill="#222" text-anchor="middle">lâmpada</text>
+<text x="122" y="184" font-size="10.5" fill="#222" font-weight="bold" text-anchor="middle">25–40 W</text>
+<text x="178" y="172" font-size="10.5" fill="#222" text-anchor="middle">ventoinha</text>
+<text x="178" y="184" font-size="10.5" fill="#222" text-anchor="middle">de PC 12 V</text>
+<text x="10" y="344" font-size="10.5" fill="#1f5fa8" font-weight="bold" text-anchor="start">ar</text>
+<text x="410" y="120" font-size="10.5" fill="#c06000" font-weight="bold" text-anchor="start">ar</text>
+<text x="225" y="316" font-size="10.5" fill="#222" font-weight="bold" text-anchor="middle">tela de arame (o pinto não cai na água)</text>
+<text x="225" y="376" font-size="10.5" fill="#1f5fa8" font-weight="bold" text-anchor="middle">bandeja de água: mais área = mais umidade</text>
+<text x="288" y="246" font-size="10.5" fill="#b3001b" font-weight="bold" text-anchor="end">sensor na altura</text>
+<text x="288" y="258" font-size="10.5" fill="#b3001b" font-weight="bold" text-anchor="end">do TOPO dos ovos</text>
+<text x="420" y="266" font-size="10.5" fill="#222" text-anchor="start">liga e desliga a</text>
+<text x="420" y="278" font-size="10.5" fill="#222" text-anchor="start">lâmpada sozinho</text>
+<text x="420" y="300" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">Caixa de isopor de</text>
+<text x="420" y="314" font-size="11.5" fill="#222" text-anchor="start">40–60 L, ou de madeira</text>
+<text x="420" y="328" font-size="11.5" fill="#222" text-anchor="start">forrada; dentro de um</text>
+<text x="420" y="342" font-size="11.5" fill="#222" text-anchor="start">cômodo sem sol e sem</text>
+<text x="420" y="356" font-size="11.5" fill="#222" text-anchor="start">vento</text>
+<text x="420" y="380" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">Marque X e O nos ovos</text>
+<text x="420" y="394" font-size="11.5" fill="#222" text-anchor="start">para saber se virou todos</text>
+<rect x="20" y="410" width="640" height="128" rx="8" fill="#f6f9ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="34" y="432" font-size="12" fill="#1f3f6e" font-weight="bold" text-anchor="start">Temperatura</text>
+<text x="128" y="432" font-size="11.6" fill="#222" text-anchor="start">37,5–37,8 °C com ventoinha. Sem ventoinha: 38,3 °C no topo dos ovos.</text>
+<text x="34" y="454" font-size="12" fill="#1f3f6e" font-weight="bold" text-anchor="start">Umidade</text>
+<text x="128" y="454" font-size="11.6" fill="#222" text-anchor="start">50–55% do dia 1 ao 18; 65–70% do dia 19 ao 21 (encha mais a bandeja).</text>
+<text x="34" y="476" font-size="12" fill="#1f3f6e" font-weight="bold" text-anchor="start">Virar</text>
+<text x="128" y="476" font-size="11.6" fill="#222" text-anchor="start">3 a 5 vezes por dia (número ímpar) do dia 1 ao 18. Do dia 18 em diante: NÃO vire.</text>
+<text x="34" y="498" font-size="12" fill="#1f3f6e" font-weight="bold" text-anchor="start">Ovos</text>
+<text x="128" y="498" font-size="11.6" fill="#222" text-anchor="start">Limpos, sem rachar, com até 7 dias, guardados a 15–18 °C de ponta fina para baixo.</text>
+<text x="34" y="520" font-size="12" fill="#1f3f6e" font-weight="bold" text-anchor="start">Antes</text>
+<text x="128" y="520" font-size="11.6" fill="#222" text-anchor="start">Ligue a chocadeira vazia 24–48 h e só ponha os ovos com a temperatura estável.</text>
+<text x="340" y="558" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="middle">Calor demais mata mais que frio: 40 °C por algumas horas mata os embriões.</text>
+<text x="340" y="574" font-size="11.5" fill="#222" text-anchor="middle">Faltou luz? Esfriar 1–2 h quase sempre não mata: tampe a caixa com um cobertor.</text>
+</svg>

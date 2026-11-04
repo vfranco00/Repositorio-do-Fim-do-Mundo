@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 490" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="490" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Gotejamento por gravidade (sem bomba)</text>
+<rect x="0" y="330" width="680" height="40" fill="#e8d3b0"/>
+<line x1="0" y1="330" x2="680" y2="330" stroke="#6b4f2a" stroke-width="2"/>
+<rect x="52" y="180" width="12" height="150" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="148" y="180" width="12" height="150" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="40" y="172" width="136" height="12" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="58" y1="300" x2="154" y2="210" stroke="#8b5a2b" stroke-width="6"/>
+<rect x="44" y="76" width="122" height="96" rx="6" fill="#2f6aa8" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="48" y="96" width="114" height="72" fill="#6aa6e0"/>
+<rect x="40" y="70" width="130" height="10" rx="3" fill="#24527f" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="105" y="140" font-size="11.5" fill="#fff" font-weight="bold" text-anchor="middle">tambor ou</text>
+<text x="105" y="154" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">caixa TAMPADA</text>
+<rect x="166" y="150" width="14" height="10" fill="#555"/>
+<rect x="180" y="144" width="20" height="22" rx="3" fill="#f2f2f2" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M184 148 l12 14 M184 162 l12 -14" stroke="#999" stroke-width="1"/>
+<rect x="204" y="146" width="16" height="18" rx="2" fill="#c08a2a" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M220 155 L240 155 Q 250 155 250 170 L250 316 Q 250 324 262 324 L 640 324" fill="none" stroke="#222" stroke-width="7" stroke-linejoin="round"/>
+<line x1="640" y1="316" x2="652" y2="332" stroke="#222" stroke-width="5"/>
+<line x1="300" y1="320" x2="300" y2="304.6" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="291.2" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 291.2 302.4)"/><ellipse cx="308.8" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 308.8 302.4)"/><ellipse cx="300" cy="293.6" rx="5.5" ry="8.8" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<path d="M312 328 q -4.5 7.2 0 10.8 q 4.5 -3.6 0 -10.8 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/>
+<ellipse cx="310" cy="346" rx="22" ry="12" fill="#2f86e0" fill-opacity="0.45"/>
+<line x1="360" y1="320" x2="360" y2="304.6" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="351.2" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 351.2 302.4)"/><ellipse cx="368.8" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 368.8 302.4)"/><ellipse cx="360" cy="293.6" rx="5.5" ry="8.8" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<path d="M372 328 q -4.5 7.2 0 10.8 q 4.5 -3.6 0 -10.8 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/>
+<ellipse cx="370" cy="346" rx="22" ry="12" fill="#2f86e0" fill-opacity="0.45"/>
+<line x1="420" y1="320" x2="420" y2="304.6" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="411.2" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 411.2 302.4)"/><ellipse cx="428.8" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 428.8 302.4)"/><ellipse cx="420" cy="293.6" rx="5.5" ry="8.8" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<path d="M432 328 q -4.5 7.2 0 10.8 q 4.5 -3.6 0 -10.8 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/>
+<ellipse cx="430" cy="346" rx="22" ry="12" fill="#2f86e0" fill-opacity="0.45"/>
+<line x1="480" y1="320" x2="480" y2="304.6" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="471.2" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 471.2 302.4)"/><ellipse cx="488.8" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 488.8 302.4)"/><ellipse cx="480" cy="293.6" rx="5.5" ry="8.8" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<path d="M492 328 q -4.5 7.2 0 10.8 q 4.5 -3.6 0 -10.8 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/>
+<ellipse cx="490" cy="346" rx="22" ry="12" fill="#2f86e0" fill-opacity="0.45"/>
+<line x1="540" y1="320" x2="540" y2="304.6" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="531.2" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 531.2 302.4)"/><ellipse cx="548.8" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 548.8 302.4)"/><ellipse cx="540" cy="293.6" rx="5.5" ry="8.8" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<path d="M552 328 q -4.5 7.2 0 10.8 q 4.5 -3.6 0 -10.8 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/>
+<ellipse cx="550" cy="346" rx="22" ry="12" fill="#2f86e0" fill-opacity="0.45"/>
+<line x1="600" y1="320" x2="600" y2="304.6" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="591.2" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 591.2 302.4)"/><ellipse cx="608.8" cy="302.4" rx="9.9" ry="5.5" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 608.8 302.4)"/><ellipse cx="600" cy="293.6" rx="5.5" ry="8.8" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<path d="M612 328 q -4.5 7.2 0 10.8 q 4.5 -3.6 0 -10.8 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/>
+<ellipse cx="610" cy="346" rx="22" ry="12" fill="#2f86e0" fill-opacity="0.45"/>
+<line x1="30" y1="172" x2="30" y2="330" stroke="#333" stroke-width="1.5"/><line x1="24" y1="172" x2="36" y2="172" stroke="#333" stroke-width="1.5"/><line x1="24" y1="330" x2="36" y2="330" stroke="#333" stroke-width="1.5"/><text x="38" y="255.0" font-size="12" fill="#333" font-weight="bold" text-anchor="start"></text>
+<text x="24" y="244.0" font-size="12.5" fill="#222" font-weight="bold" text-anchor="end">1 a</text><text x="24" y="259.5" font-size="12.5" fill="#222" text-anchor="end">2 m</text>
+<text x="182" y="104.0" font-size="11.5" fill="#333" font-weight="bold" text-anchor="start">filtro (pano ou tela)</text><text x="182" y="118.5" font-size="11.5" fill="#333" text-anchor="start">e registro na saída</text>
+<line x1="188" y1="112" x2="190" y2="142" stroke="#555" stroke-width="1.2"/><circle cx="190" cy="142" r="2.5" fill="#555"/>
+<text x="270" y="218.0" font-size="11.5" fill="#333" font-weight="bold" text-anchor="start">mangueira preta ½" (16 mm)</text><text x="270" y="232.5" font-size="11.5" fill="#333" text-anchor="start">ou fita gotejadora, EM NÍVEL</text>
+<line x1="330" y1="226" x2="330" y2="320" stroke="#555" stroke-width="1.2"/><circle cx="330" cy="320" r="2.5" fill="#555"/>
+<text x="420" y="262.0" font-size="11.5" fill="#1e4e86" font-weight="bold" text-anchor="start">furo de 1 mm (agulha quente) ou</text><text x="420" y="276.5" font-size="11.5" fill="#1e4e86" text-anchor="start">gotejador junto de cada planta</text>
+<text x="560" y="384.0" font-size="11.5" fill="#333" font-weight="bold" text-anchor="start">ponta dobrada</text><text x="560" y="398.5" font-size="11.5" fill="#333" text-anchor="start">e amarrada</text>
+<line x1="600" y1="372" x2="646" y2="326" stroke="#555" stroke-width="1.2"/><circle cx="646" cy="326" r="2.5" fill="#555"/>
+<rect x="20" y="404" width="640" height="74" rx="8" fill="#eef5ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="34" y="425.0" font-size="12.5" fill="#222" text-anchor="start">Cada linha: até 15–20 m, sem subida. Quanto mais alto o tambor, mais forte e igual a vazão.</text><text x="34" y="440.5" font-size="12.5" fill="#222" text-anchor="start">Quanto gastar: horta no calor ≈ 4–6 L por m² por dia. Um tambor de 200 L rega ~40 m²/dia.</text><text x="34" y="456.0" font-size="12.5" fill="#222" text-anchor="start">Meça: ponha um copo sob 3 furos (começo, meio, fim) por 10 minutos e compare.</text>
+</svg>

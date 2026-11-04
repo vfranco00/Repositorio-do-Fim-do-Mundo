@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 600" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="600" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Quatro formas de montar a fogueira</text>
+<line x1="340" y1="50" x2="340" y2="590" stroke="#ccc" stroke-width="2" stroke-linecap="round"/>
+<line x1="10" y1="300" x2="670" y2="300" stroke="#ccc" stroke-width="2" stroke-linecap="round"/>
+<line x1="40" y1="212" x2="300" y2="212" stroke="#6b4f2a" stroke-width="3" stroke-linecap="round"/>
+<path d="M148,210 Q170,184 192,210 Z" fill="#e6c35c" stroke="#8a6d10" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<polyline points="100,208 164.4,92" fill="none" stroke="#1e1e1e" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><polyline points="100,208 164.4,92" fill="none" stroke="#a8743f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="118,208 165.84,92" fill="none" stroke="#1e1e1e" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><polyline points="118,208 165.84,92" fill="none" stroke="#8b5a2b" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="136,208 167.28,92" fill="none" stroke="#1e1e1e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><polyline points="136,208 167.28,92" fill="none" stroke="#a8743f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="154,208 168.72,92" fill="none" stroke="#1e1e1e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><polyline points="154,208 168.72,92" fill="none" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="186,208 171.28,92" fill="none" stroke="#1e1e1e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><polyline points="186,208 171.28,92" fill="none" stroke="#a8743f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="204,208 172.72,92" fill="none" stroke="#1e1e1e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><polyline points="204,208 172.72,92" fill="none" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="222,208 174.16,92" fill="none" stroke="#1e1e1e" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><polyline points="222,208 174.16,92" fill="none" stroke="#a8743f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="240,208 175.6,92" fill="none" stroke="#1e1e1e" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><polyline points="240,208 175.6,92" fill="none" stroke="#8b5a2b" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M150.5,206.0 C144.5,186.5 159.5,177.5 161.0,162.5 C168.5,173.0 173.0,170.0 171.5,152.0 C183.5,167.0 192.5,176.0 189.5,206.0 Z" fill="#f08c00" stroke="#1e1e1e" stroke-width="2"/><path d="M160.2,206.0 C156.5,194.0 165.5,188.0 167.0,179.0 C171.5,185.0 176.0,183.5 176.0,173.0 C182.0,185.0 183.5,192.5 179.8,206.0 Z" fill="#ffd43b"/>
+<text x="170" y="72" font-size="15" fill="#222" font-weight="bold" text-anchor="middle">TIPI (cone)</text>
+<text x="20" y="240.0" font-size="12" fill="#222" text-anchor="start">Isca no centro, gravetos em pé em cone,</text><text x="20" y="255.6" font-size="12" fill="#222" text-anchor="start">com uma ABERTURA do lado do vento para</text><text x="20" y="271.2" font-size="12" fill="#222" text-anchor="start">pôr o fogo. Acende rápido, chama alta:</text><text x="20" y="286.8" font-size="12" fill="#222" text-anchor="start">bom para começar e ferver água.</text>
+<line x1="380" y1="214" x2="568" y2="214" stroke="#6b4f2a" stroke-width="3" stroke-linecap="round"/>
+<circle cx="410.0" cy="201" r="11" fill="#d9a066" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="538.0" cy="201" r="11" fill="#d9a066" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="406.0" y="175" width="136" height="15" rx="5" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2" />
+<circle cx="422.0" cy="166" r="9" fill="#d9a066" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="526.0" cy="166" r="9" fill="#d9a066" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="420.0" y="144" width="108" height="13" rx="5" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2" />
+<circle cx="434.0" cy="137" r="7" fill="#d9a066" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="514.0" cy="137" r="7" fill="#d9a066" stroke="#1e1e1e" stroke-width="2"/>
+<path d="M459.7,206.0 C455.3,191.7 466.3,185.1 467.4,174.1 C472.9,181.8 476.2,179.6 475.1,166.4 C483.9,177.4 490.5,184.0 488.3,206.0 Z" fill="#f08c00" stroke="#1e1e1e" stroke-width="2"/><path d="M466.9,206.0 C464.1,197.2 470.7,192.8 471.8,186.2 C475.1,190.6 478.4,189.5 478.4,181.8 C482.8,190.6 483.9,196.1 481.1,206.0 Z" fill="#ffd43b"/>
+<polyline points="570,128 650,128" fill="none" stroke="#1e1e1e" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><polyline points="570,128 650,128" fill="none" stroke="#8b5a2b" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="588,110 588,190" fill="none" stroke="#1e1e1e" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><polyline points="588,110 588,190" fill="none" stroke="#a8743f" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="570,172 650,172" fill="none" stroke="#1e1e1e" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><polyline points="570,172 650,172" fill="none" stroke="#8b5a2b" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="632,110 632,190" fill="none" stroke="#1e1e1e" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><polyline points="632,110 632,190" fill="none" stroke="#a8743f" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="610" cy="150" r="10" fill="#f08c00" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="610" y="216" font-size="11" fill="#444" text-anchor="middle">vista de cima</text>
+<text x="510" y="72" font-size="15" fill="#222" font-weight="bold" text-anchor="middle">CABANA (camadas cruzadas)</text>
+<text x="352" y="240.0" font-size="12" fill="#222" text-anchor="start">Pares de toras cruzados em camadas, com um</text><text x="352" y="255.6" font-size="12" fill="#222" text-anchor="start">pequeno tipi aceso dentro. Queima por igual e</text><text x="352" y="271.2" font-size="12" fill="#222" text-anchor="start">faz MUITA BRASA: o melhor para cozinhar,</text><text x="352" y="286.8" font-size="12" fill="#222" text-anchor="start">assar e para chapa ou grelha por cima.</text>
+<circle cx="170" cy="430" r="96" fill="#f4efe6" stroke="#c9bba0"/>
+<polyline points="170.0,338.0 170.0,410.0" fill="none" stroke="#1e1e1e" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/><polyline points="170.0,338.0 170.0,410.0" fill="none" stroke="#8b5a2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="170.0" cy="410.0" r="7" fill="#f08c00" stroke="#1e1e1e" stroke-width="1.5"/>
+<polyline points="257.49719949915414,401.57043651750485 189.02113032590307,423.819660112501" fill="none" stroke="#1e1e1e" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/><polyline points="257.49719949915414,401.57043651750485 189.02113032590307,423.819660112501" fill="none" stroke="#8b5a2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="189.0" cy="423.8" r="7" fill="#f08c00" stroke="#1e1e1e" stroke-width="1.5"/>
+<polyline points="224.07624321090753,504.42956348249515 181.75570504584945,446.180339887499" fill="none" stroke="#1e1e1e" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/><polyline points="224.07624321090753,504.42956348249515 181.75570504584945,446.180339887499" fill="none" stroke="#8b5a2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="181.8" cy="446.2" r="7" fill="#f08c00" stroke="#1e1e1e" stroke-width="1.5"/>
+<polyline points="115.92375678909248,504.42956348249515 158.24429495415055,446.180339887499" fill="none" stroke="#1e1e1e" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/><polyline points="115.92375678909248,504.42956348249515 158.24429495415055,446.180339887499" fill="none" stroke="#8b5a2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="158.2" cy="446.2" r="7" fill="#f08c00" stroke="#1e1e1e" stroke-width="1.5"/>
+<polyline points="82.50280050084586,401.57043651750485 150.97886967409693,423.8196601125011" fill="none" stroke="#1e1e1e" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/><polyline points="82.50280050084586,401.57043651750485 150.97886967409693,423.8196601125011" fill="none" stroke="#8b5a2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="151.0" cy="423.8" r="7" fill="#f08c00" stroke="#1e1e1e" stroke-width="1.5"/>
+<circle cx="170" cy="430" r="18" fill="#f08c00" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="170" cy="430" r="9" fill="#ffd43b"/>
+<line x1="298" y1="390" x2="267.6" y2="401.8" stroke="#d62828" stroke-width="3"/><polygon points="262,404 270.2,395.2 274.0,404.9" fill="#d62828"/>
+<text x="278" y="380" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">empurre</text>
+<text x="170" y="322" font-size="15" fill="#222" font-weight="bold" text-anchor="middle">ESTRELA (vista de cima)</text>
+<text x="20" y="548" font-size="11.5" fill="#222" text-anchor="start">4–6 toras grossas com as pontas no centro.</text><text x="20" y="562" font-size="11.5" fill="#222" text-anchor="start">Empurre para dentro conforme queimam.</text><text x="20" y="576" font-size="11.5" fill="#222" text-anchor="start">Economiza lenha e dura a noite toda.</text><text x="20" y="590" font-size="11.5" fill="#222" text-anchor="start">Para diminuir o fogo, afaste as toras.</text>
+<rect x="350" y="400" width="310" height="90" rx="0" fill="#e8d3b0" stroke="none" stroke-width="0" />
+<line x1="350" y1="400" x2="660" y2="400" stroke="#6b4f2a" stroke-width="3" stroke-linecap="round"/>
+<path d="M420,400 L432,452 L578,452 L590,400" fill="#fff" stroke="#6b4f2a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="420" y="399" width="170" height="4" rx="0" fill="#fff" stroke="none" stroke-width="0" />
+<polyline points="450,444 466,424" fill="none" stroke="#1e1e1e" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/><polyline points="450,444 466,424" fill="none" stroke="#8b5a2b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="480,444 496,424" fill="none" stroke="#1e1e1e" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/><polyline points="480,444 496,424" fill="none" stroke="#8b5a2b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="510,444 526,424" fill="none" stroke="#1e1e1e" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/><polyline points="510,444 526,424" fill="none" stroke="#8b5a2b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="540,444 556,424" fill="none" stroke="#1e1e1e" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/><polyline points="540,444 556,424" fill="none" stroke="#8b5a2b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M492.0,436.0 C488.0,423.0 498.0,417.0 499.0,407.0 C504.0,414.0 507.0,412.0 506.0,400.0 C514.0,410.0 520.0,416.0 518.0,436.0 Z" fill="#f08c00" stroke="#1e1e1e" stroke-width="2"/><path d="M498.5,436.0 C496.0,428.0 502.0,424.0 503.0,418.0 C506.0,422.0 509.0,421.0 509.0,414.0 C513.0,422.0 514.0,427.0 511.5,436.0 Z" fill="#ffd43b"/>
+<polyline points="400,392 610,392" fill="none" stroke="#1e1e1e" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/><polyline points="400,392 610,392" fill="none" stroke="#5f8f3a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470,388 L474,342 L536,342 L540,388 Z" fill="#7d7d7d" stroke="#1e1e1e" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="464" y="336" width="82" height="8" rx="3" fill="#5f5f5f" stroke="#1e1e1e" stroke-width="2" />
+<line x1="372" y1="430" x2="422.0" y2="430.0" stroke="#4a90d9" stroke-width="3"/><polygon points="428,430 417.2,435.2 417.2,424.8" fill="#4a90d9"/>
+<text x="358" y="420" font-size="11.5" fill="#1f5f9e" font-weight="bold" text-anchor="start">vento</text>
+<text x="505" y="322" font-size="15" fill="#222" font-weight="bold" text-anchor="middle">VALA (corte de lado)</text>
+<text x="560" y="366.0" font-size="11.5" fill="#3b6b20" font-weight="bold" text-anchor="start">2 varas verdes</text>
+<line x1="432" y1="466" x2="578" y2="466" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+<text x="505" y="482" font-size="11.5" fill="#333" text-anchor="middle">60–90 cm de comprimento</text>
+<line x1="612" y1="400" x2="612" y2="452" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+<text x="618" y="430" font-size="11.5" fill="#333" text-anchor="start">20–30 cm</text>
+<text x="352" y="524" font-size="11.5" fill="#222" text-anchor="start">Vala de 30 cm de largura, com a ponta</text><text x="352" y="538" font-size="11.5" fill="#222" text-anchor="start">aberta para o vento. Panela apoiada nas</text><text x="352" y="552" font-size="11.5" fill="#222" text-anchor="start">bordas. Protege do vento, esconde o fogo</text><text x="352" y="566" font-size="11.5" fill="#222" text-anchor="start">e quase não espalha brasa.</text>
+</svg>

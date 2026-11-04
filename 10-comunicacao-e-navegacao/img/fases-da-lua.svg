@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 444" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="444" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Fases da Lua vistas do Brasil</text>
+<circle cx="58" cy="100" r="30" fill="#3a3f4b" stroke="#1e1e1e" stroke-width="2"/>
+<text x="58" y="152" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">NOVA</text>
+<text x="58" y="168" font-size="10.5" fill="#2b6a1e" font-weight="bold" text-anchor="middle">não aparece</text>
+<circle cx="139" cy="100" r="30" fill="#3a3f4b" stroke="#1e1e1e" stroke-width="2"/><path d="M139 70 A30 30 0 0 0 139 130 A21.87 30 0 0 1 139 70 Z" fill="#f4e9b8"/><circle cx="139" cy="100" r="30" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+<text x="139" y="152" font-size="11.5" fill="#222" font-weight="bold" text-anchor="middle">crescente</text>
+<text x="139" y="168" font-size="10.5" fill="#2b6a1e" font-weight="bold" text-anchor="middle">fim de tarde</text>
+<circle cx="220" cy="100" r="30" fill="#3a3f4b" stroke="#1e1e1e" stroke-width="2"/><path d="M220 70 A30 30 0 0 0 220 130 A0.00 30 0 0 0 220 70 Z" fill="#f4e9b8"/><circle cx="220" cy="100" r="30" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+<text x="220" y="152" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">QUARTO</text>
+<text x="220" y="166" font-size="11.5" fill="#222" font-weight="bold" text-anchor="middle">CRESCENTE</text>
+<text x="220" y="184" font-size="10.5" fill="#2b6a1e" font-weight="bold" text-anchor="middle">tarde e noite</text>
+<circle cx="301" cy="100" r="30" fill="#3a3f4b" stroke="#1e1e1e" stroke-width="2"/><path d="M301 70 A30 30 0 0 0 301 130 A21.87 30 0 0 0 301 70 Z" fill="#f4e9b8"/><circle cx="301" cy="100" r="30" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+<text x="301" y="152" font-size="11.5" fill="#222" font-weight="bold" text-anchor="middle">crescente</text>
+<text x="301" y="166" font-size="11" fill="#444" text-anchor="middle">gibosa</text>
+<text x="301" y="184" font-size="10.5" fill="#2b6a1e" font-weight="bold" text-anchor="middle">noite</text>
+<circle cx="382" cy="100" r="30" fill="#f4e9b8" stroke="#1e1e1e" stroke-width="2"/>
+<text x="382" y="152" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">CHEIA</text>
+<text x="382" y="168" font-size="10.5" fill="#2b6a1e" font-weight="bold" text-anchor="middle">a noite toda</text>
+<circle cx="463" cy="100" r="30" fill="#3a3f4b" stroke="#1e1e1e" stroke-width="2"/><path d="M463 70 A30 30 0 0 1 463 130 A21.87 30 0 0 1 463 70 Z" fill="#f4e9b8"/><circle cx="463" cy="100" r="30" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+<text x="463" y="152" font-size="11.5" fill="#222" font-weight="bold" text-anchor="middle">minguante</text>
+<text x="463" y="166" font-size="11" fill="#444" text-anchor="middle">gibosa</text>
+<text x="463" y="184" font-size="10.5" fill="#2b6a1e" font-weight="bold" text-anchor="middle">noite e manhã</text>
+<circle cx="544" cy="100" r="30" fill="#3a3f4b" stroke="#1e1e1e" stroke-width="2"/><path d="M544 70 A30 30 0 0 1 544 130 A0.00 30 0 0 1 544 70 Z" fill="#f4e9b8"/><circle cx="544" cy="100" r="30" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+<text x="544" y="152" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">QUARTO</text>
+<text x="544" y="166" font-size="11.5" fill="#222" font-weight="bold" text-anchor="middle">MINGUANTE</text>
+<text x="544" y="184" font-size="10.5" fill="#2b6a1e" font-weight="bold" text-anchor="middle">manhã</text>
+<circle cx="625" cy="100" r="30" fill="#3a3f4b" stroke="#1e1e1e" stroke-width="2"/><path d="M625 70 A30 30 0 0 1 625 130 A21.87 30 0 0 0 625 70 Z" fill="#f4e9b8"/><circle cx="625" cy="100" r="30" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+<text x="625" y="152" font-size="11.5" fill="#222" font-weight="bold" text-anchor="middle">minguante</text>
+<text x="625" y="168" font-size="10.5" fill="#2b6a1e" font-weight="bold" text-anchor="middle">madrugada</text>
+<line x1="80" y1="200" x2="594.0" y2="200.0" stroke="#888" stroke-width="2.5"/><polygon points="600,200 589.2,205.2 589.2,194.8" fill="#888"/>
+<text x="340" y="222" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">cerca de 7,4 dias entre cada fase principal · ciclo completo: 29,5 dias</text>
+<rect x="20" y="240" width="312" height="170" rx="8" fill="#eef5ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="176" y="262" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">No Brasil a Lua "não mente":</text>
+<circle cx="84" cy="316" r="28" fill="#3a3f4b" stroke="#1e1e1e" stroke-width="2"/><path d="M84 288 A28 28 0 0 0 84 344 A16.46 28 0 0 1 84 288 Z" fill="#f4e9b8"/><circle cx="84" cy="316" r="28" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+<text x="84" y="366" font-size="22" fill="#3f6d9e" font-weight="bold" text-anchor="middle">C</text>
+<text x="84" y="384" font-size="12" fill="#3f6d9e" font-weight="bold" text-anchor="middle">Crescente</text>
+<circle cx="240" cy="316" r="28" fill="#3a3f4b" stroke="#1e1e1e" stroke-width="2"/><path d="M240 288 A28 28 0 0 1 240 344 A16.46 28 0 0 0 240 288 Z" fill="#f4e9b8"/><circle cx="240" cy="316" r="28" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+<text x="240" y="366" font-size="22" fill="#3f6d9e" font-weight="bold" text-anchor="middle">D</text>
+<text x="240" y="384" font-size="12" fill="#3f6d9e" font-weight="bold" text-anchor="middle">Decrescente</text>
+<text x="176" y="402" font-size="10.5" fill="#444" text-anchor="middle">(no Norte e Nordeste ela aparece mais "deitada")</text>
+<rect x="346" y="240" width="314" height="170" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="503" y="262" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">Marés</text>
+<text x="358" y="284.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">Lua NOVA e CHEIA: marés de sizígia</text>
+<text x="358" y="299.5" font-size="12" fill="#222" text-anchor="start">("de lua"): sobe mais e desce mais.</text>
+<text x="358" y="315.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">QUARTOS: marés de quadratura,</text>
+<text x="358" y="330.5" font-size="12" fill="#222" text-anchor="start">as mais fracas.</text>
+<text x="358" y="346.0" font-size="12" fill="#222" text-anchor="start">2 marés altas e 2 baixas por dia;</text>
+<text x="358" y="361.5" font-size="12" fill="#222" text-anchor="start">atrasam ~50 min a cada dia.</text>
+<text x="358" y="377.0" font-size="12" fill="#222" text-anchor="start">Anote a hora da maré alta na lua</text>
+<text x="358" y="392.5" font-size="12" fill="#222" text-anchor="start">cheia: repete na próxima nova/cheia.</text>
+<text x="340" y="430" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">A Lua nasce cerca de 50 minutos mais tarde a cada dia.</text>
+</svg>

@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 732" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="732" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Cortes do boi (lado esquerdo, cabeça à esquerda)</text>
+<defs><clipPath id="corpo"><path d="M95,70 C80,66 62,74 50,86 C36,100 24,124 16,148 C12,160 12,170 22,180 C34,186 58,182 78,166 C88,162 96,164 102,176 C110,196 126,214 146,226 C154,232 158,236 160,240 C164,262 166,284 166,300 L168,368 C168,374 166,378 164,382 L196,382 C196,376 196,372 196,368 L198,300 C200,280 202,262 206,242 C240,248 300,250 340,246 C366,243 382,236 392,226 C400,246 408,262 414,282 C418,292 418,300 416,310 L414,368 C414,374 412,378 410,382 L442,382 C442,376 442,372 442,368 L444,322 C446,312 450,304 454,298 C460,272 468,248 472,228 C482,190 490,140 486,84 C484,76 482,72 478,68 C462,58 446,56 430,56 C390,56 350,54 300,52 C260,50 236,48 214,44 C196,34 180,30 166,34 C150,40 136,52 120,60 C110,64 102,68 95,70 Z"/></clipPath></defs>
+<g transform="translate(40,50) scale(1.12)"><path d="M206,240 L212,300 L214,368 C214,374 212,378 210,382 L240,382 L240,368 L238,300 L236,246 Z" fill="#b89d7c" stroke="#1e1e1e" stroke-width="2"/><path d="M420,240 C428,262 432,282 434,300 L432,368 C432,374 430,378 428,382 L458,382 L458,368 L460,322 C462,312 466,304 468,296 L470,250 Z" fill="#b89d7c" stroke="#1e1e1e" stroke-width="2"/><path d="M482,74 C496,100 500,160 498,232" fill="none" stroke="#1e1e1e" stroke-width="5" stroke-linecap="round"/><path d="M498,226 C490,240 492,262 500,272 C508,262 508,240 498,226 Z" fill="#6b5236" stroke="#1e1e1e" stroke-width="2"/><path d="M95,70 C80,66 62,74 50,86 C36,100 24,124 16,148 C12,160 12,170 22,180 C34,186 58,182 78,166 C88,162 96,164 102,176 C110,196 126,214 146,226 C154,232 158,236 160,240 C164,262 166,284 166,300 L168,368 C168,374 166,378 164,382 L196,382 C196,376 196,372 196,368 L198,300 C200,280 202,262 206,242 C240,248 300,250 340,246 C366,243 382,236 392,226 C400,246 408,262 414,282 C418,292 418,300 416,310 L414,368 C414,374 412,378 410,382 L442,382 C442,376 442,372 442,368 L444,322 C446,312 450,304 454,298 C460,272 468,248 472,228 C482,190 490,140 486,84 C484,76 482,72 478,68 C462,58 446,56 430,56 C390,56 350,54 300,52 C260,50 236,48 214,44 C196,34 180,30 166,34 C150,40 136,52 120,60 C110,64 102,68 95,70 Z" fill="#f4ead9" stroke="#1e1e1e" stroke-width="2.5" stroke-linejoin="round"/><path d="M92,68 C90,56 92,46 100,38 C100,48 102,58 104,66 Z" fill="#efe6d2" stroke="#1e1e1e" stroke-width="2"/><path d="M104,74 C120,70 136,74 146,84 C132,90 116,88 104,82 Z" fill="#f4ead9" stroke="#1e1e1e" stroke-width="2"/><rect x="164" y="374" width="32" height="8" fill="#3a2e22"/><rect x="410" y="374" width="32" height="8" fill="#3a2e22"/></g>
+<g transform="translate(40,50) scale(1.12)" clip-path="url(#corpo)"><polygon points="0,0 103,0 104,62 100,178 60,400 0,400" fill="#eeeeee" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="103,0 150,0 150,200 110,200 100,178 104,62" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="100,178 110,200 252,200 252,400 100,400" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="150,246 215,246 215,400 150,400" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="150,0 236,0 236,45 150,50" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="150,50 236,45 236,0 252,0 252,128 150,128" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="150,128 252,128 252,200 150,200" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="252,0 352,0 352,128 252,128" fill="#8fd19e" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="252,128 352,128 352,210 252,210" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="252,210 352,210 352,400 252,400" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="352,0 425,0 425,140 352,140" fill="#8fd19e" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="352,140 425,140 425,198 352,198" fill="#8fd19e" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="352,198 425,198 405,400 352,400" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="425,0 520,0 520,100 425,100" fill="#8fd19e" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="425,100 520,100 520,200 425,200" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="398,200 440,200 436,300 400,300" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="440,200 520,200 470,300 436,300" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.6"/><polygon points="380,300 520,300 520,400 380,400" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.6"/></g>
+<g transform="translate(40,50) scale(1.12)"><path d="M95,70 C80,66 62,74 50,86 C36,100 24,124 16,148 C12,160 12,170 22,180 C34,186 58,182 78,166 C88,162 96,164 102,176 C110,196 126,214 146,226 C154,232 158,236 160,240 C164,262 166,284 166,300 L168,368 C168,374 166,378 164,382 L196,382 C196,376 196,372 196,368 L198,300 C200,280 202,262 206,242 C240,248 300,250 340,246 C366,243 382,236 392,226 C400,246 408,262 414,282 C418,292 418,300 416,310 L414,368 C414,374 412,378 410,382 L442,382 C442,376 442,372 442,368 L444,322 C446,312 450,304 454,298 C460,272 468,248 472,228 C482,190 490,140 486,84 C484,76 482,72 478,68 C462,58 446,56 430,56 C390,56 350,54 300,52 C260,50 236,48 214,44 C196,34 180,30 166,34 C150,40 136,52 120,60 C110,64 102,68 95,70 Z" fill="none" stroke="#1e1e1e" stroke-width="2.5"/><ellipse cx="68" cy="100" rx="6" ry="4.5" fill="#1e1e1e"/><ellipse cx="22" cy="156" rx="3.5" ry="5" fill="#1e1e1e"/><path d="M104,74 C120,70 136,74 146,84 C132,90 116,88 104,82 Z" fill="#eeeeee" stroke="#1e1e1e" stroke-width="2"/></g>
+<text x="112" y="193" font-size="12" fill="#555" font-weight="bold" text-anchor="middle">cabeça</text>
+<text x="112" y="210" font-size="11" fill="#555" text-anchor="middle">(língua,</text>
+<text x="112" y="224" font-size="11" fill="#555" text-anchor="middle">bochecha)</text>
+<circle cx="183" cy="196" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="183" y="200" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">1</text>
+<circle cx="298" cy="299" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="298" y="303" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">5</text>
+<circle cx="245" cy="406" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="245" y="411" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">16</text>
+<circle cx="253" cy="97" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="253" y="102" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">3</text>
+<circle cx="268" cy="153" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="268" y="158" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">2</text>
+<circle cx="268" cy="236" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="268" y="240" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">4</text>
+<circle cx="378" cy="151" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="378" y="155" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">8</text>
+<circle cx="378" cy="240" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="378" y="245" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">6</text>
+<circle cx="378" cy="306" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="378" y="311" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">7</text>
+<circle cx="475" cy="160" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="475" y="164" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">9</text>
+<circle cx="475" cy="240" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="475" y="245" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">11</text>
+<circle cx="459" cy="299" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="459" y="303" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">12</text>
+<circle cx="546" cy="137" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="546" y="142" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">10</text>
+<circle cx="551" cy="220" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="551" y="225" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">13</text>
+<circle cx="508" cy="332" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="508" y="337" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">14</text>
+<circle cx="547" cy="332" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="547" y="337" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">15</text>
+<circle cx="519" cy="431" r="11" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="519" y="435" font-size="12.5" fill="#111" font-weight="bold" text-anchor="middle">16</text>
+<line x1="396" y1="180" x2="497" y2="180" stroke="#7a1f1f" stroke-width="5" stroke-dasharray="8 5"/>
+<text x="420" y="58" font-size="11.5" fill="#7a1f1f" font-weight="bold" text-anchor="start">- - - filé mignon: fica por DENTRO,</text>
+<text x="420" y="73" font-size="11.5" fill="#7a1f1f" font-weight="bold" text-anchor="start">embaixo do contrafilé e da alcatra</text>
+<rect x="24" y="486" width="26" height="19" rx="4" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="37" y="500" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">1</text>
+<text x="58" y="500" font-size="12.5" fill="#222" text-anchor="start">Pescoço</text>
+<rect x="24" y="510" width="26" height="19" rx="4" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="37" y="524" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">2</text>
+<text x="58" y="524" font-size="12.5" fill="#222" text-anchor="start">Acém</text>
+<rect x="24" y="534" width="26" height="19" rx="4" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="37" y="548" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">3</text>
+<text x="58" y="548" font-size="12.5" fill="#222" text-anchor="start">Cupim (boi zebu)</text>
+<rect x="24" y="558" width="26" height="19" rx="4" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="37" y="572" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">4</text>
+<text x="58" y="572" font-size="12.5" fill="#222" text-anchor="start">Paleta</text>
+<rect x="24" y="582" width="26" height="19" rx="4" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="37" y="596" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">5</text>
+<text x="58" y="596" font-size="12.5" fill="#222" text-anchor="start">Peito</text>
+<rect x="24" y="606" width="26" height="19" rx="4" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="37" y="620" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">6</text>
+<text x="58" y="620" font-size="12.5" fill="#222" text-anchor="start">Costela</text>
+<rect x="244" y="486" width="26" height="19" rx="4" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="257" y="500" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">7</text>
+<text x="278" y="500" font-size="12.5" fill="#222" text-anchor="start">Ponta de agulha</text>
+<rect x="244" y="510" width="26" height="19" rx="4" fill="#8fd19e" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="257" y="524" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">8</text>
+<text x="278" y="524" font-size="12.5" fill="#222" text-anchor="start">Contrafilé</text>
+<rect x="244" y="534" width="26" height="19" rx="4" fill="#8fd19e" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="257" y="548" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">9</text>
+<text x="278" y="548" font-size="12.5" fill="#222" text-anchor="start">Alcatra (miolo)</text>
+<rect x="244" y="558" width="26" height="19" rx="4" fill="#8fd19e" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="257" y="572" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">10</text>
+<text x="278" y="572" font-size="12.5" fill="#222" text-anchor="start">Picanha</text>
+<rect x="244" y="582" width="26" height="19" rx="4" fill="#8fd19e" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="257" y="596" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">11</text>
+<text x="278" y="596" font-size="12.5" fill="#222" text-anchor="start">Maminha</text>
+<rect x="244" y="606" width="26" height="19" rx="4" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="257" y="620" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">12</text>
+<text x="278" y="620" font-size="12.5" fill="#222" text-anchor="start">Fraldinha</text>
+<rect x="464" y="486" width="26" height="19" rx="4" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="477" y="500" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">13</text>
+<text x="498" y="500" font-size="12.5" fill="#222" text-anchor="start">Coxão duro e mole</text>
+<rect x="464" y="510" width="26" height="19" rx="4" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="477" y="524" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">14</text>
+<text x="498" y="524" font-size="12.5" fill="#222" text-anchor="start">Patinho</text>
+<rect x="464" y="534" width="26" height="19" rx="4" fill="#ffe08a" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="477" y="548" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">15</text>
+<text x="498" y="548" font-size="12.5" fill="#222" text-anchor="start">Lagarto</text>
+<rect x="464" y="558" width="26" height="19" rx="4" fill="#f6b38e" stroke="#1e1e1e" stroke-width="1.2"/>
+<text x="477" y="572" font-size="12" fill="#111" font-weight="bold" text-anchor="middle">16</text>
+<text x="498" y="572" font-size="12.5" fill="#222" text-anchor="start">Músculo (canela)</text>
+<line x1="464" y1="591" x2="490" y2="591" stroke="#7a1f1f" stroke-width="5" stroke-dasharray="7 4"/>
+<text x="498" y="596" font-size="12.5" fill="#222" text-anchor="start">Filé mignon</text>
+<rect x="20" y="646" width="640" height="74" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<rect x="34" y="658" width="20" height="14" fill="#8fd19e" stroke="#1e1e1e"/>
+<text x="62" y="670" font-size="12.5" fill="#222" text-anchor="start">MACIOS: grelhar, assar, bife, churrasco (fogo forte e rápido)</text>
+<rect x="34" y="678" width="20" height="14" fill="#ffe08a" stroke="#1e1e1e"/>
+<text x="62" y="690" font-size="12.5" fill="#222" text-anchor="start">MÉDIOS: bife fino, assado de panela, carne de sol, picadinho</text>
+<rect x="34" y="698" width="20" height="14" fill="#f6b38e" stroke="#1e1e1e"/>
+<text x="62" y="710" font-size="12.5" fill="#222" text-anchor="start">DE PANELA: cozido longo, ensopado, carne moída, caldo, charque</text>
+</svg>

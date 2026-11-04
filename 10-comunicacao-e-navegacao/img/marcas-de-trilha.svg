@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 490" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="490" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Marcas de trilha (para quem vem atrás)</text>
+<rect x="20" y="50" width="154" height="176" rx="8" fill="#f1ead8" stroke="#c9bba0"/>
+<g transform="translate(22,58)"><line x1="30" y1="60" x2="120" y2="60" stroke="#1e1e1e" stroke-width="10" stroke-linecap="round"/><line x1="30" y1="60" x2="120" y2="60" stroke="#8b5a2b" stroke-width="7" stroke-linecap="round"/><line x1="120" y1="60" x2="98" y2="42" stroke="#1e1e1e" stroke-width="10" stroke-linecap="round"/><line x1="120" y1="60" x2="98" y2="42" stroke="#8b5a2b" stroke-width="7" stroke-linecap="round"/><line x1="120" y1="60" x2="98" y2="78" stroke="#1e1e1e" stroke-width="10" stroke-linecap="round"/><line x1="120" y1="60" x2="98" y2="78" stroke="#8b5a2b" stroke-width="7" stroke-linecap="round"/></g>
+<text x="97" y="186" font-size="12.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">SIGA POR AQUI</text>
+<text x="97" y="204" font-size="11" fill="#444" text-anchor="middle">seta de galhos ou pedras</text>
+<rect x="182" y="50" width="154" height="176" rx="8" fill="#f1ead8" stroke="#c9bba0"/>
+<g transform="translate(184,58)"><line x1="45" y1="30" x2="105" y2="90" stroke="#1e1e1e" stroke-width="10" stroke-linecap="round"/><line x1="45" y1="30" x2="105" y2="90" stroke="#8b5a2b" stroke-width="7" stroke-linecap="round"/><line x1="105" y1="30" x2="45" y2="90" stroke="#1e1e1e" stroke-width="10" stroke-linecap="round"/><line x1="105" y1="30" x2="45" y2="90" stroke="#8b5a2b" stroke-width="7" stroke-linecap="round"/></g>
+<text x="259" y="186" font-size="12.5" fill="#d62828" font-weight="bold" text-anchor="middle">NÃO VÁ POR AQUI</text>
+<text x="259" y="204" font-size="11" fill="#444" text-anchor="middle">X de galhos sobre a trilha</text>
+<rect x="344" y="50" width="154" height="176" rx="8" fill="#f1ead8" stroke="#c9bba0"/>
+<g transform="translate(346,58)"><ellipse cx="75" cy="76" rx="22" ry="13" fill="#a8a29a" stroke="#1e1e1e" stroke-width="2"/><ellipse cx="75" cy="54" rx="15" ry="10" fill="#a8a29a" stroke="#1e1e1e" stroke-width="2"/></g>
+<text x="421" y="186" font-size="12.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">ESTA É A TRILHA</text>
+<text x="421" y="204" font-size="11" fill="#444" text-anchor="middle">pedra sobre pedra</text>
+<rect x="506" y="50" width="154" height="176" rx="8" fill="#f1ead8" stroke="#c9bba0"/>
+<g transform="translate(508,58)"><ellipse cx="65" cy="76" rx="22" ry="13" fill="#a8a29a" stroke="#1e1e1e" stroke-width="2"/><ellipse cx="65" cy="54" rx="15" ry="10" fill="#a8a29a" stroke="#1e1e1e" stroke-width="2"/><ellipse cx="108" cy="78" rx="10" ry="8" fill="#a8a29a" stroke="#1e1e1e" stroke-width="2"/></g>
+<text x="583" y="186" font-size="12.5" fill="#3f6d9e" font-weight="bold" text-anchor="middle">VIRE À DIREITA</text>
+<text x="583" y="204" font-size="11" fill="#444" text-anchor="middle">pedrinha do lado da curva</text>
+<rect x="20" y="236" width="154" height="176" rx="8" fill="#f1ead8" stroke="#c9bba0"/>
+<g transform="translate(22,244)"><ellipse cx="75" cy="80" rx="24" ry="13" fill="#a8a29a" stroke="#1e1e1e" stroke-width="2"/><ellipse cx="75" cy="60" rx="18" ry="11" fill="#a8a29a" stroke="#1e1e1e" stroke-width="2"/><ellipse cx="75" cy="42" rx="11" ry="8" fill="#a8a29a" stroke="#1e1e1e" stroke-width="2"/></g>
+<text x="97" y="372" font-size="12.5" fill="#d62828" font-weight="bold" text-anchor="middle">ATENÇÃO / PERIGO</text>
+<text x="97" y="390" font-size="11" fill="#444" text-anchor="middle">três pedras empilhadas</text>
+<rect x="182" y="236" width="154" height="176" rx="8" fill="#f1ead8" stroke="#c9bba0"/>
+<g transform="translate(184,244)"><circle cx="75" cy="60" r="36" fill="none" stroke="#1e1e1e" stroke-width="9"/><circle cx="75" cy="60" r="36" fill="none" stroke="#a8a29a" stroke-width="5"/><ellipse cx="75" cy="60" rx="9" ry="7" fill="#a8a29a" stroke="#1e1e1e" stroke-width="2"/></g>
+<text x="259" y="372" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="middle">FIM / FUI PARA CASA</text>
+<text x="259" y="390" font-size="11" fill="#444" text-anchor="middle">círculo com pedra no meio</text>
+<rect x="344" y="236" width="154" height="176" rx="8" fill="#f1ead8" stroke="#c9bba0"/>
+<g transform="translate(346,244)"><line x1="40" y1="30" x2="40" y2="100" stroke="#1e1e1e" stroke-width="12" stroke-linecap="round"/><line x1="40" y1="30" x2="40" y2="100" stroke="#8b5a2b" stroke-width="9" stroke-linecap="round"/><line x1="40" y1="50" x2="92" y2="78" stroke="#1e1e1e" stroke-width="8" stroke-linecap="round"/><line x1="40" y1="50" x2="92" y2="78" stroke="#8b5a2b" stroke-width="5" stroke-linecap="round"/><polygon points="92,78 100,86 102,72" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1.5"/></g>
+<text x="421" y="372" font-size="12.5" fill="#3f6d9e" font-weight="bold" text-anchor="middle">FUI POR AQUI</text>
+<text x="421" y="390" font-size="11" fill="#444" text-anchor="middle">galho quebrado apontando</text>
+<rect x="506" y="236" width="154" height="176" rx="8" fill="#f1ead8" stroke="#c9bba0"/>
+<g transform="translate(508,244)"><rect x="40" y="32" width="70" height="56" rx="4" fill="#fffbe6" stroke="#1e1e1e" stroke-width="2"/><line x1="48" y1="44" x2="100" y2="44" stroke="#555" stroke-width="2"/><line x1="48" y1="54" x2="86" y2="54" stroke="#555" stroke-width="2"/><line x1="48" y1="64" x2="100" y2="64" stroke="#555" stroke-width="2"/><line x1="48" y1="74" x2="86" y2="74" stroke="#555" stroke-width="2"/></g>
+<text x="583" y="372" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="middle">BILHETE</text>
+<text x="583" y="390" font-size="11" fill="#444" text-anchor="middle">data, hora, para onde foi</text>
+<text x="340" y="440" font-size="12.5" fill="#222" text-anchor="middle">Marque sempre do mesmo lado da trilha, bem à vista, a cada 50–100 m e em toda bifurcação.</text>
+<text x="340" y="458" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">Combine os sinais ANTES com o grupo.</text>
+<text x="340" y="476" font-size="12.5" fill="#222" text-anchor="middle">Bilhete: dentro de saco plástico, preso num galho à altura dos olhos.</text>
+</svg>

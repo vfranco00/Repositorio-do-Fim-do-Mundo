@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 548" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="548" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Segurança em camadas (vista de cima)</text>
+<rect x="14" y="52" width="652" height="430" rx="10" fill="#eef1ea" stroke="#aab59a" stroke-dasharray="6 4"/>
+<text x="26" y="74" font-size="12.5" fill="#4a5a3a" font-weight="bold" text-anchor="start">1. VIZINHANÇA: vizinhos que se conhecem e avisam</text>
+<rect x="30" y="140" width="34" height="26" fill="#d9cbb0" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="30" y="300" width="34" height="26" fill="#d9cbb0" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="610" y="120" width="34" height="26" fill="#d9cbb0" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="610" y="330" width="34" height="26" fill="#d9cbb0" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="470" y="444" width="34" height="26" fill="#d9cbb0" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="90" y="96" width="490" height="324" fill="#f6f0e1" stroke="#6b4f2a" stroke-width="3"/>
+<polyline points="98,104 103,112 108,104 113,112 118,104 123,112 128,104 133,112 138,104 143,112 148,104 153,112 158,104 163,112 168,104 173,112 178,104 183,112 188,104 193,112 198,104 203,112 208,104 213,112 218,104 223,112 228,104 233,112 238,104 243,112 248,104 253,112 258,104 263,112 268,104 273,112 278,104 283,112 288,104 293,112 298,104 303,112 308,104 313,112 318,104 323,112 328,104 333,112 338,104 343,112 348,104 353,112 358,104 363,112 368,104 373,112 378,104 383,112 388,104 393,112 398,104 403,112 408,104 413,112 418,104 423,112 428,104 433,112 438,104 443,112 448,104 453,112 458,104 463,112 468,104 473,112 478,104 483,112 488,104 493,112 498,104 503,112 508,104 513,112 518,104 523,112 528,104 533,112 538,104 543,112 548,104 553,112 558,104 563,112 568,104 573,112" fill="none" stroke="#2b8a3e" stroke-width="3"/>
+<polyline points="98,104 106,109 98,114 106,119 98,124 106,129 98,134 106,139 98,144 106,149 98,154 106,159 98,164 106,169 98,174 106,179 98,184 106,189 98,194 106,199 98,204 106,209 98,214 106,219 98,224 106,229 98,234 106,239 98,244 106,249 98,254 106,259 98,264 106,269 98,274 106,279 98,284 106,289 98,294 106,299 98,304 106,309 98,314 106,319 98,324 106,329 98,334 106,339 98,344 106,349 98,354 106,359 98,364 106,369 98,374 106,379 98,384 106,389 98,394 106,399 98,404 106,409" fill="none" stroke="#2b8a3e" stroke-width="3"/>
+<text x="114" y="132" font-size="12" fill="#222" font-weight="bold" text-anchor="start">2. CERCA + cerca viva</text>
+<text x="114" y="147" font-size="12" fill="#222" text-anchor="start">espinhosa por dentro</text>
+<rect x="573" y="136" width="12" height="15" rx="2" fill="#bbb" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="573" y="172" width="12" height="15" rx="2" fill="#bbb" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="573" y="208" width="12" height="15" rx="2" fill="#bbb" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="573" y="244" width="12" height="15" rx="2" fill="#bbb" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="573" y="280" width="12" height="15" rx="2" fill="#bbb" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="573" y="316" width="12" height="15" rx="2" fill="#bbb" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="573" y="352" width="12" height="15" rx="2" fill="#bbb" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="573" y="388" width="12" height="15" rx="2" fill="#bbb" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="566" y="336" font-size="11" fill="#222" font-weight="bold" text-anchor="end">latas com</text>
+<text x="566" y="350" font-size="11" fill="#222" font-weight="bold" text-anchor="end">pedrinhas no</text>
+<text x="566" y="364" font-size="11" fill="#222" text-anchor="end">arame (barulho)</text>
+<circle cx="90" cy="96" r="6" fill="#ffd43b" stroke="#1e1e1e" stroke-width="1.5"/>
+<circle cx="580" cy="96" r="6" fill="#ffd43b" stroke="#1e1e1e" stroke-width="1.5"/>
+<polygon points="90,420 46,436 74,464" fill="#ffe066" fill-opacity="0.75" stroke="#c89a00"/>
+<circle cx="90" cy="420" r="6" fill="#ffd43b" stroke="#1e1e1e" stroke-width="1.5"/>
+<polygon points="580,420 624,436 596,464" fill="#ffe066" fill-opacity="0.75" stroke="#c89a00"/>
+<circle cx="580" cy="420" r="6" fill="#ffd43b" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="94" y="450" font-size="11" fill="#8a6a00" font-weight="bold" text-anchor="start">luz virada para FORA</text>
+<rect x="300" y="415" width="60" height="10" fill="#fff" stroke="#1e1e1e" stroke-width="2"/>
+<text x="330" y="442" font-size="11.5" fill="#222" font-weight="bold" text-anchor="middle">portão principal</text>
+<text x="330" y="456" font-size="11" fill="#444" text-anchor="middle">(um só, vigiado)</text>
+<rect x="460" y="91" width="34" height="10" fill="#fff" stroke="#2b8a3e" stroke-width="2.5"/>
+<rect x="250" y="180" width="200" height="140" fill="#e9dcc6" stroke="#1e1e1e" stroke-width="3"/>
+<text x="270" y="202" font-size="12" fill="#222" font-weight="bold" text-anchor="start">3. CASA: trancas, janelas</text>
+<text x="270" y="217" font-size="11.5" fill="#222" text-anchor="start">com cortina grossa à noite</text>
+<rect x="360" y="250" width="80" height="60" fill="#d0c4f0" stroke="#5a4a9a" stroke-width="2.5"/>
+<text x="400" y="272" font-size="11" fill="#3a2a7a" font-weight="bold" text-anchor="middle">4. CÔMODO</text>
+<text x="400" y="286" font-size="11" fill="#3a2a7a" font-weight="bold" text-anchor="middle">SEGURO</text>
+<text x="400" y="300" font-size="10" fill="#3a2a7a" text-anchor="middle">água, rádio</text>
+<rect x="120" y="340" width="26" height="26" fill="#a87442" stroke="#1e1e1e" stroke-width="2"/>
+<path d="M146 340 L 230 300 L 210 380 Z" fill="#9ad0f5" fill-opacity="0.4" stroke="#4a90d9" stroke-dasharray="4 3"/>
+<text x="120" y="386" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">vigia (ponto alto,</text>
+<text x="120" y="400" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">sem luz atrás)</text>
+<ellipse cx="250" cy="380" rx="9" ry="6" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/><circle cx="259" cy="375" r="4" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<ellipse cx="270" cy="392" rx="9" ry="6" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/><circle cx="279" cy="387" r="4" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<ellipse cx="380" cy="388" rx="9" ry="6" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/><circle cx="389" cy="383" r="4" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="400" y="384" font-size="11" fill="#222" font-weight="bold" text-anchor="start">cães, gansos e</text>
+<text x="400" y="397" font-size="11" fill="#222" font-weight="bold" text-anchor="start">galinhas-d'angola</text>
+<text x="400" y="410" font-size="11" fill="#444" text-anchor="start">(alarme vivo)</text>
+<rect x="470" y="180" width="80" height="110" fill="#d8f0d0" stroke="#2b8a3e" stroke-width="1.5"/>
+<line x1="476" y1="192" x2="544" y2="192" stroke="#2b8a3e" stroke-width="2" stroke-dasharray="3 4"/>
+<line x1="476" y1="206" x2="544" y2="206" stroke="#2b8a3e" stroke-width="2" stroke-dasharray="3 4"/>
+<line x1="476" y1="220" x2="544" y2="220" stroke="#2b8a3e" stroke-width="2" stroke-dasharray="3 4"/>
+<line x1="476" y1="234" x2="544" y2="234" stroke="#2b8a3e" stroke-width="2" stroke-dasharray="3 4"/>
+<line x1="476" y1="248" x2="544" y2="248" stroke="#2b8a3e" stroke-width="2" stroke-dasharray="3 4"/>
+<line x1="476" y1="262" x2="544" y2="262" stroke="#2b8a3e" stroke-width="2" stroke-dasharray="3 4"/>
+<line x1="476" y1="276" x2="544" y2="276" stroke="#2b8a3e" stroke-width="2" stroke-dasharray="3 4"/>
+<text x="510" y="306" font-size="11" fill="#2b6a1e" font-weight="bold" text-anchor="middle">horta</text>
+<path d="M440 180 L 477 130 L 477 96 L 500 72" fill="none" stroke="#2b8a3e" stroke-width="3.5" stroke-dasharray="9 6"/>
+<line x1="492" y1="86" x2="499.1" y2="73.2" stroke="#2b8a3e" stroke-width="3.5"/><polygon points="502,68 501.3,80.0 492.2,74.9" fill="#2b8a3e"/>
+<line x1="508" y1="84" x2="508" y2="54" stroke="#1e1e1e" stroke-width="2"/><polygon points="508,54 528,60 508,66" fill="#2b8a3e" stroke="#1e1e1e"/>
+<text x="448" y="132" font-size="11" fill="#2b8a3e" font-weight="bold" text-anchor="end">rota de fuga</text>
+<text x="448" y="145" font-size="11" fill="#2b8a3e" font-weight="bold" text-anchor="end">pelos fundos</text>
+<text x="534" y="66" font-size="11" fill="#2b8a3e" font-weight="bold" text-anchor="start">ponto de</text>
+<text x="534" y="79" font-size="11" fill="#2b8a3e" font-weight="bold" text-anchor="start">encontro</text>
+<rect x="14" y="494" width="652" height="46" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="28" y="513" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Cada camada AVISA e ATRASA. O objetivo é ver o problema cedo, não brigar:</text>
+<text x="28" y="531" font-size="12.5" fill="#222" text-anchor="start">quem vê primeiro dá o alarme, todos vão para os lugares combinados ou saem pela rota.</text>
+</svg>

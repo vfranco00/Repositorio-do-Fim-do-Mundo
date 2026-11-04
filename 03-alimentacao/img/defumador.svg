@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 526" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="526" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Defumador simples — corte lateral</text>
+<polygon points="0,330 180,330 420,250 680,250 680,422 0,422" fill="#e8d3b0"/>
+<polyline points="0,330 180,330 420,250 680,250" fill="none" stroke="#6b4f2a" stroke-width="2.5"/>
+<rect x="50" y="330" width="120" height="62" fill="#3b2f2a" stroke="#8a8a8a" stroke-width="7"/>
+<rect x="72" y="374" width="80" height="9" rx="4" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="80" y="366" width="70" height="9" rx="4" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1" transform="rotate(-8 115 370)"/>
+<path d="M77,372 Q80,358.8 86,350 Q92,358.8 95,372 Z" fill="#f08c00" stroke="#d9480f" stroke-width="1"/>
+<path d="M82,372 Q84,363.2 86,358.8 Q88,363.2 90,372 Z" fill="#ffd43b"/>
+<path d="M95,372 Q98,354.0 104,342 Q110,354.0 113,372 Z" fill="#f08c00" stroke="#d9480f" stroke-width="1"/>
+<path d="M100,372 Q102,360.0 104,354.0 Q106,360.0 108,372 Z" fill="#ffd43b"/>
+<path d="M113,372 Q116,357.6 122,348 Q128,357.6 131,372 Z" fill="#f08c00" stroke="#d9480f" stroke-width="1"/>
+<path d="M118,372 Q120,362.4 122,357.6 Q124,362.4 126,372 Z" fill="#ffd43b"/>
+<path d="M129,372 Q132,361.2 138,354 Q144,361.2 147,372 Z" fill="#f08c00" stroke="#d9480f" stroke-width="1"/>
+<path d="M134,372 Q136,364.8 138,361.2 Q140,364.8 142,372 Z" fill="#ffd43b"/>
+<rect x="66" y="321" width="112" height="9" fill="#555" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="26" y1="304" x2="51.2" y2="322.5" stroke="#4a90d9" stroke-width="3"/><polygon points="56,326 44.2,323.8 50.4,315.4" fill="#4a90d9"/>
+<text x="10" y="298" font-size="11.5" fill="#1d5d9b" font-weight="bold" text-anchor="start">entra ar</text>
+<path d="M170,350 L462,276.5 L462,250 L480,250 L480,290 L170,368 Z" fill="#cfcfcf" stroke="#555" stroke-width="2"/>
+<rect x="420" y="110" width="110" height="140" fill="#f6f1ea" stroke="#6b6b6b" stroke-width="6"/>
+<rect x="463" y="244" width="16" height="10" fill="#cfcfcf"/>
+<rect x="404" y="240" width="18" height="10" rx="3" fill="#9a9a9a" stroke="#555" stroke-width="1"/>
+<rect x="530" y="240" width="18" height="10" rx="3" fill="#9a9a9a" stroke="#555" stroke-width="1"/>
+<rect x="410" y="100" width="58" height="10" fill="#555" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="482" y="100" width="58" height="10" fill="#555" stroke="#1e1e1e" stroke-width="1"/>
+<line x1="426" y1="140" x2="524" y2="140" stroke="#8b5a2b" stroke-width="5"/>
+<line x1="426" y1="192" x2="524" y2="192" stroke="#8b5a2b" stroke-width="5"/>
+<line x1="448" y1="140" x2="448" y2="146" stroke="#333" stroke-width="1.5"/>
+<rect x="442" y="146" width="12" height="32" rx="4" fill="#a33b2a" stroke="#5c1d14" stroke-width="1.5"/>
+<line x1="476" y1="140" x2="476" y2="146" stroke="#333" stroke-width="1.5"/>
+<rect x="470" y="146" width="12" height="32" rx="4" fill="#a33b2a" stroke="#5c1d14" stroke-width="1.5"/>
+<line x1="504" y1="140" x2="504" y2="146" stroke="#333" stroke-width="1.5"/>
+<rect x="498" y="146" width="12" height="32" rx="4" fill="#a33b2a" stroke="#5c1d14" stroke-width="1.5"/>
+<line x1="452" y1="192" x2="452" y2="198" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="452" cy="216" rx="8" ry="18" fill="#c9a66b" stroke="#6b4f2a" stroke-width="1.5"/>
+<polygon points="452,232 445,242 459,242" fill="#c9a66b" stroke="#6b4f2a" stroke-width="1.5"/>
+<line x1="494" y1="192" x2="494" y2="198" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="494" cy="216" rx="8" ry="18" fill="#c9a66b" stroke="#6b4f2a" stroke-width="1.5"/>
+<polygon points="494,232 487,242 501,242" fill="#c9a66b" stroke="#6b4f2a" stroke-width="1.5"/>
+<line x1="200" y1="352" x2="294.2" y2="328.5" stroke="#6d6d6d" stroke-width="3"/><polygon points="300,327 290.8,334.7 288.3,324.6" fill="#6d6d6d"/>
+<line x1="320" y1="322" x2="434.2" y2="293.5" stroke="#6d6d6d" stroke-width="3"/><polygon points="440,292 430.8,299.7 428.3,289.6" fill="#6d6d6d"/>
+<line x1="471" y1="284" x2="471.0" y2="242.0" stroke="#6d6d6d" stroke-width="3"/><polygon points="471,236 476.2,246.8 465.8,246.8" fill="#6d6d6d"/>
+<line x1="431" y1="236" x2="431.0" y2="128.0" stroke="#6d6d6d" stroke-width="2.5"/><polygon points="431,122 436.2,132.8 425.8,132.8" fill="#6d6d6d"/>
+<line x1="519" y1="236" x2="519.0" y2="128.0" stroke="#6d6d6d" stroke-width="2.5"/><polygon points="519,122 524.2,132.8 513.8,132.8" fill="#6d6d6d"/>
+<line x1="475" y1="112" x2="475.0" y2="72.0" stroke="#6d6d6d" stroke-width="3"/><polygon points="475,66 480.2,76.8 469.8,76.8" fill="#6d6d6d"/>
+<text x="14" y="200" font-size="12" fill="#222" font-weight="bold" text-anchor="start">1. FOGO</text><text x="14" y="215" font-size="12" fill="#222" text-anchor="start">brasa + lascas ou</text><text x="14" y="230" font-size="12" fill="#222" text-anchor="start">serragem (pouca chama,</text><text x="14" y="245" font-size="12" fill="#222" text-anchor="start">muita fumaça); a tampa</text><text x="14" y="260" font-size="12" fill="#222" text-anchor="start">de chapa regula o ar</text>
+<line x1="96" y1="268" x2="106" y2="352" stroke="#555" stroke-width="1.3"/><circle cx="106" cy="352" r="2.6" fill="#555"/>
+<text x="196" y="150" font-size="12" fill="#222" font-weight="bold" text-anchor="start">2. DUTO enterrado: 2 a 4 m,</text><text x="196" y="165" font-size="12" fill="#222" text-anchor="start">sempre SUBINDO (manilha,</text><text x="196" y="180" font-size="12" fill="#222" text-anchor="start">cano ou telhas cobertas</text><text x="196" y="195" font-size="12" fill="#222" text-anchor="start">de terra)</text>
+<line x1="300" y1="206" x2="316" y2="322" stroke="#555" stroke-width="1.3"/><circle cx="316" cy="322" r="2.6" fill="#555"/>
+<text x="545" y="66" font-size="12" fill="#222" font-weight="bold" text-anchor="start">tampa com fresta:</text><text x="545" y="81" font-size="12" fill="#222" text-anchor="start">fumaça sai devagar</text>
+<line x1="542" y1="80" x2="528" y2="102" stroke="#555" stroke-width="1.3"/><circle cx="528" cy="102" r="2.6" fill="#555"/>
+<text x="545" y="130" font-size="12" fill="#222" font-weight="bold" text-anchor="start">3. CÂMARA</text><text x="545" y="145" font-size="12" fill="#222" text-anchor="start">tambor de 200 L</text><text x="545" y="160" font-size="12" fill="#222" text-anchor="start">sem fundo, ou</text><text x="545" y="175" font-size="12" fill="#222" text-anchor="start">caixa de madeira</text><text x="545" y="190" font-size="12" fill="#222" text-anchor="start">ou de tijolo</text>
+<line x1="542" y1="146" x2="532" y2="156" stroke="#555" stroke-width="1.3"/><circle cx="532" cy="156" r="2.6" fill="#555"/>
+<text x="545" y="214" font-size="12" fill="#222" text-anchor="start">varas ou grelhas;</text><text x="545" y="229" font-size="12" fill="#222" text-anchor="start">peças sem encostar</text><text x="545" y="244" font-size="12" fill="#222" text-anchor="start">uma na outra</text>
+<line x1="542" y1="218" x2="526" y2="194" stroke="#555" stroke-width="1.3"/><circle cx="526" cy="194" r="2.6" fill="#555"/>
+<rect x="20" y="432" width="640" height="84" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="34" y="452" font-size="12.5" fill="#222" text-anchor="start">FRIA (abaixo de 30 °C): duto longo, fogo fraco; dias a semanas. NÃO cozinha: só para</text><text x="34" y="469" font-size="12.5" fill="#222" text-anchor="start">carne já bem salgada. QUENTE (câmara a 70–100 °C): duto curto ou fogo quase embaixo;</text><text x="34" y="486" font-size="12.5" fill="#222" text-anchor="start">3 a 12 h; a carne cozinha (miolo acima de 70 °C). Lenha: goiabeira, laranjeira, ingá,</text><text x="34" y="503" font-size="12.5" fill="#222" text-anchor="start">jabuticabeira, sabugo de milho. NUNCA: pinus, madeira pintada, tratada ou compensado.</text>
+</svg>

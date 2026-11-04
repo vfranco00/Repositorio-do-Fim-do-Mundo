@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 470" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="470" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Irrigação com garrafa PET e pote de barro</text>
+<rect x="20" y="196" width="310" height="190" fill="#e8d3b0"/>
+<line x1="20" y1="196" x2="330" y2="196" stroke="#6b4f2a" stroke-width="2"/>
+<rect x="350" y="196" width="310" height="190" fill="#e8d3b0"/>
+<line x1="350" y1="196" x2="660" y2="196" stroke="#6b4f2a" stroke-width="2"/>
+<line x1="340" y1="50" x2="340" y2="470" stroke="#bbb" stroke-width="1"/>
+<text x="175" y="64" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">A) Garrafa PET de cabeça para baixo</text>
+<line x1="100" y1="196" x2="100" y2="106" stroke="#2b8a3e" stroke-width="4"/>
+<ellipse cx="78" cy="166" rx="20" ry="8" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<ellipse cx="122" cy="141" rx="20" ry="8" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<ellipse cx="78" cy="116" rx="20" ry="8" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<circle cx="80" cy="152" r="7" fill="#e03131" stroke="#1e1e1e" stroke-width="1"/>
+<path d="M100 196 q -24 30 -36.0 70" fill="none" stroke="#7a5d3a" stroke-width="1.5"/>
+<path d="M100 196 q -10 30 -15.0 70" fill="none" stroke="#7a5d3a" stroke-width="1.5"/>
+<path d="M100 196 q 6 30 9.0 70" fill="none" stroke="#7a5d3a" stroke-width="1.5"/>
+<path d="M100 196 q 20 30 30.0 70" fill="none" stroke="#7a5d3a" stroke-width="1.5"/>
+<ellipse cx="180" cy="276" rx="74" ry="56" fill="#2f86e0" fill-opacity="0.4"/>
+<path d="M154 116 L154 206 Q 154 226 172 236 L172 258 L188 258 L188 236 Q 206 226 206 206 L206 116 Z" fill="#e8f3fd" stroke="#1e1e1e" stroke-width="2.5"/>
+<path d="M156 146 L156 206 Q 156 224 174 234 L174 256 L186 256 L186 234 Q 204 224 204 206 L204 146 Z" fill="#9fc5ec"/>
+<rect x="170" y="256" width="20" height="10" fill="#3f6d9e" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M175 270 q -3.0 4.8 0 7.199999999999999 q 3.0 -2.4 0 -7.199999999999999 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/>
+<path d="M180 270 q -3.0 4.8 0 7.199999999999999 q 3.0 -2.4 0 -7.199999999999999 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/>
+<path d="M185 270 q -3.0 4.8 0 7.199999999999999 q 3.0 -2.4 0 -7.199999999999999 Z" fill="#4a90d9" stroke="#2a5d93" stroke-width="1"/>
+<path d="M150 112 Q 180 98 210 112" fill="#e8f3fd" stroke="#1e1e1e" stroke-width="2"/>
+<text x="214" y="104.0" font-size="11.5" fill="#333" font-weight="bold" text-anchor="start">o fundo cortado</text><text x="214" y="118.5" font-size="11.5" fill="#333" text-anchor="start">vira tampa</text>
+<line x1="232" y1="110" x2="200" y2="106" stroke="#555" stroke-width="1.2"/><circle cx="200" cy="106" r="2.5" fill="#555"/>
+<text x="214" y="160.0" font-size="11.5" fill="#333" font-weight="bold" text-anchor="start">garrafa de 2 L</text><text x="214" y="174.5" font-size="11.5" fill="#333" text-anchor="start">sem o fundo</text>
+<line x1="232" y1="196" x2="232" y2="258" stroke="#333" stroke-width="1.5"/><line x1="226" y1="196" x2="238" y2="196" stroke="#333" stroke-width="1.5"/><line x1="226" y1="258" x2="238" y2="258" stroke="#333" stroke-width="1.5"/><text x="240" y="231.0" font-size="11" fill="#333" font-weight="bold" text-anchor="start"></text>
+<text x="240" y="220.0" font-size="11.5" fill="#333" font-weight="bold" text-anchor="start">enterre</text><text x="240" y="234.5" font-size="11.5" fill="#333" text-anchor="start">10–15 cm</text>
+<text x="30" y="346" font-size="12" fill="#222" text-anchor="start">Tampa com 2–3 furinhos de agulha</text><text x="30" y="361" font-size="12" fill="#222" text-anchor="start">quente, a 10 cm do pé da planta.</text><text x="30" y="376" font-size="12" fill="#222" text-anchor="start">Encha por cima: dura 1 a 3 dias.</text>
+<text x="505" y="64" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">B) Pote de barro enterrado</text>
+<ellipse cx="505" cy="258" rx="104" ry="76" fill="#2f86e0" fill-opacity="0.4"/>
+<path d="M487 190 L487 204 Q 449 214 449 258 Q 449 310 505 310 Q 561 310 561 258 Q 561 214 523 204 L523 190 Z" fill="#c2693e" stroke="#1e1e1e" stroke-width="2.5"/>
+<path d="M457 244 Q 457 302 505 302 Q 553 302 553 244 Z" fill="#6aa6e0" fill-opacity="0.85"/>
+<ellipse cx="505" cy="186" rx="30" ry="6" fill="#bbb" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="415" y1="196" x2="415" y2="179.2" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="405.4" cy="176.8" rx="10.799999999999999" ry="6.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 405.4 176.8)"/><ellipse cx="424.6" cy="176.8" rx="10.799999999999999" ry="6.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 424.6 176.8)"/><ellipse cx="415" cy="167.2" rx="6.0" ry="9.6" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<path d="M415 196 q -12 26 -9.200000000000003 56" fill="none" stroke="#7a5d3a" stroke-width="1.5"/>
+<path d="M415 196 q 0 26 10.0 56" fill="none" stroke="#7a5d3a" stroke-width="1.5"/>
+<path d="M415 196 q 12 26 29.200000000000003 56" fill="none" stroke="#7a5d3a" stroke-width="1.5"/>
+<line x1="595" y1="196" x2="595" y2="179.2" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="585.4" cy="176.8" rx="10.799999999999999" ry="6.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 585.4 176.8)"/><ellipse cx="604.6" cy="176.8" rx="10.799999999999999" ry="6.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 604.6 176.8)"/><ellipse cx="595" cy="167.2" rx="6.0" ry="9.6" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<path d="M595 196 q -12 26 -29.200000000000003 56" fill="none" stroke="#7a5d3a" stroke-width="1.5"/>
+<path d="M595 196 q 0 26 -10.0 56" fill="none" stroke="#7a5d3a" stroke-width="1.5"/>
+<path d="M595 196 q 12 26 9.200000000000003 56" fill="none" stroke="#7a5d3a" stroke-width="1.5"/>
+<text x="360" y="104.0" font-size="11.5" fill="#333" font-weight="bold" text-anchor="start">tampa: prato</text><text x="360" y="118.5" font-size="11.5" fill="#333" text-anchor="start">ou telha</text>
+<line x1="400" y1="110" x2="479" y2="184" stroke="#555" stroke-width="1.2"/><circle cx="479" cy="184" r="2.5" fill="#555"/>
+<text x="560" y="104.0" font-size="11.5" fill="#333" font-weight="bold" text-anchor="start">pote de barro</text><text x="560" y="118.5" font-size="11.5" fill="#333" text-anchor="start">SEM verniz,</text><text x="560" y="133.0" font-size="11.5" fill="#333" text-anchor="start">enterrado até</text><text x="560" y="147.5" font-size="11.5" fill="#333" text-anchor="start">o pescoço</text>
+<line x1="560" y1="154" x2="525" y2="206" stroke="#555" stroke-width="1.2"/><circle cx="525" cy="206" r="2.5" fill="#555"/>
+<line x1="415" y1="144" x2="505" y2="144" stroke="#333" stroke-width="1.5"/><line x1="415" y1="138" x2="415" y2="150" stroke="#333" stroke-width="1.5"/><line x1="505" y1="138" x2="505" y2="150" stroke="#333" stroke-width="1.5"/><text x="460.0" y="138" font-size="11" fill="#333" font-weight="bold" text-anchor="middle">20–40 cm</text>
+<text x="360" y="346" font-size="12" fill="#222" text-anchor="start">A terra seca puxa a água pela parede</text><text x="360" y="361" font-size="12" fill="#222" text-anchor="start">do pote. Encha a cada 2 a 5 dias.</text><text x="360" y="376" font-size="12" fill="#222" text-anchor="start">Gasta 50–70 % menos água que regador.</text>
+<rect x="20" y="400" width="640" height="58" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="34" y="422.0" font-size="12.5" fill="#222" text-anchor="start">Os dois molham a raiz, não a superfície: quase nada evapora e não molha a folha (menos doença).</text><text x="34" y="437.5" font-size="12.5" fill="#222" text-anchor="start">Sempre tampados: água parada aberta vira criadouro do mosquito da dengue.</text>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 560" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="560" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Relógio de sol (hemisfério sul)</text>
+<rect x="20" y="48" width="640" height="320" rx="8" fill="#f6efe0" stroke="#d6c39b"/>
+<text x="30" y="66" font-size="12" fill="#6b4f2a" font-weight="bold" text-anchor="start">Visto de cima — exemplo para latitude 20° S</text>
+<rect x="50" y="104" width="580" height="222" fill="#e8d3b0" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="340" y1="104" x2="54.0" y2="104.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="58.0" y="122.00000000000001" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">6 h</text>
+<line x1="340" y1="104" x2="61.7" y2="322.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="61.73683164146206" y="342" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">7</text>
+<line x1="340" y1="104" x2="210.9" y2="322.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="210.85761413145363" y="342" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">8</text>
+<line x1="340" y1="104" x2="265.4" y2="322.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="265.4396087550042" y="342" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">9</text>
+<line x1="340" y1="104" x2="297.0" y2="322.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="296.95253804381787" y="342" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">10</text>
+<line x1="340" y1="104" x2="320.0" y2="322.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="320.0216033785548" y="342" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">11</text>
+<line x1="340" y1="104" x2="340.0" y2="322.0" stroke="#b3001b" stroke-width="2.5"/>
+<text x="340.0" y="342" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="middle">12</text>
+<line x1="340" y1="104" x2="360.0" y2="322.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="359.9783966214452" y="342" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">13</text>
+<line x1="340" y1="104" x2="383.0" y2="322.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="383.04746195618213" y="342" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">14</text>
+<line x1="340" y1="104" x2="414.6" y2="322.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="414.5603912449958" y="342" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">15</text>
+<line x1="340" y1="104" x2="469.1" y2="322.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="469.1423858685464" y="342" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">16</text>
+<line x1="340" y1="104" x2="618.3" y2="322.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="618.263168358538" y="342" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">17</text>
+<line x1="340" y1="104" x2="626.0" y2="104.0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="622.0" y="122.00000000000001" font-size="12.5" fill="#222" font-weight="bold" text-anchor="end">18 h</text>
+<polygon points="335,104 345,104 343,254 337,254" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1.5"/>
+<circle cx="340" cy="104" r="4" fill="#1e1e1e"/>
+<text x="340" y="96" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">NORTE</text>
+<text x="40" y="215.0" font-size="12" font-weight="bold" fill="#222" text-anchor="middle" transform="rotate(-90 40 215.0)">OESTE</text>
+<text x="640" y="215.0" font-size="12" font-weight="bold" fill="#222" text-anchor="middle" transform="rotate(90 640 215.0)">LESTE</text>
+<rect x="350" y="212" width="146" height="32" rx="4" fill="#f6efe0" stroke="#8b5a2b"/>
+<text x="356" y="225" font-size="11.5" fill="#8b5a2b" font-weight="bold" text-anchor="start">gnômon</text>
+<text x="356" y="239" font-size="11" fill="#8b5a2b" text-anchor="start">(ponta alta para o SUL)</text>
+<text x="140" y="144" font-size="13" fill="#6b4f2a" font-weight="bold" text-anchor="middle">MANHÃ</text>
+<text x="540" y="144" font-size="13" fill="#6b4f2a" font-weight="bold" text-anchor="middle">TARDE</text>
+<text x="340" y="358" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">SUL</text>
+<rect x="20" y="380" width="300" height="170" rx="8" fill="#f4f8fc" stroke="#c6d4e3"/>
+<text x="170" y="398" font-size="12" fill="#4a5a6a" font-weight="bold" text-anchor="middle">De lado (olhando do leste)</text>
+<line x1="30" y1="516" x2="310" y2="516" stroke="#6b4f2a" stroke-width="3"/>
+<rect x="56" y="504" width="200" height="12" fill="#d9c29a" stroke="#1e1e1e" stroke-width="2"/>
+<polygon points="70,504 229.7,445.9 229.7,504" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="229.7" y1="445.9" x2="286.1" y2="425.3" stroke="#d62828" stroke-width="2.5" stroke-dasharray="7 5"/>
+<line x1="267.3354503650408" y1="432.17576990160956" x2="286.1" y2="425.3" stroke="#d62828" stroke-width="2.5"/><polygon points="291.7674585054744,423.2832461751422 283.4,431.9 279.8,422.1" fill="#d62828"/>
+<text x="186" y="420" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">aponta para o Polo</text>
+<text x="186" y="434" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">Sul Celeste</text>
+<path d="M120 504 A50 50 0 0 0 117.0 486.9" fill="none" stroke="#3f6d9e" stroke-width="2.5"/>
+<text x="36" y="444" font-size="11.5" fill="#3f6d9e" font-weight="bold" text-anchor="start">ângulo = sua</text>
+<text x="36" y="458" font-size="11.5" fill="#3f6d9e" font-weight="bold" text-anchor="start">latitude (ex.: 20°)</text>
+<line x1="90" y1="464" x2="116" y2="496" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="34" y="534" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">NORTE</text>
+<text x="306" y="534" font-size="11.5" fill="#222" font-weight="bold" text-anchor="end">SUL</text>
+<text x="170" y="534" font-size="11" fill="#444" text-anchor="middle">placa NIVELADA</text>
+<rect x="332" y="380" width="328" height="170" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="344" y="400.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">1. Placa plana e nivelada.</text>
+<text x="344" y="415.6" font-size="12" fill="#222" font-weight="bold" text-anchor="start">2. Linha das 12 h no rumo norte–sul</text>
+<text x="344" y="431.2" font-size="12" fill="#222" text-anchor="start">verdadeiro (sombra mais curta do dia).</text>
+<text x="344" y="446.8" font-size="12" fill="#222" font-weight="bold" text-anchor="start">3. Gnômon com ângulo = latitude.</text>
+<text x="344" y="462.4" font-size="12" fill="#222" font-weight="bold" text-anchor="start">4. Horas: use a tabela do texto, ou</text>
+<text x="344" y="478.0" font-size="12" fill="#222" text-anchor="start">marque a sombra de hora em hora com</text>
+<text x="344" y="493.6" font-size="12" fill="#222" text-anchor="start">um relógio que ainda funcione.</text>
+<text x="344" y="509.2" font-size="12" fill="#222" font-weight="bold" text-anchor="start">5. Marca a hora SOLAR: corrija com</text>
+<text x="344" y="524.8" font-size="12" fill="#222" text-anchor="start">a tabela do texto. A sombra anda no</text>
+<text x="344" y="540.4" font-size="12" fill="#222" text-anchor="start">sentido anti-horário.</text>
+</svg>

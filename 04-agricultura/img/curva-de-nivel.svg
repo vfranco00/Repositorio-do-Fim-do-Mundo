@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 604" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="604" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Curva de nível com o nível “A”</text>
+<text x="20" y="62" font-size="14" fill="#222" font-weight="bold" text-anchor="start">1. Medir a declividade do terreno (vista de lado)</text>
+<polygon points="20,150.0 420,230.0 420,250 20,250" fill="#e8d3b0"/>
+<line x1="20" y1="150.0" x2="420" y2="230.0" stroke="#6b4f2a" stroke-width="3"/>
+<g transform="rotate(0 150 176.0)"><line x1="150" y1="176.0" x2="236.4" y2="78.8" stroke="#8b5a2b" stroke-width="6" stroke-linecap="round"/><line x1="310" y1="176.0" x2="223.6" y2="78.8" stroke="#8b5a2b" stroke-width="6" stroke-linecap="round"/><line x1="184.0" y1="131.0" x2="276.0" y2="131.0" stroke="#a0703a" stroke-width="5" stroke-linecap="round"/><line x1="230.0" y1="123.0" x2="230.0" y2="139.0" stroke="#d62828" stroke-width="3.5"/></g><line x1="230.0" y1="86.0" x2="230.0" y2="158.0" stroke="#333" stroke-width="1.3"/><circle cx="230.0" cy="162.0" r="5" fill="#777" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="322" y1="176.0" x2="322" y2="208.0" stroke="#d62828" stroke-width="2"/>
+<line x1="316" y1="176.0" x2="328" y2="176.0" stroke="#d62828" stroke-width="2"/>
+<line x1="316" y1="208.0" x2="328" y2="208.0" stroke="#d62828" stroke-width="2"/>
+<text x="332" y="197.0" font-size="15" fill="#b3001b" font-weight="bold" text-anchor="start">h</text>
+<text x="440" y="92" font-size="12" fill="#222" text-anchor="start">Apoie o pé de CIMA no chão.</text><text x="440" y="107" font-size="12" fill="#222" text-anchor="start">Levante o pé de BAIXO até o</text><text x="440" y="122" font-size="12" fill="#222" text-anchor="start">fio ficar na marca do nível.</text><text x="440" y="137" font-size="12" fill="#222" text-anchor="start">Meça a altura h (em cm).</text>
+<rect x="440" y="160" width="225" height="62" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="452" y="182.0" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Declividade (%) = h ÷ 2</text><text x="452" y="197.5" font-size="12.5" fill="#222" text-anchor="start">Ex.: h = 20 cm → 10 %</text><text x="452" y="213.0" font-size="12.5" fill="#222" text-anchor="start">(vale para A de 2 m)</text>
+<line x1="20" y1="266" x2="660" y2="266" stroke="#bbb" stroke-width="1"/>
+<text x="20" y="290" font-size="14" fill="#222" font-weight="bold" text-anchor="start">2. Marcar a curva de nível (vista de cima)</text>
+<rect x="20" y="306" width="520" height="224" fill="#e6f0d6" stroke="#999" stroke-width="1"/>
+<polyline points="20,330.0 30,333.0 40,335.9 50,338.8 60,341.6 70,344.2 80,346.7 90,348.9 100,351.0 110,352.8 120,354.3 130,355.6 140,356.5 150,357.2 160,357.5 170,357.6 180,357.3 190,356.8 200,356.0 210,354.9 220,353.6 230,352.1 240,350.4 250,348.5 260,346.5 270,344.4 280,342.2 290,340.0 300,337.9 310,335.7 320,333.7 330,331.7 340,330.0 350,328.4 360,327.0 370,325.8 380,324.9 390,324.2 400,323.8 410,323.8 420,324.0 430,324.5 440,325.4 450,326.5 460,327.9 470,329.6 480,331.6 490,333.7 500,336.1 510,338.7 520,341.4 530,344.3 540,347.2" fill="none" stroke="#b9c7a5" stroke-width="1.5"/>
+<polyline points="20,366.0 30,369.0 40,371.9 50,374.8 60,377.6 70,380.2 80,382.7 90,384.9 100,387.0 110,388.8 120,390.3 130,391.6 140,392.5 150,393.2 160,393.5 170,393.6 180,393.3 190,392.8 200,392.0 210,390.9 220,389.6 230,388.1 240,386.4 250,384.5 260,382.5 270,380.4 280,378.2 290,376.0 300,373.9 310,371.7 320,369.7 330,367.7 340,366.0 350,364.4 360,363.0 370,361.8 380,360.9 390,360.2 400,359.8 410,359.8 420,360.0 430,360.5 440,361.4 450,362.5 460,363.9 470,365.6 480,367.6 490,369.7 500,372.1 510,374.7 520,377.4 530,380.3 540,383.2" fill="none" stroke="#b9c7a5" stroke-width="1.5"/>
+<polyline points="20,440.0 30,443.0 40,445.9 50,448.8 60,451.6 70,454.2 80,456.7 90,458.9 100,461.0 110,462.8 120,464.3 130,465.6 140,466.5 150,467.2 160,467.5 170,467.6 180,467.3 190,466.8 200,466.0 210,464.9 220,463.6 230,462.1 240,460.4 250,458.5 260,456.5 270,454.4 280,452.2 290,450.0 300,447.9 310,445.7 320,443.7 330,441.7 340,440.0 350,438.4 360,437.0 370,435.8 380,434.9 390,434.2 400,433.8 410,433.8 420,434.0 430,434.5 440,435.4 450,436.5 460,437.9 470,439.6 480,441.6 490,443.7 500,446.1 510,448.7 520,451.4 530,454.3 540,457.2" fill="none" stroke="#b9c7a5" stroke-width="1.5"/>
+<polyline points="20,476.0 30,479.0 40,481.9 50,484.8 60,487.6 70,490.2 80,492.7 90,494.9 100,497.0 110,498.8 120,500.3 130,501.6 140,502.5 150,503.2 160,503.5 170,503.6 180,503.3 190,502.8 200,502.0 210,500.9 220,499.6 230,498.1 240,496.4 250,494.5 260,492.5 270,490.4 280,488.2 290,486.0 300,483.9 310,481.7 320,479.7 330,477.7 340,476.0 350,474.4 360,473.0 370,471.8 380,470.9 390,470.2 400,469.8 410,469.8 420,470.0 430,470.5 440,471.4 450,472.5 460,473.9 470,475.6 480,477.6 490,479.7 500,482.1 510,484.7 520,487.4 530,490.3 540,493.2" fill="none" stroke="#b9c7a5" stroke-width="1.5"/>
+<polyline points="20,402.0 30,405.0 40,407.9 50,410.8 60,413.6 70,416.2 80,418.7 90,420.9 100,423.0 110,424.8 120,426.3 130,427.6 140,428.5 150,429.2 160,429.5 170,429.6 180,429.3 190,428.8 200,428.0 210,426.9 220,425.6 230,424.1 240,422.4 250,420.5 260,418.5 270,416.4 280,414.2 290,412.0 300,409.9 310,407.7 320,405.7 330,403.7 340,402.0 350,400.4 360,399.0 370,397.8 380,396.9 390,396.2 400,395.8 410,395.8 420,396.0 430,396.5 440,397.4 450,398.5 460,399.9 470,401.6 480,403.6 490,405.7 500,408.1 510,410.7 520,413.4 530,416.3 540,419.2" fill="none" stroke="#2b8a3e" stroke-width="3" stroke-dasharray="8 5"/>
+<circle cx="50" cy="410.8" r="6" fill="#fff" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="50" y="432.8045019879684" font-size="11" fill="#1e1e1e" font-weight="bold" text-anchor="middle">1</text>
+<circle cx="110" cy="424.8" r="6" fill="#fff" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="110" y="446.77915417320753" font-size="11" fill="#1e1e1e" font-weight="bold" text-anchor="middle">2</text>
+<line x1="170" y1="429.6" x2="230" y2="424.1" stroke="#8b5a2b" stroke-width="7" stroke-linecap="round"/>
+<text x="206.0" y="412.8333447000187" font-size="12" fill="#8b5a2b" font-weight="bold" text-anchor="middle">o A</text>
+<circle cx="170" cy="429.6" r="6" fill="#fff" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="170" y="451.5876843134067" font-size="11" fill="#1e1e1e" font-weight="bold" text-anchor="middle">3</text>
+<circle cx="230" cy="424.1" r="6" fill="#fff" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="230" y="446.0790050866307" font-size="11" fill="#1e1e1e" font-weight="bold" text-anchor="middle">4</text>
+<circle cx="290" cy="412.0" r="6" fill="#fff" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="290" y="434.0328409975695" font-size="11" fill="#1e1e1e" font-weight="bold" text-anchor="middle">5</text>
+<circle cx="350" cy="400.4" r="6" fill="#fff" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="350" y="422.35331836624533" font-size="11" fill="#1e1e1e" font-weight="bold" text-anchor="middle">6</text>
+<circle cx="410" cy="395.8" r="6" fill="#fff" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="410" y="417.769337831817" font-size="11" fill="#1e1e1e" font-weight="bold" text-anchor="middle">7</text>
+<circle cx="470" cy="401.6" r="6" fill="#fff" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="470" y="423.61869090274297" font-size="11" fill="#1e1e1e" font-weight="bold" text-anchor="middle">8</text>
+<circle cx="530" cy="416.3" r="6" fill="#fff" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="530" y="438.2528590396236" font-size="11" fill="#1e1e1e" font-weight="bold" text-anchor="middle">9</text>
+<line x1="560" y1="480" x2="560" y2="330" stroke="#555" stroke-width="3"/>
+<polygon points="560,318 552,334 568,334" fill="#555"/>
+<text x="572" y="340" font-size="12" fill="#333" font-weight="bold" text-anchor="start">morro</text><text x="572" y="355" font-size="12" fill="#333" text-anchor="start">acima</text>
+<text x="572" y="480" font-size="12" fill="#333" font-weight="bold" text-anchor="start">morro</text><text x="572" y="495" font-size="12" fill="#333" text-anchor="start">abaixo</text>
+<text x="572" y="396" font-size="12" fill="#2b8a3e" font-weight="bold" text-anchor="start">linha</text><text x="572" y="411" font-size="12" fill="#2b8a3e" text-anchor="start">verde =</text><text x="572" y="426" font-size="12" fill="#2b8a3e" text-anchor="start">curva de</text><text x="572" y="441" font-size="12" fill="#2b8a3e" text-anchor="start">nível</text>
+<text x="20" y="552.0" font-size="12.5" fill="#222" text-anchor="start">Crave a estaca 1. Ponha um pé do A nela e gire o outro pé, para cima ou para baixo do morro,</text><text x="20" y="567.5" font-size="12.5" fill="#222" text-anchor="start">até o fio parar na marca do meio: crave a estaca 2. Leve o A para a frente e repita. Depois</text><text x="20" y="583.0" font-size="12.5" fill="#222" text-anchor="start">acerte estacas fora da linha para a curva ficar suave. Plante e faça valas seguindo a linha.</text>
+</svg>

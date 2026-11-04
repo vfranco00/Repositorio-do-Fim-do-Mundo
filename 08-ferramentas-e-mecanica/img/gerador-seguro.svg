@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 638" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="638" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Gerador: como ligar com segurança</text>
+<rect x="0" y="44" width="680" height="28" fill="#fdecec"/>
+<text x="20" y="64" font-size="16" fill="#b3001b" font-weight="bold" text-anchor="start">ERRADO — pode matar</text>
+<circle cx="650" cy="58" r="12" fill="#d62828" stroke="#fff" stroke-width="2"/><path d="M644.6 52.6 L655.4 63.4 M655.4 52.6 L644.6 63.4" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<rect x="0" y="270" width="680" height="16" fill="#e8d3b0"/>
+<rect x="30" y="140" width="200" height="130" fill="#efe3c8" stroke="#1e1e1e" stroke-width="2.5"/><polygon points="16,140 130.0,84 244,140" fill="#a0522d" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="50" y="162" width="44" height="40" fill="#cfe6fb" stroke="#1e1e1e" stroke-width="2"/><line x1="72.0" y1="162" x2="72.0" y2="202" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="130" y="180" width="86" height="90" fill="#d9cbb0" stroke="#1e1e1e" stroke-width="2"/>
+<text x="173" y="194" font-size="10.5" fill="#444" text-anchor="middle">garagem</text>
+<rect x="140" y="214" width="74" height="50" rx="6" fill="#f2c200" stroke="#1e1e1e" stroke-width="2.5"/><rect x="148" y="224" width="44" height="30" rx="3" fill="#555" stroke="#1e1e1e" stroke-width="1.5"/><circle cx="202" cy="230" r="5" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/><rect x="144" y="264" width="10" height="6" fill="#333"/><rect x="200" y="264" width="10" height="6" fill="#333"/>
+<circle cx="140" cy="210" r="7" fill="#8a8a8a" fill-opacity="0.55"/><circle cx="124" cy="200" r="10" fill="#8a8a8a" fill-opacity="0.55"/><circle cx="108" cy="190" r="13" fill="#8a8a8a" fill-opacity="0.55"/><circle cx="92" cy="180" r="16" fill="#8a8a8a" fill-opacity="0.55"/>
+<rect x="96" y="224" width="18" height="24" rx="3" fill="#fff" stroke="#1e1e1e" stroke-width="2"/>
+<path d="M140 240 C 128 240, 124 236, 114 236" fill="none" stroke="#1e1e1e" stroke-width="4"/>
+<circle cx="80" cy="240" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><path d="M75.05 235.05 L84.95 244.95 M84.95 235.05 L75.05 244.95" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<rect x="330" y="60" width="12" height="210" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="2"/><rect x="300" y="64" width="72" height="8" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/><rect x="344" y="80" width="30" height="40" rx="4" fill="#7d8a96" stroke="#1e1e1e" stroke-width="2"/>
+<path d="M230 152 Q 268 94 302 68" fill="none" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="236" y1="142" x2="282.1" y2="88.5" stroke="#d62828" stroke-width="4"/><polygon points="286,84 282.9,95.6 275.0,88.8" fill="#d62828"/>
+<polyline points="318,148 306,170 326,188" fill="none" stroke="#1e1e1e" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><polyline points="318,148 306,170 326,188" fill="none" stroke="#3f6d9e" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="320,148 328,166" fill="none" stroke="#1e1e1e" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><polyline points="320,148 328,166" fill="none" stroke="#3f6d9e" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="318,104 318,148" fill="none" stroke="#1e1e1e" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/><polyline points="318,104 318,148" fill="none" stroke="#3f6d9e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="320,110 334,78" fill="none" stroke="#1e1e1e" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/><polyline points="320,110 334,78" fill="none" stroke="#3f6d9e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="312" cy="88" r="11" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2.5"/><circle cx="301" cy="88" r="3.1" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2"/><circle cx="305.9" cy="91.8" r="1.2" fill="#1e1e1e"/>
+<path d="M301 82 q 11 -14 22 0 z" fill="#f2c200" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="398" y="100.0" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Gerador ligado na tomada com</text>
+<text x="398" y="116.25" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">cabo "macho-macho" (cabo suicida):</text>
+<text x="398" y="136.0" font-size="12" fill="#222" text-anchor="start">• a energia VOLTA para a rede; o</text>
+<text x="398" y="151.6" font-size="12" fill="#222" text-anchor="start">  transformador eleva para milhares de</text>
+<text x="398" y="167.2" font-size="12" fill="#222" text-anchor="start">  volts e MATA o eletricista no poste;</text>
+<text x="398" y="182.8" font-size="12" fill="#222" text-anchor="start">• quando a luz volta: gerador queima,</text>
+<text x="398" y="198.4" font-size="12" fill="#222" text-anchor="start">  fios esquentam, risco de incêndio.</text>
+<text x="398" y="216.0" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="start">Gerador dentro de casa, garagem,</text>
+<text x="398" y="231.6" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="start">varanda fechada ou sob a janela:</text>
+<text x="398" y="247.2" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="start">MONÓXIDO DE CARBONO (sem cheiro)</text>
+<text x="398" y="262.8" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="start">mata quem está dormindo.</text>
+<rect x="0" y="300" width="680" height="28" fill="#eaf6ec"/>
+<text x="20" y="320" font-size="16" fill="#1d6b2c" font-weight="bold" text-anchor="start">CERTO</text>
+<circle cx="650" cy="314" r="12" fill="#2b8a3e" stroke="#fff" stroke-width="2"/><path d="M644.0 314 L648.56 318.8 L656.0 309.44" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="0" y="530" width="680" height="20" fill="#e8d3b0"/>
+<rect x="30" y="400" width="200" height="130" fill="#efe3c8" stroke="#1e1e1e" stroke-width="2.5"/><polygon points="16,400 130.0,344 244,400" fill="#a0522d" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="50" y="422" width="44" height="40" fill="#cfe6fb" stroke="#1e1e1e" stroke-width="2"/><line x1="72.0" y1="422" x2="72.0" y2="462" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="150" y="420" width="62" height="74" rx="4" fill="#ddd" stroke="#1e1e1e" stroke-width="2"/>
+<text x="181" y="434" font-size="10" fill="#1e1e1e" font-weight="bold" text-anchor="middle">chave</text>
+<text x="181" y="446" font-size="10" fill="#1e1e1e" font-weight="bold" text-anchor="middle">reversora</text>
+<rect x="160" y="454" width="42" height="30" rx="3" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="181" y1="469" x2="194" y2="458" stroke="#d62828" stroke-width="4" stroke-linecap="round"/>
+<text x="164" y="480" font-size="8" fill="#222" font-weight="bold" text-anchor="start">R</text>
+<text x="178" y="480" font-size="8" fill="#222" font-weight="bold" text-anchor="start">0</text>
+<text x="192" y="480" font-size="8" fill="#222" font-weight="bold" text-anchor="start">G</text>
+<polygon points="440,438 510,418 580,438" fill="#a0522d" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="446" y1="438" x2="446" y2="530" stroke="#8b5a2b" stroke-width="5"/>
+<line x1="574" y1="438" x2="574" y2="530" stroke="#8b5a2b" stroke-width="5"/>
+<rect x="470" y="474" width="74" height="50" rx="6" fill="#f2c200" stroke="#1e1e1e" stroke-width="2.5"/><rect x="478" y="484" width="44" height="30" rx="3" fill="#555" stroke="#1e1e1e" stroke-width="1.5"/><circle cx="532" cy="490" r="5" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/><rect x="474" y="524" width="10" height="6" fill="#333"/><rect x="530" y="524" width="10" height="6" fill="#333"/>
+<circle cx="552" cy="486" r="7" fill="#8a8a8a" fill-opacity="0.55"/><circle cx="568" cy="476" r="10" fill="#8a8a8a" fill-opacity="0.55"/><circle cx="584" cy="466" r="13" fill="#8a8a8a" fill-opacity="0.55"/>
+<line x1="546" y1="500" x2="614.0" y2="500.0" stroke="#666" stroke-width="3"/><polygon points="620,500 609.2,505.2 609.2,494.8" fill="#666"/>
+<path d="M480 520 L464 534" stroke="#2b8a3e" stroke-width="3" fill="none"/>
+<rect x="460" y="528" width="8" height="24" fill="#b87333" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M470 510 C 400 520, 300 516, 212 470" fill="none" stroke="#1e1e1e" stroke-width="4"/>
+<line x1="232" y1="380" x2="440" y2="380" stroke="#1d6b2c" stroke-width="2.5"/>
+<polygon points="232,380 244,374 244,386" fill="#1d6b2c"/>
+<polygon points="440,380 428,374 428,386" fill="#1d6b2c"/>
+<text x="336.0" y="372" font-size="14" fill="#1d6b2c" font-weight="bold" text-anchor="middle">6 metros ou mais</text>
+<text x="244" y="406.0" font-size="11.5" fill="#222" text-anchor="start">escapamento virado para</text>
+<text x="244" y="420.95" font-size="11.5" fill="#222" text-anchor="start">longe de portas e janelas</text>
+<text x="586" y="410.0" font-size="11" fill="#222" text-anchor="start">coberto,</text>
+<text x="586" y="424.3" font-size="11" fill="#222" text-anchor="start">laterais</text>
+<text x="586" y="438.6" font-size="11" fill="#222" text-anchor="start">abertas,</text>
+<text x="586" y="452.9" font-size="11" fill="#222" text-anchor="start">nunca</text>
+<text x="586" y="467.2" font-size="11" fill="#222" text-anchor="start">molhado</text>
+<text x="474" y="546" font-size="10.5" fill="#1d6b2c" font-weight="bold" text-anchor="start">haste de terra</text>
+<rect x="15" y="556" width="650" height="72" rx="8" fill="#eaf6ec" stroke="#2b8a3e" stroke-width="1.5"/>
+<text x="28" y="576" font-size="12" fill="#1e1e1e" text-anchor="start">Chave reversora (instalada por eletricista): DESLIGA a rua antes de ligar o gerador na casa.</text>
+<text x="28" y="595" font-size="12" fill="#1e1e1e" text-anchor="start">Sem chave reversora: ligue cada aparelho DIRETO no gerador, com extensão grossa (2,5 mm² ou mais).</text>
+<text x="28" y="614" font-size="12" fill="#1e1e1e" text-anchor="start">Detector de CO dentro de casa. Abasteça só com o motor desligado e frio.</text>
+</svg>

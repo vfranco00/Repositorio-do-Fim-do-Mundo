@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 586" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="586" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Remendo de câmara de bicicleta, passo a passo</text>
+<rect x="15" y="46" width="210" height="228" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<circle cx="35" cy="68" r="13" fill="#3f6d9e"/><text x="35" y="73" font-size="15" font-weight="bold" fill="#fff" text-anchor="middle">1</text>
+<text x="55" y="66" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">Tire o pneu de um lado</text>
+<text x="55" y="82" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">com 2 ou 3 espátulas</text>
+<text x="120.0" y="246" font-size="11.5" fill="#333" text-anchor="middle">Não use chave de fenda:</text>
+<text x="120.0" y="261" font-size="11.5" fill="#333" text-anchor="middle">ela fura a câmara.</text>
+<rect x="235" y="46" width="210" height="228" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<circle cx="255" cy="68" r="13" fill="#3f6d9e"/><text x="255" y="73" font-size="15" font-weight="bold" fill="#fff" text-anchor="middle">2</text>
+<text x="275" y="66" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">Encha um pouco e ache</text>
+<text x="275" y="82" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">o furo: bolhas na água</text>
+<text x="340.0" y="246" font-size="11.5" fill="#333" text-anchor="middle">Marque o furo com giz ou</text>
+<text x="340.0" y="261" font-size="11.5" fill="#333" text-anchor="middle">caneta. Sem bacia: ouça o ar.</text>
+<rect x="455" y="46" width="210" height="228" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<circle cx="475" cy="68" r="13" fill="#3f6d9e"/><text x="475" y="73" font-size="15" font-weight="bold" fill="#fff" text-anchor="middle">3</text>
+<text x="495" y="66" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">Lixe em volta do furo</text>
+<text x="495" y="82" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">(maior que o remendo)</text>
+<text x="560.0" y="246" font-size="11.5" fill="#333" text-anchor="middle">Lixa fina, até a borracha</text>
+<text x="560.0" y="261" font-size="11.5" fill="#333" text-anchor="middle">ficar opaca e áspera.</text>
+<rect x="15" y="284" width="210" height="228" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<circle cx="35" cy="306" r="13" fill="#3f6d9e"/><text x="35" y="311" font-size="15" font-weight="bold" fill="#fff" text-anchor="middle">4</text>
+<text x="55" y="304" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">Cola em camada fina;</text>
+<text x="55" y="320" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">espere ficar FOSCA</text>
+<text x="120.0" y="484" font-size="11.5" fill="#333" text-anchor="middle">3–5 min (até 10 no frio).</text>
+<text x="120.0" y="499" font-size="11.5" fill="#333" text-anchor="middle">Não sopre, não toque.</text>
+<rect x="235" y="284" width="210" height="228" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<circle cx="255" cy="306" r="13" fill="#3f6d9e"/><text x="255" y="311" font-size="15" font-weight="bold" fill="#fff" text-anchor="middle">5</text>
+<text x="275" y="304" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">Aperte o remendo do</text>
+<text x="275" y="320" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">centro para as bordas</text>
+<text x="340.0" y="484" font-size="11.5" fill="#333" text-anchor="middle">Aperte forte 1–2 min.</text>
+<text x="340.0" y="499" font-size="11.5" fill="#333" text-anchor="middle">Tire o plástico de cima depois.</text>
+<rect x="455" y="284" width="210" height="228" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<circle cx="475" cy="306" r="13" fill="#3f6d9e"/><text x="475" y="311" font-size="15" font-weight="bold" fill="#fff" text-anchor="middle">6</text>
+<text x="495" y="304" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">Ache o espinho no pneu</text>
+<text x="495" y="320" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">antes de montar</text>
+<text x="560.0" y="484" font-size="11.5" fill="#333" text-anchor="middle">Passe a mão DEVAGAR por</text>
+<text x="560.0" y="499" font-size="11.5" fill="#333" text-anchor="middle">dentro do pneu e do aro.</text>
+<clipPath id="cp1"><rect x="18" y="86" width="204" height="146"/></clipPath><g clip-path="url(#cp1)">
+<path d="M6.0 259.5 A 118 118 0 0 1 234.0 259.5" fill="none" stroke="#1e1e1e" stroke-width="26"/>
+<path d="M25.3 264.6 A 98 98 0 0 1 214.7 264.6" fill="none" stroke="#b0b0b0" stroke-width="10"/>
+<line x1="91.8" y1="279.7" x2="31.7" y2="257.9" stroke="#999" stroke-width="2"/>
+<line x1="96.2" y1="271.7" x2="45.4" y2="232.8" stroke="#999" stroke-width="2"/>
+<line x1="102.8" y1="265.4" x2="66.1" y2="213.0" stroke="#999" stroke-width="2"/>
+<line x1="111.0" y1="261.4" x2="91.7" y2="200.4" stroke="#999" stroke-width="2"/>
+<line x1="120.0" y1="260.0" x2="120.0" y2="196.0" stroke="#999" stroke-width="2"/>
+<line x1="129.0" y1="261.4" x2="148.3" y2="200.4" stroke="#999" stroke-width="2"/>
+<line x1="137.2" y1="265.4" x2="173.9" y2="213.0" stroke="#999" stroke-width="2"/>
+<line x1="143.8" y1="271.7" x2="194.6" y2="232.8" stroke="#999" stroke-width="2"/>
+<line x1="148.2" y1="279.7" x2="208.3" y2="257.9" stroke="#999" stroke-width="2"/>
+<line x1="82.0" y1="208.4" x2="52.4" y2="145.0" stroke="#1e1e1e" stroke-width="12" stroke-linecap="round"/>
+<line x1="82.0" y1="208.4" x2="52.4" y2="145.0" stroke="#2f7de1" stroke-width="8" stroke-linecap="round"/>
+<line x1="158.0" y1="208.4" x2="187.6" y2="145.0" stroke="#1e1e1e" stroke-width="12" stroke-linecap="round"/>
+<line x1="158.0" y1="208.4" x2="187.6" y2="145.0" stroke="#2f7de1" stroke-width="8" stroke-linecap="round"/>
+</g>
+<text x="120" y="176" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">pneu</text>
+<text x="120" y="212" font-size="11" fill="#333" font-weight="bold" text-anchor="middle">aro</text>
+<text x="120" y="108" font-size="11" fill="#1e5bb0" font-weight="bold" text-anchor="middle">espátulas</text>
+<path d="M265 156 L415 156 L400 226 L280 226 Z" fill="#cfe6fb" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="265" y1="156" x2="415" y2="156" stroke="#4a90d9" stroke-width="3"/>
+<path d="M290 116 C 295 211, 385 211, 390 116" fill="none" stroke="#111" stroke-width="18"/>
+<path d="M290 116 C 295 211, 385 211, 390 116" fill="none" stroke="#3a3a3a" stroke-width="14"/>
+<circle cx="340" cy="180" r="3" fill="#fff" stroke="#2a6db5" stroke-width="1.5"/>
+<circle cx="344" cy="171" r="4" fill="#fff" stroke="#2a6db5" stroke-width="1.5"/>
+<circle cx="338" cy="161" r="5" fill="#fff" stroke="#2a6db5" stroke-width="1.5"/>
+<text x="340" y="146" font-size="11.5" fill="#1e5bb0" font-weight="bold" text-anchor="middle">bolhas!</text>
+<rect x="475" y="156" width="170" height="30" rx="15.0" fill="#3a3a3a" stroke="#111" stroke-width="2"/><rect x="483" y="161" width="154" height="5" rx="2.5" fill="#6a6a6a"/>
+<circle cx="560" cy="171" r="22" fill="none" stroke="#f5f5f5" stroke-width="2" stroke-dasharray="4 3"/>
+<circle cx="560" cy="171" r="3" fill="#d62828"/>
+<rect x="537" y="108" width="46" height="36" rx="3" fill="#d8b878" stroke="#1e1e1e" stroke-width="2" transform="rotate(-8 560 126)"/>
+<line x1="519" y1="122" x2="501.0" y2="122.0" stroke="#555" stroke-width="3"/><polygon points="495,122 505.8,116.8 505.8,127.2" fill="#555"/>
+<line x1="601" y1="122" x2="619.0" y2="122.0" stroke="#555" stroke-width="3"/><polygon points="625,122 614.2,127.2 614.2,116.8" fill="#555"/>
+<text x="560" y="206" font-size="11" fill="#b3001b" font-weight="bold" text-anchor="middle">furo</text>
+<text x="560" y="104" font-size="11" fill="#333" text-anchor="middle">lixa</text>
+<rect x="35" y="404" width="170" height="30" rx="15.0" fill="#3a3a3a" stroke="#111" stroke-width="2"/><rect x="43" y="409" width="154" height="5" rx="2.5" fill="#6a6a6a"/>
+<ellipse cx="120" cy="419" rx="34" ry="13" fill="#7a7a7a" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="120" cy="419" r="3" fill="#d62828"/>
+<g transform="rotate(30 75 364)"><rect x="45" y="354" width="56" height="20" rx="4" fill="#e9e9e9" stroke="#1e1e1e" stroke-width="2"/><rect x="101" y="359" width="14" height="10" fill="#c00" stroke="#1e1e1e" stroke-width="1.5"/><text x="73" y="368" font-size="9" font-weight="bold" text-anchor="middle" fill="#1e1e1e">COLA</text></g>
+<circle cx="175" cy="360" r="22" fill="#fff" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="175" y1="360" x2="175" y2="344" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="175" y1="360" x2="186" y2="366" stroke="#1e1e1e" stroke-width="2.5"/>
+<path d="M175 360 L175 338 A 22 22 0 0 1 195.5 352 Z" fill="#d62828" fill-opacity="0.35"/>
+<text x="175" y="398" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="middle">3–5 min</text>
+<rect x="255" y="404" width="170" height="30" rx="15.0" fill="#3a3a3a" stroke="#111" stroke-width="2"/><rect x="263" y="409" width="154" height="5" rx="2.5" fill="#6a6a6a"/>
+<rect x="317" y="400" width="46" height="38" rx="6" fill="#2a2a2a" stroke="#ef8a2b" stroke-width="4"/>
+<ellipse cx="340" cy="386" rx="22" ry="15" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2"/>
+<path d="M325 376 q 15 -8 30 0" fill="none" stroke="#c99b78" stroke-width="2"/>
+<rect x="325" y="340" width="30" height="36" rx="10" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="340" y1="334" x2="340.0" y2="350.0" stroke="#d62828" stroke-width="3"/><polygon points="340,356 334.8,345.2 345.2,345.2" fill="#d62828"/>
+<line x1="311" y1="419" x2="291.0" y2="419.0" stroke="#ef8a2b" stroke-width="2.5"/><polygon points="285,419 295.8,413.8 295.8,424.2" fill="#ef8a2b"/>
+<line x1="369" y1="419" x2="389.0" y2="419.0" stroke="#ef8a2b" stroke-width="2.5"/><polygon points="395,419 384.2,424.2 384.2,413.8" fill="#ef8a2b"/>
+<text x="340" y="456" font-size="11" fill="#a35a00" font-weight="bold" text-anchor="middle">remendo</text>
+<path d="M475 374 Q 560 354 645 374 L645 434 Q 560 414 475 434 Z" fill="#2a2a2a" stroke="#111" stroke-width="2"/>
+<path d="M475 388 Q 560 368 645 388 L645 422 Q 560 402 475 422 Z" fill="#555"/>
+<text x="560" y="456" font-size="10.5" fill="#333" text-anchor="middle">parte de dentro do pneu</text>
+<polygon points="605,380 615,380 610,398" fill="#c9a227" stroke="#1e1e1e" stroke-width="1.5"/>
+<circle cx="610" cy="388" r="16" fill="none" stroke="#d62828" stroke-width="3"/>
+<ellipse cx="547" cy="402" rx="34" ry="13" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="565" y="390" width="26" height="8" rx="4" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="565" y="398" width="26" height="8" rx="4" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="565" y="406" width="26" height="8" rx="4" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="610" y="362" font-size="11" fill="#b3001b" font-weight="bold" text-anchor="middle">espinho</text>
+<rect x="15" y="522" width="650" height="54" rx="8" fill="#eef5ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="28" y="543" font-size="12" fill="#1e1e1e" text-anchor="start">Monte: ponha um pouco de ar na câmara, encaixe o bico primeiro, entre o pneu com as mãos.</text>
+<text x="28" y="561" font-size="12" fill="#1e1e1e" text-anchor="start">Confira se a câmara não ficou presa entre o pneu e o aro. Encha até a pressão escrita no pneu.</text>
+</svg>

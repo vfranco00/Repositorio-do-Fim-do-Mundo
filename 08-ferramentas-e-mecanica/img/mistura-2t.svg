@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 510" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="510" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Mistura 2 tempos: óleo por litro de gasolina</text>
+<rect x="20" y="56" width="638" height="52" fill="#3f6d9e" rx="6"/>
+<text x="32" y="78" font-size="13" fill="#fff" font-weight="bold" text-anchor="start">Gasolina →</text>
+<text x="32" y="97" font-size="13" fill="#fff" font-weight="bold" text-anchor="start">Proporção ↓</text>
+<text x="229.0" y="89" font-size="15" fill="#fff" font-weight="bold" text-anchor="middle">0,5 L</text>
+<text x="307.0" y="89" font-size="15" fill="#fff" font-weight="bold" text-anchor="middle">1 L</text>
+<text x="385.0" y="89" font-size="15" fill="#fff" font-weight="bold" text-anchor="middle">2 L</text>
+<text x="463.0" y="89" font-size="15" fill="#fff" font-weight="bold" text-anchor="middle">5 L</text>
+<text x="541.0" y="89" font-size="15" fill="#fff" font-weight="bold" text-anchor="middle">10 L</text>
+<text x="619.0" y="89" font-size="15" fill="#fff" font-weight="bold" text-anchor="middle">20 L</text>
+<rect x="20" y="114" width="638" height="60" fill="#fde2e2" stroke="#b3001b" stroke-width="1.5" rx="6"/>
+<text x="32" y="142" font-size="22" fill="#b3001b" font-weight="bold" text-anchor="start">1:25</text>
+<text x="32" y="158" font-size="9.5" fill="#444" text-anchor="start">motores antigos, alguns</text>
+<text x="32" y="169" font-size="9.5" fill="#444" text-anchor="start">rabetas e motos 2T</text>
+<text x="229.0" y="144" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">20</text>
+<text x="229.0" y="162" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="307.0" y="144" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">40</text>
+<text x="307.0" y="162" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="385.0" y="144" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">80</text>
+<text x="385.0" y="162" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="463.0" y="144" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">200</text>
+<text x="463.0" y="162" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="541.0" y="144" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">400</text>
+<text x="541.0" y="162" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="619.0" y="144" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">800</text>
+<text x="619.0" y="162" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<line x1="186" y1="120" x2="186" y2="168" stroke="#b3001b" stroke-width="1"/>
+<rect x="20" y="180" width="638" height="60" fill="#fff1d6" stroke="#a35a00" stroke-width="1.5" rx="6"/>
+<text x="32" y="208" font-size="22" fill="#a35a00" font-weight="bold" text-anchor="start">1:40</text>
+<text x="32" y="224" font-size="9.5" fill="#444" text-anchor="start">várias roçadeiras e</text>
+<text x="32" y="235" font-size="9.5" fill="#444" text-anchor="start">motosserras de entrada</text>
+<text x="229.0" y="210" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">12,5</text>
+<text x="229.0" y="228" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="307.0" y="210" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">25</text>
+<text x="307.0" y="228" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="385.0" y="210" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">50</text>
+<text x="385.0" y="228" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="463.0" y="210" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">125</text>
+<text x="463.0" y="228" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="541.0" y="210" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">250</text>
+<text x="541.0" y="228" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="619.0" y="210" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">500</text>
+<text x="619.0" y="228" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<line x1="186" y1="186" x2="186" y2="234" stroke="#a35a00" stroke-width="1"/>
+<rect x="20" y="246" width="638" height="60" fill="#e3f1e6" stroke="#1d6b2c" stroke-width="1.5" rx="6"/>
+<text x="32" y="274" font-size="22" fill="#1d6b2c" font-weight="bold" text-anchor="start">1:50</text>
+<text x="32" y="290" font-size="9.5" fill="#444" text-anchor="start">maioria das motosserras e</text>
+<text x="32" y="301" font-size="9.5" fill="#444" text-anchor="start">roçadeiras atuais</text>
+<text x="229.0" y="276" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">10</text>
+<text x="229.0" y="294" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="307.0" y="276" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">20</text>
+<text x="307.0" y="294" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="385.0" y="276" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">40</text>
+<text x="385.0" y="294" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="463.0" y="276" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">100</text>
+<text x="463.0" y="294" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="541.0" y="276" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">200</text>
+<text x="541.0" y="294" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<text x="619.0" y="276" font-size="19" fill="#1e1e1e" font-weight="bold" text-anchor="middle">400</text>
+<text x="619.0" y="294" font-size="10.5" fill="#444" text-anchor="middle">mL de óleo</text>
+<line x1="186" y1="252" x2="186" y2="300" stroke="#1d6b2c" stroke-width="1"/>
+<text x="340" y="332" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">Conta: mL de óleo = litros × 1.000 ÷ número da proporção   (ex.: 5 L a 1:40 → 5.000 ÷ 40 = 125 mL)</text>
+<rect x="15" y="348" width="650" height="150" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<path d="M40 388 L60 378 L110 378 L110 478 L40 478 Z" fill="#d62828" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="48" y="366" width="16" height="16" fill="#333" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="50" y="418" width="52" height="30" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="76" y="431" font-size="9" fill="#1e1e1e" font-weight="bold" text-anchor="middle">MISTURA</text>
+<text x="76" y="443" font-size="10" fill="#1e1e1e" font-weight="bold" text-anchor="middle">1:50</text>
+<rect x="130" y="400" width="80" height="18" rx="3" fill="#eef5ff" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="132" y="402" width="48" height="14" fill="#c9a227"/>
+<line x1="140" y1="400" x2="140" y2="407" stroke="#1e1e1e" stroke-width="1"/>
+<line x1="150" y1="400" x2="150" y2="407" stroke="#1e1e1e" stroke-width="1"/>
+<line x1="160" y1="400" x2="160" y2="407" stroke="#1e1e1e" stroke-width="1"/>
+<line x1="170" y1="400" x2="170" y2="407" stroke="#1e1e1e" stroke-width="1"/>
+<line x1="180" y1="400" x2="180" y2="407" stroke="#1e1e1e" stroke-width="1"/>
+<line x1="190" y1="400" x2="190" y2="407" stroke="#1e1e1e" stroke-width="1"/>
+<line x1="200" y1="400" x2="200" y2="407" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="210" y="406" width="12" height="6" fill="#ddd" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="112" y1="409" x2="130" y2="409" stroke="#1e1e1e" stroke-width="3"/>
+<rect x="104" y="396" width="8" height="26" fill="#ddd" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="170" y="440.0" font-size="10.5" fill="#444" text-anchor="middle">seringa ou copo</text>
+<text x="170" y="453.65" font-size="10.5" fill="#444" text-anchor="middle">dosador só para</text>
+<text x="170" y="467.3" font-size="10.5" fill="#444" text-anchor="middle">o óleo 2T</text>
+<text x="250" y="372" font-size="12" fill="#222" text-anchor="start">1. Galão limpo, só para mistura, com a proporção escrita nele.</text>
+<text x="250" y="390" font-size="12" fill="#222" text-anchor="start">2. Ponha METADE da gasolina, depois TODO o óleo medido.</text>
+<text x="250" y="408" font-size="12" fill="#222" text-anchor="start">3. Feche e agite. Complete a gasolina e agite de novo.</text>
+<text x="250" y="426" font-size="12" fill="#222" text-anchor="start">4. Agite também antes de cada abastecimento.</text>
+<text x="250" y="444" font-size="12" fill="#222" text-anchor="start">Óleo próprio para 2 tempos (JASO FC/FD ou API TC).</text>
+<text x="250" y="462" font-size="12" fill="#222" text-anchor="start">Nunca gasolina pura num 2T: funde o motor em minutos.</text>
+<text x="250" y="480" font-size="12" fill="#222" text-anchor="start">Mistura velha (mais de 30 dias) estraga carburador e motor.</text>
+</svg>

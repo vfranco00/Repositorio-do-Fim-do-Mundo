@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 500" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="500" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Covo (armadilha) de garrafa PET para peixe</text>
+<text x="20" y="62" font-size="14" fill="#222" font-weight="bold" text-anchor="start">1. Corte a garrafa</text>
+<path d="M84.0 88.0 L84.0 98.0 C82.0 112.0 66.0 118.0 66.0 134.0 L66.0 218.0 Q66.0 226.0 74.0 226.0 L106.0 226.0 Q114.0 226.0 114.0 218.0 L114.0 134.0 C114.0 118.0 98.0 112.0 96.0 98.0 L96.0 88.0 Z" fill="#eef7ff" stroke="#1e1e1e" stroke-width="2.5"/><rect x="82.0" y="78" width="16.0" height="10.0" rx="2" fill="#3f6d9e" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="54" y1="134" x2="126" y2="134" stroke="#d62828" stroke-width="3" stroke-dasharray="6 4"/>
+<path d="M130 134 l10 -6 l0 12 z" fill="#d62828"/>
+<text x="146" y="120" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="start">corte onde o</text>
+<text x="146" y="135" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="start">"ombro" termina</text>
+<text x="146" y="150" font-size="12" fill="#222" text-anchor="start">(~1/3 de cima,</text>
+<text x="146" y="165" font-size="12" fill="#222" text-anchor="start">uns 10 cm da boca)</text>
+<text x="146" y="192" font-size="12" fill="#444" text-anchor="start">garrafa PET de 2 L</text>
+<text x="146" y="207" font-size="12" fill="#444" text-anchor="start">(ou galão de 5 L para</text>
+<text x="146" y="222" font-size="12" fill="#444" text-anchor="start">peixes maiores)</text>
+<text x="352" y="62" font-size="14" fill="#222" font-weight="bold" text-anchor="start">2. Tire a tampa e vire o funil</text>
+<path d="M396 168 L396 226 Q396 234 404 234 L436 234 Q444 234 444 226 L444 168" fill="#eef7ff" stroke="#1e1e1e" stroke-width="2.5"/>
+<ellipse cx="420" cy="168" rx="24" ry="5" fill="#dbeefd" stroke="#1e1e1e" stroke-width="2"/>
+<path d="M396 96 L444 96 C444 112 428 118 426 132 L426 142 L414 142 L414 132 C412 118 396 112 396 96 Z" fill="#eef7ff" stroke="#1e1e1e" stroke-width="2.5"/>
+<ellipse cx="420" cy="96" rx="24" ry="5" fill="#dbeefd" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="460" y1="112" x2="460.0" y2="154.0" stroke="#555" stroke-width="3"/><polygon points="460,160 454.8,149.2 465.2,149.2" fill="#555"/>
+<text x="476" y="104" font-size="12" fill="#222" font-weight="bold" text-anchor="start">a parte de cima entra</text>
+<text x="476" y="119" font-size="12" fill="#222" font-weight="bold" text-anchor="start">de cabeça para baixo</text>
+<text x="476" y="134" font-size="12" fill="#222" text-anchor="start">dentro do corpo, como</text>
+<text x="476" y="149" font-size="12" fill="#222" text-anchor="start">um funil</text>
+<text x="476" y="180" font-size="12" fill="#222" text-anchor="start">o peixe entra pela boca</text>
+<text x="476" y="195" font-size="12" fill="#222" text-anchor="start">larga e não acha a saída</text>
+<text x="476" y="210" font-size="12" fill="#222" text-anchor="start">estreita</text>
+<line x1="340" y1="48" x2="340" y2="240" stroke="#ccc" stroke-width="2"/>
+<line x1="14" y1="248" x2="666" y2="248" stroke="#ccc" stroke-width="2"/>
+<text x="20" y="274" font-size="14" fill="#222" font-weight="bold" text-anchor="start">3. Encaixe, prenda e fure</text>
+<path d="M34 311.9 L185.5 311.9 Q195.5 311.9 195.5 321.9 L195.5 346.1 Q195.5 356.1 185.5 356.1 L34 356.1" fill="#eef7ff" stroke="#1e1e1e" stroke-width="2.5"/><ellipse cx="34" cy="334" rx="6" ry="22.099999999999998" fill="#dbeefd" stroke="#1e1e1e" stroke-width="2"/><path d="M34 311.9 C51.0 311.9 59.5 326 76.5 328 L86.69999999999999 328 M34 356.1 C51.0 356.1 59.5 342 76.5 340 L86.69999999999999 340" fill="none" stroke="#1e1e1e" stroke-width="2.5"/><line x1="86.69999999999999" y1="328" x2="86.69999999999999" y2="340" stroke="#1e1e1e" stroke-width="2"/><circle cx="102" cy="319.9" r="2.5" fill="#1e1e1e"/><circle cx="111" cy="348.1" r="2.5" fill="#1e1e1e"/><circle cx="121" cy="319.9" r="2.5" fill="#1e1e1e"/><circle cx="130" cy="348.1" r="2.5" fill="#1e1e1e"/><circle cx="139" cy="319.9" r="2.5" fill="#1e1e1e"/><circle cx="148" cy="348.1" r="2.5" fill="#1e1e1e"/><circle cx="158" cy="319.9" r="2.5" fill="#1e1e1e"/><circle cx="167" cy="348.1" r="2.5" fill="#1e1e1e"/><circle cx="177" cy="319.9" r="2.5" fill="#1e1e1e"/><circle cx="186" cy="348.1" r="2.5" fill="#1e1e1e"/>
+<path d="M30 308 l8 8 M38 308 l-8 8" stroke="#c8a000" stroke-width="2.5"/>
+<path d="M30 352 l8 8 M38 352 l-8 8" stroke="#c8a000" stroke-width="2.5"/>
+<ellipse cx="150" cy="342" rx="16" ry="8" fill="#e9c46a" stroke="#1e1e1e" stroke-width="1.8"/>
+<text x="20" y="382" font-size="11.5" fill="#a06a00" font-weight="bold" text-anchor="start">prenda em 3–4 pontos</text>
+<text x="20" y="396" font-size="11.5" fill="#a06a00" font-weight="bold" text-anchor="start">com arame ou barbante</text>
+<text x="20" y="410" font-size="11.5" fill="#a06a00" text-anchor="start">(os X amarelos)</text>
+<text x="212" y="298" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">furos de ~5 mm</text>
+<text x="212" y="312" font-size="11.5" fill="#222" text-anchor="start">(prego quente):</text>
+<text x="212" y="326" font-size="11.5" fill="#222" text-anchor="start">a água passa e</text>
+<text x="212" y="340" font-size="11.5" fill="#222" text-anchor="start">a garrafa afunda</text>
+<text x="212" y="364" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">isca dentro:</text>
+<text x="212" y="378" font-size="11.5" fill="#222" text-anchor="start">massa, pão,</text>
+<text x="212" y="392" font-size="11.5" fill="#222" text-anchor="start">ração, milho</text>
+<text x="212" y="406" font-size="11.5" fill="#222" text-anchor="start">ou vísceras</text>
+<line x1="340" y1="258" x2="340" y2="420" stroke="#ccc" stroke-width="2"/>
+<text x="352" y="274" font-size="14" fill="#222" font-weight="bold" text-anchor="start">4. Na água: boca virada rio abaixo</text>
+<rect x="350" y="290" width="316" height="20" fill="#e8d3b0"/>
+<rect x="350" y="310" width="316" height="84" fill="#cfe6fb"/>
+<rect x="350" y="394" width="316" height="22" fill="#b89b6e"/>
+<line x1="360" y1="322" x2="394.0" y2="322.0" stroke="#7fb2e5" stroke-width="2.5"/><polygon points="400,322 389.2,327.2 389.2,316.8" fill="#7fb2e5"/><line x1="540" y1="322" x2="574.0" y2="322.0" stroke="#7fb2e5" stroke-width="2.5"/><polygon points="580,322 569.2,327.2 569.2,316.8" fill="#7fb2e5"/>
+<text x="410" y="326" font-size="11" fill="#3f6d9e" text-anchor="start">correnteza</text>
+<path d="M530 360.88 L422.2 360.88 Q412.2 360.88 412.2 370.88 L412.2 383.12 Q412.2 393.12 422.2 393.12 L530 393.12" fill="#eef7ff" stroke="#1e1e1e" stroke-width="2.5"/><ellipse cx="530" cy="377" rx="6" ry="16.12" fill="#dbeefd" stroke="#1e1e1e" stroke-width="2"/><path d="M530 360.88 C517.6 360.88 511.4 369 499.0 371 L491.56 371 M530 393.12 C517.6 393.12 511.4 385 499.0 383 L491.56 383" fill="none" stroke="#1e1e1e" stroke-width="2.5"/><line x1="491.56" y1="371" x2="491.56" y2="383" stroke="#1e1e1e" stroke-width="2"/><circle cx="480" cy="368.88" r="2.5" fill="#1e1e1e"/><circle cx="489" cy="385.12" r="2.5" fill="#1e1e1e"/><circle cx="467" cy="368.88" r="2.5" fill="#1e1e1e"/><circle cx="476" cy="385.12" r="2.5" fill="#1e1e1e"/><circle cx="453" cy="368.88" r="2.5" fill="#1e1e1e"/><circle cx="462" cy="385.12" r="2.5" fill="#1e1e1e"/><circle cx="439" cy="368.88" r="2.5" fill="#1e1e1e"/><circle cx="448" cy="385.12" r="2.5" fill="#1e1e1e"/><circle cx="426" cy="368.88" r="2.5" fill="#1e1e1e"/><circle cx="435" cy="385.12" r="2.5" fill="#1e1e1e"/>
+<ellipse cx="452" cy="358" rx="13" ry="7" fill="#8a8a8a" stroke="#1e1e1e" stroke-width="1.8"/>
+<path d="M578.0 370 Q590 359.92 602.0 370 Q590 380.08 578.0 370 Z" fill="#9aa7b0" stroke="#1e1e1e" stroke-width="1.8"/><path d="M602.0 370 l7.2 -5.6000000000000005 l0 11.200000000000001 z" fill="#9aa7b0" stroke="#1e1e1e" stroke-width="1.8"/><circle cx="582.8" cy="368.4" r="1.4400000000000002" fill="#1e1e1e"/>
+<path d="M625.5 382 Q636 373.18 646.5 382 Q636 390.82 625.5 382 Z" fill="#9aa7b0" stroke="#1e1e1e" stroke-width="1.8"/><path d="M646.5 382 l6.3 -4.8999999999999995 l0 9.799999999999999 z" fill="#9aa7b0" stroke="#1e1e1e" stroke-width="1.8"/><circle cx="629.7" cy="380.6" r="1.26" fill="#1e1e1e"/>
+<path d="M540 362 q 10 -4 20 0 t 20 0 t 20 0" fill="none" stroke="#c8a000" stroke-width="1.5" stroke-dasharray="3 3"/>
+<path d="M544 372 q 10 -4 20 0 t 20 0 t 20 0" fill="none" stroke="#c8a000" stroke-width="1.5" stroke-dasharray="3 3"/>
+<path d="M548 382 q 10 -4 20 0 t 20 0 t 20 0" fill="none" stroke="#c8a000" stroke-width="1.5" stroke-dasharray="3 3"/>
+<rect x="368" y="284" width="8" height="26" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M372 302 Q 378 360 418 372" fill="none" stroke="#555" stroke-width="2"/>
+<text x="388" y="304" font-size="11" fill="#222" text-anchor="start">corda presa numa estaca na margem</text>
+<text x="560" y="346" font-size="10.5" fill="#8a6a00" text-anchor="start">o cheiro da isca</text>
+<text x="560" y="357" font-size="10.5" fill="#8a6a00" text-anchor="start">desce com a água</text>
+<text x="358" y="410" font-size="10.5" fill="#fff" font-weight="bold" text-anchor="start">30 cm a 1 m de fundo · pedra para não rolar</text>
+<rect x="14" y="428" width="652" height="64" rx="8" fill="#eef7ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="28" y="449" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Pega lambari, piaba, cará e camarão de água doce (comida e isca viva).</text>
+<text x="28" y="467" font-size="12.5" fill="#222" text-anchor="start">Coloque em remanso raso, perto de capim ou pedras. Olhe 2–3 vezes por dia.</text>
+<text x="28" y="484" font-size="12.5" fill="#222" text-anchor="start">Vários covos ao mesmo tempo rendem muito mais que um só.</text>
+</svg>

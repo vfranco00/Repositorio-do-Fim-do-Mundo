@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 520" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="520" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Aquecedor solar de água sem bomba (termossifão)</text>
+<rect x="0" y="410" width="680" height="30" rx="0" fill="#e8d3b0" stroke="none" stroke-width="0" />
+<line x1="0" y1="410" x2="680" y2="410" stroke="#6b4f2a" stroke-width="3" stroke-linecap="round"/>
+<circle cx="60" cy="90" r="20" fill="#ffd43b" stroke="#e67700" stroke-width="2"/><line x1="86.0" y1="90.0" x2="96.0" y2="90.0" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/><line x1="82.51666049839541" y1="103.0" x2="91.17691453623979" y2="108.0" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/><line x1="73.0" y1="112.5166604983954" x2="78.0" y2="121.17691453623979" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/><line x1="60.0" y1="116.0" x2="60.0" y2="126.0" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/><line x1="47.00000000000001" y1="112.51666049839541" x2="42.00000000000001" y2="121.17691453623979" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/><line x1="37.48333950160459" y1="103.0" x2="28.823085463760208" y2="108.0" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/><line x1="34.0" y1="90.0" x2="24.0" y2="90.0" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/><line x1="37.48333950160459" y1="77.0" x2="28.8230854637602" y2="72.00000000000001" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/><line x1="46.999999999999986" y1="67.4833395016046" x2="41.999999999999986" y2="58.82308546376022" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/><line x1="59.99999999999999" y1="64.0" x2="59.99999999999999" y2="54.0" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/><line x1="73.0" y1="67.4833395016046" x2="78.0" y2="58.82308546376021" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/><line x1="82.5166604983954" y1="76.99999999999999" x2="91.17691453623978" y2="71.99999999999999" stroke="#e67700" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="96,362 112,374 312,258 296,246" fill="#212529" stroke="#1e1e1e" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="108" y1="372" x2="108" y2="410" stroke="#666" stroke-width="5" stroke-linecap="round"/>
+<line x1="290" y1="262" x2="290" y2="410" stroke="#666" stroke-width="5" stroke-linecap="round"/>
+<text x="70" y="436.0" font-size="11" fill="#222" text-anchor="start"></text>
+<rect x="392" y="98" width="176" height="112" rx="8" fill="#f1dfa6" stroke="#1e1e1e" stroke-width="2" />
+<rect x="400" y="106" width="160" height="48.0" rx="0" fill="#ffc9c9" stroke="none" stroke-width="0" />
+<rect x="400" y="154.0" width="160" height="48.0" rx="0" fill="#cfe6fb" stroke="none" stroke-width="0" />
+<rect x="400" y="106" width="160" height="96" rx="4" fill="none" stroke="#1e1e1e" stroke-width="2.5" />
+<text x="480.0" y="136" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="middle">quente (em cima)</text>
+<text x="480.0" y="186" font-size="11.5" fill="#1f5f9e" font-weight="bold" text-anchor="middle">fria (embaixo)</text>
+<line x1="410" y1="210" x2="410" y2="410" stroke="#999" stroke-width="6" stroke-linecap="round"/>
+<line x1="550" y1="210" x2="550" y2="410" stroke="#999" stroke-width="6" stroke-linecap="round"/>
+<text x="450" y="74" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">CAIXA ISOLADA</text>
+<text x="450" y="89" font-size="11" fill="#444" text-anchor="middle">(isopor, serragem, lã)</text>
+<polyline points="306,250 350,206 350,126 400,126" fill="none" stroke="#1e1e1e" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/><polyline points="306,250 350,206 350,126 400,126" fill="none" stroke="#ff8787" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="400,188 378,188 378,392 84,392 84,362 100,364" fill="none" stroke="#1e1e1e" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/><polyline points="400,188 378,188 378,392 84,392 84,362 100,364" fill="none" stroke="#74c0fc" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="336" y1="196" x2="336.0" y2="156.0" stroke="#b3001b" stroke-width="3"/><polygon points="336,150 341.2,160.8 330.8,160.8" fill="#b3001b"/>
+<text x="240" y="160" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">quente sobe</text><text x="240" y="174" font-size="11.5" fill="#b3001b" text-anchor="start">sozinha</text>
+<line x1="364" y1="270" x2="364.0" y2="324.0" stroke="#1f5f9e" stroke-width="3"/><polygon points="364,330 358.8,319.2 369.2,319.2" fill="#1f5f9e"/>
+<text x="306" y="300" font-size="11.5" fill="#1f5f9e" font-weight="bold" text-anchor="start">fria</text><text x="306" y="314" font-size="11.5" fill="#1f5f9e" text-anchor="start">desce</text>
+<polyline points="560,122 622,122 622,330" fill="none" stroke="#1e1e1e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/><polyline points="560,122 622,122 622,330" fill="none" stroke="#ff8787" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="600" y="352" font-size="11" fill="#222" text-anchor="start">para o</text><text x="600" y="365" font-size="11" fill="#222" text-anchor="start">chuveiro</text>
+<polyline points="530,60 530,106" fill="none" stroke="#1e1e1e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/><polyline points="530,60 530,106" fill="none" stroke="#74c0fc" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="540" y="64" font-size="11" fill="#222" text-anchor="start">entrada de</text>
+<text x="540" y="78" font-size="11" fill="#222" text-anchor="start">água (boia)</text>
+<line x1="312" y1="252" x2="470" y2="252" stroke="#222" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="3 3"/>
+<line x1="470" y1="252" x2="470" y2="210" stroke="#222" stroke-width="1.5" stroke-linecap="round"/>
+<text x="420" y="278" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">≥ 30 cm entre o</text><text x="420" y="292" font-size="11.5" fill="#222" text-anchor="start">fundo da caixa e</text><text x="420" y="306" font-size="11.5" fill="#222" text-anchor="start">o topo do coletor</text>
+<text x="40" y="270" font-size="12" fill="#222" font-weight="bold" text-anchor="start">COLETOR PRETO</text><text x="40" y="285" font-size="12" fill="#222" text-anchor="start">virado para o NORTE</text>
+<rect x="20" y="450" width="640" height="60" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="34" y="472" font-size="12.5" fill="#222" text-anchor="start">Sem bomba: a água aquecida fica mais leve e sobe. ~1 m² de coletor para cada 50 L/dia.</text><text x="34" y="490" font-size="12.5" fill="#222" text-anchor="start">Inclinação = latitude + 10°. PVC comum deforma acima de ~60 °C: prefira CPVC, PPR ou cobre.</text>
+</svg>

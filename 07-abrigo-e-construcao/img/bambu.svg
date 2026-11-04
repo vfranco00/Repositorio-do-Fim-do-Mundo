@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 552" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="552" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Bambu: cortes, encaixes e amarração</text>
+<line x1="226.0" y1="50.0" x2="226.0" y2="546.0" stroke="#ddd" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="454.0" y1="50.0" x2="454.0" y2="546.0" stroke="#ddd" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="10.0" y1="296.0" x2="670.0" y2="296.0" stroke="#ddd" stroke-width="1.5" stroke-linecap="round"/>
+<text x="118" y="64" font-size="13.5" fill="#222" font-weight="bold" text-anchor="middle">1. Boca de peixe</text>
+<circle cx="118.0" cy="216.0" r="34" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="118.0" cy="216.0" r="27" fill="#fff8dc" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M92.0 84 L92.0 194.1 A 34 34 0 0 1 144.0 194.1 L144.0 84 Z" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="90.0" y="152.0" width="56.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="16" y="268.0" font-size="10.5" fill="#222" text-anchor="start">ponta em meia-lua que abraça</text><text x="16" y="281.65" font-size="10.5" fill="#222" text-anchor="start">a peça redonda; nó perto do corte</text>
+<text x="152" y="100.0" font-size="10.5" fill="#444" text-anchor="start">serre em V</text><text x="152" y="113.65" font-size="10.5" fill="#444" text-anchor="start">e arredonde</text><text x="152" y="127.3" font-size="10.5" fill="#444" text-anchor="start">com grosa</text>
+<text x="160" y="214.0" font-size="10.5" fill="#444" text-anchor="start">peça</text><text x="160" y="227.65" font-size="10.5" fill="#444" text-anchor="start">vista</text><text x="160" y="241.3" font-size="10.5" fill="#444" text-anchor="start">de topo</text>
+<text x="340" y="64" font-size="13.5" fill="#222" font-weight="bold" text-anchor="middle">2. Parafuso + argamassa</text>
+<rect x="280.0" y="84.0" width="40.0" height="160.0" rx="0" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/><rect x="278.0" y="107.0" width="44.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/><rect x="278.0" y="211.0" width="44.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="284.0" y="116.0" width="32.0" height="92.0" rx="3" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/>
+<circle cx="352.0" cy="160.0" r="24" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="352.0" cy="160.0" r="17" fill="#fff8dc" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="266.0" y1="160.0" x2="390.0" y2="160.0" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<rect x="262.0" y="150.0" width="6.0" height="20.0" rx="0" fill="#555" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="388.0" y="150.0" width="6.0" height="20.0" rx="0" fill="#555" stroke="#1e1e1e" stroke-width="1"/>
+<text x="236" y="102.0" font-size="10.5" fill="#444" font-weight="bold" text-anchor="start">pilar</text>
+<text x="330" y="102.0" font-size="10.5" fill="#444" font-weight="bold" text-anchor="start">viga vista</text><text x="330" y="115.65" font-size="10.5" fill="#444" font-weight="bold" text-anchor="start">de topo</text>
+<text x="236" y="262.0" font-size="10.5" fill="#222" text-anchor="start">vão do parafuso cheio de argamassa;</text><text x="236" y="275.65" font-size="10.5" fill="#222" text-anchor="start">parafuso ou barra roscada com</text><text x="236" y="289.3" font-size="10.5" fill="#222" text-anchor="start">arruela larga dos dois lados</text>
+<line x1="250.0" y1="254.0" x2="286.0" y2="196.0" stroke="#555" stroke-width="1.2" stroke-linecap="round"/>
+<text x="562" y="64" font-size="13.5" fill="#222" font-weight="bold" text-anchor="middle">3. Corte perto do nó</text>
+<rect x="480.0" y="102.0" width="160.0" height="36.0" rx="0" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/><rect x="517.0" y="100.0" width="6.0" height="40.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/><rect x="623.0" y="100.0" width="6.0" height="40.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<circle cx="468.0" cy="120.0" r="10" fill="#2b8a3e" stroke="#1e1e1e" stroke-width="1.5"/><polyline points="463.0,120.0 467.0,125.0 474.0,115.0" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="486" y="160.0" font-size="10.5" fill="#1f6b2e" font-weight="bold" text-anchor="start">ponta a 2–5 cm do nó:</text><text x="486" y="173.65" font-size="10.5" fill="#1f6b2e" font-weight="bold" text-anchor="start">não racha</text>
+<rect x="480.0" y="202.0" width="160.0" height="36.0" rx="0" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/><rect x="497.0" y="200.0" width="6.0" height="40.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<polyline points="640.0,214.0 612.0,218.0 590.0,214.0" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="468.0" cy="220.0" r="10" fill="#d62828" stroke="#1e1e1e" stroke-width="1.5"/><line x1="463.5" y1="215.5" x2="472.5" y2="224.5" stroke="#fff" stroke-width="3" stroke-linecap="round"/><line x1="463.5" y1="224.5" x2="472.5" y2="215.5" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+<text x="486" y="260.0" font-size="10.5" fill="#b3001b" font-weight="bold" text-anchor="start">ponta longe do nó: racha</text><text x="486" y="273.65" font-size="10.5" fill="#b3001b" font-weight="bold" text-anchor="start">e junta água</text>
+<text x="118" y="316" font-size="13.5" fill="#222" font-weight="bold" text-anchor="middle">4. Amarração quadrada</text>
+<rect x="103.0" y="334.0" width="30.0" height="172.0" rx="0" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/><rect x="101.0" y="347.0" width="34.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/><rect x="101.0" y="487.0" width="34.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="30.0" y="405.0" width="176.0" height="30.0" rx="0" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/><rect x="43.0" y="403.0" width="6.0" height="34.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/><rect x="187.0" y="403.0" width="6.0" height="34.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="92.0" y1="400.0" x2="92.0" y2="440.0" stroke="#7a4a12" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="97.0" y1="400.0" x2="97.0" y2="440.0" stroke="#7a4a12" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="102.0" y1="400.0" x2="102.0" y2="440.0" stroke="#7a4a12" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="134.0" y1="400.0" x2="134.0" y2="440.0" stroke="#7a4a12" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="139.0" y1="400.0" x2="139.0" y2="440.0" stroke="#7a4a12" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="144.0" y1="400.0" x2="144.0" y2="440.0" stroke="#7a4a12" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="98.0" y1="396.0" x2="138.0" y2="396.0" stroke="#a8641c" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="98.0" y1="401.0" x2="138.0" y2="401.0" stroke="#a8641c" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="98.0" y1="439.0" x2="138.0" y2="439.0" stroke="#a8641c" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="98.0" y1="444.0" x2="138.0" y2="444.0" stroke="#a8641c" stroke-width="3.5" stroke-linecap="round"/>
+<text x="16" y="524.0" font-size="10.5" fill="#222" text-anchor="start">volta do fiel, 3–4 voltas em quadrado,</text><text x="16" y="537.65" font-size="10.5" fill="#222" text-anchor="start">2–3 voltas de aperto entre as peças</text>
+<text x="146" y="356.0" font-size="10.5" fill="#444" text-anchor="start">arame</text><text x="146" y="369.65" font-size="10.5" fill="#444" text-anchor="start">galvanizado</text><text x="146" y="383.3" font-size="10.5" fill="#444" text-anchor="start">ou corda</text>
+<text x="340" y="316" font-size="13.5" fill="#222" font-weight="bold" text-anchor="middle">5. Pé longe do chão</text>
+<rect x="236.0" y="486.0" width="210.0" height="26.0" rx="0" fill="#e8d3b0" stroke="none" stroke-width="0"/>
+<line x1="236.0" y1="486.0" x2="446.0" y2="486.0" stroke="#6b4f2a" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="306.0" y="450.0" width="68.0" height="66.0" rx="0" fill="#b5b5b5" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="320.0" y="336.0" width="40.0" height="114.0" rx="0" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/><rect x="318.0" y="357.0" width="44.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/><rect x="318.0" y="417.0" width="44.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="328.0" y="420.0" width="24.0" height="30.0" rx="2" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.2"/>
+<line x1="340.0" y1="400.0" x2="340.0" y2="506.0" stroke="#555" stroke-width="4" stroke-linecap="round"/>
+<text x="382" y="420.0" font-size="10.5" fill="#444" text-anchor="start">vergalhão</text><text x="382" y="433.65" font-size="10.5" fill="#444" text-anchor="start">+ argamassa</text><text x="382" y="447.3" font-size="10.5" fill="#444" text-anchor="start">no 1º vão</text>
+<text x="240" y="400.0" font-size="10.5" fill="#444" text-anchor="start">bloco de</text><text x="240" y="413.65" font-size="10.5" fill="#444" text-anchor="start">concreto</text><text x="240" y="427.3" font-size="10.5" fill="#444" text-anchor="start">ou pedra</text>
+<line x1="272.0" y1="430.0" x2="306.0" y2="466.0" stroke="#555" stroke-width="1.2" stroke-linecap="round"/>
+<text x="236" y="530.0" font-size="10.5" fill="#b3001b" font-weight="bold" text-anchor="start">no mínimo 20 cm acima do chão</text>
+<text x="562" y="316" font-size="13.5" fill="#222" font-weight="bold" text-anchor="middle">6. Colheita</text>
+<rect x="462.0" y="486.0" width="206.0" height="26.0" rx="0" fill="#e8d3b0" stroke="none" stroke-width="0"/>
+<line x1="462.0" y1="486.0" x2="668.0" y2="486.0" stroke="#6b4f2a" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="469.0" y="336.0" width="18.0" height="150.0" rx="0" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/><rect x="467.0" y="373.0" width="22.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/><rect x="467.0" y="423.0" width="22.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="493.0" y="348.0" width="18.0" height="138.0" rx="0" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/><rect x="491.0" y="385.0" width="22.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/><rect x="491.0" y="435.0" width="22.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="619.0" y="342.0" width="18.0" height="144.0" rx="0" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/><rect x="617.0" y="379.0" width="22.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/><rect x="617.0" y="429.0" width="22.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="643.0" y="356.0" width="18.0" height="130.0" rx="0" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/><rect x="641.0" y="393.0" width="22.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/><rect x="641.0" y="443.0" width="22.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="551.0" y="446.0" width="26.0" height="40.0" rx="0" fill="#d8c26a" stroke="#1e1e1e" stroke-width="2"/><rect x="549.0" y="453.0" width="30.0" height="6.0" rx="2" fill="#b49b3c" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="550.0" y1="446.0" x2="578.0" y2="446.0" stroke="#d62828" stroke-width="2.5" stroke-linecap="round"/>
+<text x="524" y="380.0" font-size="10.5" fill="#222" font-weight="bold" text-anchor="start">corte logo</text><text x="524" y="393.65" font-size="10.5" fill="#222" font-weight="bold" text-anchor="start">acima do nó,</text><text x="524" y="407.3" font-size="10.5" fill="#222" font-weight="bold" text-anchor="start">a 20–30 cm</text>
+<line x1="560.0" y1="412.0" x2="564.0" y2="442.0" stroke="#555" stroke-width="1.2" stroke-linecap="round"/>
+<text x="464" y="524.0" font-size="10.5" fill="#222" text-anchor="start">só colmos de 3–5 anos; no máx.</text><text x="464" y="537.65" font-size="10.5" fill="#222" text-anchor="start">1/3 da touceira por ano</text>
+</svg>

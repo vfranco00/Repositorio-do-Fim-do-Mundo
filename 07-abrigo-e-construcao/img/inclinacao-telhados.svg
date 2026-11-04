@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 490" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="490" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Inclinação mínima de cada tipo de cobertura</text>
+<line x1="70.0" y1="330.0" x2="430.0" y2="330.0" stroke="#444" stroke-width="2" stroke-linecap="round"/>
+<text x="434" y="334" font-size="11.5" fill="#444" font-weight="bold" text-anchor="start">0%</text>
+<line x1="70.0" y1="330.0" x2="398.4" y2="297.2" stroke="#6c757d" stroke-width="5" stroke-linecap="round"/>
+<text x="408.3622727692964" y="307.16377272307034" font-size="12" fill="#6c757d" font-weight="bold" text-anchor="start">10% (~6°): telha metálica</text>
+<line x1="70.0" y1="330.0" x2="396.3" y2="281.0" stroke="#495057" stroke-width="5" stroke-linecap="round"/>
+<text x="406.3489964465382" y="279.04765053301924" font-size="12" fill="#495057" font-weight="bold" text-anchor="start">15% (~9°): fibrocimento ondulada</text>
+<line x1="70.0" y1="330.0" x2="386.1" y2="235.2" stroke="#c8553d" stroke-width="5" stroke-linecap="round"/>
+<text x="396.08267412298" y="239.17519776310598" font-size="12" fill="#c8553d" font-weight="bold" text-anchor="start">30–35% (17–19°): telha cerâmica</text>
+<line x1="70.0" y1="330.0" x2="370.9" y2="194.6" stroke="#8b5a2b" stroke-width="5" stroke-linecap="round"/>
+<text x="380.9340967077851" y="198.5796564814967" font-size="12" fill="#8b5a2b" font-weight="bold" text-anchor="start">45% (~24°): tabuinhas de madeira</text>
+<line x1="70.0" y1="330.0" x2="303.3" y2="96.7" stroke="#a68a2c" stroke-width="5" stroke-linecap="round"/>
+<text x="313.3452377915607" y="100.65476220843934" font-size="12" fill="#a68a2c" font-weight="bold" text-anchor="start">100% (45°) ou mais: sapé e palha</text>
+<circle cx="70.0" cy="330.0" r="5" fill="#1e1e1e" stroke="#1e1e1e" stroke-width="1"/>
+<text x="70" y="352" font-size="11.5" fill="#444" text-anchor="start">Mínimos usuais. Mais inclinado escorre melhor; siga o fabricante da telha.</text>
+<rect x="14" y="372" width="652" height="108" rx="8" fill="#eef5ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<polygon points="40.0,458.0 240.0,458.0 240.0,398.0" fill="#f6d7cf" stroke="#1e1e1e" stroke-width="2" stroke-linejoin="round"/>
+<text x="140" y="474" font-size="11" fill="#222" font-weight="bold" text-anchor="middle">1 m na horizontal</text>
+<text x="246" y="432" font-size="11" fill="#b3001b" font-weight="bold" text-anchor="start">sobe 30 cm</text>
+<text x="160" y="412" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="end">= 30%</text>
+<text x="330" y="396.0" font-size="11.5" fill="#1e3a5f" text-anchor="start">% = quanto o telhado sobe para cada 1 m deitado.</text><text x="330" y="410.95" font-size="11.5" fill="#1e3a5f" text-anchor="start">Ex.: meia-água com 4 m de largura a 30%:</text><text x="330" y="425.9" font-size="11.5" fill="#1e3a5f" text-anchor="start">sobe 4 × 0,30 = 1,20 m.</text><text x="330" y="440.85" font-size="11.5" fill="#1e3a5f" text-anchor="start">Meça com régua de 1 m + nível de bolha.</text>
+</svg>

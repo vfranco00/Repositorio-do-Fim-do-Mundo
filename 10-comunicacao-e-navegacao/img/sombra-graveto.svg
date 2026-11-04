@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="440" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Método da sombra do graveto</text>
+<rect x="20" y="50" width="420" height="380" rx="8" fill="#e8d3b0" stroke="#c9a978"/>
+<text x="230" y="70" font-size="12" fill="#6b4f2a" text-anchor="middle">vista de cima</text>
+<line x1="300" y1="112" x2="140" y2="282" stroke="#6b5a40" stroke-width="7" stroke-opacity="0.45" stroke-linecap="round"/>
+<line x1="300" y1="112" x2="232" y2="282" stroke="#6b5a40" stroke-width="7" stroke-opacity="0.75" stroke-linecap="round"/>
+<circle cx="300" cy="112" r="9" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="284" y="102" font-size="12" fill="#222" font-weight="bold" text-anchor="end">graveto reto,</text>
+<text x="284" y="117" font-size="12" fill="#222" font-weight="bold" text-anchor="end">~1 m, bem em pé</text>
+<text x="196" y="196" font-size="11.5" fill="#444" font-weight="bold" text-anchor="end">sombra 1</text>
+<text x="196" y="210" font-size="11.5" fill="#444" text-anchor="end">(agora)</text>
+<text x="282" y="200" font-size="11.5" fill="#444" font-weight="bold" text-anchor="start">sombra 2</text>
+<text x="282" y="214" font-size="11.5" fill="#444" text-anchor="start">(15–20 min</text>
+<text x="282" y="228" font-size="11.5" fill="#444" text-anchor="start">depois)</text>
+<line x1="40" y1="282" x2="425" y2="282" stroke="#d62828" stroke-width="3"/>
+<line x1="380" y1="282" x2="422.0" y2="282.0" stroke="#d62828" stroke-width="3"/><polygon points="428,282 417.2,287.2 417.2,276.8" fill="#d62828"/>
+<text x="34" y="270" font-size="14" fill="#b3001b" font-weight="bold" text-anchor="start">OESTE</text>
+<text x="318" y="270" font-size="14" fill="#b3001b" font-weight="bold" text-anchor="start">LESTE</text>
+<line x1="395" y1="96" x2="395" y2="410" stroke="#2b8a3e" stroke-width="3"/>
+<line x1="395" y1="140" x2="395.0" y2="98.0" stroke="#2b8a3e" stroke-width="3"/><polygon points="395,92 400.2,102.8 389.8,102.8" fill="#2b8a3e"/>
+<text x="387" y="104" font-size="14" fill="#2b8a3e" font-weight="bold" text-anchor="end">NORTE</text>
+<text x="387" y="412" font-size="14" fill="#2b8a3e" font-weight="bold" text-anchor="end">SUL</text>
+<rect x="395" y="268" width="14" height="14" fill="none" stroke="#1e1e1e" stroke-width="1.5"/>
+<circle cx="140" cy="282" r="12" fill="#a8a29a" stroke="#1e1e1e" stroke-width="2"/>
+<text x="140" y="287" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">1</text>
+<circle cx="232" cy="282" r="12" fill="#a8a29a" stroke="#1e1e1e" stroke-width="2"/>
+<text x="232" y="287" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">2</text>
+<ellipse cx="140" cy="322" rx="9" ry="20" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2" transform="rotate(0 140 322)"/>
+<ellipse cx="232" cy="322" rx="9" ry="20" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2" transform="rotate(0 232 322)"/>
+<text x="186" y="372" font-size="11.5" fill="#222" font-weight="bold" text-anchor="middle">pé esquerdo na 1, pé direito na 2:</text>
+<text x="186" y="388" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">você fica de frente para o NORTE</text>
+<rect x="452" y="50" width="208" height="380" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="464" y="74.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">1. Finque o graveto em</text><text x="464" y="91.4" font-size="12" fill="#222" text-anchor="start">chão plano e marque a</text><text x="464" y="108.8" font-size="12" fill="#222" text-anchor="start">ponta da sombra com</text><text x="464" y="126.19999999999999" font-size="12" fill="#222" text-anchor="start">uma pedra (marca 1).</text><text x="464" y="143.6" font-size="12" fill="#222" font-weight="bold" text-anchor="start">2. Espere 15 a 20</text><text x="464" y="161.0" font-size="12" fill="#222" text-anchor="start">minutos. Marque a nova</text><text x="464" y="178.39999999999998" font-size="12" fill="#222" text-anchor="start">ponta da sombra</text><text x="464" y="195.79999999999998" font-size="12" fill="#222" text-anchor="start">(marca 2).</text><text x="464" y="213.2" font-size="12" fill="#222" font-weight="bold" text-anchor="start">3. A linha da marca 1</text><text x="464" y="230.6" font-size="12" fill="#222" text-anchor="start">para a 2 vai de OESTE</text><text x="464" y="248.0" font-size="12" fill="#222" text-anchor="start">para LESTE.</text><text x="464" y="265.4" font-size="12" fill="#222" font-weight="bold" text-anchor="start">4. Uma linha em ângulo</text><text x="464" y="282.79999999999995" font-size="12" fill="#222" text-anchor="start">reto com ela dá o</text><text x="464" y="300.2" font-size="12" fill="#222" text-anchor="start">NORTE–SUL.</text><text x="464" y="317.59999999999997" font-size="12" fill="#222" text-anchor="start">Funciona em qualquer</text><text x="464" y="335.0" font-size="12" fill="#222" text-anchor="start">lugar e época, com</text><text x="464" y="352.4" font-size="12" fill="#222" text-anchor="start">qualquer sol que faça</text><text x="464" y="369.79999999999995" font-size="12" fill="#222" text-anchor="start">sombra. Mais preciso</text><text x="464" y="387.2" font-size="12" fill="#222" text-anchor="start">perto do meio-dia.</text>
+</svg>

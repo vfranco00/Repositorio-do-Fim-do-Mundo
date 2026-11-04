@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 644" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="644" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Motosserra: contragolpe e afiação da corrente</text>
+<rect x="20" y="124" width="80" height="104" rx="12" fill="#f28c28" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="60" y="180" font-size="11" fill="#1e1e1e" font-weight="bold" text-anchor="middle">motor</text>
+<path d="M100 148 L330 142 A 34 34 0 0 1 330 210 L100 204 Z" fill="#c8cdd2" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="110" y="135" width="12" height="7" fill="#555"/>
+<rect x="110" y="210" width="12" height="7" fill="#555"/>
+<rect x="132" y="135" width="12" height="7" fill="#555"/>
+<rect x="132" y="210" width="12" height="7" fill="#555"/>
+<rect x="154" y="135" width="12" height="7" fill="#555"/>
+<rect x="154" y="210" width="12" height="7" fill="#555"/>
+<rect x="176" y="135" width="12" height="7" fill="#555"/>
+<rect x="176" y="210" width="12" height="7" fill="#555"/>
+<rect x="198" y="135" width="12" height="7" fill="#555"/>
+<rect x="198" y="210" width="12" height="7" fill="#555"/>
+<rect x="220" y="135" width="12" height="7" fill="#555"/>
+<rect x="220" y="210" width="12" height="7" fill="#555"/>
+<rect x="242" y="135" width="12" height="7" fill="#555"/>
+<rect x="242" y="210" width="12" height="7" fill="#555"/>
+<rect x="264" y="135" width="12" height="7" fill="#555"/>
+<rect x="264" y="210" width="12" height="7" fill="#555"/>
+<rect x="286" y="135" width="12" height="7" fill="#555"/>
+<rect x="286" y="210" width="12" height="7" fill="#555"/>
+<rect x="308" y="135" width="12" height="7" fill="#555"/>
+<rect x="308" y="210" width="12" height="7" fill="#555"/>
+<path d="M330 176 L330 134 A 42 42 0 0 1 372 176 Z" fill="#d62828" fill-opacity="0.75" stroke="#b3001b" stroke-width="2"/>
+<path d="M330 142 A 34 34 0 0 1 364 176" fill="none" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="392" y="128.0" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="start">ZONA DE CONTRAGOLPE</text>
+<text x="392" y="144.25" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="start">(quarto de cima da ponta)</text>
+<line x1="390" y1="136" x2="352" y2="150" stroke="#b3001b" stroke-width="2"/>
+<path d="M336 124 C 310 66, 190 64, 130 102" fill="none" stroke="#b3001b" stroke-width="4" stroke-dasharray="8 5"/>
+<polygon points="118,110 134,90 138,110" fill="#b3001b"/>
+<text x="240" y="72" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="middle">contragolpe</text>
+<text x="392" y="178.0" font-size="12" fill="#222" text-anchor="start">Se essa parte toca a madeira, o</text>
+<text x="392" y="193.6" font-size="12" fill="#222" text-anchor="start">sabre pula para CIMA e para TRÁS,</text>
+<text x="392" y="209.2" font-size="12" fill="#222" text-anchor="start">na direção do rosto, em menos de</text>
+<text x="392" y="224.8" font-size="12" fill="#222" text-anchor="start">1/10 de segundo.</text>
+<text x="20" y="262" font-size="12" fill="#1e1e1e" text-anchor="start">Nunca corte com a ponta. Segure com as DUAS mãos, polegar abraçando a alça.</text>
+<text x="20" y="280" font-size="12" fill="#1e1e1e" text-anchor="start">Fique ao lado da linha do sabre, nunca atrás dele. Freio de corrente funcionando.</text>
+<text x="20" y="298" font-size="12" fill="#1e1e1e" text-anchor="start">Nunca acima da altura do ombro. Corrente afiada puxa menos para trás.</text>
+<line x1="20" y1="318" x2="660" y2="318" stroke="#ccc" stroke-width="2"/>
+<text x="340" y="342" font-size="15" fill="#222" font-weight="bold" text-anchor="middle">Afiação com lima redonda</text>
+<text x="170" y="366" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">Visto de cima</text>
+<rect x="40" y="452" width="260" height="12" fill="#c8cdd2" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="52" y="484" font-size="11" fill="#555" text-anchor="start">sabre</text>
+<polygon points="140,452 200,452 192,428 150,428" fill="#888" stroke="#1e1e1e" stroke-width="2"/>
+<text x="138" y="444" font-size="10.5" fill="#333" text-anchor="end">dente</text>
+<line x1="170" y1="368" x2="170" y2="492" stroke="#555" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="141.0" y1="486.2" x2="199.0" y2="385.8" stroke="#1e1e1e" stroke-width="11" stroke-linecap="round"/>
+<line x1="141.0" y1="486.2" x2="199.0" y2="385.8" stroke="#9aa5b1" stroke-width="7" stroke-linecap="round"/>
+<path d="M170.0 392.0 A 44 44 0 0 1 192.0 397.9" fill="none" stroke="#d62828" stroke-width="2.5"/>
+<text x="160" y="386" font-size="14" fill="#b3001b" font-weight="bold" text-anchor="end">30°</text>
+<line x1="162" y1="384" x2="180" y2="394" stroke="#b3001b" stroke-width="1.5"/>
+<text x="209.0" y="391.7705265805026" font-size="11.5" fill="#333" font-weight="bold" text-anchor="start">lima</text>
+<text x="40" y="508.0" font-size="11.5" fill="#333" text-anchor="start">lima a 30° da linha que cruza</text>
+<text x="40" y="522.95" font-size="11.5" fill="#333" text-anchor="start">o sabre; lima na horizontal</text>
+<text x="490" y="366" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">Visto de frente</text>
+<path d="M420 420 L516 420 L516 434 L436 434 L436 506 L420 506 Z" fill="#888" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="474" cy="438.0" r="30" fill="#9aa5b1" fill-opacity="0.85" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="516" y1="420" x2="550" y2="420" stroke="#555" stroke-width="1.5" stroke-dasharray="4 3"/>
+<line x1="504" y1="408.0" x2="550" y2="408.0" stroke="#555" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="554" y="414.0" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">1/5 da lima</text>
+<text x="554" y="428.95" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">acima do</text>
+<text x="554" y="443.9" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">dente</text>
+<text x="474" y="452" font-size="11" fill="#1e1e1e" font-weight="bold" text-anchor="middle">lima</text>
+<text x="414" y="500" font-size="10.5" fill="#333" text-anchor="end">dente</text>
+<rect x="15" y="530" width="650" height="104" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<text x="28" y="550" font-size="12" fill="#1e1e1e" text-anchor="start">Diâmetro da lima conforme o passo da corrente (está gravado no sabre ou no elo):</text>
+<text x="28" y="568" font-size="12" fill="#1e1e1e" text-anchor="start">  1/4" e 3/8" P (picco) → 4,0 mm   ·   0,325" → 4,8 mm   ·   3/8" → 5,2 mm   ·   0,404" → 5,5 mm</text>
+<text x="28" y="586" font-size="12" fill="#1e1e1e" text-anchor="start">Lime só para a FRENTE, de dentro para fora do dente, 3–5 passadas iguais em cada dente.</text>
+<text x="28" y="604" font-size="12" fill="#1e1e1e" text-anchor="start">Todos os dentes de um lado, vire a máquina e faça o outro lado. Todos do mesmo tamanho.</text>
+<text x="28" y="622" font-size="12" fill="#1e1e1e" text-anchor="start">A cada 3–5 afiações, rebaixe o limitador de profundidade com gabarito e lima chata.</text>
+</svg>

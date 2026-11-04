@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 644" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="644" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Sinais de que o morro vai deslizar</text>
+<polygon points="10,132 150,132 190,150 250,200 320,268 380,330 420,360 450,364 450,420 10,420" fill="#e8d3b0" stroke="#6b4f2a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M160 134 Q 190 250 420 362" fill="none" stroke="#8a5a2a" stroke-width="2.5" stroke-dasharray="8 6"/>
+<text x="190" y="300" font-size="11" fill="#6b4a2a" text-anchor="start">por aqui a terra</text>
+<text x="190" y="313" font-size="11" fill="#6b4a2a" text-anchor="start">pode escorregar</text>
+<rect x="40" y="80" width="80" height="52" fill="#e9dcc6" stroke="#1e1e1e" stroke-width="2.5"/><polygon points="32,80 80.0,51.4 128,80" fill="#a0522d" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="56" y="98" width="18" height="34" fill="#6b4f2a" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="88" y="98" width="20" height="16" fill="#dfeefa" stroke="#1e1e1e" stroke-width="2"/>
+<path d="M84 82 l6 10 l-5 8 l7 10 l-4 8 l6 10" fill="none" stroke="#d62828" stroke-width="2.5"/>
+<circle cx="30" cy="90" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="30" y="95" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">4</text>
+<path d="M140 132 l4 14 l4 -14 M160 134 l3 12 l3 -12" fill="#fff" stroke="#d62828" stroke-width="2.5"/>
+<path d="M150 132 L162 134 L162 142" fill="none" stroke="#6b4f2a" stroke-width="2"/>
+<circle cx="152" cy="112" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="152" y="117" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">1</text>
+<g transform="rotate(22 232 186)"><rect x="228" y="130" width="8" height="56" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2"/><circle cx="232" cy="120" r="22" fill="#5fa35a" stroke="#1e1e1e" stroke-width="2.5"/></g>
+<g transform="rotate(18 292 242)"><rect x="289" y="172" width="6" height="70" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.8"/><rect x="279" y="176" width="26" height="5" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/></g>
+<circle cx="214" cy="110" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="214" y="115" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">2</text>
+<path d="M262 120 q 8 -8 0 -16 M270 126 q 14 -14 0 -28 M278 132 q 20 -20 0 -40" fill="none" stroke="#555" stroke-width="2"/>
+<text x="284" y="112" font-size="12" fill="#555" font-weight="bold" text-anchor="start">crec!</text>
+<circle cx="336" cy="106" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="336" y="111" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">6</text>
+<path d="M338 282 q 10 6 14 18 q 4 10 16 14 q 12 4 18 16" fill="none" stroke="#a07850" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="346" cy="296" rx="3" ry="4.5" fill="#a07850"/>
+<ellipse cx="360" cy="312" rx="3" ry="4.5" fill="#a07850"/>
+<ellipse cx="378" cy="326" rx="3" ry="4.5" fill="#a07850"/>
+<circle cx="326" cy="262" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="326" y="267" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">3</text>
+<path d="M398 314 Q 410 334 400 362 L 412 362 Q 422 334 410 314 Z" fill="#b5b5b5" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="396" cy="296" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="396" y="301" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">5</text>
+<rect x="418" y="338" width="30" height="26" fill="#e9dcc6" stroke="#1e1e1e" stroke-width="2.5"/><polygon points="410,338 433.0,323.7 456,338" fill="#a0522d" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="472" cy="62" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="472" y="67" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">1</text>
+<text x="490" y="66" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">Rachaduras e degraus</text>
+<text x="490" y="80" font-size="11.5" fill="#222" text-anchor="start">no chão, no alto ou no</text>
+<text x="490" y="94" font-size="11.5" fill="#222" text-anchor="start">meio do morro</text>
+<circle cx="472" cy="116" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="472" y="121" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">2</text>
+<text x="490" y="120" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">Árvores, postes, cercas</text>
+<text x="490" y="134" font-size="11.5" fill="#222" text-anchor="start">e muros inclinando</text>
+<circle cx="472" cy="156" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="472" y="161" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">3</text>
+<text x="490" y="160" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">Água barrenta minando</text>
+<text x="490" y="174" font-size="11.5" fill="#222" text-anchor="start">do barranco; mina nova,</text>
+<text x="490" y="188" font-size="11.5" fill="#222" text-anchor="start">ou que seca de repente</text>
+<circle cx="472" cy="210" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="472" y="215" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">4</text>
+<text x="490" y="214" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">Rachaduras novas nas</text>
+<text x="490" y="228" font-size="11.5" fill="#222" text-anchor="start">paredes; portas e janelas</text>
+<text x="490" y="242" font-size="11.5" fill="#222" text-anchor="start">emperrando</text>
+<circle cx="472" cy="264" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="472" y="269" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">5</text>
+<text x="490" y="268" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">Muro "embarrigando"</text>
+<text x="490" y="282" font-size="11.5" fill="#222" text-anchor="start">(estufando)</text>
+<circle cx="472" cy="304" r="11" fill="#d62828" stroke="#fff" stroke-width="2"/><text x="472" y="309" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">6</text>
+<text x="490" y="308" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">Estalos, barulho de</text>
+<text x="490" y="322" font-size="11.5" fill="#222" text-anchor="start">árvore quebrando, ronco</text>
+<text x="490" y="336" font-size="11.5" fill="#222" text-anchor="start">de terra</text>
+<text x="14" y="436" font-size="13.5" fill="#222" font-weight="bold" text-anchor="start">Para onde fugir (visto de cima)</text>
+<rect x="14" y="446" width="300" height="130" rx="8" fill="#f1e7d4" stroke="#c9b48a"/>
+<path d="M24 462 Q 164 454 304 462" fill="none" stroke="#c9b48a" stroke-width="1.5"/>
+<path d="M24 490 Q 164 482 304 490" fill="none" stroke="#c9b48a" stroke-width="1.5"/>
+<path d="M24 518 Q 164 510 304 518" fill="none" stroke="#c9b48a" stroke-width="1.5"/>
+<path d="M24 546 Q 164 538 304 546" fill="none" stroke="#c9b48a" stroke-width="1.5"/>
+<text x="30" y="460" font-size="10.5" fill="#8a6a40" text-anchor="start">alto do morro</text>
+<text x="30" y="570" font-size="10.5" fill="#8a6a40" text-anchor="start">baixada</text>
+<path d="M140 454 Q 128 506 132 568 L 196 568 Q 200 506 186 454 Z" fill="#a07850" fill-opacity="0.75" stroke="#6b4a2a" stroke-width="2"/>
+<text x="163" y="556" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">terra</text>
+<circle cx="163" cy="482" r="6" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="155" y1="482" x2="90.0" y2="476.5" stroke="#2b8a3e" stroke-width="4"/><polygon points="84,476 95.2,471.7 94.3,482.1" fill="#2b8a3e"/>
+<line x1="171" y1="482" x2="238.0" y2="476.5" stroke="#2b8a3e" stroke-width="4"/><polygon points="244,476 233.7,482.1 232.8,471.7" fill="#2b8a3e"/>
+<line x1="163" y1="490" x2="163" y2="528" stroke="#d62828" stroke-width="3" stroke-dasharray="5 4"/>
+<text x="20" y="500" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="start">PARA O LADO</text>
+<text x="20" y="514" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="start">e para cima</text>
+<text x="222" y="500" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="start">PARA O LADO</text>
+<text x="222" y="514" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="start">e para cima</text>
+<text x="206" y="544" font-size="11" fill="#b3001b" font-weight="bold" text-anchor="start">NUNCA morro</text>
+<text x="206" y="557" font-size="11" fill="#b3001b" font-weight="bold" text-anchor="start">abaixo</text>
+<rect x="326" y="446" width="340" height="130" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="340" y="466" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">O que provoca deslizamento (evite):</text>
+<text x="340" y="486" font-size="11.5" fill="#222" text-anchor="start">• corte reto no barranco para construir</text>
+<text x="340" y="502" font-size="11.5" fill="#222" text-anchor="start">• aterro solto, lixo e entulho na encosta</text>
+<text x="340" y="518" font-size="11.5" fill="#222" text-anchor="start">• água de chuva, pia e esgoto jogada no</text>
+<text x="340" y="532" font-size="11.5" fill="#222" text-anchor="start">   morro (use calha e canaleta)</text>
+<text x="340" y="548" font-size="11.5" fill="#222" text-anchor="start">• tirar o mato; bananeira na encosta</text>
+<text x="340" y="564" font-size="11.5" fill="#222" text-anchor="start">   (encharca o solo)</text>
+<rect x="14" y="588" width="652" height="46" rx="8" fill="#fdecec" stroke="#d62828" stroke-width="1.5"/>
+<text x="28" y="607" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="start">Chuva forte por horas ou vários dias + UM desses sinais = SAIA JÁ e avise</text>
+<text x="28" y="625" font-size="12.5" fill="#222" text-anchor="start">os vizinhos. Volte só quando a chuva parar há dias e a Defesa Civil (199) liberar.</text>
+</svg>

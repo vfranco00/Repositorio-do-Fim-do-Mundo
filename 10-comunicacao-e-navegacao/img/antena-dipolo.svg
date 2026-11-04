@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 550" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="550" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Antena dipolo de meia-onda</text>
+<rect x="28" y="96" width="12" height="270" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="640" y="96" width="12" height="270" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="0" y1="366" x2="680" y2="366" stroke="#6b4f2a" stroke-width="3"/>
+<line x1="40" y1="108" x2="92" y2="140" stroke="#a08050" stroke-width="2.5"/>
+<line x1="640" y1="108" x2="588" y2="140" stroke="#a08050" stroke-width="2.5"/>
+<text x="52" y="92" font-size="11" fill="#6b4f2a" font-weight="bold" text-anchor="start">corda</text>
+<line x1="104" y1="140" x2="329" y2="140" stroke="#c06a1a" stroke-width="4"/>
+<line x1="351" y1="140" x2="576" y2="140" stroke="#c06a1a" stroke-width="4"/>
+<rect x="87.0" y="134.0" width="22" height="12" rx="4" fill="#f0f0f0" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="571.0" y="134.0" width="22" height="12" rx="4" fill="#f0f0f0" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="328.0" y="131.0" width="24" height="18" rx="4" fill="#f0f0f0" stroke="#1e1e1e" stroke-width="2"/>
+<text x="98" y="164" font-size="11" fill="#444" text-anchor="middle">isolador</text>
+<text x="582" y="164" font-size="11" fill="#444" text-anchor="middle">isolador</text>
+<line x1="104" y1="74" x2="576" y2="74" stroke="#1e1e1e" stroke-width="1.5"/><line x1="104" y1="67" x2="104" y2="81" stroke="#1e1e1e" stroke-width="1.5"/><line x1="576" y1="67" x2="576" y2="81" stroke="#1e1e1e" stroke-width="1.5"/><polygon points="104,74 113,70 113,78" fill="#1e1e1e"/><polygon points="576,74 567,70 567,78" fill="#1e1e1e"/><rect x="151.4" y="64" width="377.2" height="20" fill="#fff"/><text x="340.0" y="79" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="middle">COMPRIMENTO TOTAL (m) = 143 ÷ frequência (MHz)</text>
+<line x1="104" y1="112" x2="329" y2="112" stroke="#c06a1a" stroke-width="1.5"/><line x1="104" y1="105" x2="104" y2="119" stroke="#c06a1a" stroke-width="1.5"/><line x1="329" y1="105" x2="329" y2="119" stroke="#c06a1a" stroke-width="1.5"/><polygon points="104,112 113,108 113,116" fill="#c06a1a"/><polygon points="329,112 320,108 320,116" fill="#c06a1a"/><rect x="130.4" y="102" width="172.2" height="20" fill="#fff"/><text x="216.5" y="117" font-size="12" fill="#c06a1a" font-weight="bold" text-anchor="middle">cada braço = 71,5 ÷ f</text>
+<line x1="351" y1="112" x2="576" y2="112" stroke="#c06a1a" stroke-width="1.5"/><line x1="351" y1="105" x2="351" y2="119" stroke="#c06a1a" stroke-width="1.5"/><line x1="576" y1="105" x2="576" y2="119" stroke="#c06a1a" stroke-width="1.5"/><polygon points="351,112 360,108 360,116" fill="#c06a1a"/><polygon points="576,112 567,108 567,116" fill="#c06a1a"/><rect x="377.4" y="102" width="172.2" height="20" fill="#fff"/><text x="463.5" y="117" font-size="12" fill="#c06a1a" font-weight="bold" text-anchor="middle">cada braço = 71,5 ÷ f</text>
+<path d="M340 149 L340 210" stroke="#1e1e1e" stroke-width="6" fill="none"/>
+<ellipse cx="340" cy="214" rx="22" ry="6" fill="none" stroke="#1e1e1e" stroke-width="4"/>
+<ellipse cx="340" cy="223" rx="22" ry="6" fill="none" stroke="#1e1e1e" stroke-width="4"/>
+<ellipse cx="340" cy="232" rx="22" ry="6" fill="none" stroke="#1e1e1e" stroke-width="4"/>
+<ellipse cx="340" cy="241" rx="22" ry="6" fill="none" stroke="#1e1e1e" stroke-width="4"/>
+<path d="M340 246 L340 300 Q340 330 370 330 L452 330" stroke="#1e1e1e" stroke-width="6" fill="none"/>
+<text x="368" y="222" font-size="11" fill="#222" font-weight="bold" text-anchor="start">5 a 8 voltas do próprio cabo</text>
+<text x="368" y="236" font-size="11" fill="#444" text-anchor="start">(10–15 cm de diâmetro):</text>
+<text x="368" y="250" font-size="11" fill="#444" text-anchor="start">evita interferência no cabo</text>
+<text x="352" y="276" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">cabo coaxial de 50 ohms</text>
+<text x="352" y="290" font-size="11" fill="#444" text-anchor="start">(RG-58; RG-213 se for</text>
+<text x="352" y="303" font-size="11" fill="#444" text-anchor="start">longo)</text>
+<rect x="452" y="304" width="110" height="56" rx="6" fill="#4b4f55" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="464" y="314" width="50" height="18" fill="#a9d18e" stroke="#1e1e1e"/>
+<circle cx="538" cy="334" r="11" fill="#888" stroke="#1e1e1e" stroke-width="2"/>
+<text x="507" y="354" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">rádio</text>
+<rect x="580" y="320" width="40" height="40" rx="3" fill="#2e2e2e" stroke="#1e1e1e" stroke-width="2"/>
+<text x="600" y="344" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">12 V</text>
+<path d="M562 330 L580 330" stroke="#d62828" stroke-width="3"/>
+<rect x="20" y="170" width="200" height="118" rx="8" fill="#f7f7f7" stroke="#999"/>
+<text x="120" y="188" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">detalhe do centro</text>
+<line x1="30" y1="214" x2="104" y2="214" stroke="#c06a1a" stroke-width="4"/>
+<line x1="136" y1="214" x2="210" y2="214" stroke="#c06a1a" stroke-width="4"/>
+<rect x="103.0" y="206.0" width="34" height="16" rx="4" fill="#f0f0f0" stroke="#1e1e1e" stroke-width="2"/>
+<path d="M112 222 L112 262" stroke="#9a9a9a" stroke-width="7"/>
+<path d="M104 214 Q 104 236 112 240" stroke="#c06a1a" stroke-width="2.5" fill="none"/>
+<path d="M136 214 Q 136 230 116 236" stroke="#555" stroke-width="2.5" fill="none" stroke-dasharray="3 2"/>
+<text x="30" y="240" font-size="11" fill="#222" font-weight="bold" text-anchor="start">vivo (fio do</text>
+<text x="30" y="253" font-size="11" fill="#222" font-weight="bold" text-anchor="start">meio) → braço 1</text>
+<text x="144" y="246" font-size="11" fill="#222" font-weight="bold" text-anchor="start">malha →</text>
+<text x="144" y="259" font-size="11" fill="#222" font-weight="bold" text-anchor="start">braço 2</text>
+<text x="120" y="280" font-size="11" fill="#444" text-anchor="middle">vede com fita e silicone</text>
+<rect x="20" y="388" width="640" height="132" rx="8" fill="#eef5ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="34" y="410" font-size="13" fill="#222" font-weight="bold" text-anchor="start">Exemplos (corte 3–5% mais comprido e vá aparando as pontas)</text>
+<text x="380" y="432" font-size="12" fill="#444" font-weight="bold" text-anchor="middle">total</text>
+<text x="500" y="432" font-size="12" fill="#444" font-weight="bold" text-anchor="middle">cada braço</text>
+<text x="34" y="452" font-size="12.5" fill="#222" text-anchor="start">PX / Faixa do Cidadão, 27,1 MHz</text>
+<text x="380" y="452" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">5,28 m</text>
+<text x="500" y="452" font-size="12.5" fill="#c06a1a" font-weight="bold" text-anchor="middle">2,64 m</text>
+<text x="34" y="470" font-size="12.5" fill="#222" text-anchor="start">Radioamador 40 m, 7,1 MHz</text>
+<text x="380" y="470" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">20,1 m</text>
+<text x="500" y="470" font-size="12.5" fill="#c06a1a" font-weight="bold" text-anchor="middle">10,07 m</text>
+<text x="34" y="488" font-size="12.5" fill="#222" text-anchor="start">Radioamador 2 m, 145 MHz</text>
+<text x="380" y="488" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">99 cm</text>
+<text x="500" y="488" font-size="12.5" fill="#c06a1a" font-weight="bold" text-anchor="middle">49 cm</text>
+<text x="34" y="506" font-size="12.5" fill="#222" text-anchor="start">VHF marítimo, 156,8 MHz</text>
+<text x="380" y="506" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">91 cm</text>
+<text x="500" y="506" font-size="12.5" fill="#c06a1a" font-weight="bold" text-anchor="middle">46 cm</text>
+<text x="340" y="538" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">Quanto mais ALTA e livre (longe de fios de energia, telhados de metal e árvores), melhor.</text>
+</svg>

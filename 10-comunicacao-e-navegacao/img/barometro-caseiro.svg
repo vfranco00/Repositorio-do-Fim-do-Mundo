@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 492" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="492" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Barômetro caseiro de pote e bexiga</text>
+<path d="M110 150 L110 330 Q110 350 130 350 L250 350 Q270 350 270 330 L270 150 Z" fill="#e8f3fd" stroke="#1e1e1e" stroke-width="3"/>
+<rect x="102" y="136" width="176" height="16" rx="4" fill="#cfe6fb" stroke="#1e1e1e" stroke-width="2.5"/>
+<path d="M100 136 Q 190 118 280 136" fill="#e86a6a" stroke="#9b2c2c" stroke-width="2.5"/>
+<rect x="98" y="138" width="184" height="8" fill="#555"/>
+<text x="190" y="250" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">pote de vidro</text>
+<text x="190" y="266" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">bem fechado</text>
+<text x="190" y="290" font-size="11" fill="#444" text-anchor="middle">(o ar de dentro</text>
+<text x="190" y="304" font-size="11" fill="#444" text-anchor="middle">fica preso)</text>
+<line x1="190" y1="127" x2="470" y2="140" stroke="#2b8a3e" stroke-width="5" stroke-linecap="round"/>
+<rect x="182" y="120" width="16" height="10" fill="#ddd" stroke="#555"/>
+<text x="140" y="96" font-size="11.5" fill="#9b2c2c" font-weight="bold" text-anchor="start">bexiga esticada e</text>
+<text x="140" y="110" font-size="11.5" fill="#9b2c2c" font-weight="bold" text-anchor="start">presa com elástico</text>
+<text x="284" y="162" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="start">canudo colado no centro</text>
+<text x="284" y="176" font-size="11.5" fill="#2b8a3e" text-anchor="start">da bexiga, apoiado na borda</text>
+<rect x="480" y="60" width="16" height="170" fill="#fffbe6" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="480" y1="72" x2="496" y2="72" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="480" y1="90" x2="490" y2="90" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="480" y1="108" x2="496" y2="108" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="480" y1="126" x2="490" y2="126" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="480" y1="144" x2="496" y2="144" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="480" y1="162" x2="490" y2="162" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="480" y1="180" x2="496" y2="180" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="480" y1="198" x2="490" y2="198" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="480" y1="216" x2="496" y2="216" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="506" y="82" font-size="12" fill="#2b8a3e" font-weight="bold" text-anchor="start">PRESSÃO SUBINDO</text>
+<text x="506" y="97" font-size="11.5" fill="#2b8a3e" text-anchor="start">(ponta sobe)</text>
+<text x="506" y="112" font-size="11.5" fill="#2b8a3e" text-anchor="start">tempo firme</text>
+<text x="506" y="196" font-size="12" fill="#d62828" font-weight="bold" text-anchor="start">PRESSÃO CAINDO</text>
+<text x="506" y="211" font-size="11.5" fill="#d62828" text-anchor="start">(ponta desce)</text>
+<text x="506" y="226" font-size="11.5" fill="#d62828" text-anchor="start">chuva ou vento</text>
+<line x1="470" y1="156" x2="470.0" y2="190.0" stroke="#d62828" stroke-width="3"/><polygon points="470,196 464.8,185.2 475.2,185.2" fill="#d62828"/>
+<line x1="470" y1="124" x2="470.0" y2="90.0" stroke="#2b8a3e" stroke-width="3"/><polygon points="470,84 475.2,94.8 464.8,94.8" fill="#2b8a3e"/>
+<rect x="20" y="370" width="640" height="112" rx="8" fill="#eef5ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="34" y="392" font-size="12.2" fill="#222" font-weight="bold" text-anchor="start">O que importa é a TENDÊNCIA, não o número. Anote 2 vezes por dia, nas mesmas horas.</text>
+<text x="34" y="411" font-size="12.2" fill="#222" text-anchor="start">Queda lenta e contínua por 1–2 dias: tempo piorando, frente chegando.</text>
+<text x="34" y="430" font-size="12.2" fill="#222" font-weight="bold" text-anchor="start">Queda rápida em poucas horas: tempestade ou ventania próxima. Prepare-se.</text>
+<text x="34" y="449" font-size="12.2" fill="#222" text-anchor="start">Subida depois da chuva: tempo melhorando (no Sul e Sudeste, frio chegando com vento sul).</text>
+<text x="34" y="468" font-size="12.2" fill="#222" font-weight="bold" text-anchor="start">Deixe na sombra, longe do fogão e do sol: o calor também mexe o ponteiro.</text>
+</svg>

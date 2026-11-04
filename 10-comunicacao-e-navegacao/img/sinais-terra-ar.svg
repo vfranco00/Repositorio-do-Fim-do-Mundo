@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 794" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="794" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Sinais terra-ar (para aviões e helicópteros)</text>
+<text x="340" y="56" font-size="13" fill="#222" text-anchor="middle">Monte no chão, em lugar aberto, com material que CONTRASTE com o fundo</text>
+<rect x="20" y="70" width="124" height="120" rx="6" fill="#8fbf6a" stroke="#4f7a35" stroke-width="2"/>
+<line x1="50.0" y1="92" x2="82.0" y2="168" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="50.0" y1="92" x2="82.0" y2="168" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<line x1="114.0" y1="92" x2="82.0" y2="168" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="114.0" y1="92" x2="82.0" y2="168" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<text x="82.0" y="216" font-size="13" fill="#d62828" font-weight="bold" text-anchor="middle">PRECISO DE</text>
+<text x="82.0" y="233" font-size="13" fill="#d62828" font-weight="bold" text-anchor="middle">AJUDA</text>
+<rect x="149" y="70" width="124" height="120" rx="6" fill="#8fbf6a" stroke="#4f7a35" stroke-width="2"/>
+<line x1="179.0" y1="92" x2="243.0" y2="168" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="179.0" y1="92" x2="243.0" y2="168" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<line x1="243.0" y1="92" x2="179.0" y2="168" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="243.0" y1="92" x2="179.0" y2="168" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<text x="211.0" y="216" font-size="13" fill="#d62828" font-weight="bold" text-anchor="middle">PRECISO DE</text>
+<text x="211.0" y="233" font-size="13" fill="#d62828" font-weight="bold" text-anchor="middle">MÉDICO</text>
+<rect x="278" y="70" width="124" height="120" rx="6" fill="#8fbf6a" stroke="#4f7a35" stroke-width="2"/>
+<line x1="312.0" y1="168" x2="312.0" y2="92" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="312.0" y1="168" x2="312.0" y2="92" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<line x1="312.0" y1="92" x2="368.0" y2="168" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="312.0" y1="92" x2="368.0" y2="168" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<line x1="368.0" y1="168" x2="368.0" y2="92" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="368.0" y1="168" x2="368.0" y2="92" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<text x="340.0" y="216" font-size="13" fill="#1e1e1e" font-weight="bold" text-anchor="middle">NÃO</text>
+<text x="340.0" y="233" font-size="13" fill="#1e1e1e" font-weight="bold" text-anchor="middle">(negativo)</text>
+<rect x="407" y="70" width="124" height="120" rx="6" fill="#8fbf6a" stroke="#4f7a35" stroke-width="2"/>
+<line x1="437.0" y1="92" x2="469.0" y2="130" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="437.0" y1="92" x2="469.0" y2="130" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<line x1="501.0" y1="92" x2="469.0" y2="130" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="501.0" y1="92" x2="469.0" y2="130" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<line x1="469.0" y1="130" x2="469.0" y2="168" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="469.0" y1="130" x2="469.0" y2="168" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<text x="469.0" y="216" font-size="13" fill="#2b8a3e" font-weight="bold" text-anchor="middle">SIM</text>
+<text x="469.0" y="233" font-size="13" fill="#2b8a3e" font-weight="bold" text-anchor="middle">(afirmativo)</text>
+<rect x="536" y="70" width="124" height="120" rx="6" fill="#8fbf6a" stroke="#4f7a35" stroke-width="2"/>
+<line x1="554.0" y1="130" x2="632.0" y2="130" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="554.0" y1="130" x2="632.0" y2="130" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<line x1="632.0" y1="130" x2="608.0" y2="106" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="632.0" y1="130" x2="608.0" y2="106" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<line x1="632.0" y1="130" x2="608.0" y2="154" stroke="#1e1e1e" stroke-width="17" stroke-linecap="square"/><line x1="632.0" y1="130" x2="608.0" y2="154" stroke="#f7f3e6" stroke-width="13" stroke-linecap="square"/>
+<text x="598.0" y="216" font-size="13" fill="#3f6d9e" font-weight="bold" text-anchor="middle">FUI NESTA</text>
+<text x="598.0" y="233" font-size="13" fill="#3f6d9e" font-weight="bold" text-anchor="middle">DIREÇÃO</text>
+<text x="598.0" y="250" font-size="11" fill="#444" text-anchor="middle">(aponte para onde foi)</text>
+<rect x="20" y="270" width="300" height="200" rx="8" fill="#f6f1e4" stroke="#c9bba0"/>
+<text x="170" y="292" font-size="13.5" fill="#222" font-weight="bold" text-anchor="middle">Tamanho mínimo (letra V)</text>
+<rect x="40" y="308" width="160" height="134" fill="#8fbf6a" rx="4"/>
+<line x1="70" y1="316" x2="120" y2="432" stroke="#1e1e1e" stroke-width="20" stroke-linecap="square"/><line x1="70" y1="316" x2="120" y2="432" stroke="#f7f3e6" stroke-width="16" stroke-linecap="square"/>
+<line x1="170" y1="316" x2="120" y2="432" stroke="#1e1e1e" stroke-width="20" stroke-linecap="square"/><line x1="170" y1="316" x2="120" y2="432" stroke="#f7f3e6" stroke-width="16" stroke-linecap="square"/>
+<line x1="216" y1="316" x2="216" y2="432" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="210" y1="316" x2="222" y2="316" stroke="#1e1e1e" stroke-width="1.5"/><line x1="210" y1="432" x2="222" y2="432" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="226" y="362" font-size="12" fill="#222" font-weight="bold" text-anchor="start">3 m no</text>
+<text x="226" y="378" font-size="12" fill="#222" font-weight="bold" text-anchor="start">mínimo;</text>
+<text x="226" y="394" font-size="12" fill="#222" text-anchor="start">melhor</text>
+<text x="226" y="410" font-size="12" fill="#222" text-anchor="start">6 a 10 m</text>
+<text x="170" y="461" font-size="12" fill="#222" text-anchor="middle">faixa com ~1/6 do comprimento (1 m)</text>
+<rect x="334" y="270" width="326" height="200" rx="8" fill="#eef5ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="346" y="294.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">Lugar aberto: clareira, praia, topo,</text>
+<text x="346" y="310.4" font-size="12" fill="#222" text-anchor="start">campo, telhado, banco de areia.</text>
+<text x="346" y="326.8" font-size="12" fill="#222" font-weight="bold" text-anchor="start">Linhas RETAS e cantos vivos: não</text>
+<text x="346" y="343.2" font-size="12" fill="#222" text-anchor="start">existem na natureza e chamam atenção.</text>
+<text x="346" y="359.6" font-size="12" fill="#222" font-weight="bold" text-anchor="start">Contraste: pano claro, pedras claras ou</text>
+<text x="346" y="376.0" font-size="12" fill="#222" text-anchor="start">capim cortado sobre fundo escuro; galhos</text>
+<text x="346" y="392.4" font-size="12" fill="#222" text-anchor="start">e terra revirada sobre fundo claro.</text>
+<text x="346" y="408.79999999999995" font-size="12" fill="#222" font-weight="bold" text-anchor="start">Valas cavadas ou montes fazem SOMBRA</text>
+<text x="346" y="425.2" font-size="12" fill="#222" text-anchor="start">e aparecem melhor com sol baixo.</text>
+<text x="346" y="441.6" font-size="12" fill="#222" font-weight="bold" text-anchor="start">Avião BALANÇA AS ASAS (ou pisca as luzes</text>
+<text x="346" y="458.0" font-size="12" fill="#222" text-anchor="start">2 vezes à noite) = mensagem entendida.</text>
+<text x="340" y="506" font-size="14" fill="#222" font-weight="bold" text-anchor="middle">Com o corpo, de frente para o avião ou helicóptero</text>
+<polyline points="161,646 158,716" fill="none" stroke="#1e1e1e" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/><polyline points="161,646 158,716" fill="none" stroke="#ef8a2b" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><polyline points="179,646 182,716" fill="none" stroke="#1e1e1e" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/><polyline points="179,646 182,716" fill="none" stroke="#ef8a2b" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><polyline points="170,584 170,646" fill="none" stroke="#1e1e1e" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/><polyline points="170,584 170,646" fill="none" stroke="#ef8a2b" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/><polyline points="160,590 128,530" fill="none" stroke="#1e1e1e" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><polyline points="160,590 128,530" fill="none" stroke="#ef8a2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><polyline points="180,590 212,530" fill="none" stroke="#1e1e1e" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><polyline points="180,590 212,530" fill="none" stroke="#ef8a2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><circle cx="170" cy="564" r="15" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="128" cy="528" r="7" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="212" cy="528" r="7" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2"/>
+<text x="170" y="738" font-size="12.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">Y — braços para cima em V:</text>
+<text x="170" y="754" font-size="12.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">"SIM, PRECISAMOS DE AJUDA"</text>
+<polyline points="491,646 488,716" fill="none" stroke="#1e1e1e" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/><polyline points="491,646 488,716" fill="none" stroke="#ef8a2b" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><polyline points="509,646 512,716" fill="none" stroke="#1e1e1e" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/><polyline points="509,646 512,716" fill="none" stroke="#ef8a2b" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><polyline points="500,584 500,646" fill="none" stroke="#1e1e1e" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/><polyline points="500,584 500,646" fill="none" stroke="#ef8a2b" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/><polyline points="510,590 512,516" fill="none" stroke="#1e1e1e" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><polyline points="510,590 512,516" fill="none" stroke="#ef8a2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><polyline points="490,590 474,650" fill="none" stroke="#1e1e1e" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><polyline points="490,590 474,650" fill="none" stroke="#ef8a2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><circle cx="500" cy="564" r="15" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="512" cy="514" r="7" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="474" cy="654" r="7" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2"/>
+<text x="500" y="738" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="middle">N — um braço para cima, outro para</text>
+<text x="500" y="754" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="middle">baixo: "NÃO PRECISAMOS DE AJUDA"</text>
+<text x="340" y="780" font-size="12.5" fill="#444" text-anchor="middle">Agite um pano claro ou colorido na mão para ser visto de mais longe.</text>
+</svg>

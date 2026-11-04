@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 384" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="384" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Declinação magnética: corrigir a bússola</text>
+<line x1="170" y1="330" x2="170" y2="80" stroke="#1e1e1e" stroke-width="3"/>
+<polygon points="170.0,58.0 173.2,65.6 181.4,66.3 175.1,71.7 177.1,79.7 170.0,75.4 162.9,79.7 164.9,71.7 158.6,66.3 166.8,65.6" fill="#1e1e1e"/>
+<text x="170" y="52" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">NORTE VERDADEIRO</text>
+<text x="170" y="36" font-size="1" fill="#222" text-anchor="start"></text>
+<line x1="170" y1="330" x2="76.3" y2="98.2" stroke="#d62828" stroke-width="3"/>
+<polygon points="76.3,92.2 69.3,110.2 83.3,110.2" fill="#d62828" transform="rotate(-22 76.3 98.2)"/>
+<text x="70.348351646022" y="68.20403635830314" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="middle">NORTE DA</text>
+<text x="70.348351646022" y="83.20403635830314" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="middle">BÚSSOLA</text>
+<path d="M170 180 A150 150 0 0 0 113.8 190.9" fill="none" stroke="#3f6d9e" stroke-width="2.5"/>
+<text x="106" y="170" font-size="15" fill="#3f6d9e" font-weight="bold" text-anchor="middle">22°</text>
+<text x="106" y="186" font-size="12" fill="#3f6d9e" font-weight="bold" text-anchor="middle">oeste</text>
+<line x1="170" y1="330" x2="340" y2="330" stroke="#2b8a3e" stroke-width="3"/>
+<line x1="310" y1="330" x2="342.0" y2="330.0" stroke="#2b8a3e" stroke-width="3"/><polygon points="348,330 337.2,335.2 337.2,324.8" fill="#2b8a3e"/>
+<text x="280" y="352" font-size="12.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">alvo a LESTE</text>
+<path d="M170 270 A60 60 0 0 1 230 330" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="216" y="280" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">90° no mapa</text>
+<path d="M132.5 237.3 A100 100 0 0 1 270 330" fill="none" stroke="#d62828" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="242" y="226" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">112° na bússola</text>
+<circle cx="170" cy="330" r="5" fill="#1e1e1e"/>
+<rect x="380" y="60" width="280" height="280" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="392" y="84.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">No Brasil a agulha aponta</text><text x="392" y="100.5" font-size="12" fill="#222" font-weight="bold" text-anchor="start">8° a 24° A OESTE do norte</text><text x="392" y="117.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">verdadeiro (do mapa).</text><text x="392" y="133.5" font-size="12" fill="#222" text-anchor="start"></text><text x="392" y="150.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">MAPA → BÚSSOLA: SOME</text><text x="392" y="166.5" font-size="12" fill="#222" text-anchor="start">Rumo no mapa 90° + 22° =</text><text x="392" y="183.0" font-size="12" fill="#222" text-anchor="start">112° na bússola.</text><text x="392" y="199.5" font-size="12" fill="#222" text-anchor="start"></text><text x="392" y="216.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">BÚSSOLA → MAPA: SUBTRAIA</text><text x="392" y="232.5" font-size="12" fill="#222" text-anchor="start">Rumo na bússola 112° − 22° =</text><text x="392" y="249.0" font-size="12" fill="#222" text-anchor="start">90° no mapa.</text><text x="392" y="265.5" font-size="12" fill="#222" text-anchor="start"></text><text x="392" y="282.0" font-size="12" fill="#222" text-anchor="start">Errar 20° faz você sair 350 m</text><text x="392" y="298.5" font-size="12" fill="#222" text-anchor="start">do alvo a cada 1 km andado.</text><text x="392" y="315.0" font-size="12" fill="#222" text-anchor="start">Valores de cada cidade: tabela</text><text x="392" y="331.5" font-size="12" fill="#222" text-anchor="start">no texto. Muda ~0,1° por ano.</text>
+<text x="340" y="370" font-size="12.5" fill="#444" text-anchor="middle">Exemplo para São Paulo (declinação 22° oeste em 2026).</text>
+</svg>

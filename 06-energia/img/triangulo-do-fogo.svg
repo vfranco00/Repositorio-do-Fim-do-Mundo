@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 560" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="560" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Triângulo do fogo e o material para acender</text>
+<line x1="170" y1="72" x2="48" y2="282" stroke="#1e1e1e" stroke-width="18" stroke-linecap="round"/>
+<line x1="170" y1="72" x2="292" y2="282" stroke="#1e1e1e" stroke-width="18" stroke-linecap="round"/>
+<line x1="48" y1="282" x2="292" y2="282" stroke="#1e1e1e" stroke-width="18" stroke-linecap="round"/>
+<line x1="170" y1="72" x2="48" y2="282" stroke="#d62828" stroke-width="12" stroke-linecap="round"/>
+<line x1="170" y1="72" x2="292" y2="282" stroke="#4a90d9" stroke-width="12" stroke-linecap="round"/>
+<line x1="48" y1="282" x2="292" y2="282" stroke="#8b5a2b" stroke-width="12" stroke-linecap="round"/>
+<path d="M137.5,250.0 C127.5,217.5 152.5,202.5 155.0,177.5 C167.5,195.0 175.0,190.0 172.5,160.0 C192.5,185.0 207.5,200.0 202.5,250.0 Z" fill="#f08c00" stroke="#1e1e1e" stroke-width="2"/><path d="M153.8,250.0 C147.5,230.0 162.5,220.0 165.0,205.0 C172.5,215.0 180.0,212.5 180.0,195.0 C190.0,215.0 192.5,227.5 186.2,250.0 Z" fill="#ffd43b"/>
+<text x="95.2" y="169.0" font-size="15" fill="#b3001b" font-weight="bold" text-anchor="middle" transform="rotate(-59.8 95.2 169.0)">CALOR</text>
+<text x="79.6" y="159.9" font-size="11.5" fill="#444" text-anchor="middle" transform="rotate(-59.8 79.6 159.9)">chama, faísca, sol</text>
+<text x="244.8" y="169.0" font-size="15" fill="#1f5f9e" font-weight="bold" text-anchor="middle" transform="rotate(59.8 244.8 169.0)">OXIGÊNIO (ar)</text>
+<text x="260.4" y="159.9" font-size="11.5" fill="#444" text-anchor="middle" transform="rotate(59.8 260.4 159.9)">vento, ar por baixo</text>
+<text x="170" y="310" font-size="15" fill="#6b3f17" font-weight="bold" text-anchor="middle">COMBUSTÍVEL</text>
+<text x="170" y="326" font-size="11.5" fill="#444" text-anchor="middle">isca, gravetos, lenha</text>
+<text x="330" y="80" font-size="15" fill="#222" font-weight="bold" text-anchor="start">Tire um lado e o fogo APAGA:</text>
+<circle cx="338" cy="104" r="7" fill="#d62828"/>
+<text x="352" y="109.0" font-size="13" fill="#222" text-anchor="start">ÁGUA esfria → tira o CALOR</text>
+<circle cx="338" cy="132" r="7" fill="#4a90d9"/>
+<text x="352" y="137.0" font-size="13" fill="#222" text-anchor="start">TERRA, AREIA, TAMPA ou pano molhado</text><text x="352" y="153.9" font-size="13" fill="#222" text-anchor="start">abafam → tiram o AR</text>
+<circle cx="338" cy="177" r="7" fill="#8b5a2b"/>
+<text x="352" y="182.0" font-size="13" fill="#222" text-anchor="start">ACEIRO (faixa sem mato) ou afastar</text><text x="352" y="198.9" font-size="13" fill="#222" text-anchor="start">a lenha → tira o COMBUSTÍVEL</text>
+<rect x="330" y="222" width="330" height="96" rx="8" fill="#eef7ee" stroke="#2b8a3e" stroke-width="1.5"/>
+<text x="342" y="244" font-size="13" fill="#1d5a2a" font-weight="bold" text-anchor="start">Para ACENDER, junte os três:</text><text x="342" y="262" font-size="13" fill="#1d5a2a" text-anchor="start">material fino e SECO, ar passando por</text><text x="342" y="280" font-size="13" fill="#1d5a2a" text-anchor="start">baixo e entre os gravetos, e calor</text><text x="342" y="298" font-size="13" fill="#1d5a2a" text-anchor="start">concentrado num ponto só.</text>
+<line x1="20" y1="346" x2="660" y2="346" stroke="#ccc" stroke-width="2" stroke-linecap="round"/>
+<text x="340" y="372" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">Junte TUDO antes de acender, do mais fino ao mais grosso (o dobro do que acha que precisa)</text>
+<path d="M50.0,462 Q62.0,440 48.0,418 T56.0,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M54.5,462 Q66.5,440 52.5,418 T60.5,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M59.0,462 Q71.0,440 57.0,418 T65.0,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M63.5,462 Q75.5,440 61.5,418 T69.5,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M68.0,462 Q80.0,440 66.0,418 T74.0,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M72.5,462 Q84.5,440 70.5,418 T78.5,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M77.0,462 Q89.0,440 75.0,418 T83.0,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M81.5,462 Q93.5,440 79.5,418 T87.5,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M86.0,462 Q98.0,440 84.0,418 T92.0,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M90.5,462 Q102.5,440 88.5,418 T96.5,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M95.0,462 Q107.0,440 93.0,418 T101.0,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M99.5,462 Q111.5,440 97.5,418 T105.5,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M104.0,462 Q116.0,440 102.0,418 T110.0,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M108.5,462 Q120.5,440 106.5,418 T114.5,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M113.0,462 Q125.0,440 111.0,418 T119.0,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M117.5,462 Q129.5,440 115.5,418 T123.5,396" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M44,462 Q84,452 124,462" fill="none" stroke="#8a6d10" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="172" y1="462" x2="242" y2="400" stroke="#6b3f17" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="175" y1="460" x2="244" y2="403" stroke="#6b3f17" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="178" y1="458" x2="246" y2="406" stroke="#6b3f17" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="181" y1="456" x2="248" y2="409" stroke="#6b3f17" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="184" y1="454" x2="250" y2="412" stroke="#6b3f17" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="187" y1="452" x2="252" y2="415" stroke="#6b3f17" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="190" y1="450" x2="254" y2="418" stroke="#6b3f17" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="193" y1="448" x2="256" y2="421" stroke="#6b3f17" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="196" y1="446" x2="258" y2="424" stroke="#6b3f17" stroke-width="1.8" stroke-linecap="round"/>
+<polyline points="298,462 376,404" fill="none" stroke="#1e1e1e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><polyline points="298,462 376,404" fill="none" stroke="#a8743f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="304,458 379,410" fill="none" stroke="#1e1e1e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><polyline points="304,458 379,410" fill="none" stroke="#a8743f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="310,454 382,416" fill="none" stroke="#1e1e1e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><polyline points="310,454 382,416" fill="none" stroke="#a8743f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="316,450 385,422" fill="none" stroke="#1e1e1e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><polyline points="316,450 385,422" fill="none" stroke="#a8743f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="322,446 388,428" fill="none" stroke="#1e1e1e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><polyline points="322,446 388,428" fill="none" stroke="#a8743f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="424,460 508,410" fill="none" stroke="#1e1e1e" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><polyline points="424,460 508,410" fill="none" stroke="#8b5a2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="432,452 512,420" fill="none" stroke="#1e1e1e" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><polyline points="432,452 512,420" fill="none" stroke="#8b5a2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="440,444 516,430" fill="none" stroke="#1e1e1e" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><polyline points="440,444 516,430" fill="none" stroke="#8b5a2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="566" cy="446" r="20" fill="#d9a066" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="566" cy="446" r="11.0" fill="none" stroke="#8b5a2b" stroke-width="1.5"/>
+<circle cx="608" cy="446" r="20" fill="#d9a066" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="608" cy="446" r="11.0" fill="none" stroke="#8b5a2b" stroke-width="1.5"/>
+<circle cx="587" cy="410" r="19" fill="#d9a066" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="587" cy="410" r="10.5" fill="none" stroke="#8b5a2b" stroke-width="1.5"/>
+<circle cx="636" cy="416" r="13" fill="#d9a066" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="636" cy="416" r="7.2" fill="none" stroke="#8b5a2b" stroke-width="1.5"/>
+<line x1="134" y1="432" x2="156.0" y2="432.0" stroke="#888" stroke-width="3"/><polygon points="162,432 151.2,437.2 151.2,426.8" fill="#888"/>
+<line x1="262" y1="432" x2="284.0" y2="432.0" stroke="#888" stroke-width="3"/><polygon points="290,432 279.2,437.2 279.2,426.8" fill="#888"/>
+<line x1="390" y1="432" x2="412.0" y2="432.0" stroke="#888" stroke-width="3"/><polygon points="418,432 407.2,437.2 407.2,426.8" fill="#888"/>
+<line x1="518" y1="432" x2="540.0" y2="432.0" stroke="#888" stroke-width="3"/><polygon points="546,432 535.2,437.2 535.2,426.8" fill="#888"/>
+<text x="84" y="488" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">1. ISCA</text>
+<text x="84" y="504" font-size="11.5" fill="#333" text-anchor="middle">fibras finas e secas</text>
+<text x="84" y="519" font-size="11.5" fill="#333" text-anchor="middle">2 punhados</text>
+<text x="212" y="488" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">2. GRAVETO FINO</text>
+<text x="212" y="504" font-size="11.5" fill="#333" text-anchor="middle">grossura de palito</text>
+<text x="212" y="519" font-size="11.5" fill="#333" text-anchor="middle">de fósforo · 1 braçada</text>
+<text x="340" y="488" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">3. GRAVETO</text>
+<text x="340" y="504" font-size="11.5" fill="#333" text-anchor="middle">grossura de lápis</text>
+<text x="340" y="519" font-size="11.5" fill="#333" text-anchor="middle">1 braçada</text>
+<text x="468" y="488" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">4. GALHO</text>
+<text x="468" y="504" font-size="11.5" fill="#333" text-anchor="middle">grossura do polegar</text>
+<text x="468" y="519" font-size="11.5" fill="#333" text-anchor="middle">2 braçadas</text>
+<text x="596" y="488" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">5. LENHA</text>
+<text x="596" y="504" font-size="11.5" fill="#333" text-anchor="middle">do punho ao braço</text>
+<text x="596" y="519" font-size="11.5" fill="#333" text-anchor="middle">uma pilha</text>
+<text x="340" y="546" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="middle">Madeira seca QUEBRA com estalo. Se só dobra, está verde ou úmida.</text>
+</svg>

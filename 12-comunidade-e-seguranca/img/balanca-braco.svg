@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 466" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="466" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Balança de braço caseira (pesos justos na feira)</text>
+<rect x="70" y="400" width="290" height="16" rx="3" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="204" y="118" width="16" height="282" fill="#a87442" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="198" y="186" width="28" height="26" rx="3" fill="#fff" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="212" y1="188" x2="212" y2="210" stroke="#d62828" stroke-width="2"/>
+<rect x="54" y="132" width="316" height="12" rx="3" fill="#c79a5a" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="212" cy="135" r="4.5" fill="#555" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="212" y1="144" x2="212" y2="204" stroke="#222" stroke-width="3"/>
+<polygon points="207,200 217,200 212,210" fill="#222"/>
+<circle cx="62" cy="138" r="3" fill="#555"/>
+<line x1="62" y1="140" x2="22" y2="296" stroke="#555" stroke-width="1.8"/>
+<line x1="62" y1="140" x2="62" y2="296" stroke="#555" stroke-width="1.8"/>
+<line x1="62" y1="140" x2="102" y2="296" stroke="#555" stroke-width="1.8"/>
+<path d="M16 296 L108 296 L100 316 L24 316 Z" fill="#c9c9c9" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="362" cy="138" r="3" fill="#555"/>
+<line x1="362" y1="140" x2="322" y2="296" stroke="#555" stroke-width="1.8"/>
+<line x1="362" y1="140" x2="362" y2="296" stroke="#555" stroke-width="1.8"/>
+<line x1="362" y1="140" x2="402" y2="296" stroke="#555" stroke-width="1.8"/>
+<path d="M316 296 L408 296 L400 316 L324 316 Z" fill="#c9c9c9" stroke="#1e1e1e" stroke-width="2.5"/>
+<path d="M30 296 Q 26 262 40 254 L 70 254 Q 82 262 78 296 Z" fill="#e9dcb8" stroke="#1e1e1e" stroke-width="2"/>
+<text x="54" y="284" font-size="10.5" fill="#5a4a2a" font-weight="bold" text-anchor="middle">arroz</text>
+<path d="M80 296 L80 252 Q80 242 88 238 L88 234 L98 234 L98 238 Q106 242 106 252 L106 296 Z" fill="#eef7ff" stroke="#1e1e1e" stroke-width="2"/><rect x="87" y="228" width="12" height="7" fill="#3f6d9e" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M349 296 L349 252 Q349 242 357 238 L357 234 L367 234 L367 238 Q375 242 375 252 L375 296 Z" fill="#eef7ff" stroke="#1e1e1e" stroke-width="2"/><rect x="351" y="254" width="22" height="41" fill="#9fc5ec"/><rect x="356" y="228" width="12" height="7" fill="#3f6d9e" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="62" y1="104" x2="210" y2="104" stroke="#2b8a3e" stroke-width="2"/>
+<line x1="214" y1="104" x2="362" y2="104" stroke="#2b8a3e" stroke-width="2"/>
+<line x1="62" y1="96" x2="62" y2="112" stroke="#2b8a3e" stroke-width="2"/>
+<line x1="212" y1="96" x2="212" y2="112" stroke="#2b8a3e" stroke-width="2"/>
+<line x1="362" y1="96" x2="362" y2="112" stroke="#2b8a3e" stroke-width="2"/>
+<text x="137" y="96" font-size="12.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">45 cm</text>
+<text x="287" y="96" font-size="12.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">45 cm</text>
+<text x="212" y="66" font-size="12" fill="#2b8a3e" font-weight="bold" text-anchor="middle">distâncias IGUAIS (meça com barbante)</text>
+<text x="196" y="230" font-size="11" fill="#222" font-weight="bold" text-anchor="end">fiel (ponteiro)</text>
+<text x="196" y="244" font-size="11" fill="#222" font-weight="bold" text-anchor="end">na marca =</text>
+<text x="196" y="258" font-size="11" fill="#222" font-weight="bold" text-anchor="end">equilíbrio</text>
+<text x="230" y="164" font-size="11" fill="#222" text-anchor="start">prego (eixo) num</text>
+<text x="230" y="178" font-size="11" fill="#222" text-anchor="start">furo um pouco</text>
+<text x="230" y="192" font-size="11" fill="#222" font-weight="bold" text-anchor="start">ACIMA do meio</text>
+<text x="230" y="206" font-size="11" fill="#222" font-weight="bold" text-anchor="start">da ripa</text>
+<text x="16" y="330" font-size="11" fill="#333" text-anchor="start">garrafa vazia IGUAL</text>
+<text x="16" y="343" font-size="11" fill="#333" text-anchor="start">(desconta o plástico)</text>
+<text x="318" y="330" font-size="11" fill="#333" text-anchor="start">garrafa de 1 L</text>
+<text x="318" y="343" font-size="11" fill="#333" text-anchor="start">cheia d'água</text>
+<text x="14" y="438" font-size="12" fill="#222" font-weight="bold" text-anchor="start">arroz + garrafa vazia = garrafa cheia: 1 kg de arroz</text>
+<text x="14" y="455" font-size="11.5" fill="#444" text-anchor="start">Ripa reta de madeira dura (~1 m), pratos iguais, 3 cordões iguais.</text>
+<rect x="418" y="52" width="248" height="196" rx="8" fill="#eef7ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="430" y="74" font-size="13.5" fill="#222" font-weight="bold" text-anchor="start">Como conferir</text>
+<text x="430" y="96" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">1. Vazia: o fiel para na</text>
+<text x="430" y="111" font-size="11.5" fill="#222" text-anchor="start">marca. Se não, cole fita,</text>
+<text x="430" y="126" font-size="11.5" fill="#222" text-anchor="start">massa ou um prego no</text>
+<text x="430" y="141" font-size="11.5" fill="#222" text-anchor="start">lado mais leve.</text>
+<text x="430" y="163" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">2. Pese algo e TROQUE os</text>
+<text x="430" y="178" font-size="11.5" fill="#222" text-anchor="start">pratos de lado. Tem que</text>
+<text x="430" y="193" font-size="11.5" fill="#222" text-anchor="start">equilibrar igual. Se não,</text>
+<text x="430" y="208" font-size="11.5" fill="#222" text-anchor="start">os braços estão desiguais:</text>
+<text x="430" y="223" font-size="11.5" fill="#222" text-anchor="start">refaça os furos.</text>
+<rect x="418" y="260" width="248" height="196" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="430" y="282" font-size="13.5" fill="#222" font-weight="bold" text-anchor="start">Pesos-padrão</text>
+<text x="430" y="304" font-size="12" fill="#222" font-weight="bold" text-anchor="start">1 litro de água = 1 kg</text>
+<text x="430" y="320" font-size="11.5" fill="#222" text-anchor="start">2 L = 2 kg · 500 mL = 500 g</text>
+<text x="430" y="340" font-size="11.5" fill="#222" text-anchor="start">Moeda de R$ 1 (dourada e</text>
+<text x="430" y="355" font-size="11.5" fill="#222" text-anchor="start">prateada) = 7 g; 10 moedas</text>
+<text x="430" y="370" font-size="11.5" fill="#222" text-anchor="start">= 70 g</text>
+<text x="430" y="392" font-size="11.5" fill="#222" text-anchor="start">Faça pesos de pedra: pese</text>
+<text x="430" y="407" font-size="11.5" fill="#222" text-anchor="start">contra a garrafa e marque</text>
+<text x="430" y="422" font-size="11.5" fill="#222" text-anchor="start">(1 kg, 500 g, 250 g, 100 g).</text>
+<text x="430" y="442" font-size="11.5" fill="#444" text-anchor="start">Precisão: ~1 a 2%.</text>
+</svg>

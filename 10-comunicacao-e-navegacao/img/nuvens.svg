@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 562" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="562" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Nuvens: o que cada uma anuncia</text>
+<rect x="20" y="48" width="640" height="138" fill="#dcebf8"/>
+<text x="28" y="64" font-size="11.5" fill="#4a5a6a" font-weight="bold" text-anchor="start">NUVENS ALTAS (acima de 6 km, finas, de gelo)</text>
+<rect x="20" y="186" width="640" height="156" fill="#e7f1fa"/>
+<text x="28" y="202" font-size="11.5" fill="#4a5a6a" font-weight="bold" text-anchor="start">NUVENS MÉDIAS (2 a 6 km)</text>
+<rect x="20" y="342" width="640" height="152" fill="#f1f7fc"/>
+<text x="28" y="358" font-size="11.5" fill="#4a5a6a" font-weight="bold" text-anchor="start">NUVENS BAIXAS (até 2 km)</text>
+<rect x="20" y="494" width="640" height="14" fill="#8fbf6a"/>
+<path d="M70 122 q 30 -4 52 -22 q 6 -6 2 -10" fill="none" stroke="#8aa6c4" stroke-width="3" stroke-linecap="round"/>
+<path d="M76 128 q 26 -2 44 -16" fill="none" stroke="#a9bfd6" stroke-width="2" stroke-linecap="round"/>
+<path d="M120 110 q 30 -4 52 -22 q 6 -6 2 -10" fill="none" stroke="#8aa6c4" stroke-width="3" stroke-linecap="round"/>
+<path d="M126 116 q 26 -2 44 -16" fill="none" stroke="#a9bfd6" stroke-width="2" stroke-linecap="round"/>
+<path d="M165 126 q 30 -4 52 -22 q 6 -6 2 -10" fill="none" stroke="#8aa6c4" stroke-width="3" stroke-linecap="round"/>
+<path d="M171 132 q 26 -2 44 -16" fill="none" stroke="#a9bfd6" stroke-width="2" stroke-linecap="round"/>
+<path d="M210 114 q 30 -4 52 -22 q 6 -6 2 -10" fill="none" stroke="#8aa6c4" stroke-width="3" stroke-linecap="round"/>
+<path d="M216 120 q 26 -2 44 -16" fill="none" stroke="#a9bfd6" stroke-width="2" stroke-linecap="round"/>
+<text x="160" y="148" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">CIRROS ("rabo de galo")</text><text x="160" y="163" font-size="11.5" fill="#c26a00" font-weight="bold" text-anchor="middle">poucos e parados: tempo bom</text><text x="160" y="177" font-size="11.5" fill="#c26a00" font-weight="bold" text-anchor="middle">aumentando: mudança em 1–2 dias</text>
+<circle cx="380" cy="100" r="11" fill="#ffd43b" stroke="#e8a400" stroke-width="2.5"/><line x1="395.0" y1="100.0" x2="401.0" y2="100.0" stroke="#e8a400" stroke-width="2.5"/><line x1="390.6" y1="110.6" x2="394.8" y2="114.8" stroke="#e8a400" stroke-width="2.5"/><line x1="380.0" y1="115.0" x2="380.0" y2="121.0" stroke="#e8a400" stroke-width="2.5"/><line x1="369.4" y1="110.6" x2="365.2" y2="114.8" stroke="#e8a400" stroke-width="2.5"/><line x1="365.0" y1="100.0" x2="359.0" y2="100.0" stroke="#e8a400" stroke-width="2.5"/><line x1="369.4" y1="89.4" x2="365.2" y2="85.2" stroke="#e8a400" stroke-width="2.5"/><line x1="380.0" y1="85.0" x2="380.0" y2="79.0" stroke="#e8a400" stroke-width="2.5"/><line x1="390.6" y1="89.4" x2="394.8" y2="85.2" stroke="#e8a400" stroke-width="2.5"/>
+<circle cx="380" cy="100" r="34" fill="none" stroke="#c8a2c8" stroke-width="3" stroke-opacity="0.9"/>
+<rect x="290" y="76" width="190" height="48" rx="24" fill="#ffffff" fill-opacity="0.55"/>
+<text x="390" y="146" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">CIRROESTRATOS (véu)</text><text x="390" y="161" font-size="11.5" fill="#c26a00" font-weight="bold" text-anchor="middle">halo no sol ou na lua:</text><text x="390" y="175" font-size="11.5" fill="#c26a00" font-weight="bold" text-anchor="middle">chuva provável em 12–24 h</text>
+<ellipse cx="46" cy="222" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="70" cy="222" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="94" cy="222" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="118" cy="222" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="142" cy="222" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="57" cy="237" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="81" cy="237" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="105" cy="237" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="129" cy="237" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="153" cy="237" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="46" cy="252" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="70" cy="252" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="94" cy="252" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="118" cy="252" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<ellipse cx="142" cy="252" rx="11" ry="6.5" fill="#fff" stroke="#8a98a6" stroke-width="1.5"/>
+<text x="95" y="284" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">ALTOCÚMULOS</text><text x="95" y="299" font-size="11.5" fill="#c26a00" font-weight="bold" text-anchor="middle">"céu pedrento":</text><text x="95" y="313" font-size="11.5" fill="#c26a00" font-weight="bold" text-anchor="middle">mudança de tempo</text>
+<rect x="194" y="210" width="132" height="44" rx="10" fill="#b9c3cc" stroke="#8a98a6" stroke-width="1.5"/>
+<circle cx="260" cy="232" r="11" fill="#f3efe0" fill-opacity="0.85"/>
+<text x="260" y="284" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">ALTOESTRATOS</text><text x="260" y="299" font-size="11.5" fill="#c26a00" font-weight="bold" text-anchor="middle">sol de vidro fosco:</text><text x="260" y="313" font-size="11.5" fill="#c26a00" font-weight="bold" text-anchor="middle">chuva em horas</text>
+<rect x="362" y="204" width="140" height="50" rx="12" fill="#6f7a86" stroke="#4d5660" stroke-width="1.5"/>
+<line x1="376" y1="258" x2="370" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="386" y1="258" x2="380" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="396" y1="258" x2="390" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="406" y1="258" x2="400" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="416" y1="258" x2="410" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="426" y1="258" x2="420" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="436" y1="258" x2="430" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="446" y1="258" x2="440" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="456" y1="258" x2="450" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="466" y1="258" x2="460" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="476" y1="258" x2="470" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="486" y1="258" x2="480" y2="276" stroke="#3f6d9e" stroke-width="2"/><line x1="496" y1="258" x2="490" y2="276" stroke="#3f6d9e" stroke-width="2"/>
+<text x="432" y="296" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">NIMBOESTRATOS</text><text x="432" y="311" font-size="11.5" fill="#d62828" font-weight="bold" text-anchor="middle">escura e grossa:</text><text x="432" y="325" font-size="11.5" fill="#d62828" font-weight="bold" text-anchor="middle">chuva por horas</text>
+<circle cx="80" cy="410" r="18" fill="#7f8c99"/><circle cx="102" cy="398" r="24" fill="#7f8c99"/><circle cx="128" cy="404" r="20" fill="#7f8c99"/><circle cx="148" cy="414" r="14" fill="#7f8c99"/><circle cx="80" cy="410" r="16" fill="#ffffff"/><circle cx="102" cy="398" r="22" fill="#ffffff"/><circle cx="128" cy="404" r="18" fill="#ffffff"/><circle cx="148" cy="414" r="12" fill="#ffffff"/><rect x="61" y="420" width="102" height="40" fill="#f1f7fc"/><line x1="70" y1="420" x2="154" y2="420" stroke="#7f8c99" stroke-width="2"/>
+<circle cx="200" cy="412" r="14" fill="#7f8c99"/><circle cx="218" cy="404" r="18" fill="#7f8c99"/><circle cx="236" cy="412" r="13" fill="#7f8c99"/><circle cx="200" cy="412" r="12" fill="#ffffff"/><circle cx="218" cy="404" r="16" fill="#ffffff"/><circle cx="236" cy="412" r="11" fill="#ffffff"/><rect x="185" y="420" width="65" height="40" fill="#f1f7fc"/><line x1="194" y1="420" x2="241" y2="420" stroke="#7f8c99" stroke-width="2"/>
+<text x="150" y="446" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">CÚMULOS (algodão)</text><text x="150" y="461" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">base reta, pequenos: BOM TEMPO</text><text x="150" y="475" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">crescendo muito à tarde: pancada</text>
+<rect x="300" y="384" width="210" height="26" rx="12" fill="#c3c9cf" stroke="#9aa3ab" stroke-width="1.5"/>
+<circle cx="312" cy="418" r="1.6" fill="#3f6d9e"/>
+<circle cx="328" cy="422" r="1.6" fill="#3f6d9e"/>
+<circle cx="344" cy="426" r="1.6" fill="#3f6d9e"/>
+<circle cx="360" cy="418" r="1.6" fill="#3f6d9e"/>
+<circle cx="376" cy="422" r="1.6" fill="#3f6d9e"/>
+<circle cx="392" cy="426" r="1.6" fill="#3f6d9e"/>
+<circle cx="408" cy="418" r="1.6" fill="#3f6d9e"/>
+<circle cx="424" cy="422" r="1.6" fill="#3f6d9e"/>
+<circle cx="440" cy="426" r="1.6" fill="#3f6d9e"/>
+<circle cx="456" cy="418" r="1.6" fill="#3f6d9e"/>
+<circle cx="472" cy="422" r="1.6" fill="#3f6d9e"/>
+<circle cx="488" cy="426" r="1.6" fill="#3f6d9e"/>
+<circle cx="504" cy="418" r="1.6" fill="#3f6d9e"/>
+<text x="405" y="446" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">ESTRATOS (neblina alta)</text><text x="405" y="461" font-size="11.5" fill="#3f6d9e" font-weight="bold" text-anchor="middle">garoa ou nada; costuma</text><text x="405" y="475" font-size="11.5" fill="#3f6d9e" font-weight="bold" text-anchor="middle">abrir no fim da manhã</text>
+<path d="M530 168 Q 590 146 658 152 L 658 172 Q 626 182 612 206 L 576 206 Q 560 184 530 182 Z" fill="#ffffff" stroke="#7f8c99" stroke-width="2"/>
+<circle cx="560" cy="452" r="32" fill="#7f8c99"/><circle cx="598" cy="448" r="36" fill="#7f8c99"/><circle cx="630" cy="456" r="26" fill="#7f8c99"/><circle cx="572" cy="414" r="32" fill="#7f8c99"/><circle cx="612" cy="408" r="32" fill="#7f8c99"/><circle cx="566" cy="372" r="28" fill="#7f8c99"/><circle cx="604" cy="362" r="32" fill="#7f8c99"/><circle cx="580" cy="326" r="30" fill="#7f8c99"/><circle cx="612" cy="310" r="26" fill="#7f8c99"/><circle cx="574" cy="286" r="26" fill="#7f8c99"/><circle cx="600" cy="256" r="28" fill="#7f8c99"/><circle cx="582" cy="226" r="24" fill="#7f8c99"/><circle cx="606" cy="214" r="22" fill="#7f8c99"/><circle cx="560" cy="452" r="30" fill="#ffffff"/><circle cx="598" cy="448" r="34" fill="#ffffff"/><circle cx="630" cy="456" r="24" fill="#ffffff"/><circle cx="572" cy="414" r="30" fill="#ffffff"/><circle cx="612" cy="408" r="30" fill="#ffffff"/><circle cx="566" cy="372" r="26" fill="#ffffff"/><circle cx="604" cy="362" r="30" fill="#ffffff"/><circle cx="580" cy="326" r="28" fill="#ffffff"/><circle cx="612" cy="310" r="24" fill="#ffffff"/><circle cx="574" cy="286" r="24" fill="#ffffff"/><circle cx="600" cy="256" r="26" fill="#ffffff"/><circle cx="582" cy="226" r="22" fill="#ffffff"/><circle cx="606" cy="214" r="20" fill="#ffffff"/>
+<path d="M532 468 Q 594 494 652 470 L 648 484 L 538 484 Z" fill="#4d5660"/>
+<line x1="546" y1="486" x2="540" y2="504" stroke="#3f6d9e" stroke-width="2"/><line x1="555" y1="486" x2="549" y2="504" stroke="#3f6d9e" stroke-width="2"/><line x1="564" y1="486" x2="558" y2="504" stroke="#3f6d9e" stroke-width="2"/><line x1="573" y1="486" x2="567" y2="504" stroke="#3f6d9e" stroke-width="2"/><line x1="582" y1="486" x2="576" y2="504" stroke="#3f6d9e" stroke-width="2"/><line x1="591" y1="486" x2="585" y2="504" stroke="#3f6d9e" stroke-width="2"/><line x1="600" y1="486" x2="594" y2="504" stroke="#3f6d9e" stroke-width="2"/><line x1="609" y1="486" x2="603" y2="504" stroke="#3f6d9e" stroke-width="2"/><line x1="618" y1="486" x2="612" y2="504" stroke="#3f6d9e" stroke-width="2"/><line x1="627" y1="486" x2="621" y2="504" stroke="#3f6d9e" stroke-width="2"/><line x1="636" y1="486" x2="630" y2="504" stroke="#3f6d9e" stroke-width="2"/><line x1="645" y1="486" x2="639" y2="504" stroke="#3f6d9e" stroke-width="2"/>
+<polygon points="606,474 594,496 604,494 596,512 616,486 606,488 614,474" fill="#ffd43b" stroke="#b38600" stroke-width="1.5"/>
+<text x="600" y="64" font-size="13" fill="#d62828" font-weight="bold" text-anchor="middle">CUMULONIMBO</text>
+<text x="600" y="80" font-size="11.5" fill="#d62828" font-weight="bold" text-anchor="middle">topo em bigorna</text>
+<text x="600" y="96" font-size="11.5" fill="#d62828" font-weight="bold" text-anchor="middle">TEMPESTADE:</text>
+<text x="600" y="110" font-size="11.5" fill="#d62828" font-weight="bold" text-anchor="middle">raios, ventania,</text>
+<text x="600" y="124" font-size="11.5" fill="#d62828" font-weight="bold" text-anchor="middle">granizo</text>
+<rect x="20" y="518" width="640" height="34" rx="6" fill="#f7f7f7" stroke="#ccc"/>
+<rect x="34" y="529" width="12" height="12" fill="#2b8a3e"/>
+<text x="52" y="540" font-size="12" fill="#222" font-weight="bold" text-anchor="start">tempo bom</text>
+<rect x="150" y="529" width="12" height="12" fill="#c26a00"/>
+<text x="168" y="540" font-size="12" fill="#222" font-weight="bold" text-anchor="start">mudança / chuva chegando</text>
+<rect x="372" y="529" width="12" height="12" fill="#d62828"/>
+<text x="390" y="540" font-size="12" fill="#222" font-weight="bold" text-anchor="start">chuva ou tempestade agora</text>
+</svg>

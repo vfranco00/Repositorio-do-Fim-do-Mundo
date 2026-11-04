@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 468" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="468" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Vela de ignição: o que a cor diz sobre o motor</text>
+<text x="340" y="58" font-size="12" fill="#444" text-anchor="middle">Ponta da vela ampliada. Olhe o isolador (a parte do meio) logo depois de o motor trabalhar.</text>
+<rect x="36" y="72" width="104" height="22" fill="#c0c0c0" stroke="#1e1e1e" stroke-width="2"/><line x1="70" y1="72" x2="70" y2="94" stroke="#888" stroke-width="1.5"/><line x1="106" y1="72" x2="106" y2="94" stroke="#888" stroke-width="1.5"/><rect x="48" y="94" width="80" height="62" fill="#a8a8a8" stroke="#1e1e1e" stroke-width="2"/><line x1="48" y1="104" x2="128" y2="98" stroke="#777" stroke-width="2"/><line x1="48" y1="112" x2="128" y2="106" stroke="#777" stroke-width="2"/><line x1="48" y1="120" x2="128" y2="114" stroke="#777" stroke-width="2"/><line x1="48" y1="128" x2="128" y2="122" stroke="#777" stroke-width="2"/><line x1="48" y1="136" x2="128" y2="130" stroke="#777" stroke-width="2"/><line x1="48" y1="144" x2="128" y2="138" stroke="#777" stroke-width="2"/><line x1="48" y1="152" x2="128" y2="146" stroke="#777" stroke-width="2"/><ellipse cx="88" cy="156" rx="40" ry="9" fill="#8f7a5c" stroke="#1e1e1e" stroke-width="2"/><path d="M71 154 L105 154 L98 194 L78 194 Z" fill="#c9a77c" stroke="#1e1e1e" stroke-width="2.5"/><rect x="83" y="194" width="10" height="12" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/><path d="M122 160 L122 220 L76 220" fill="none" stroke="#1e1e1e" stroke-width="11"/><path d="M122 160 L122 220 L76 220" fill="none" stroke="#9a9a9a" stroke-width="6"/>
+<text x="88" y="252" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">Marrom-claro</text>
+<text x="88" y="268" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">ou cinza, seca</text>
+<rect x="10" y="278" width="156" height="66" rx="7" fill="#fff" stroke="#1d6b2c" stroke-width="2"/>
+<text x="88" y="296" font-size="13" fill="#1d6b2c" font-weight="bold" text-anchor="middle">NORMAL</text>
+<text x="88" y="313" font-size="11.5" fill="#222" text-anchor="middle">motor bem regulado,</text>
+<text x="88" y="329" font-size="11.5" fill="#222" text-anchor="middle">mistura certa</text>
+<rect x="200" y="72" width="104" height="22" fill="#c0c0c0" stroke="#1e1e1e" stroke-width="2"/><line x1="234" y1="72" x2="234" y2="94" stroke="#888" stroke-width="1.5"/><line x1="270" y1="72" x2="270" y2="94" stroke="#888" stroke-width="1.5"/><rect x="212" y="94" width="80" height="62" fill="#a8a8a8" stroke="#1e1e1e" stroke-width="2"/><line x1="212" y1="104" x2="292" y2="98" stroke="#777" stroke-width="2"/><line x1="212" y1="112" x2="292" y2="106" stroke="#777" stroke-width="2"/><line x1="212" y1="120" x2="292" y2="114" stroke="#777" stroke-width="2"/><line x1="212" y1="128" x2="292" y2="122" stroke="#777" stroke-width="2"/><line x1="212" y1="136" x2="292" y2="130" stroke="#777" stroke-width="2"/><line x1="212" y1="144" x2="292" y2="138" stroke="#777" stroke-width="2"/><line x1="212" y1="152" x2="292" y2="146" stroke="#777" stroke-width="2"/><ellipse cx="252" cy="156" rx="40" ry="9" fill="#2a2a2a" stroke="#1e1e1e" stroke-width="2"/><path d="M235 154 L269 154 L262 194 L242 194 Z" fill="#2a2a2a" stroke="#1e1e1e" stroke-width="2.5"/><rect x="247" y="194" width="10" height="12" fill="#555" stroke="#1e1e1e" stroke-width="1.5"/><path d="M286 160 L286 220 L240 220" fill="none" stroke="#1e1e1e" stroke-width="11"/><path d="M286 160 L286 220 L240 220" fill="none" stroke="#555" stroke-width="6"/>
+<text x="252" y="252" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">Preta, fuligem</text>
+<text x="252" y="268" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">seca (veludo)</text>
+<rect x="174" y="278" width="156" height="82" rx="7" fill="#fff" stroke="#a35a00" stroke-width="2"/>
+<text x="252" y="296" font-size="13" fill="#a35a00" font-weight="bold" text-anchor="middle">Mistura RICA</text>
+<text x="252" y="313" font-size="11.5" fill="#222" text-anchor="middle">filtro de ar sujo,</text>
+<text x="252" y="329" font-size="11.5" fill="#222" text-anchor="middle">afogador fechado,</text>
+<text x="252" y="345" font-size="11.5" fill="#222" text-anchor="middle">carburador</text>
+<rect x="364" y="72" width="104" height="22" fill="#c0c0c0" stroke="#1e1e1e" stroke-width="2"/><line x1="398" y1="72" x2="398" y2="94" stroke="#888" stroke-width="1.5"/><line x1="434" y1="72" x2="434" y2="94" stroke="#888" stroke-width="1.5"/><rect x="376" y="94" width="80" height="62" fill="#a8a8a8" stroke="#1e1e1e" stroke-width="2"/><line x1="376" y1="104" x2="456" y2="98" stroke="#777" stroke-width="2"/><line x1="376" y1="112" x2="456" y2="106" stroke="#777" stroke-width="2"/><line x1="376" y1="120" x2="456" y2="114" stroke="#777" stroke-width="2"/><line x1="376" y1="128" x2="456" y2="122" stroke="#777" stroke-width="2"/><line x1="376" y1="136" x2="456" y2="130" stroke="#777" stroke-width="2"/><line x1="376" y1="144" x2="456" y2="138" stroke="#777" stroke-width="2"/><line x1="376" y1="152" x2="456" y2="146" stroke="#777" stroke-width="2"/><ellipse cx="416" cy="156" rx="40" ry="9" fill="#1a1a1a" stroke="#1e1e1e" stroke-width="2"/><path d="M399 154 L433 154 L426 194 L406 194 Z" fill="#1a1a1a" stroke="#1e1e1e" stroke-width="2.5"/><rect x="411" y="194" width="10" height="12" fill="#3a3a3a" stroke="#1e1e1e" stroke-width="1.5"/><path d="M450 160 L450 220 L404 220" fill="none" stroke="#1e1e1e" stroke-width="11"/><path d="M450 160 L450 220 L404 220" fill="none" stroke="#3a3a3a" stroke-width="6"/>
+<ellipse cx="402" cy="172" rx="3" ry="5" fill="#6b4a12" stroke="#2a1a05" stroke-width="1"/>
+<ellipse cx="428" cy="182" rx="3" ry="5" fill="#6b4a12" stroke="#2a1a05" stroke-width="1"/>
+<ellipse cx="412" cy="200" rx="3" ry="5" fill="#6b4a12" stroke="#2a1a05" stroke-width="1"/>
+<path d="M414 206 q -3 8 0 14" stroke="#6b4a12" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="416" y="252" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">Preta, molhada</text>
+<text x="416" y="268" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">e oleosa</text>
+<rect x="338" y="278" width="156" height="82" rx="7" fill="#fff" stroke="#a35a00" stroke-width="2"/>
+<text x="416" y="296" font-size="13" fill="#a35a00" font-weight="bold" text-anchor="middle">ÓLEO demais</text>
+<text x="416" y="313" font-size="11.5" fill="#222" text-anchor="middle">muito óleo na</text>
+<text x="416" y="329" font-size="11.5" fill="#222" text-anchor="middle">mistura 2T, anéis</text>
+<text x="416" y="345" font-size="11.5" fill="#222" text-anchor="middle">gastos, afogado</text>
+<rect x="528" y="72" width="104" height="22" fill="#c0c0c0" stroke="#1e1e1e" stroke-width="2"/><line x1="562" y1="72" x2="562" y2="94" stroke="#888" stroke-width="1.5"/><line x1="598" y1="72" x2="598" y2="94" stroke="#888" stroke-width="1.5"/><rect x="540" y="94" width="80" height="62" fill="#a8a8a8" stroke="#1e1e1e" stroke-width="2"/><line x1="540" y1="104" x2="620" y2="98" stroke="#777" stroke-width="2"/><line x1="540" y1="112" x2="620" y2="106" stroke="#777" stroke-width="2"/><line x1="540" y1="120" x2="620" y2="114" stroke="#777" stroke-width="2"/><line x1="540" y1="128" x2="620" y2="122" stroke="#777" stroke-width="2"/><line x1="540" y1="136" x2="620" y2="130" stroke="#777" stroke-width="2"/><line x1="540" y1="144" x2="620" y2="138" stroke="#777" stroke-width="2"/><line x1="540" y1="152" x2="620" y2="146" stroke="#777" stroke-width="2"/><ellipse cx="580" cy="156" rx="40" ry="9" fill="#d8d8d8" stroke="#1e1e1e" stroke-width="2"/><path d="M563 154 L597 154 L590 194 L570 194 Z" fill="#fbfbfb" stroke="#1e1e1e" stroke-width="2.5"/><rect x="575" y="194" width="10" height="12" fill="#e0e0e0" stroke="#1e1e1e" stroke-width="1.5"/><path d="M614 160 L614 220 L568 220" fill="none" stroke="#1e1e1e" stroke-width="11"/><path d="M614 160 L614 220 L568 220" fill="none" stroke="#e0e0e0" stroke-width="6"/>
+<circle cx="572" cy="164" r="2.6" fill="#ccc" stroke="#888"/>
+<circle cx="586" cy="170" r="2.6" fill="#ccc" stroke="#888"/>
+<circle cx="577" cy="178" r="2.6" fill="#ccc" stroke="#888"/>
+<circle cx="585" cy="184" r="2.6" fill="#ccc" stroke="#888"/>
+<circle cx="574" cy="188" r="2.6" fill="#ccc" stroke="#888"/>
+<circle cx="580" cy="206" r="5" fill="#e0e0e0" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="580" y="252" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">Branca, com</text>
+<text x="580" y="268" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">bolinhas</text>
+<rect x="502" y="278" width="156" height="82" rx="7" fill="#fff" stroke="#b3001b" stroke-width="2"/>
+<text x="580" y="296" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">Mistura POBRE</text>
+<text x="580" y="313" font-size="11.5" fill="#222" text-anchor="middle">superaquecendo:</text>
+<text x="580" y="329" font-size="11.5" fill="#222" text-anchor="middle">entrada de ar, gicleur</text>
+<text x="580" y="345" font-size="11.5" fill="#222" text-anchor="middle">entupido. PARE!</text>
+<rect x="15" y="372" width="650" height="86" rx="8" fill="#eef5ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="28" y="393" font-size="12" fill="#1e1e1e" text-anchor="start">Folga entre os eletrodos (meça com calibre de lâminas): motores pequenos 0,5–0,8 mm;</text>
+<text x="28" y="411" font-size="12" fill="#1e1e1e" text-anchor="start">carros 0,8–1,1 mm (veja o manual ou a etiqueta). Limpe com escova de latão, sem lixa grossa.</text>
+<text x="28" y="429" font-size="12" fill="#1e1e1e" text-anchor="start">Aperto da vela nova com anel: à mão até encostar + 1/2 volta. Vela já usada: + 1/8 de volta.</text>
+<text x="28" y="447" font-size="12" fill="#1e1e1e" text-anchor="start">Eletrodo gasto e arredondado, isolador trincado: troque a vela.</text>
+</svg>

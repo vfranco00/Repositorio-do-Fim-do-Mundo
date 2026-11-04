@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 663.6999999999999" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="663.6999999999999" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Carro não pega: o que verificar</text>
+<rect x="170" y="46" width="340" height="48" rx="9" fill="#eef5ff" stroke="#3f6d9e" stroke-width="2"/><text x="340.0" y="66.0" font-size="13" fill="#1e1e1e" font-weight="bold" text-anchor="middle">Gire a chave para dar partida.</text>
+<text x="340.0" y="82.9" font-size="13" fill="#1e1e1e" font-weight="bold" text-anchor="middle">O motor de arranque gira o motor?</text>
+<path d="M340 94 L340 106 L112.0 106 L112.0 128" fill="none" stroke="#555" stroke-width="2.5"/>
+<polygon points="106.0,122 118.0,122 112.0,132" fill="#555"/>
+<rect x="12" y="132" width="200" height="45" rx="9" fill="#f2f2f2" stroke="#777" stroke-width="2"/><text x="112.0" y="151.0" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">NÃO gira (silêncio</text>
+<text x="112.0" y="166.6" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">ou só um "clique")</text>
+<path d="M340 94 L340 106 L319.0 106 L319.0 128" fill="none" stroke="#555" stroke-width="2.5"/>
+<polygon points="313.0,122 325.0,122 319.0,132" fill="#555"/>
+<rect x="226" y="132" width="186" height="45" rx="9" fill="#f2f2f2" stroke="#777" stroke-width="2"/><text x="319.0" y="151.0" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">Gira DEVAGAR</text>
+<text x="319.0" y="166.6" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">(rrrr... rrrr...)</text>
+<path d="M340 94 L340 106 L547.0 106 L547.0 128" fill="none" stroke="#555" stroke-width="2.5"/>
+<polygon points="541.0,122 553.0,122 547.0,132" fill="#555"/>
+<rect x="426" y="132" width="242" height="45" rx="9" fill="#f2f2f2" stroke="#777" stroke-width="2"/><text x="547.0" y="151.0" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">Gira NORMAL</text>
+<text x="547.0" y="166.6" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">mas não pega</text>
+<line x1="112.0" y1="184" x2="112.0" y2="196.0" stroke="#555" stroke-width="2.5"/><polygon points="112.0,202 106.8,191.2 117.2,191.2" fill="#555"/>
+<rect x="12" y="206" width="200" height="45" rx="9" fill="#eef5ff" stroke="#3f6d9e" stroke-width="2"/><text x="112.0" y="225.0" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">Acenda o farol.</text>
+<text x="112.0" y="240.6" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">A luz fica forte?</text>
+<line x1="62" y1="251.2" x2="62" y2="275.2" stroke="#555" stroke-width="2.5"/>
+<line x1="162" y1="251.2" x2="162" y2="275.2" stroke="#555" stroke-width="2.5"/>
+<text x="34" y="267.2" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="middle">fraca</text>
+<text x="188" y="267.2" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">forte</text>
+<rect x="12" y="277.2" width="98" height="119" rx="9" fill="#fff4e5" stroke="#ef8a2b" stroke-width="2"/><text x="61.0" y="295.7" font-size="11.5" fill="#1e1e1e" text-anchor="middle">BATERIA</text>
+<text x="61.0" y="310.65" font-size="11.5" fill="#1e1e1e" text-anchor="middle">fraca ou</text>
+<text x="61.0" y="325.59999999999997" font-size="11.5" fill="#1e1e1e" text-anchor="middle">terminal</text>
+<text x="61.0" y="340.55" font-size="11.5" fill="#1e1e1e" text-anchor="middle">solto/sujo:</text>
+<text x="61.0" y="355.5" font-size="11.5" fill="#1e1e1e" text-anchor="middle">limpe,</text>
+<text x="61.0" y="370.45" font-size="11.5" fill="#1e1e1e" text-anchor="middle">aperte,</text>
+<text x="61.0" y="385.4" font-size="11.5" fill="#1e1e1e" text-anchor="middle">chupeta</text>
+<rect x="114" y="277.2" width="98" height="134" rx="9" fill="#fff4e5" stroke="#ef8a2b" stroke-width="2"/><text x="163.0" y="295.7" font-size="11.5" fill="#1e1e1e" text-anchor="middle">MOTOR DE</text>
+<text x="163.0" y="310.65" font-size="11.5" fill="#1e1e1e" text-anchor="middle">ARRANQUE,</text>
+<text x="163.0" y="325.59999999999997" font-size="11.5" fill="#1e1e1e" text-anchor="middle">relé ou cabo</text>
+<text x="163.0" y="340.55" font-size="11.5" fill="#1e1e1e" text-anchor="middle">de massa:</text>
+<text x="163.0" y="355.5" font-size="11.5" fill="#1e1e1e" text-anchor="middle">bata de leve</text>
+<text x="163.0" y="370.45" font-size="11.5" fill="#1e1e1e" text-anchor="middle">nele com o</text>
+<text x="163.0" y="385.4" font-size="11.5" fill="#1e1e1e" text-anchor="middle">cabo do</text>
+<text x="163.0" y="400.35" font-size="11.5" fill="#1e1e1e" text-anchor="middle">martelo</text>
+<rect x="12" y="418.8" width="200" height="44" rx="9" fill="#eaf6ec" stroke="#2b8a3e" stroke-width="2"/><text x="112.0" y="437.3" font-size="11.5" fill="#1e1e1e" text-anchor="middle">Carro manual: tente</text>
+<text x="112.0" y="452.25" font-size="11.5" fill="#1e1e1e" text-anchor="middle">pegar no TRANCO</text>
+<line x1="319.0" y1="184" x2="319.0" y2="196.0" stroke="#555" stroke-width="2.5"/><polygon points="319.0,202 313.8,191.2 324.2,191.2" fill="#555"/>
+<rect x="226" y="206" width="186" height="170" rx="9" fill="#fff4e5" stroke="#ef8a2b" stroke-width="2"/><text x="319.0" y="225.0" font-size="12" fill="#1e1e1e" text-anchor="middle">Bateria fraca ou</text>
+<text x="319.0" y="240.6" font-size="12" fill="#1e1e1e" text-anchor="middle">terminal com zinabre</text>
+<text x="319.0" y="256.2" font-size="12" fill="#1e1e1e" text-anchor="middle">(pó branco/verde):</text>
+<text x="319.0" y="271.8" font-size="12" fill="#1e1e1e" text-anchor="middle">limpe com água e</text>
+<text x="319.0" y="287.4" font-size="12" fill="#1e1e1e" text-anchor="middle">bicarbonato, aperte,</text>
+<text x="319.0" y="303.0" font-size="12" fill="#1e1e1e" text-anchor="middle">faça chupeta.</text>
+<text x="319.0" y="318.6" font-size="12" fill="#1e1e1e" text-anchor="middle"></text>
+<text x="319.0" y="334.20000000000005" font-size="12" fill="#1e1e1e" text-anchor="middle">No frio, óleo grosso</text>
+<text x="319.0" y="349.8" font-size="12" fill="#1e1e1e" text-anchor="middle">e gasolina velha</text>
+<text x="319.0" y="365.4" font-size="12" fill="#1e1e1e" text-anchor="middle">pioram a partida.</text>
+<line x1="547.0" y1="184" x2="547.0" y2="196.0" stroke="#555" stroke-width="2.5"/><polygon points="547.0,202 541.8,191.2 552.2,191.2" fill="#555"/>
+<rect x="426" y="206" width="242" height="76" rx="9" fill="#eef5ff" stroke="#3f6d9e" stroke-width="2"/><text x="547.0" y="225.0" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">Tem COMBUSTÍVEL?</text>
+<text x="547.0" y="240.6" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">(marcador; cheiro de gasolina no</text>
+<text x="547.0" y="256.2" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">escapamento; a bomba zumbe 2 s</text>
+<text x="547.0" y="271.8" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="middle">ao ligar a chave)</text>
+<line x1="466" y1="282.4" x2="466" y2="304.4" stroke="#555" stroke-width="2.5"/>
+<line x1="601" y1="282.4" x2="601" y2="304.4" stroke="#555" stroke-width="2.5"/>
+<text x="442" y="297.4" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="middle">não</text>
+<text x="626" y="297.4" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">sim</text>
+<rect x="426" y="306.4" width="92" height="119" rx="9" fill="#fff4e5" stroke="#ef8a2b" stroke-width="2"/><text x="472.0" y="324.9" font-size="11.5" fill="#1e1e1e" text-anchor="middle">Abasteça.</text>
+<text x="472.0" y="339.84999999999997" font-size="11.5" fill="#1e1e1e" text-anchor="middle">Fusível e</text>
+<text x="472.0" y="354.79999999999995" font-size="11.5" fill="#1e1e1e" text-anchor="middle">relé da</text>
+<text x="472.0" y="369.75" font-size="11.5" fill="#1e1e1e" text-anchor="middle">bomba.</text>
+<text x="472.0" y="384.7" font-size="11.5" fill="#1e1e1e" text-anchor="middle">Filtro.</text>
+<text x="472.0" y="399.65" font-size="11.5" fill="#1e1e1e" text-anchor="middle">Água no</text>
+<text x="472.0" y="414.59999999999997" font-size="11.5" fill="#1e1e1e" text-anchor="middle">tanque?</text>
+<rect x="524" y="306.4" width="144" height="74" rx="9" fill="#eef5ff" stroke="#3f6d9e" stroke-width="2"/><text x="596.0" y="324.9" font-size="11.5" fill="#1e1e1e" font-weight="bold" text-anchor="middle">Tem FAÍSCA?</text>
+<text x="596.0" y="339.84999999999997" font-size="11.5" fill="#1e1e1e" font-weight="bold" text-anchor="middle">(teste da vela</text>
+<text x="596.0" y="354.79999999999995" font-size="11.5" fill="#1e1e1e" font-weight="bold" text-anchor="middle">encostada no</text>
+<text x="596.0" y="369.75" font-size="11.5" fill="#1e1e1e" font-weight="bold" text-anchor="middle">metal do motor)</text>
+<path d="M556 380.2 L556 437.04999999999995 L484 437.04999999999995 L484 442.04999999999995" fill="none" stroke="#555" stroke-width="2.5"/>
+<polygon points="478,441.04999999999995 490,441.04999999999995 484,448.04999999999995" fill="#555"/>
+<line x1="626" y1="380.2" x2="626" y2="442.04999999999995" stroke="#555" stroke-width="2.5"/>
+<polygon points="620,441.04999999999995 632,441.04999999999995 626,448.04999999999995" fill="#555"/>
+<text x="572" y="394.2" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="middle">não</text>
+<text x="644" y="394.2" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">sim</text>
+<rect x="426" y="449.04999999999995" width="116" height="119" rx="9" fill="#fff4e5" stroke="#ef8a2b" stroke-width="2"/><text x="484.0" y="467.54999999999995" font-size="11.5" fill="#1e1e1e" text-anchor="middle">SEM FAÍSCA:</text>
+<text x="484.0" y="482.49999999999994" font-size="11.5" fill="#1e1e1e" text-anchor="middle">bobina, cabos</text>
+<text x="484.0" y="497.44999999999993" font-size="11.5" fill="#1e1e1e" text-anchor="middle">de vela, vela,</text>
+<text x="484.0" y="512.4" font-size="11.5" fill="#1e1e1e" text-anchor="middle">platinado,</text>
+<text x="484.0" y="527.3499999999999" font-size="11.5" fill="#1e1e1e" text-anchor="middle">sensor de</text>
+<text x="484.0" y="542.3" font-size="11.5" fill="#1e1e1e" text-anchor="middle">rotação,</text>
+<text x="484.0" y="557.25" font-size="11.5" fill="#1e1e1e" text-anchor="middle">fusível</text>
+<rect x="548" y="449.04999999999995" width="120" height="119" rx="9" fill="#fff4e5" stroke="#ef8a2b" stroke-width="2"/><text x="608.0" y="467.54999999999995" font-size="11.5" fill="#1e1e1e" text-anchor="middle">COM FAÍSCA:</text>
+<text x="608.0" y="482.49999999999994" font-size="11.5" fill="#1e1e1e" text-anchor="middle">afogado? (pise</text>
+<text x="608.0" y="497.44999999999993" font-size="11.5" fill="#1e1e1e" text-anchor="middle">o acelerador</text>
+<text x="608.0" y="512.4" font-size="11.5" fill="#1e1e1e" text-anchor="middle">todo e dê</text>
+<text x="608.0" y="527.3499999999999" font-size="11.5" fill="#1e1e1e" text-anchor="middle">partida 5 s)</text>
+<text x="608.0" y="542.3" font-size="11.5" fill="#1e1e1e" text-anchor="middle">alarme ou</text>
+<text x="608.0" y="557.25" font-size="11.5" fill="#1e1e1e" text-anchor="middle">imobilizador?</text>
+<rect x="12" y="577.6999999999999" width="656" height="74" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<text x="24" y="597.6999999999999" font-size="11.5" fill="#222" text-anchor="start">Flex com álcool no frio: encha o tanquinho de partida (gasolina). Diesel: troque o filtro e sangre o ar.</text>
+<text x="24" y="615.6999999999999" font-size="11.5" fill="#222" text-anchor="start">Teste de faísca: segure o cabo com alicate de cabo isolado, a rosca da vela encostada no motor.</text>
+<text x="24" y="633.6999999999999" font-size="11.5" fill="#222" text-anchor="start">Faísca AZUL e forte = boa; amarela, fraca ou nenhuma = problema na ignição.</text>
+</svg>

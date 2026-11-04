@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 504" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="504" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Rádio de galena (sem pilha) — esquema</text>
+<line x1="40" y1="74" x2="300" y2="74" stroke="#c06a1a" stroke-width="3"/>
+<rect x="29.0" y="69.0" width="14" height="10" rx="4" fill="#f0f0f0" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="297.0" y="69.0" width="14" height="10" rx="4" fill="#f0f0f0" stroke="#1e1e1e" stroke-width="2"/>
+<text x="170" y="64" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">ANTENA: fio de 15 a 30 m, o mais alto possível</text>
+<line x1="80" y1="74" x2="80" y2="140" stroke="#c06a1a" stroke-width="3"/>
+<line x1="80" y1="140" x2="420" y2="140" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="80" y1="330" x2="520" y2="330" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="140" y1="140" x2="140" y2="180" stroke="#1e1e1e" stroke-width="2.5"/>
+<path d="M140 180 a 12 10 0 0 1 0 20 a 12 10 0 0 1 0 20 a 12 10 0 0 1 0 20 a 12 10 0 0 1 0 20 a 12 10 0 0 1 0 20 a 12 10 0 0 1 0 20 " fill="none" stroke="#c06a1a" stroke-width="3"/>
+<line x1="140" y1="300" x2="140" y2="330" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="122" y="200" font-size="12" fill="#222" font-weight="bold" text-anchor="end">BOBINA</text>
+<text x="122" y="215" font-size="11" fill="#444" text-anchor="end">~80 voltas de</text>
+<text x="122" y="229" font-size="11" fill="#444" text-anchor="end">fio esmaltado</text>
+<text x="122" y="243" font-size="11" fill="#444" text-anchor="end">0,3–0,5 mm em</text>
+<text x="122" y="257" font-size="11" fill="#444" text-anchor="end">tubo de PVC</text>
+<text x="122" y="271" font-size="11" fill="#444" text-anchor="end">de 50 mm</text>
+<line x1="230" y1="140" x2="230" y2="226" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="208" y1="226" x2="252" y2="226" stroke="#1e1e1e" stroke-width="4"/>
+<line x1="208" y1="240" x2="252" y2="240" stroke="#1e1e1e" stroke-width="4"/>
+<line x1="230" y1="240" x2="230" y2="330" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="200" y1="256" x2="255.3" y2="211.7" stroke="#3f6d9e" stroke-width="2.5"/><polygon points="260,208 254.8,218.8 248.3,210.7" fill="#3f6d9e"/>
+<text x="260" y="266" font-size="12" fill="#222" font-weight="bold" text-anchor="start">CAPACITOR</text>
+<text x="260" y="281" font-size="12" fill="#222" font-weight="bold" text-anchor="start">VARIÁVEL</text>
+<text x="260" y="296" font-size="11" fill="#444" text-anchor="start">(de rádio velho)</text>
+<text x="260" y="310" font-size="11" fill="#3f6d9e" font-weight="bold" text-anchor="start">= sintonia</text>
+<polygon points="326,128 326,152 348,140" fill="#1e1e1e"/>
+<line x1="349" y1="127" x2="349" y2="153" stroke="#1e1e1e" stroke-width="3"/>
+<text x="340" y="118" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">DIODO de germânio</text>
+<text x="340" y="170" font-size="11" fill="#444" text-anchor="middle">(1N34, 1N60) ou cristal</text>
+<text x="340" y="184" font-size="11" fill="#444" text-anchor="middle">de galena com "bigode"</text>
+<line x1="420" y1="140" x2="470" y2="140" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="470" y1="140" x2="470" y2="200" stroke="#1e1e1e" stroke-width="2.5"/>
+<path d="M454 200 h32 v34 l14 18 h-60 l14 -18 Z" fill="#f2c94c" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="470" y1="252" x2="470" y2="330" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="504" y="214" font-size="12" fill="#222" font-weight="bold" text-anchor="start">FONE de cristal</text>
+<text x="504" y="229" font-size="11" fill="#444" text-anchor="start">(alta impedância;</text>
+<text x="504" y="243" font-size="11" fill="#444" text-anchor="start">fone comum de</text>
+<text x="504" y="257" font-size="11" fill="#444" text-anchor="start">celular quase não</text>
+<text x="504" y="271" font-size="11" fill="#444" text-anchor="start">funciona)</text>
+<line x1="470" y1="140" x2="636" y2="140" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="636" y1="140" x2="636" y2="170" stroke="#1e1e1e" stroke-width="2.5"/>
+<path d="M636 170 l8 5 l-16 10 l16 10 l-16 10 l16 10 l-8 5" fill="none" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="636" y1="220" x2="636" y2="330" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="520" y1="330" x2="636" y2="330" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="628" y="300" font-size="11" fill="#444" text-anchor="end">resistor</text>
+<text x="628" y="314" font-size="11" fill="#444" text-anchor="end">47–100 kΩ</text>
+<line x1="300" y1="330" x2="300" y2="352" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="280.0" y1="352" x2="320.0" y2="352" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="287.0" y1="359" x2="313.0" y2="359" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="294.0" y1="366" x2="306.0" y2="366" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="330" y="362" font-size="12" fill="#222" font-weight="bold" text-anchor="start">TERRA: haste de metal de 1–2 m enterrada</text>
+<text x="330" y="377" font-size="11.5" fill="#444" text-anchor="start">em chão úmido, ou cano de água metálico</text>
+<circle cx="80" cy="140" r="4" fill="#1e1e1e"/>
+<circle cx="140" cy="140" r="4" fill="#1e1e1e"/>
+<circle cx="230" cy="140" r="4" fill="#1e1e1e"/>
+<circle cx="470" cy="140" r="4" fill="#1e1e1e"/>
+<circle cx="140" cy="330" r="4" fill="#1e1e1e"/>
+<circle cx="230" cy="330" r="4" fill="#1e1e1e"/>
+<circle cx="300" cy="330" r="4" fill="#1e1e1e"/>
+<circle cx="470" cy="330" r="4" fill="#1e1e1e"/>
+<rect x="20" y="400" width="640" height="94" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="34" y="422" font-size="12.5" fill="#222" text-anchor="start">Não usa pilha: a energia vem da própria onda de rádio. Pega estações AM fortes (até</text>
+<text x="34" y="440" font-size="12.5" fill="#222" text-anchor="start">50–150 km de dia, mais longe à noite). Gire o capacitor devagar para trocar de estação.</text>
+<text x="34" y="462" font-size="12.5" fill="#222" text-anchor="start">Sem capacitor variável: faça uma bobina com várias derivações (ex.: a cada 10 voltas)</text>
+<text x="34" y="480" font-size="12.5" fill="#222" text-anchor="start">e encoste um fio em cada uma até ouvir a estação.</text>
+</svg>

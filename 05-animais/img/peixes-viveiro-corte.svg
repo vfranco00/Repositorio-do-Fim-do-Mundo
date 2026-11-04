@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 544" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="544" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Viveiro escavado em corte: entrada, saída e medidas</text>
+<polygon points="0,170 110,170 190,275 470,312 505,312 565,170 615,170 660,330 668,346 680,346 680,370 0,370" fill="#e8d3b0" stroke="#6b4f2a" stroke-width="2.5"/>
+<polygon points="133,200 552,200 505,312 470,312 190,275" fill="#cfe6fb" stroke="none"/>
+<line x1="133" y1="200" x2="552" y2="200" stroke="#4a90d9" stroke-width="3"/>
+<line x1="0" y1="170" x2="110" y2="170" stroke="#5aa04a" stroke-width="5"/>
+<line x1="565" y1="170" x2="615" y2="170" stroke="#5aa04a" stroke-width="5"/>
+<line x1="615" y1="170" x2="660" y2="330" stroke="#5aa04a" stroke-width="5"/>
+<ellipse cx="326" cy="228" rx="16" ry="7" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/><polygon points="340,228 352,221 352,235" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/>
+<ellipse cx="376" cy="252" rx="16" ry="7" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/><polygon points="390,252 402,245 402,259" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/>
+<ellipse cx="290" cy="262" rx="16" ry="7" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/><polygon points="304,262 316,255 316,269" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="0" y="176" width="150" height="10" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="4" y="172" width="12" height="18" fill="none" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="6" y1="172" x2="6" y2="190" stroke="#1e1e1e" stroke-width="1"/>
+<line x1="10" y1="172" x2="10" y2="190" stroke="#1e1e1e" stroke-width="1"/>
+<line x1="14" y1="172" x2="14" y2="190" stroke="#1e1e1e" stroke-width="1"/>
+<line x1="70" y1="176" x2="70" y2="160" stroke="#1e1e1e" stroke-width="3"/><circle cx="70" cy="156" r="7" fill="#d62828" stroke="#1e1e1e" stroke-width="1.5"/>
+<path d="M150,181 C160,184 162,192 162,200" fill="none" stroke="#4a90d9" stroke-width="4"/>
+<text x="8" y="74" font-size="12" fill="#222" text-anchor="start">ENTRADA: cano com TELA na boca</text><text x="8" y="89" font-size="12" fill="#222" text-anchor="start">e registro. A água cai de cima</text><text x="8" y="104" font-size="12" fill="#222" text-anchor="start">(areja e não deixa peixe subir).</text>
+<line x1="40" y1="118" x2="12" y2="170" stroke="#555" stroke-width="1.2"/>
+<rect x="478" y="160" width="30" height="152" fill="#bdbdbd" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="481" y="206" width="11" height="12" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="481" y="219" width="11" height="12" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="481" y="232" width="11" height="12" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="481" y="245" width="11" height="12" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="481" y="258" width="11" height="12" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="481" y="271" width="11" height="12" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="481" y="284" width="11" height="12" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="481" y="297" width="11" height="12" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="481" y="310" width="11" height="12" fill="#8b5a2b" stroke="#1e1e1e" stroke-width="1"/>
+<rect x="494" y="200" width="11" height="112" fill="#e8f3fd" stroke="none"/>
+<line x1="486" y1="196" x2="496.3" y2="209.3" stroke="#4a90d9" stroke-width="2.5"/><polygon points="500,214 489.2,208.7 497.5,202.3" fill="#4a90d9"/>
+<rect x="508" y="298" width="152" height="12" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="640" y1="304" x2="669.9" y2="335.6" stroke="#4a90d9" stroke-width="3"/><polygon points="674,340 662.8,335.7 670.4,328.6" fill="#4a90d9"/>
+<text x="300" y="74" font-size="12" fill="#222" text-anchor="start">MONGE (saída): caixa com</text><text x="300" y="89" font-size="12" fill="#222" text-anchor="start">tábuas encaixadas. Tirar</text><text x="300" y="104" font-size="12" fill="#222" text-anchor="start">tábuas baixa o nível ou</text><text x="300" y="119" font-size="12" fill="#222" text-anchor="start">esvazia o viveiro.</text>
+<line x1="430" y1="134" x2="488" y2="160" stroke="#555" stroke-width="1.2"/>
+<text x="560" y="70" font-size="12" fill="#2b6a1e" font-weight="bold" text-anchor="start">crista do dique:</text><text x="560" y="85" font-size="12" fill="#2b6a1e" font-weight="bold" text-anchor="start">1,5 a 3 m,</text><text x="560" y="100" font-size="12" fill="#2b6a1e" font-weight="bold" text-anchor="start">com grama</text>
+<text x="560" y="122" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="start">borda livre:</text><text x="560" y="137" font-size="12" fill="#1e1e1e" font-weight="bold" text-anchor="start">30 a 50 cm</text>
+<line x1="556" y1="134" x2="542" y2="168" stroke="#555" stroke-width="1.2"/>
+<line x1="214" y1="200" x2="214" y2="278" stroke="#1e1e1e" stroke-width="1.5"/><line x1="208" y1="200" x2="220" y2="200" stroke="#1e1e1e" stroke-width="1.5"/><line x1="208" y1="278" x2="220" y2="278" stroke="#1e1e1e" stroke-width="1.5"/><text x="222" y="244.0" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start">1,0 m (raso)</text>
+<line x1="452" y1="200" x2="452" y2="312" stroke="#1e1e1e" stroke-width="1.5"/><line x1="446" y1="200" x2="458" y2="200" stroke="#1e1e1e" stroke-width="1.5"/><line x1="446" y1="312" x2="458" y2="312" stroke="#1e1e1e" stroke-width="1.5"/><text x="444" y="261.0" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="end">1,5 m</text>
+<line x1="536" y1="170" x2="536" y2="200" stroke="#1e1e1e" stroke-width="1.5"/><line x1="530" y1="170" x2="542" y2="170" stroke="#1e1e1e" stroke-width="1.5"/><line x1="530" y1="200" x2="542" y2="200" stroke="#1e1e1e" stroke-width="1.5"/><text x="544" y="190.0" font-size="12.5" fill="#1e1e1e" font-weight="bold" text-anchor="start"></text>
+<line x1="530" y1="170" x2="566" y2="170" stroke="#1e1e1e" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="226" y="324" font-size="12" fill="#5a4630" font-weight="bold" text-anchor="start">fundo inclinado 0,5 a 1%  →</text>
+<text x="12" y="228" font-size="11.5" fill="#5a4630" font-weight="bold" text-anchor="start">talude</text><text x="12" y="242" font-size="11.5" fill="#5a4630" font-weight="bold" text-anchor="start">interno</text><text x="12" y="256" font-size="11.5" fill="#5a4630" font-weight="bold" text-anchor="start">1:2 (barro)</text><text x="12" y="270" font-size="11.5" fill="#5a4630" font-weight="bold" text-anchor="start">1:3 (arenoso)</text>
+<text x="520" y="342" font-size="11.5" fill="#1e1e1e" font-weight="bold" text-anchor="end">cano de saída 100–200 mm</text>
+<text x="12" y="360" font-size="11" fill="#5a4630" text-anchor="start">Desenho fora de escala (altura exagerada).</text>
+<rect x="10" y="384" width="660" height="150" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<text x="22" y="410" font-size="12" fill="#222" text-anchor="start">CACHIMBO (mais barato</text><text x="22" y="426" font-size="12" fill="#222" text-anchor="start">que o monge): cano de</text><text x="22" y="442" font-size="12" fill="#222" text-anchor="start">PVC que passa por baixo</text><text x="22" y="458" font-size="12" fill="#222" text-anchor="start">do dique, com um joelho</text><text x="22" y="474" font-size="12" fill="#222" text-anchor="start">que gira dentro d'água.</text>
+<rect x="222" y="414" width="90" height="80" fill="#cfe6fb"/><line x1="222" y1="414" x2="312" y2="414" stroke="#4a90d9" stroke-width="2.5"/><polygon points="312,404 352,404 372,494 312,494" fill="#e8d3b0" stroke="#6b4f2a" stroke-width="2"/><rect x="262" y="480" width="112" height="10" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/><rect x="262" y="414" width="10" height="70" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/><line x1="246" y1="402" x2="259.5" y2="414.0" stroke="#4a90d9" stroke-width="2.5"/><polygon points="264,418 252.5,414.7 259.4,406.9" fill="#4a90d9"/>
+<text x="297" y="512" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">EM PÉ: segura o nível</text>
+<text x="297" y="527" font-size="11.5" fill="#222" text-anchor="middle">(boca do cano = nível da água)</text>
+<rect x="500" y="414" width="90" height="80" fill="#cfe6fb"/><line x1="500" y1="414" x2="590" y2="414" stroke="#4a90d9" stroke-width="2.5"/><polygon points="590,404 630,404 650,494 590,494" fill="#e8d3b0" stroke="#6b4f2a" stroke-width="2"/><rect x="540" y="480" width="112" height="10" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/><rect x="474" y="480" width="66" height="10" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/><line x1="480" y1="464" x2="488.4" y2="475.2" stroke="#4a90d9" stroke-width="2.5"/><polygon points="492,480 481.3,474.5 489.7,468.2" fill="#4a90d9"/>
+<text x="563" y="512" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="middle">DEITADO: esvazia</text>
+<text x="563" y="527" font-size="11.5" fill="#222" text-anchor="middle">(gire o cano com uma vara)</text>
+</svg>

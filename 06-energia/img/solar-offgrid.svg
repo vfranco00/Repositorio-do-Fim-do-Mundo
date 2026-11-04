@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 650" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="650" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Sistema solar isolado (off-grid): como ligar</text>
+<polygon points="40,150 84,64 244,64 200,150" fill="#1d3557" stroke="#1e1e1e" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="80" y1="150" x2="124" y2="64" stroke="#7fa7d9" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="120" y1="150" x2="164" y2="64" stroke="#7fa7d9" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="160" y1="150" x2="204" y2="64" stroke="#7fa7d9" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="54.7" y1="121.3" x2="214.7" y2="121.3" stroke="#7fa7d9" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="69.4" y1="92.6" x2="229.4" y2="92.6" stroke="#7fa7d9" stroke-width="1.2" stroke-linecap="round"/>
+
+<text x="186" y="172" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">PAINEL SOLAR</text><text x="186" y="187" font-size="12.5" fill="#222" text-anchor="start">virado para o NORTE</text>
+<polyline points="150,150 150,222 262,222" fill="none" stroke="#d62828" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="134,150 134,246 262,246" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="142" y="183" width="16" height="26" rx="3" fill="#fff3bf" stroke="#1e1e1e" stroke-width="2" /><line x1="150" y1="183" x2="150" y2="209" stroke="#1e1e1e" stroke-width="1.5" stroke-linecap="round"/>
+<text x="164" y="201" font-size="12" fill="#222" font-weight="bold" text-anchor="start">F1</text>
+<text x="20" y="286" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start">F1: disjuntor ou</text><text x="20" y="300" font-size="11.5" fill="#222" text-anchor="start">fusível CC do painel</text>
+<rect x="262" y="196" width="158" height="88" rx="8" fill="#e9ecef" stroke="#1e1e1e" stroke-width="2.5" />
+<text x="341" y="216" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">CONTROLADOR</text>
+<text x="341" y="231" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">DE CARGA</text>
+<text x="268" y="262" font-size="11" fill="#444" text-anchor="start">painel</text>
+<text x="414" y="262" font-size="11" fill="#444" text-anchor="end">carga</text>
+<text x="341" y="278" font-size="11" fill="#444" text-anchor="middle">bateria</text>
+<polyline points="296,284 296,390" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="384,284 384,390" fill="none" stroke="#d62828" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="376" y="327" width="16" height="26" rx="3" fill="#fff3bf" stroke="#1e1e1e" stroke-width="2" /><line x1="384" y1="327" x2="384" y2="353" stroke="#1e1e1e" stroke-width="1.5" stroke-linecap="round"/>
+<text x="370" y="345" font-size="12" fill="#222" font-weight="bold" text-anchor="end">F2</text>
+<rect x="270" y="400" width="140" height="78" rx="6" fill="#4f5b66" stroke="#1e1e1e" stroke-width="2.5" />
+<rect x="286" y="390" width="20" height="10" rx="2" fill="#1e1e1e" stroke="#1e1e1e" stroke-width="1.5" />
+<rect x="374" y="390" width="20" height="10" rx="2" fill="#d62828" stroke="#1e1e1e" stroke-width="1.5" />
+<text x="296" y="422" font-size="18" fill="#fff" font-weight="bold" text-anchor="middle">−</text>
+<text x="384" y="422" font-size="18" fill="#fff" font-weight="bold" text-anchor="middle">+</text>
+<text x="340" y="450" font-size="14" fill="#fff" font-weight="bold" text-anchor="middle">BATERIA</text>
+<text x="340" y="467" font-size="11.5" fill="#e6e6e6" text-anchor="middle">12 V</text>
+<polyline points="420,222 508,222" fill="none" stroke="#d62828" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="420,246 508,246" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="449" y="214" width="26" height="16" rx="3" fill="#fff3bf" stroke="#1e1e1e" stroke-width="2" /><line x1="449" y1="222" x2="475" y2="222" stroke="#1e1e1e" stroke-width="1.5" stroke-linecap="round"/><text x="462" y="209" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">F3</text>
+<rect x="508" y="190" width="152" height="96" rx="8" fill="#fff9db" stroke="#1e1e1e" stroke-width="2" />
+<text x="584" y="210" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">CARGAS 12 V</text>
+<circle cx="540" cy="238" r="15" fill="#ffe066" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="533" y="252" width="14" height="12" rx="2" fill="#adb5bd" stroke="#1e1e1e" stroke-width="1.5" />
+<rect x="566" y="228" width="30" height="22" rx="3" fill="#dee2e6" stroke="#1e1e1e" stroke-width="2" />
+<rect x="572" y="236" width="18" height="6" rx="0" fill="#495057" stroke="none" stroke-width="0" />
+<text x="581" y="264" font-size="10.5" fill="#222" font-weight="bold" text-anchor="middle">USB</text>
+<text x="630" y="248" font-size="10.5" fill="#222" text-anchor="middle">rádio</text>
+<text x="630" y="262" font-size="10.5" fill="#222" text-anchor="middle">ventil.</text>
+<text x="584" y="280" font-size="10.5" fill="#444" text-anchor="middle">LED, celular, rádio</text>
+<polyline points="384,392 384,374 500,374 500,414 522,414" fill="none" stroke="#d62828" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="296,392 296,378 248,378 248,500 490,500 490,446 522,446" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="433" y="366" width="26" height="16" rx="3" fill="#fff3bf" stroke="#1e1e1e" stroke-width="2" /><line x1="433" y1="374" x2="459" y2="374" stroke="#1e1e1e" stroke-width="1.5" stroke-linecap="round"/>
+<text x="446" y="362" font-size="11.5" fill="#222" font-weight="bold" text-anchor="middle">F4 (grosso)</text>
+<rect x="522" y="396" width="138" height="70" rx="6" fill="#ced4da" stroke="#1e1e1e" stroke-width="2.5" />
+<text x="591" y="422" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">INVERSOR</text>
+<text x="591" y="438" font-size="10.5" fill="#222" text-anchor="middle">12 V CC → 127/220 V</text>
+<text x="591" y="452" font-size="10.5" fill="#222" text-anchor="middle">CA (senoidal pura)</text>
+<polyline points="600,466 600,492" fill="none" stroke="#555" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="600" cy="514" r="21" fill="#f8f9fa" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="592" cy="511" r="3" fill="#1e1e1e"/>
+<circle cx="608" cy="511" r="3" fill="#1e1e1e"/>
+<circle cx="600" cy="522" r="3" fill="#1e1e1e"/>
+<text x="520" y="552" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">tomada 127/220 V:</text><text x="520" y="566" font-size="11.5" fill="#b3001b" text-anchor="start">choque MATA</text>
+<line x1="452" y1="74" x2="486" y2="74" stroke="#d62828" stroke-width="5" stroke-linecap="round"/>
+<text x="494" y="79" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">fio positivo (+)</text>
+<line x1="452" y1="98" x2="486" y2="98" stroke="#1e1e1e" stroke-width="5" stroke-linecap="round"/>
+<text x="494" y="103" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">fio negativo (−)</text>
+<rect x="448" y="116" width="40" height="18" rx="3" fill="#fff3bf" stroke="#1e1e1e" stroke-width="2" />
+<text x="494" y="130" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">fusível (no fio +)</text>
+<text x="20" y="360" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">F2 e F4 ficam</text><text x="20" y="374" font-size="11.5" fill="#b3001b" text-anchor="start">a no máximo</text><text x="20" y="388" font-size="11.5" fill="#b3001b" text-anchor="start">20–30 cm do +</text><text x="20" y="402" font-size="11.5" fill="#b3001b" text-anchor="start">da bateria</text>
+<rect x="20" y="576" width="640" height="64" rx="8" fill="#eef5ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="34" y="598" font-size="12.5" fill="#1b3d6b" text-anchor="start">LIGAR: 1º a bateria no controlador → 2º o painel → 3º as cargas.</text><text x="34" y="616" font-size="12.5" fill="#1b3d6b" text-anchor="start">DESLIGAR: na ordem contrária (o painel primeiro). O inversor vai DIRETO na bateria.</text>
+</svg>

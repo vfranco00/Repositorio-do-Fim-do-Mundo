@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 686.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="686.8" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Cruzeiro do Sul: como achar o SUL à noite</text>
+<rect x="20" y="46" width="430" height="501" fill="#e9eef7"/>
+<rect x="20" y="547" width="430" height="44" fill="#9fb98a"/>
+<path d="M20 547 q 40 -14 80 -4 q 50 -18 110 0 q 60 -10 100 2 q 50 -14 140 0 L450 547 Z" fill="#7d9c68"/>
+<line x1="20" y1="547" x2="450" y2="547" stroke="#4f7a35" stroke-width="2"/>
+<line x1="250.0" y1="120.6" x2="250.0" y2="166.3" stroke="#1d2b4f" stroke-width="2"/>
+<line x1="250.0" y1="166.3" x2="250.0" y2="372.0" stroke="#d62828" stroke-width="2.5" stroke-dasharray="7 5"/>
+<line x1="243.0" y1="212.0" x2="257.0" y2="212.0" stroke="#d62828" stroke-width="2.5"/>
+<text x="262.0" y="215.9941131079417" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">1×</text>
+<line x1="243.0" y1="257.7" x2="257.0" y2="257.7" stroke="#d62828" stroke-width="2.5"/>
+<text x="262.0" y="261.71008079138693" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">2×</text>
+<line x1="243.0" y1="303.4" x2="257.0" y2="303.4" stroke="#d62828" stroke-width="2.5"/>
+<text x="262.0" y="307.4260484748321" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">3×</text>
+<line x1="243.0" y1="349.1" x2="257.0" y2="349.1" stroke="#d62828" stroke-width="2.5"/>
+<text x="262.0" y="353.14201615827733" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">4×</text>
+<text x="264.0" y="376.0" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">4,5×</text>
+<line x1="127.1" y1="172.0" x2="158.0" y2="155.4" stroke="#3f6d9e" stroke-width="2" stroke-dasharray="4 4"/>
+<line x1="142.5" y1="163.7" x2="250.0" y2="372.0" stroke="#3f6d9e" stroke-width="2.5" stroke-dasharray="7 5"/>
+<circle cx="142.5" cy="163.7" r="3.5" fill="#3f6d9e"/>
+<polygon points="250.0,158.1 252.2,163.3 257.7,163.8 253.5,167.4 254.8,172.9 250.0,169.9 245.2,172.9 246.5,167.4 242.3,163.8 247.8,163.3" fill="#1d2b4f"/>
+<polygon points="231.6,131.8 233.6,136.5 238.7,136.9 234.8,140.2 236.0,145.1 231.6,142.5 227.3,145.1 228.5,140.2 224.6,136.9 229.7,136.5" fill="#1d2b4f"/>
+<polygon points="250.0,113.8 251.8,118.1 256.4,118.5 252.9,121.5 254.0,126.0 250.0,123.6 246.0,126.0 247.1,121.5 243.6,118.5 248.2,118.1" fill="#1d2b4f"/>
+<polygon points="265.4,130.3 266.6,133.3 269.9,133.5 267.4,135.7 268.1,138.8 265.4,137.1 262.6,138.8 263.3,135.7 260.9,133.5 264.1,133.3" fill="#1d2b4f"/>
+<polygon points="257.3,143.1 258.2,145.3 260.6,145.5 258.8,147.0 259.3,149.2 257.3,148.0 255.4,149.2 255.9,147.0 254.1,145.5 256.4,145.3" fill="#1d2b4f"/>
+<polygon points="127.1,162.3 129.7,168.5 136.3,169.0 131.3,173.4 132.8,179.8 127.1,176.4 121.4,179.8 123.0,173.4 117.9,169.0 124.6,168.5" fill="#1d2b4f"/>
+<polygon points="158.0,146.9 160.2,152.3 166.0,152.8 161.6,156.6 162.9,162.3 158.0,159.2 153.0,162.3 154.3,156.6 149.9,152.8 155.7,152.3" fill="#1d2b4f"/>
+<text x="123.11160754389098" y="196.0101361653203" font-size="11.5" fill="#3f6d9e" font-weight="bold" text-anchor="middle">Alfa</text>
+<text x="123.11160754389098" y="209.0101361653203" font-size="11.5" fill="#3f6d9e" font-weight="bold" text-anchor="middle">Centauri</text>
+<text x="159.9538305284533" y="141.42924195261426" font-size="11.5" fill="#3f6d9e" font-weight="bold" text-anchor="middle">Beta Centauri</text>
+<text x="138.53271903617213" y="119.71968905896728" font-size="12" fill="#3f6d9e" font-weight="bold" text-anchor="middle">AS GUARDAS</text>
+<text x="280.0" y="114.5621777410513" font-size="12" fill="#1d2b4f" font-weight="bold" text-anchor="start">CRUZEIRO</text>
+<text x="280.0" y="128.5621777410513" font-size="12" fill="#1d2b4f" font-weight="bold" text-anchor="start">DO SUL</text>
+<circle cx="250.0" cy="372.0" r="7" fill="none" stroke="#d62828" stroke-width="3"/>
+<text x="264.0" y="396.0" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="start">Polo Sul Celeste</text>
+<text x="264.0" y="410.0" font-size="11" fill="#b3001b" text-anchor="start">(ponto vazio do céu)</text>
+<line x1="250.0" y1="380.0" x2="250.0" y2="540.8" stroke="#2b8a3e" stroke-width="3"/>
+<polygon points="242.0,530.8 258.0,530.8 250.0,544.8" fill="#2b8a3e"/>
+<text x="260.0" y="473.4" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="start">desça reto</text>
+<text x="260.0" y="487.4" font-size="11.5" fill="#2b8a3e" font-weight="bold" text-anchor="start">até o horizonte</text>
+<text x="250.0" y="576.8" font-size="20" fill="#fff" font-weight="bold" text-anchor="middle">SUL</text>
+<text x="30" y="461.4" font-size="11" fill="#444" text-anchor="start">altura do polo</text>
+<text x="30" y="474.4" font-size="11" fill="#444" text-anchor="start">= sua latitude</text>
+<text x="30" y="487.4" font-size="11" fill="#444" text-anchor="start">(aqui 23°)</text>
+<rect x="462" y="46" width="198" height="236" rx="8" fill="#e9eef7" stroke="#9fb3cc"/>
+<text x="561.0" y="64" font-size="12" fill="#1d2b4f" font-weight="bold" text-anchor="middle">o Cruzeiro, ampliado</text>
+<line x1="553.3" y1="252.8" x2="553.3" y2="114.4" stroke="#9fb3cc" stroke-width="2"/>
+<line x1="497.7" y1="170.7" x2="599.8" y2="158.1" stroke="#9fb3cc" stroke-width="2"/>
+<polygon points="553.3,243.3 555.8,249.3 562.3,249.8 557.3,254.1 558.8,260.4 553.3,257.0 547.7,260.4 549.2,254.1 544.2,249.8 550.8,249.3" fill="#1d2b4f"/>
+<text x="609.2647574453172" y="250.75326104905747" font-size="11" fill="#222" font-weight="bold" text-anchor="middle">Acrux (pé, a</text>
+<text x="609.2647574453172" y="263.75326104905747" font-size="11" fill="#222" font-weight="bold" text-anchor="middle">mais brilhante)</text>
+<polygon points="497.7,162.1 500.0,167.6 505.9,168.1 501.4,171.9 502.8,177.7 497.7,174.6 492.6,177.7 494.0,171.9 489.5,168.1 495.4,167.6" fill="#1d2b4f"/>
+<text x="491.7124518262233" y="192.74290077771684" font-size="11" fill="#222" font-weight="bold" text-anchor="middle">Mimosa</text>
+<polygon points="553.3,106.4 555.4,111.5 560.8,111.9 556.7,115.5 557.9,120.8 553.3,118.0 548.6,120.8 549.9,115.5 545.7,111.9 551.2,111.5" fill="#c0621a"/>
+<text x="603.2647574453172" y="110.40230621757856" font-size="11" fill="#222" font-weight="bold" text-anchor="middle">Gacrux (topo,</text>
+<text x="603.2647574453172" y="123.40230621757856" font-size="11" fill="#222" font-weight="bold" text-anchor="middle">alaranjada)</text>
+<polygon points="599.8,152.4 601.3,156.0 605.2,156.3 602.2,158.9 603.1,162.7 599.8,160.7 596.4,162.7 597.3,158.9 594.4,156.3 598.3,156.0" fill="#1d2b4f"/>
+<text x="605.7580332831424" y="180.1015319556472" font-size="11" fill="#222" font-weight="bold" text-anchor="middle">Pálida</text>
+<polygon points="575.5,188.8 576.6,191.4 579.4,191.7 577.2,193.5 577.9,196.3 575.5,194.8 573.0,196.3 573.7,193.5 571.5,191.7 574.4,191.4" fill="#1d2b4f"/>
+<text x="597.4694167184933" y="212.93967702135768" font-size="11" fill="#222" font-weight="bold" text-anchor="middle">Intrometida</text>
+<text x="466" y="304.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">1. Ache o Cruzeiro: 4 estrelas</text><text x="466" y="320.5" font-size="12" fill="#222" text-anchor="start">em cruz + 1 menor (Intrometida)</text><text x="466" y="337.0" font-size="12" fill="#222" text-anchor="start">e, ao lado, 2 estrelas muito</text><text x="466" y="353.5" font-size="12" fill="#222" text-anchor="start">brilhantes: as Guardas.</text><text x="466" y="370.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">2. Prolongue o braço maior,</text><text x="466" y="386.5" font-size="12" fill="#222" text-anchor="start">do topo para o pé, 4 vezes e</text><text x="466" y="403.0" font-size="12" fill="#222" text-anchor="start">meia o tamanho da cruz.</text><text x="466" y="419.5" font-size="12" fill="#222" font-weight="bold" text-anchor="start">3. Confira: a linha que sai do</text><text x="466" y="436.0" font-size="12" fill="#222" text-anchor="start">meio das Guardas, em ângulo</text><text x="466" y="452.5" font-size="12" fill="#222" text-anchor="start">reto, chega ao mesmo ponto.</text><text x="466" y="469.0" font-size="12" fill="#222" font-weight="bold" text-anchor="start">4. Desse ponto, desça reto até</text><text x="466" y="485.5" font-size="12" fill="#222" text-anchor="start">o horizonte: ali é o SUL.</text><text x="466" y="502.0" font-size="12" fill="#222" text-anchor="start">Marque com uma estaca e</text><text x="466" y="518.5" font-size="12" fill="#222" text-anchor="start">espere o dia para conferir.</text>
+<rect x="20" y="600.8" width="640" height="76" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="32" y="620.8" font-size="12" fill="#222" text-anchor="start">O Cruzeiro gira em volta do polo durante a noite (pode estar deitado ou de cabeça para baixo):</text><text x="32" y="637.8" font-size="12" fill="#222" text-anchor="start">o método funciona em qualquer posição. Cuidado com o "Falso Cruzeiro": é maior, mais apagado,</text><text x="32" y="654.8" font-size="12" fill="#222" text-anchor="start">sem a 5ª estrela e sem as Guardas ao lado. Punho fechado com o braço esticado ≈ 10° no céu.</text>
+</svg>

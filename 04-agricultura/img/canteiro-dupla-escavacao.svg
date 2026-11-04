@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 710" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="710" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Canteiro e dupla escavação</text>
+<text x="20" y="64" font-size="15" fill="#222" font-weight="bold" text-anchor="start">1. Canteiro em corte (medidas)</text>
+<rect x="0" y="200" width="680" height="45" fill="#e8d3b0"/>
+<line x1="0" y1="200" x2="680" y2="200" stroke="#6b4f2a" stroke-width="2"/>
+<polygon points="150,200 158,142 442,142 450,200" fill="#c9a878" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="158" y="136" width="284" height="7" fill="#e9cf6b" stroke="#a88a2a" stroke-width="1"/>
+<line x1="195" y1="137" x2="195" y2="123.0" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="187.0" cy="121.0" rx="9.0" ry="5.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 187.0 121.0)"/><ellipse cx="203.0" cy="121.0" rx="9.0" ry="5.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 203.0 121.0)"/><ellipse cx="195" cy="113.0" rx="5.0" ry="8.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<line x1="265" y1="137" x2="265" y2="123.0" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="257.0" cy="121.0" rx="9.0" ry="5.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 257.0 121.0)"/><ellipse cx="273.0" cy="121.0" rx="9.0" ry="5.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 273.0 121.0)"/><ellipse cx="265" cy="113.0" rx="5.0" ry="8.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<line x1="335" y1="137" x2="335" y2="123.0" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="327.0" cy="121.0" rx="9.0" ry="5.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 327.0 121.0)"/><ellipse cx="343.0" cy="121.0" rx="9.0" ry="5.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 343.0 121.0)"/><ellipse cx="335" cy="113.0" rx="5.0" ry="8.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<line x1="405" y1="137" x2="405" y2="123.0" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="397.0" cy="121.0" rx="9.0" ry="5.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 397.0 121.0)"/><ellipse cx="413.0" cy="121.0" rx="9.0" ry="5.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 413.0 121.0)"/><ellipse cx="405" cy="113.0" rx="5.0" ry="8.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<polygon points="575,200 583,142 668,142 668,200" fill="#c9a878" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="583" y="136" width="85" height="7" fill="#e9cf6b" stroke="#a88a2a" stroke-width="1"/>
+<line x1="620" y1="137" x2="620" y2="123.0" stroke="#2b8a3e" stroke-width="2.5"/><ellipse cx="612.0" cy="121.0" rx="9.0" ry="5.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(-25 612.0 121.0)"/><ellipse cx="628.0" cy="121.0" rx="9.0" ry="5.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5" transform="rotate(25 628.0 121.0)"/><ellipse cx="620" cy="113.0" rx="5.0" ry="8.0" fill="#8fd19e" stroke="#2b8a3e" stroke-width="1.5"/>
+<line x1="150" y1="98" x2="450" y2="98" stroke="#333" stroke-width="1.5"/><line x1="150" y1="92" x2="150" y2="104" stroke="#333" stroke-width="1.5"/><line x1="450" y1="92" x2="450" y2="104" stroke="#333" stroke-width="1.5"/><text x="300.0" y="92" font-size="13" fill="#333" font-weight="bold" text-anchor="middle">1,0 a 1,2 m de largura</text>
+<text x="470" y="86" font-size="12" fill="#2b6a1e" font-weight="bold" text-anchor="start">alcança o meio dos</text><text x="470" y="101" font-size="12" fill="#2b6a1e" text-anchor="start">dois lados sem pisar</text>
+<line x1="462" y1="142" x2="462" y2="200" stroke="#333" stroke-width="1.5"/><line x1="456" y1="142" x2="468" y2="142" stroke="#333" stroke-width="1.5"/><line x1="456" y1="200" x2="468" y2="200" stroke="#333" stroke-width="1.5"/><text x="470" y="175.0" font-size="12" fill="#333" font-weight="bold" text-anchor="start">20–30 cm</text>
+<line x1="25" y1="222" x2="150" y2="222" stroke="#333" stroke-width="1.5"/><line x1="25" y1="216" x2="25" y2="228" stroke="#333" stroke-width="1.5"/><line x1="150" y1="216" x2="150" y2="228" stroke="#333" stroke-width="1.5"/><text x="87.5" y="216" font-size="12" fill="#333" font-weight="bold" text-anchor="middle"></text>
+<text x="87" y="216" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">caminho</text>
+<text x="87" y="240" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">40–50 cm</text>
+<line x1="450" y1="222" x2="575" y2="222" stroke="#333" stroke-width="1.5"/><line x1="450" y1="216" x2="450" y2="228" stroke="#333" stroke-width="1.5"/><line x1="575" y1="216" x2="575" y2="228" stroke="#333" stroke-width="1.5"/><text x="512.5" y="216" font-size="12" fill="#333" font-weight="bold" text-anchor="middle"></text>
+<text x="512" y="216" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">caminho</text>
+<text x="512" y="240" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">40–50 cm</text>
+<text x="300" y="175" font-size="12" fill="#fff" font-weight="bold" text-anchor="middle">terra fofa + composto</text>
+<text x="300" y="268" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="middle">Comprimento: até 10 m.  Cobertura de palha por cima.  NUNCA pise no canteiro.</text>
+<line x1="20" y1="288" x2="660" y2="288" stroke="#bbb" stroke-width="1"/>
+<text x="20" y="312" font-size="15" fill="#222" font-weight="bold" text-anchor="start">2. Dupla escavação (faz-se uma vez; depois é só afofar com garfo)</text>
+<rect x="70" y="544" width="510" height="20" fill="#d9c49c"/>
+<rect x="70" y="464" width="510" height="80" fill="#e8d3b0"/>
+<rect x="310" y="384" width="270" height="80" fill="#c9a878"/>
+<rect x="70" y="464" width="80" height="80" fill="#f1e2c6"/>
+<circle cx="78" cy="474" r="2" fill="#a8865a"/>
+<circle cx="78" cy="492" r="2" fill="#a8865a"/>
+<circle cx="78" cy="510" r="2" fill="#a8865a"/>
+<circle cx="78" cy="528" r="2" fill="#a8865a"/>
+<circle cx="91" cy="474" r="2" fill="#a8865a"/>
+<circle cx="91" cy="492" r="2" fill="#a8865a"/>
+<circle cx="91" cy="510" r="2" fill="#a8865a"/>
+<circle cx="91" cy="528" r="2" fill="#a8865a"/>
+<circle cx="104" cy="474" r="2" fill="#a8865a"/>
+<circle cx="104" cy="492" r="2" fill="#a8865a"/>
+<circle cx="104" cy="510" r="2" fill="#a8865a"/>
+<circle cx="104" cy="528" r="2" fill="#a8865a"/>
+<circle cx="117" cy="474" r="2" fill="#a8865a"/>
+<circle cx="117" cy="492" r="2" fill="#a8865a"/>
+<circle cx="117" cy="510" r="2" fill="#a8865a"/>
+<circle cx="117" cy="528" r="2" fill="#a8865a"/>
+<circle cx="130" cy="474" r="2" fill="#a8865a"/>
+<circle cx="130" cy="492" r="2" fill="#a8865a"/>
+<circle cx="130" cy="510" r="2" fill="#a8865a"/>
+<circle cx="130" cy="528" r="2" fill="#a8865a"/>
+<circle cx="143" cy="474" r="2" fill="#a8865a"/>
+<circle cx="143" cy="492" r="2" fill="#a8865a"/>
+<circle cx="143" cy="510" r="2" fill="#a8865a"/>
+<circle cx="143" cy="528" r="2" fill="#a8865a"/>
+<path d="M70 464 L70 380 Q 110 368 150 380 L150 464 Z" fill="#b8925e"/>
+<circle cx="78" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="78" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="78" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="78" cy="446" r="2" fill="#6b4f2a"/>
+<circle cx="91" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="91" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="91" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="91" cy="446" r="2" fill="#6b4f2a"/>
+<circle cx="104" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="104" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="104" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="104" cy="446" r="2" fill="#6b4f2a"/>
+<circle cx="117" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="117" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="117" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="117" cy="446" r="2" fill="#6b4f2a"/>
+<circle cx="130" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="130" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="130" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="130" cy="446" r="2" fill="#6b4f2a"/>
+<circle cx="143" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="143" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="143" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="143" cy="446" r="2" fill="#6b4f2a"/>
+<rect x="150" y="464" width="80" height="80" fill="#f1e2c6"/>
+<circle cx="158" cy="474" r="2" fill="#a8865a"/>
+<circle cx="158" cy="492" r="2" fill="#a8865a"/>
+<circle cx="158" cy="510" r="2" fill="#a8865a"/>
+<circle cx="158" cy="528" r="2" fill="#a8865a"/>
+<circle cx="171" cy="474" r="2" fill="#a8865a"/>
+<circle cx="171" cy="492" r="2" fill="#a8865a"/>
+<circle cx="171" cy="510" r="2" fill="#a8865a"/>
+<circle cx="171" cy="528" r="2" fill="#a8865a"/>
+<circle cx="184" cy="474" r="2" fill="#a8865a"/>
+<circle cx="184" cy="492" r="2" fill="#a8865a"/>
+<circle cx="184" cy="510" r="2" fill="#a8865a"/>
+<circle cx="184" cy="528" r="2" fill="#a8865a"/>
+<circle cx="197" cy="474" r="2" fill="#a8865a"/>
+<circle cx="197" cy="492" r="2" fill="#a8865a"/>
+<circle cx="197" cy="510" r="2" fill="#a8865a"/>
+<circle cx="197" cy="528" r="2" fill="#a8865a"/>
+<circle cx="210" cy="474" r="2" fill="#a8865a"/>
+<circle cx="210" cy="492" r="2" fill="#a8865a"/>
+<circle cx="210" cy="510" r="2" fill="#a8865a"/>
+<circle cx="210" cy="528" r="2" fill="#a8865a"/>
+<circle cx="223" cy="474" r="2" fill="#a8865a"/>
+<circle cx="223" cy="492" r="2" fill="#a8865a"/>
+<circle cx="223" cy="510" r="2" fill="#a8865a"/>
+<circle cx="223" cy="528" r="2" fill="#a8865a"/>
+<path d="M150 464 L150 380 Q 190 368 230 380 L230 464 Z" fill="#b8925e"/>
+<circle cx="158" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="158" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="158" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="158" cy="446" r="2" fill="#6b4f2a"/>
+<circle cx="171" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="171" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="171" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="171" cy="446" r="2" fill="#6b4f2a"/>
+<circle cx="184" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="184" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="184" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="184" cy="446" r="2" fill="#6b4f2a"/>
+<circle cx="197" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="197" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="197" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="197" cy="446" r="2" fill="#6b4f2a"/>
+<circle cx="210" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="210" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="210" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="210" cy="446" r="2" fill="#6b4f2a"/>
+<circle cx="223" cy="392" r="2" fill="#6b4f2a"/>
+<circle cx="223" cy="410" r="2" fill="#6b4f2a"/>
+<circle cx="223" cy="428" r="2" fill="#6b4f2a"/>
+<circle cx="223" cy="446" r="2" fill="#6b4f2a"/>
+<rect x="230" y="384" width="80" height="80" fill="#ffffff"/>
+<rect x="230" y="464" width="80" height="80" fill="#f1e2c6"/>
+<path d="M70 384 L70 564 L580 564 L580 384" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+<path d="M230 384 L230 464 L310 464 L310 384" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="310" y1="384" x2="580" y2="384" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="70" y1="464" x2="580" y2="464" stroke="#555" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="70" y1="544" x2="580" y2="544" stroke="#555" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="150" y1="384" x2="150" y2="544" stroke="#777" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="390" y1="384" x2="390" y2="544" stroke="#777" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="470" y1="384" x2="470" y2="544" stroke="#777" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="250" y1="462" x2="250" y2="510" stroke="#666" stroke-width="3" stroke-linecap="round"/>
+<line x1="262" y1="462" x2="262" y2="510" stroke="#666" stroke-width="3" stroke-linecap="round"/>
+<line x1="274" y1="462" x2="274" y2="510" stroke="#666" stroke-width="3" stroke-linecap="round"/>
+<line x1="286" y1="462" x2="286" y2="510" stroke="#666" stroke-width="3" stroke-linecap="round"/>
+<line x1="248" y1="460" x2="288" y2="460" stroke="#666" stroke-width="5"/>
+<line x1="268" y1="458" x2="300" y2="332" stroke="#8b5a2b" stroke-width="6" stroke-linecap="round"/>
+<line x1="291" y1="328" x2="313" y2="338" stroke="#8b5a2b" stroke-width="6" stroke-linecap="round"/>
+<path d="M350 414 Q 330 334 265.9 409.4" fill="none" stroke="#d62828" stroke-width="3.5"/><polygon points="262,414 265.0,402.4 273.0,409.1" fill="#d62828"/>
+<path d="M592 384 Q 628 336 664 384 Z" fill="#c9a878" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="585" y1="384" x2="670" y2="384" stroke="#6b4f2a" stroke-width="2"/>
+<line x1="56" y1="384" x2="56" y2="464" stroke="#333" stroke-width="1.5"/><line x1="50" y1="384" x2="62" y2="384" stroke="#333" stroke-width="1.5"/><line x1="50" y1="464" x2="62" y2="464" stroke="#333" stroke-width="1.5"/><text x="48" y="428.0" font-size="11" fill="#333" font-weight="bold" text-anchor="end">30</text>
+<line x1="56" y1="464" x2="56" y2="544" stroke="#333" stroke-width="1.5"/><line x1="50" y1="464" x2="62" y2="464" stroke="#333" stroke-width="1.5"/><line x1="50" y1="544" x2="62" y2="544" stroke="#333" stroke-width="1.5"/><text x="48" y="508.0" font-size="11" fill="#333" font-weight="bold" text-anchor="end">30</text>
+<text x="30" y="558" font-size="11" fill="#333" font-weight="bold" text-anchor="middle">cm</text>
+<text x="445" y="428" font-size="12" fill="#fff" font-weight="bold" text-anchor="middle">camada de cima</text>
+<text x="445" y="508" font-size="12" fill="#6b4f2a" font-weight="bold" text-anchor="middle">camada de baixo</text>
+<text x="110" y="360" font-size="12" fill="#2b8a3e" font-weight="bold" text-anchor="middle">pronto</text>
+<text x="190" y="360" font-size="12" fill="#2b8a3e" font-weight="bold" text-anchor="middle">pronto</text>
+<circle cx="270" cy="404" r="11" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="1.5"/><text x="270" y="408.5" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">1</text>
+<circle cx="232" cy="526" r="11" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="1.5"/><text x="232" y="530.5" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">2</text>
+<circle cx="350" cy="344" r="11" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="1.5"/><text x="350" y="348.5" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">3</text>
+<circle cx="628" cy="334" r="11" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="1.5"/><text x="628" y="338.5" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">4</text>
+<circle cx="30" cy="592" r="11" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="1.5"/><text x="30" y="596.5" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">1</text>
+<text x="48" y="596" font-size="12" fill="#222" text-anchor="start">Abra uma vala de 30 x 30 cm no começo</text><text x="48" y="611" font-size="12" fill="#222" text-anchor="start">do canteiro; a terra vai para o fim dele.</text>
+<circle cx="30" cy="636" r="11" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="1.5"/><text x="30" y="640.5" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">2</text>
+<text x="48" y="640" font-size="12" fill="#222" text-anchor="start">Solte o fundo da vala com o garfo, mais</text><text x="48" y="655" font-size="12" fill="#222" text-anchor="start">30 cm, sem tirar a terra (só afofa).</text>
+<circle cx="360" cy="592" r="11" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="1.5"/><text x="360" y="596.5" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">3</text>
+<text x="378" y="596" font-size="12" fill="#222" text-anchor="start">Jogue a terra de cima da faixa seguinte</text><text x="378" y="611" font-size="12" fill="#222" text-anchor="start">dentro da vala aberta. Repita até o fim.</text>
+<circle cx="360" cy="636" r="11" fill="#ef8a2b" stroke="#1e1e1e" stroke-width="1.5"/><text x="360" y="640.5" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">4</text>
+<text x="378" y="640" font-size="12" fill="#222" text-anchor="start">A terra da 1ª vala fecha a última.</text><text x="378" y="655" font-size="12" fill="#222" text-anchor="start">Espalhe composto e nivele com rastelo.</text>
+<rect x="20" y="664" width="640" height="34" rx="8" fill="#eaf6ec" stroke="#2b8a3e" stroke-width="1.5"/>
+<text x="340" y="686" font-size="12.5" fill="#1e5e2a" font-weight="bold" text-anchor="middle">Resultado: terra fofa até 60 cm — raízes fundas, menos rega, plantas mais juntas.</text>
+</svg>

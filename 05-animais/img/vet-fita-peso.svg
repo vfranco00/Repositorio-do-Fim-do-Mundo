@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 620" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="620" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Estimar o peso com fita (sem balança)</text>
+<g transform="translate(14,64) scale(0.82)"><path d="M206,240 L212,300 L214,368 C214,374 212,378 210,382 L240,382 L240,368 L238,300 L236,246 Z" fill="#b89d7c" stroke="#1e1e1e" stroke-width="2"/><path d="M420,240 C428,262 432,282 434,300 L432,368 C432,374 430,378 428,382 L458,382 L458,368 L460,322 C462,312 466,304 468,296 L470,250 Z" fill="#b89d7c" stroke="#1e1e1e" stroke-width="2"/><path d="M482,74 C496,100 500,160 498,232" fill="none" stroke="#1e1e1e" stroke-width="5" stroke-linecap="round"/><path d="M498,226 C490,240 492,262 500,272 C508,262 508,240 498,226 Z" fill="#6b5236" stroke="#1e1e1e" stroke-width="2"/><path d="M95,70 C80,66 62,74 50,86 C36,100 24,124 16,148 C12,160 12,170 22,180 C34,186 58,182 78,166 C88,162 96,164 102,176 C110,196 126,214 146,226 C154,232 158,236 160,240 C164,262 166,284 166,300 L168,368 C168,374 166,378 164,382 L196,382 C196,376 196,372 196,368 L198,300 C200,280 202,262 206,242 C240,248 300,250 340,246 C366,243 382,236 392,226 C400,246 408,262 414,282 C418,292 418,300 416,310 L414,368 C414,374 412,378 410,382 L442,382 C442,376 442,372 442,368 L444,322 C446,312 450,304 454,298 C460,272 468,248 472,228 C482,190 490,140 486,84 C484,76 482,72 478,68 C462,58 446,56 430,56 C390,56 350,54 300,52 C260,50 236,48 214,44 C196,34 180,30 166,34 C150,40 136,52 120,60 C110,64 102,68 95,70 Z" fill="#d9c2a3" stroke="#1e1e1e" stroke-width="2.5" stroke-linejoin="round"/><path d="M92,68 C90,56 92,46 100,38 C100,48 102,58 104,66 Z" fill="#efe6d2" stroke="#1e1e1e" stroke-width="2"/><path d="M104,74 C120,70 136,74 146,84 C132,90 116,88 104,82 Z" fill="#d9c2a3" stroke="#1e1e1e" stroke-width="2"/><path d="M24,140 C16,150 14,166 22,178 C34,184 50,182 60,174 C50,160 38,146 24,140 Z" fill="#c9a98a" stroke="none"/><ellipse cx="68" cy="100" rx="6" ry="4.5" fill="#1e1e1e"/><ellipse cx="22" cy="156" rx="3.5" ry="5" fill="#1e1e1e"/><path d="M20,172 C30,176 44,176 52,172" fill="none" stroke="#1e1e1e" stroke-width="1.8"/><rect x="164" y="374" width="32" height="8" fill="#3a2e22"/><rect x="410" y="374" width="32" height="8" fill="#3a2e22"/></g>
+<ellipse cx="189" cy="183" rx="15" ry="83" fill="none" stroke="#d62828" stroke-width="7" stroke-opacity="0.35"/>
+<path d="M189,100 C209,150 209,216 189,266" fill="none" stroke="#d62828" stroke-width="7"/>
+<text x="195.48" y="74.08" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">A = perímetro torácico</text>
+<text x="195.48" y="89.08" font-size="11.5" fill="#b3001b" text-anchor="middle">(fita justa, logo atrás das patas da frente)</text>
+<line x1="137" y1="228" x2="411" y2="156" stroke="#1f5fa8" stroke-width="3" stroke-dasharray="9 5"/>
+<circle cx="137" cy="228" r="6" fill="#1f5fa8"/><circle cx="411" cy="156" r="6" fill="#1f5fa8"/>
+<text x="127.0" y="250.0" font-size="11.5" fill="#1f5fa8" font-weight="bold" text-anchor="middle">ponta da paleta</text>
+<text x="380.88" y="129.83999999999997" font-size="11.5" fill="#1f5fa8" font-weight="bold" text-anchor="middle">ponta da</text>
+<text x="380.88" y="143.83999999999997" font-size="11.5" fill="#1f5fa8" font-weight="bold" text-anchor="middle">nádega</text>
+<text x="236" y="232" font-size="13" fill="#1f5fa8" font-weight="bold" text-anchor="start">B = comprimento</text>
+<rect x="462" y="52" width="206" height="330" rx="8" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<text x="565" y="70" font-size="12.5" fill="#222" font-weight="bold" text-anchor="middle">Bovino: só a fita (A)</text>
+<text x="500" y="92" font-size="12" fill="#555" font-weight="bold" text-anchor="middle">A (cm)</text>
+<text x="602" y="92" font-size="12" fill="#555" font-weight="bold" text-anchor="middle">peso aprox. (kg)</text>
+<rect x="466" y="99" width="198" height="21" fill="#f1f1f1"/>
+<text x="500" y="114" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">100</text>
+<text x="602" y="114" font-size="13" fill="#222" text-anchor="middle">70</text>
+<text x="500" y="136" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">110</text>
+<text x="602" y="136" font-size="13" fill="#222" text-anchor="middle">95</text>
+<rect x="466" y="143" width="198" height="21" fill="#f1f1f1"/>
+<text x="500" y="158" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">120</text>
+<text x="602" y="158" font-size="13" fill="#222" text-anchor="middle">120</text>
+<text x="500" y="180" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">130</text>
+<text x="602" y="180" font-size="13" fill="#222" text-anchor="middle">155</text>
+<rect x="466" y="187" width="198" height="21" fill="#f1f1f1"/>
+<text x="500" y="202" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">140</text>
+<text x="602" y="202" font-size="13" fill="#222" text-anchor="middle">190</text>
+<text x="500" y="224" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">150</text>
+<text x="602" y="224" font-size="13" fill="#222" text-anchor="middle">235</text>
+<rect x="466" y="231" width="198" height="21" fill="#f1f1f1"/>
+<text x="500" y="246" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">160</text>
+<text x="602" y="246" font-size="13" fill="#222" text-anchor="middle">285</text>
+<text x="500" y="268" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">170</text>
+<text x="602" y="268" font-size="13" fill="#222" text-anchor="middle">345</text>
+<rect x="466" y="275" width="198" height="21" fill="#f1f1f1"/>
+<text x="500" y="290" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">180</text>
+<text x="602" y="290" font-size="13" fill="#222" text-anchor="middle">410</text>
+<text x="500" y="312" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">190</text>
+<text x="602" y="312" font-size="13" fill="#222" text-anchor="middle">480</text>
+<rect x="466" y="319" width="198" height="21" fill="#f1f1f1"/>
+<text x="500" y="334" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">200</text>
+<text x="602" y="334" font-size="13" fill="#222" text-anchor="middle">560</text>
+<text x="500" y="356" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">210</text>
+<text x="602" y="356" font-size="13" fill="#222" text-anchor="middle">650</text>
+<rect x="16" y="400" width="440" height="150" rx="8" fill="#eef5ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="28" y="422" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Mais preciso (fita A e comprimento B, em cm):</text>
+<text x="28" y="446" font-size="13" fill="#1e1e1e" font-weight="bold" text-anchor="start">Bovino:   peso (kg) = A × A × B ÷ 10.840</text>
+<text x="28" y="468" font-size="13" fill="#1e1e1e" font-weight="bold" text-anchor="start">Cavalo:   peso (kg) = A × A × B ÷ 11.880</text>
+<text x="28" y="490" font-size="13" fill="#1e1e1e" font-weight="bold" text-anchor="start">Porco:     peso (kg) = A × A × B ÷ 14.400</text>
+<text x="28" y="508" font-size="11.5" fill="#444" text-anchor="start">(no porco, B vai do meio das orelhas até a raiz do rabo)</text>
+<text x="28" y="532" font-size="12" fill="#2b6a1e" font-weight="bold" text-anchor="start">Ex.: A = 190, B = 150 → 190×190×150 ÷ 10.840 = 500 kg</text>
+<rect x="466" y="400" width="198" height="150" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<text x="478" y="422" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Sem fita métrica:</text>
+<text x="478" y="442" font-size="12" fill="#222" text-anchor="start">dê a volta com um</text>
+<text x="478" y="458" font-size="12" fill="#222" text-anchor="start">barbante, marque com</text>
+<text x="478" y="474" font-size="12" fill="#222" text-anchor="start">um nó e meça depois</text>
+<text x="478" y="490" font-size="12" fill="#222" text-anchor="start">numa trena ou régua.</text>
+<text x="478" y="514" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Cabra, ovelha, cão:</text>
+<text x="478" y="530" font-size="12" fill="#222" text-anchor="start">suba na balança com</text>
+<text x="478" y="546" font-size="12" fill="#222" text-anchor="start">ele no colo e desconte.</text>
+<rect x="16" y="560" width="648" height="50" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="28" y="580" font-size="12.5" fill="#222" text-anchor="start">Animal em pé, parado, cabeça na altura normal. Meça 2 vezes e use a média.</text>
+<text x="28" y="598" font-size="12.5" fill="#222" text-anchor="start">Erro de ±10% (gordo, magro e prenhe variam). Serve para dose de remédio e ganho de peso.</text>
+</svg>
