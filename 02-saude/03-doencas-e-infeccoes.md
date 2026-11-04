@@ -109,6 +109,18 @@ isolamento dos doentes.
 - **Profilaxia** após exposição de alto risco (atravessar água de enchente): doxiciclina 200 mg
   dose única por semana durante a exposição (adultos).
 
+## Febre maculosa (carrapato)
+
+- Transmitida pelo **carrapato-estrela** (e outros), comum em áreas com **capivaras**, cavalos
+  e pastos no Sudeste e Sul. **Mata muito se não tratada cedo.**
+- **Sintomas** 2–14 dias após a picada: febre alta, dor de cabeça forte, dor no corpo; depois
+  manchas vermelhas que começam em punhos e tornozelos (inclusive palmas e solas).
+- **Tratamento:** **doxiciclina** 100 mg 12/12 h por 7 dias — **comece já na suspeita**, inclusive
+  em crianças (nesta doença o benefício supera o risco). Não espere as manchas.
+- **Prevenção:** roupas claras e compridas, calça por dentro da meia, examinar o corpo todo
+  a cada 3 horas em área de pasto/mata. Retire o carrapato com pinça, puxando firme e reto,
+  sem torcer nem espremer; carrapatos que ficam menos de 4–6 h presos raramente transmitem.
+
 ## Infecções respiratórias
 
 ### Resfriado e gripe

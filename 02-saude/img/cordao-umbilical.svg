@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 408" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="408" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Como amarrar e cortar o cordão umbilical</text>
+<path d="M20 90 Q 150 70 210 110 Q 240 150 210 200 Q 150 240 20 220 Z" fill="#f6d3b7" stroke="#1e1e1e" stroke-width="3"/>
+<text x="70" y="160" font-size="14" fill="#7a5a40" font-weight="bold" text-anchor="start">barriga</text>
+<text x="70" y="178" font-size="14" fill="#7a5a40" font-weight="bold" text-anchor="start">do bebê</text>
+<path d="M214 150 C 300 120, 360 190, 450 150 S 600 120, 660 160" fill="none" stroke="#1e1e1e" stroke-width="20" stroke-linecap="round"/>
+<path d="M214 150 C 300 120, 360 190, 450 150 S 600 120, 660 160" fill="none" stroke="#c9d6e8" stroke-width="15" stroke-linecap="round"/>
+<path d="M214 150 C 300 120, 360 190, 450 150 S 600 120, 660 160" fill="none" stroke="#b9506a" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="600" y="120" font-size="13" fill="#444" text-anchor="start">→ placenta</text>
+<rect x="257" y="118" width="10" height="40" rx="3" fill="#f7f0d0" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="335" y="138" width="10" height="40" rx="3" fill="#f7f0d0" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="214" y1="214" x2="262" y2="214" stroke="#d62828" stroke-width="2"/><line x1="214" y1="207" x2="214" y2="221" stroke="#d62828" stroke-width="2"/><line x1="262" y1="207" x2="262" y2="221" stroke="#d62828" stroke-width="2"/>
+<text x="238" y="240" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">2 cm</text>
+<line x1="214" y1="262" x2="340" y2="262" stroke="#d62828" stroke-width="2"/><line x1="214" y1="255" x2="214" y2="269" stroke="#d62828" stroke-width="2"/><line x1="340" y1="255" x2="340" y2="269" stroke="#d62828" stroke-width="2"/>
+<text x="277" y="288" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">5 cm</text>
+<line x1="301" y1="96" x2="301" y2="206" stroke="#1d4ed8" stroke-width="2.5" stroke-dasharray="6 4"/>
+<text x="301" y="88" font-size="13" fill="#1d4ed8" font-weight="bold" text-anchor="middle">CORTE AQUI</text>
+<text x="262" y="112" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">1º nó</text>
+<text x="352" y="206" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">2º nó</text>
+<rect x="20" y="302" width="640" height="96" rx="8" fill="#f6f9ff" stroke="#3f6d9e" stroke-width="1.5"/>
+<text x="34" y="324" font-size="12.5" fill="#222" text-anchor="start">1. Espere 1 a 3 minutos (ou até o cordão parar de pulsar), com o bebê seco e no colo da mãe.</text>
+<text x="34" y="344" font-size="12.5" fill="#222" text-anchor="start">2. Amarre bem apertado com barbante/cadarço FERVIDO: um nó a 2 cm e outro a 5 cm da barriga.</text>
+<text x="34" y="364" font-size="12.5" fill="#222" text-anchor="start">3. Corte ENTRE os dois nós com lâmina ou tesoura nova/fervida.</text>
+<text x="34" y="384" font-size="12.5" fill="#222" text-anchor="start">4. Mantenha o coto limpo e SECO, sem pó, pomada caseira ou faixa. Cai sozinho em 5–15 dias.</text>
+</svg>

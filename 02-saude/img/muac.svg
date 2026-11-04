@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 452" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="452" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Medida do braço da criança (6 meses a 5 anos)</text>
+<polyline points="60,120 330,128" fill="none" stroke="#1e1e1e" stroke-width="75" stroke-linecap="round" stroke-linejoin="round"/><polyline points="60,120 330,128" fill="none" stroke="#f6d3b7" stroke-width="70" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="350" cy="128" rx="26" ry="40" fill="#f6d3b7" stroke="#1e1e1e" stroke-width="2.5"/>
+<text x="40" y="82" font-size="12" fill="#444" text-anchor="start">ombro</text>
+<text x="330" y="82" font-size="12" fill="#444" text-anchor="start">cotovelo</text>
+<rect x="186" y="86" width="22" height="86" rx="4" fill="#fff" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="208" y1="92" x2="400" y2="92" stroke="#555"/>
+<text x="404" y="90" font-size="12" fill="#222" text-anchor="start">fita ou barbante em volta,</text>
+<text x="404" y="106" font-size="12" fill="#222" text-anchor="start">justa, sem apertar</text>
+<text x="196" y="200" font-size="12" fill="#222" text-anchor="middle">no meio do braço esquerdo, braço solto</text>
+<rect x="40" y="240" width="160" height="44" rx="6" fill="#d62828" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="120" y="268" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">menos de 11,5 cm</text>
+<text x="216" y="259" font-size="13.5" fill="#222" font-weight="bold" text-anchor="start">DESNUTRIÇÃO GRAVE</text>
+<text x="216" y="277" font-size="12" fill="#333" text-anchor="start">Risco de morte: alimentação terapêutica, tratar infecções</text>
+<rect x="40" y="292" width="160" height="44" rx="6" fill="#f2c94c" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="120" y="320" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">11,5 a 12,5 cm</text>
+<text x="216" y="311" font-size="13.5" fill="#222" font-weight="bold" text-anchor="start">DESNUTRIÇÃO MODERADA</text>
+<text x="216" y="329" font-size="12" fill="#333" text-anchor="start">Reforçar alimentação: + 1–2 refeições/dia, gordura, proteína</text>
+<rect x="40" y="344" width="160" height="44" rx="6" fill="#2b8a3e" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="120" y="372" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">12,5 cm ou mais</text>
+<text x="216" y="363" font-size="13.5" fill="#222" font-weight="bold" text-anchor="start">NORMAL</text>
+<text x="216" y="381" font-size="12" fill="#333" text-anchor="start">Manter alimentação e acompanhar todo mês</text>
+<text x="40" y="404" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="start">Também é GRAVE, em qualquer medida: inchaço nos dois pés</text>
+<text x="40" y="420" font-size="12" fill="#b3001b" text-anchor="start">(aperte o peito do pé por 3 segundos: se fica a marca do dedo).</text>
+<text x="40" y="440" font-size="12" fill="#222" text-anchor="start">Improvise a fita: barbante marcado a 11,5 e 12,5 cm com régua. Vale para crianças de 6 meses a 5 anos.</text>
+</svg>
