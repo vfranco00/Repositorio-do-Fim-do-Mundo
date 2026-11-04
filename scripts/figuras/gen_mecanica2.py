@@ -37,7 +37,7 @@ def fmt(v):
 # =====================================================================
 b = []
 L = [0.5, 1, 2, 5, 10, 20]
-rows = [(25, "#fde2e2", "#b3001b", "motores antigos, alguns", "rabetas e motos 2T"),
+rows = [(25, "#fde2e2", "#b3001b", "motores 2T antigos e", "alguns de uso pesado"),
         (40, "#fff1d6", "#a35a00", "várias roçadeiras e", "motosserras de entrada"),
         (50, "#e3f1e6", "#1d6b2c", "maioria das motosserras e", "roçadeiras atuais")]
 x0, cw, c0 = 20, 78, 190

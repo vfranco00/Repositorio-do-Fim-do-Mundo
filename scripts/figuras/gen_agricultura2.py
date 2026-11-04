@@ -238,8 +238,8 @@ b.append(leader(468, 334, 436, 316, "#1e4e86"))
 # recalque
 b.append(f'<path d="M374 252 Q 420 250 470 290 L 560 166 L 604 132 L 604 90" fill="none" stroke="#2f2f2f" stroke-width="5" stroke-linejoin="round"/>')
 b.append(f'<path d="M374 252 Q 420 250 470 290 L 560 166 L 604 132 L 604 90" fill="none" stroke="{WATER}" stroke-width="2" stroke-dasharray="6 6"/>')
-b.append(lines(540, 262, ["tubo de recalque", "(mangueira ½\" ou ¾\")"], 11.5, "#333", True))
-b.append(leader(538, 258, 515, 230))
+b.append(lines(530, 266, ["tubo de recalque", "(mangueira ½\" ou ¾\")"], 11.5, "#333", True))
+b.append(leader(528, 262, 515, 230))
 b.append(f'<rect x="600" y="52" width="66" height="40" fill="#2f6aa8" stroke="#1e1e1e" stroke-width="2"/>')
 b.append(text(633, 77, "caixa", 12, "#fff", True, "middle"))
 # cotas H e h

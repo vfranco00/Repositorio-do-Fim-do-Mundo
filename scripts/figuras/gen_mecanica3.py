@@ -273,4 +273,70 @@ b.append(lines(28, Y2 + 173, [
     "Revenir LOGO (em até 1 hora): aço temperado sem revenir é quebradiço como vidro.",
     "Forno de cozinha: 1 hora a 200–220 °C para facas; esfrie e repita mais 1 vez."], 12, "#1e1e1e", False, "start", 19))
 open(D + "cores-do-aco.svg", "w").write(svg(680, Y2 + 236, "Cores do aço: temperatura e revenido", "\n".join(b)))
+
+# =====================================================================
+# 4) BICICLETA: PONTOS DE AJUSTE
+# =====================================================================
+b = []
+R, F, B = (170, 300), (510, 300), (330, 312)
+S, H, H2 = (300, 172), (468, 168), (480, 208)
+WR = 96
+for (wx, wy) in (R, F):
+    for k in range(18):
+        a = math.radians(k * 20)
+        b.append(f'<line x1="{wx}" y1="{wy}" x2="{wx+WR*0.86*math.cos(a):.1f}" y2="{wy+WR*0.86*math.sin(a):.1f}" stroke="#aaa" stroke-width="1.5"/>')
+    b.append(f'<circle cx="{wx}" cy="{wy}" r="{WR}" fill="none" stroke="#1e1e1e" stroke-width="13"/>')
+    b.append(f'<circle cx="{wx}" cy="{wy}" r="{WR-9}" fill="none" stroke="#9a9a9a" stroke-width="4"/>')
+    b.append(f'<circle cx="{wx}" cy="{wy}" r="8" fill="#ccc" stroke="#1e1e1e" stroke-width="2"/>')
+FR = "#3f6d9e"
+def tube(p1, p2, w=9):
+    return (f'<line x1="{p1[0]}" y1="{p1[1]}" x2="{p2[0]}" y2="{p2[1]}" stroke="#1e1e1e" stroke-width="{w+4}" stroke-linecap="round"/>'
+            f'<line x1="{p1[0]}" y1="{p1[1]}" x2="{p2[0]}" y2="{p2[1]}" stroke="{FR}" stroke-width="{w}" stroke-linecap="round"/>')
+# corrente
+b.append(f'<line x1="{R[0]}" y1="{R[1]-12}" x2="{B[0]}" y2="{B[1]-26}" stroke="#555" stroke-width="3"/>')
+b.append(f'<line x1="{R[0]}" y1="{R[1]+12}" x2="{B[0]}" y2="{B[1]+26}" stroke="#555" stroke-width="3"/>')
+b.append(f'<circle cx="{R[0]}" cy="{R[1]}" r="13" fill="#bbb" stroke="#1e1e1e" stroke-width="2"/>')
+for p1, p2 in ((R, B), (R, S), (S, B), (S, H), (H2, B), (H, H2)):
+    b.append(tube(p1, p2))
+b.append(tube(H2, F, 7))
+# coroa e pedivela
+b.append(f'<circle cx="{B[0]}" cy="{B[1]}" r="27" fill="#ddd" stroke="#1e1e1e" stroke-width="2.5"/>')
+b.append(f'<line x1="{B[0]}" y1="{B[1]}" x2="{B[0]+30}" y2="{B[1]+52}" stroke="#1e1e1e" stroke-width="8" stroke-linecap="round"/>')
+b.append(f'<rect x="{B[0]+18}" y="{B[1]+52}" width="28" height="9" rx="2" fill="#555" stroke="#1e1e1e" stroke-width="1.5"/>')
+# selim e guidao
+b.append(f'<line x1="{S[0]}" y1="{S[1]}" x2="{S[0]-4}" y2="{S[1]-26}" stroke="#888" stroke-width="7"/>')
+b.append(f'<path d="M{S[0]-36} {S[1]-30} Q {S[0]-6} {S[1]-42} {S[0]+24} {S[1]-32} L {S[0]+20} {S[1]-24} Q {S[0]-10} {S[1]-28} {S[0]-36} {S[1]-24} Z" fill="#333" stroke="#1e1e1e" stroke-width="2"/>')
+b.append(f'<line x1="{H[0]}" y1="{H[1]}" x2="{H[0]-6}" y2="{H[1]-28}" stroke="#888" stroke-width="7"/>')
+b.append(f'<path d="M{H[0]-6} {H[1]-28} L{H[0]-40} {H[1]-34}" stroke="#555" stroke-width="6" stroke-linecap="round"/>')
+b.append(f'<rect x="{H[0]-56}" y="{H[1]-40}" width="20" height="10" rx="4" fill="#222"/>')
+b.append(f'<path d="M{H[0]-30} {H[1]-36} q -14 4 -24 14" fill="none" stroke="#222" stroke-width="2.5"/>')
+# freios
+for (bx, by) in ((R[0] + 30, R[1] - 92), (F[0] - 14, F[1] - 96)):
+    b.append(f'<rect x="{bx-7}" y="{by-6}" width="14" height="14" rx="3" fill="#d62828" stroke="#1e1e1e" stroke-width="1.5"/>')
+def call(n, x, y, tx, ty):
+    return (f'<line x1="{x}" y1="{y}" x2="{tx}" y2="{ty}" stroke="#555" stroke-width="1.5"/>'
+            + badge(tx, ty, n, "#ef8a2b", 12))
+b.append(call(1, 92, 236, 60, 80))
+b.append(call(2, R[0] + 30, R[1] - 96, 200, 80))
+b.append(call(3, 250, 292, 250, 440))
+b.append(call(4, B[0] + 34, B[1] + 58, 360, 440))
+b.append(call(5, F[0] + 50, F[1] + 40, 600, 440))
+b.append(call(6, F[0], F[1], 640, 300))
+b.append(call(7, S[0] - 10, S[1] - 36, 380, 80))
+T = [(1, "Pneu: pressão escrita na lateral", "(ex.: 40–65 psi); com carga, perto do máximo"),
+     (2, "Freio: sapata a 1–2 mm do aro,", "sem tocar no pneu; manete firme antes da metade"),
+     (3, "Corrente: limpe e lubrifique a cada", "100–200 km; sem marchas, folga de 1–1,5 cm"),
+     (4, "Pedal ESQUERDO tem rosca INVERTIDA", "(aperta girando para trás da bicicleta)"),
+     (5, "Raios: todos com o mesmo aperto", "(toque: mesmo som); aro sem empeno"),
+     (6, "Cubos: balance a roda: sem folga,", "girando livre e sem ranger"),
+     (7, "Selim: pedal embaixo, perna quase", "esticada (joelho levemente dobrado)")]
+b.append(box(15, 470, 650, 182, "#f7f7f7", "#999"))
+for i, (n, l1, l2) in enumerate(T):
+    col = 0 if i < 4 else 1
+    row = i if i < 4 else i - 4
+    x = 30 + col * 330; y = 494 + row * 42
+    b.append(badge(x + 8, y - 4, n, "#ef8a2b", 11))
+    b.append(text(x + 26, y, l1, 11.5, "#1e1e1e", True))
+    b.append(text(x + 26, y + 15, l2, 11, "#333"))
+open(D + "bicicleta-ajustes.svg", "w").write(svg(680, 662, "Bicicleta: os 7 pontos para conferir", "\n".join(b)))
 print("ok gen_mecanica3")

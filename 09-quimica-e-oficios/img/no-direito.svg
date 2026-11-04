@@ -52,8 +52,10 @@
 <path d="M597.1 245.0 C602.5 243.8 607.5 243.8 612.8 243.5 C618.0 243.2 616.6 243.5 628.4 243.5" fill="none" stroke="#1e1e1e" stroke-width="15.5" stroke-linecap="butt" stroke-linejoin="round"/><path d="M597.1 245.0 C602.5 243.8 607.5 243.8 612.8 243.5 C618.0 243.2 616.6 243.5 628.4 243.5" fill="none" stroke="#6aa4dc" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M597.1 245.0 C602.5 243.8 607.5 243.8 612.8 243.5 C618.0 243.2 616.6 243.5 628.4 243.5" fill="none" stroke="#2f6ea8" stroke-width="8" stroke-dasharray="1.6 5" stroke-opacity="0.55"/></g>
 <text x="468" y="204" font-size="11.5" fill="#a04d00" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">ponta</text>
 <text x="660" y="204" font-size="11.5" fill="#1d4f80" font-weight="bold" text-anchor="end" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">ponta</text>
-<text x="468" y="268" font-size="11.5" fill="#a04d00" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">parte firme</text>
-<text x="660" y="268" font-size="11.5" fill="#1d4f80" font-weight="bold" text-anchor="end" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">parte firme</text>
+<text x="468" y="278" font-size="11.5" fill="#a04d00" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">parte firme</text>
+<text x="660" y="278" font-size="11.5" fill="#1d4f80" font-weight="bold" text-anchor="end" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">parte firme</text>
+<text x="246" y="274" font-size="11" fill="#555" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">1º meio nó</text>
+<text x="246" y="220" font-size="11" fill="#555" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">2º meio nó</text>
 <text x="564" y="314" font-size="11.5" fill="#1e6b2e" font-weight="bold" text-anchor="middle" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">duas alças abraçadas;</text>
 <text x="564" y="328" font-size="11.5" fill="#1e6b2e" font-weight="bold" text-anchor="middle" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">as 2 pontas do mesmo lado</text>
 <rect x="8" y="354" width="664" height="84" rx="8" fill="#eef5ff" stroke="#3f6d9e" stroke-width="1.5"/>

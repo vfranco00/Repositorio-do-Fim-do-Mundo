@@ -35,7 +35,10 @@ class Cena:
         """legs: lista de (z, cor, [(x,y),...]); o ultimo ponto de um trecho e o primeiro do seguinte.
         dobras: indices de juncoes entre trechos onde a corda dobra (borda de poste): desenha contorno."""
         P = []; spans = []
-        for k, (z, cor, pts) in enumerate(legs):
+        fant = {}
+        for k, leg in enumerate(legs):
+            z, cor, pts = leg[:3]
+            fant[k] = leg[3] if len(leg) > 3 else self.fantasma
             pts = [(x + ox, y + oy) for x, y in pts]
             if k == 0:
                 P.append(pts[0])
@@ -65,7 +68,7 @@ class Cena:
             s += f'<path d="{d}" fill="none" stroke="{cor[0]}" stroke-width="{w}" stroke-linecap="round" stroke-linejoin="round"/>'
             s += f'<path d="{d}" fill="none" stroke="{cor[1]}" stroke-width="{w-3}" stroke-dasharray="1.6 5" stroke-opacity="0.55"/>'
             self.add(z, s)
-            if z < 0 and self.fantasma:   # trecho escondido: desenha "fantasma" tracejado por cima do poste
+            if z < 0 and fant[k]:   # trecho escondido: desenha "fantasma" tracejado por cima do poste
                 self.add(0.5, f'<path d="{d}" fill="none" stroke="{cor[0]}" stroke-width="{w}" stroke-opacity="0.35" stroke-linecap="round"/>'
                               f'<path d="{d}" fill="none" stroke="{OUT}" stroke-width="1.6" stroke-dasharray="4 4"/>')
     def svg(self):
@@ -167,12 +170,12 @@ for i in range(3):
     b.append(painel(PX[i], 44, PW, 360, i + 1, txt[i], f"cl{i}"))
     b.append(f'<g clip-path="url(#cl{i})">' + lais(i + 1, PX[i] + 112, oy + 30) + '</g>')
 b.append(lbl(PX[0] + 120, oy - 70, "parte firme", 11.5, "#1d4f80", True))
-b.append(lbl(PX[0] + 152, oy + 30, "buraco", 11.5, "#222", True))
+b.append(lbl(PX[0] + 158, oy + 30, "buraco", 11.5, "#222", True))
 b.append(lbl(PX[0] + 160, oy + 84, "ponta", 11.5, "#a04d00", True))
 b.append(lbl(PX[1] + 140, oy - 74, "\"em volta", 11, "#222", True))
 b.append(lbl(PX[1] + 140, oy - 60, "da árvore\"", 11, "#222", True))
-b.append(lbl(PX[2] + 112, oy + 104, "alça fixa:", 11.5, "#1e6b2e", True, "middle"))
-b.append(lbl(PX[2] + 112, oy + 118, "não corre", 11.5, "#1e6b2e", True, "middle"))
+b.append(lbl(PX[2] + 112, oy + 132, "alça fixa:", 11.5, "#1e6b2e", True, "middle"))
+b.append(lbl(PX[2] + 112, oy + 146, "não corre", 11.5, "#1e6b2e", True, "middle"))
 b.append(box(8, 414, 664, 84, "#eef5ff", "#3f6d9e"))
 b.append(text(20, 434, "\"O coelho sai da toca, dá a volta na árvore e volta para a toca.\"", 12.5, "#222", True))
 b.append(text(20, 452, "(toca = buraco; árvore = parte firme; coelho = ponta)", 12.5))
@@ -241,8 +244,10 @@ for i in range(3):
     b.append(f'<g clip-path="url(#cd{i})">' + direito(i + 1, PX[i] + 108, oy + (20 if i < 2 else 16)) + '</g>')
 b.append(lbl(PX[2] + 12, oy - 10, "ponta", 11.5, "#a04d00", True))
 b.append(lbl(PX[2] + 204, oy - 10, "ponta", 11.5, "#1d4f80", True, "end"))
-b.append(lbl(PX[2] + 12, oy + 54, "parte firme", 11.5, "#a04d00", True))
-b.append(lbl(PX[2] + 204, oy + 54, "parte firme", 11.5, "#1d4f80", True, "end"))
+b.append(lbl(PX[2] + 12, oy + 64, "parte firme", 11.5, "#a04d00", True))
+b.append(lbl(PX[2] + 204, oy + 64, "parte firme", 11.5, "#1d4f80", True, "end"))
+b.append(lbl(PX[1] + 14, oy + 60, "1º meio nó", 11, "#555", True))
+b.append(lbl(PX[1] + 14, oy + 6, "2º meio nó", 11, "#555", True))
 b.append(lbl(PX[2] + 108, oy + 100, "duas alças abraçadas;", 11.5, "#1e6b2e", True, "middle"))
 b.append(lbl(PX[2] + 108, oy + 114, "as 2 pontas do mesmo lado", 11.5, "#1e6b2e", True, "middle"))
 b.append(box(8, 354, 664, 84, "#eef5ff", "#3f6d9e"))
@@ -251,4 +256,160 @@ b.append(text(20, 392, "ERRADO: repetir o mesmo lado dá o \"nó torto\" (de vov
 b.append(text(20, 410, "Usos: emendar duas pontas de MESMA grossura, fechar atadura, amarrar feixe e saco.", 12.5))
 b.append(text(20, 428, "NÃO use para emendar cordas que vão levar carga ou de grossuras diferentes: use o nó de escota.", 12.5, "#b3001b"))
 open(D + "no-direito.svg", "w").write(svg(680, 448, "Nó direito (emendar duas pontas iguais)", "\n".join(b)))
+
+# =====================================================================
+# NO DE CAMINHONEIRO (trucker's hitch)
+# =====================================================================
+def caminhoneiro(etapa, ox, oy):
+    c = Cena(); w = 10
+    # ponto fixo (galho/barra) no alto e barra da carroceria embaixo
+    c.add(-5, f'<rect x="{ox-70}" y="{oy-84}" width="140" height="14" rx="5" fill="{WOOD}" stroke="{OUT}" stroke-width="2.5"/>')
+    c.add(3, f'<rect x="{ox-14}" y="{oy-86}" width="9" height="18" rx="3" fill="{AZU[0]}" stroke="{OUT}" stroke-width="2"/>'
+             f'<rect x="{ox-4}" y="{oy-86}" width="9" height="18" rx="3" fill="{AZU[0]}" stroke="{OUT}" stroke-width="2"/>')
+    c.add(0, f'<circle cx="{ox+20}" cy="{oy+170}" r="9" fill="#9a9a9a" stroke="{OUT}" stroke-width="2.5"/>'
+             f'<rect x="{ox-90}" y="{oy+194}" width="180" height="40" fill="#6b7a86" stroke="{OUT}" stroke-width="2.5"/>')
+    L = [
+        (0, AZU, [(-8, -72), (-8, -50), (-8, -30), (-8, -12), (-11, 6), (-22, 26), (-24, 52), (-15, 74), (0, 80)]),
+        (0, AZU, [(0, 80), (15, 74), (24, 52), (22, 26), (11, 6), (8, -12), (8, -30), (12, -40)]),
+        (0, AZU, [(12, -40), (22, -40), (27, -31)]),
+        (1, AZU, [(27, -31), (14, -27), (0, -25), (-14, -23), (-27, -19)]),
+        (-1, AZU, [(-27, -19), (-20, -14), (-8, -13), (8, -12), (20, -9)]),
+        (0, LAR, [(20, -9), (30, 4), (35, 24), (35, 60), (35, 100)]),
+    ]
+    dob = (3, 4, 5)
+    if etapa == 1:
+        L[-1] = (0, LAR, L[-1][2] + [(35, 112)])
+    else:
+        L += [(0, LAR, [(35, 100), (35.5, 130), (35.5, 170), (31, 181), (20, 185.5), (9, 181), (4.5, 170), (5, 140), (7, 100), (8, 90)]),
+              (-1, LAR, [(8, 90), (8, 80), (8, 70)]),
+              (0, LAR, [(8, 70), (8, 56), (4, 47), (-4, 47), (-9, 56), (-9, 66)]),
+              (1, LAR, [(-9, 66), (-9, 78), (-9, 88)])]
+        if etapa == 2:
+            L.append((0, LAR, [(-9, 88), (-9, 120), (-10, 160), (-11, 200)]))
+        else:
+            yc, xl, xr = 120, -3, 46
+            L += [(0, LAR, [(-9, 88), (-24, 96), (-46, 112), (-44, 128), (-26, yc + 12), (-12, yc + 12)]),
+                  (1, LAR, [(-12, yc + 12), (xl + 4, yc + 12), (21, yc + 12), (xr - 4, yc + 12), (xr + 7, yc + 13)]),
+                  (-1, LAR, [(xr + 7, yc + 13), (xr - 4, yc + 17), (21, yc + 20), (xl + 4, yc + 23), (xl - 7, yc + 26)], False),
+                  (2, LAR, [(xl - 7, yc + 26), (xl + 4, yc + 27), (21, yc), (xr - 4, yc - 25), (xr + 7, yc - 27)]),
+                  (-1, LAR, [(xr + 7, yc - 27), (xr - 4, yc - 24), (21, yc - 19), (xl + 4, yc - 15), (xl - 7, yc - 12)], False),
+                  (1, LAR, [(xl - 7, yc - 12), (xl + 4, yc - 12), (21, yc - 12), (xr + 8, yc - 12), (68, yc - 13), (84, yc - 16)])]
+            dob = (3, 4, 5, 10, 11, 12, 13)
+    c.corda(L, w=w, ox=ox, oy=oy, dobras=dob)
+    if etapa == 2:
+        c.add(5, arrow(ox - 34, oy + 130, ox - 34, oy + 196, "#d62828", 5))
+    return c.svg()
+
+b = []
+oy = 196
+txt = [["Faça uma alça fixa", "no meio da corda", "(ver texto)."],
+       ["Ponta pelo gancho e", "de volta PELA ALÇA.", "Puxe para baixo."],
+       ["Segure e trave com", "2 cotes em volta das", "duas pernas."]]
+for i in range(3):
+    b.append(painel(PX[i], 44, PW, 368, i + 1, txt[i], f"cc{i}"))
+    b.append(f'<g clip-path="url(#cc{i})">' + caminhoneiro(i + 1, PX[i] + 100, oy) + '</g>')
+b.append(lbl(PX[0] + 128, oy - 60, "ponto fixo", 11, "#222", True))
+b.append(lbl(PX[0] + 134, oy - 26, "nó", 11.5, "#222", True))
+b.append(lbl(PX[0] + 12, oy + 50, "alça", 11.5, "#1d4f80", True))
+b.append(lbl(PX[0] + 12, oy + 64, "fixa", 11.5, "#1d4f80", True))
+b.append(lbl(PX[0] + 136, oy + 160, "gancho ou", 11, "#222", True))
+b.append(lbl(PX[0] + 136, oy + 174, "barra", 11, "#222", True))
+b.append(lbl(PX[0] + 100, oy + 214, "carroceria / estaca", 11, "#fff", True, "middle").replace('stroke="#fff"', 'stroke="#6b7a86"'))
+b.append(lbl(PX[1] + 10, oy + 126, "PUXE", 13, "#b3001b", True))
+b.append(lbl(PX[1] + 134, oy + 56, "a alça vira", 11, "#1e6b2e", True))
+b.append(lbl(PX[1] + 134, oy + 70, "roldana:", 11, "#1e6b2e", True))
+b.append(lbl(PX[1] + 134, oy + 84, "força x2", 11, "#1e6b2e", True))
+b.append(lbl(PX[2] + 152, oy + 152, "2 cotes", 11.5, "#a04d00", True))
+b.append(box(8, 420, 664, 84, "#eef5ff", "#3f6d9e"))
+b.append(text(20, 440, "Usos: esticar lona, varal, corda de carga em caminhão ou carroça, cerca provisória.", 12.5))
+b.append(text(20, 458, "Alça fixa: nó de borboleta (melhor) ou alça de nó simples. A \"alça de correr\" serve para carga leve.", 12.5))
+b.append(text(20, 476, "Para soltar: desfaça os cotes e deixe a ponta correr. Use corda boa: a força dobra.", 12.5))
+b.append(text(20, 494, "Cuidado: corda que arrebenta sob tensão chicoteia. Não fique na linha da corda.", 12.5, "#b3001b"))
+open(D + "no-caminhoneiro.svg", "w").write(svg(680, 514, "Nó de caminhoneiro (esticar e prender carga)", "\n".join(b)))
+
+# =====================================================================
+# CORDA DE 2 PERNAS (torcer e cruzar)
+# =====================================================================
+FA = ("#e2bf7e", "#9c7432")   # fibra clara
+FB = ("#c9955a", "#7a5226")   # fibra escura
+
+def duas_pernas(c, x0, y0, n, H, A, w, rabo=None):
+    """corda de 2 pernas horizontal, comecando na dobra em x0; n cruzamentos; rabo = (compA, compB) pernas soltas"""
+    for sg, cor in ((1, FA), (-1, FB)):
+        P = []
+        for k in range(4 * n + 1):
+            x = x0 + k * H / 4
+            P.append((x, y0 + sg * -A * math.cos(math.pi * (x - x0) / H)))
+        legs = []
+        # dobra (inicio): meia volta ligando as duas pernas
+        if sg == 1:
+            arc = [(x0 + 2, y0 - A), (x0 - A * 0.9, y0 - A * 0.55), (x0 - A * 1.15, y0), (x0 - A * 0.9, y0 + A * 0.55), (x0 + 2, y0 + A)]
+        for k in range(n):
+            # cruzamento k em P[4k+2]; a perna que desce (vai de cima para baixo) passa na frente
+            desce = (sg == 1) == (k % 2 == 0)
+            legs.append((0, cor, [P[4 * k], P[4 * k + 1]]))
+            legs.append((1 if desce else -1, cor, [P[4 * k + 1], P[4 * k + 2], P[4 * k + 3]]))
+            legs.append((0, cor, [P[4 * k + 3], P[4 * k + 4]]))
+        if rabo:
+            L = rabo[0] if sg == 1 else rabo[1]
+            yl = P[-1][1]
+            legs.append((0, cor, [P[-1], (P[-1][0] + 12, yl + sg * -4), (P[-1][0] + L * 0.5, yl + sg * -10), (P[-1][0] + L, yl + sg * -12)]))
+        # junta trechos para o contorno
+        c.corda(legs, w=w, fim=bool(rabo))
+    # dobra desenhada por cima do inicio
+    d = f"M{x0+1} {y0-A} C {x0-A*1.3} {y0-A}, {x0-A*1.3} {y0+A}, {x0+1} {y0+A}"
+    c.add(2, f'<path d="{d}" fill="none" stroke="{OUT}" stroke-width="{w+4.5}"/><path d="{d}" fill="none" stroke="{FA[0]}" stroke-width="{w}"/>'
+             f'<path d="{d}" fill="none" stroke="{FA[1]}" stroke-width="{w-3}" stroke-dasharray="1.6 5" stroke-opacity="0.55"/>')
+
+def feixe(x0, y0, comp1, comp2, gap, w):
+    """feixe de fibras dobrado (U deitado), dobra a esquerda"""
+    d = f"M{x0+comp1} {y0-gap} L {x0} {y0-gap} C {x0-gap*1.35} {y0-gap}, {x0-gap*1.35} {y0+gap}, {x0} {y0+gap} L {x0+comp2} {y0+gap}"
+    s = f'<path d="{d}" fill="none" stroke="{OUT}" stroke-width="{w+4.5}" stroke-linecap="round"/>'
+    s += f'<path d="{d}" fill="none" stroke="{FA[0]}" stroke-width="{w}" stroke-linecap="round"/>'
+    for off in (-w * 0.3, 0, w * 0.3):
+        dd = f"M{x0+comp1} {y0-gap+off} L {x0} {y0-gap+off} C {x0-(gap-off)*1.35} {y0-gap+off}, {x0-(gap-off)*1.35} {y0+gap-off}, {x0} {y0+gap-off} L {x0+comp2} {y0+gap-off}"
+        s += f'<path d="{dd}" fill="none" stroke="{FA[1]}" stroke-width="0.9" stroke-opacity="0.7"/>'
+    return s
+
+def seta_curva(cx, cy, rx, ry, cor="#d62828"):
+    # seta em arco (torcao) em volta de uma perna
+    return (f'<path d="M{cx-rx} {cy+2} A {rx} {ry} 0 1 1 {cx+rx*0.2} {cy+ry*0.98}" fill="none" stroke="{cor}" stroke-width="3"/>'
+            f'<polygon points="{cx+rx*0.2-8},{cy+ry*0.98-6} {cx+rx*0.2+2},{cy+ry*0.98} {cx+rx*0.2-8},{cy+ry*0.98+6}" fill="{cor}"/>')
+
+b = []
+# painel 1
+b.append(painel(8, 44, 216, 190, 1, ["Dobre o feixe de", "fibras FORA do meio", "(2/3 de um lado, 1/3 do outro)."], "cp0"))
+b.append(feixe(60, 170, 150, 100, 13, 13))
+b.append(hand(54, 152, 10) + hand(54, 188, 10))
+b.append(lbl(110, 146, "perna longa", 11, "#222", True)); b.append(lbl(84, 210, "perna curta", 11, "#222", True))
+b.append(text(30, 226, "(as emendas não caem juntas)", 11, "#555"))
+# painel 2
+b.append(painel(232, 44, 216, 190, 2, ["Torça a perna de", "CIMA para longe de", "você; cruze-a POR CIMA."], "cp1"))
+b.append(feixe(270, 170, 165, 165, 14, 13))
+b.append(hand(264, 152, 10) + hand(264, 190, 10))
+b.append(seta_curva(352, 156, 9, 16))
+b.append(lbl(366, 140, "1. torça", 11.5, "#b3001b", True))
+b.append('<path d="M392 150 C 404 162, 404 176, 392 190" fill="none" stroke="#1e6b2e" stroke-width="3.5"/><polygon points="384,184 392,196 398,183" fill="#1e6b2e"/>')
+b.append(lbl(372, 222, "2. cruze por cima", 11.5, "#1e6b2e", True, "middle"))
+# painel 3
+b.append(painel(456, 44, 216, 190, 3, ["Repita: torce, cruza,", "torce, cruza... sempre", "nos mesmos sentidos."], "cp2"))
+c = Cena()
+duas_pernas(c, 498, 170, 4, 22, 7, 11, rabo=(70, 40))
+b.append(c.svg())
+b.append(hand(492, 152, 10) + hand(492, 188, 10))
+# detalhe grande
+b.append(text(340, 262, "Como fica a corda (detalhe)", 14, "#222", True, "middle"))
+c = Cena()
+duas_pernas(c, 80, 320, 10, 44, 13, 21, rabo=(90, 30))
+b.append(c.svg())
+b.append(lbl(40, 296, "dobra", 11.5, "#222", True))
+b.append(lbl(150, 362, "cada perna fica torcida para um lado...", 12, "#222", True))
+b.append(lbl(150, 378, "...e as pernas se enrolam para o outro: é isso que trava.", 12, "#222", True))
+b.append(lbl(600, 296, "pernas soltas", 11.5, "#222", True, "middle"))
+b.append(box(8, 392, 664, 84, "#eef5ff", "#3f6d9e"))
+b.append(text(20, 412, "Emenda: quando uma perna estiver a ~5 cm do fim, junte fibras novas (afinadas na ponta)", 12.5))
+b.append(text(20, 430, "sobrepondo 5–10 cm e continue torcendo. Nunca emende as duas pernas no mesmo ponto.", 12.5))
+b.append(text(20, 448, "Fibra úmida torce melhor (sisal, caroá, embira, bananeira, taboa, palha, tiras de PET).", 12.5))
+b.append(text(20, 466, "Corda caseira é fraca e irregular: nunca use para escalar ou levantar pessoas.", 12.5, "#b3001b", True))
+open(D + "corda-duas-pernas.svg", "w").write(svg(680, 486, "Fazer corda de 2 pernas com as mãos", "\n".join(b)))
 print("ok")
