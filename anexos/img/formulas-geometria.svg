@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 536" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="536" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Fórmulas de área e volume (com exemplos)</text>
+<rect x="10" y="46" width="216" height="236" rx="8" fill="#fff" stroke="#bbb" stroke-width="1.5"/>
+<rect x="232" y="46" width="216" height="236" rx="8" fill="#fff" stroke="#bbb" stroke-width="1.5"/>
+<rect x="454" y="46" width="216" height="236" rx="8" fill="#fff" stroke="#bbb" stroke-width="1.5"/>
+<rect x="10" y="290" width="216" height="236" rx="8" fill="#fff" stroke="#bbb" stroke-width="1.5"/>
+<rect x="232" y="290" width="216" height="236" rx="8" fill="#fff" stroke="#bbb" stroke-width="1.5"/>
+<rect x="454" y="290" width="216" height="236" rx="8" fill="#fff" stroke="#bbb" stroke-width="1.5"/>
+<text x="118.0" y="68" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">Retângulo (canteiro, piso)</text>
+<rect x="50" y="90" width="136" height="70" rx="0" fill="#cdeccf" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="50" y1="174" x2="180.0" y2="174.0" stroke="#1e1e1e" stroke-width="2"/><polygon points="186,174 175.2,179.2 175.2,168.8" fill="#1e1e1e"/><line x1="186" y1="174" x2="56.0" y2="174.0" stroke="#1e1e1e" stroke-width="2"/><polygon points="50,174 60.8,168.8 60.8,179.2" fill="#1e1e1e"/>
+<text x="118" y="192" font-size="11.5" fill="#222" text-anchor="middle">comprimento</text>
+<line x1="198" y1="90" x2="198.0" y2="154.0" stroke="#1e1e1e" stroke-width="2"/><polygon points="198,160 192.8,149.2 203.2,149.2" fill="#1e1e1e"/><line x1="198" y1="160" x2="198.0" y2="96.0" stroke="#1e1e1e" stroke-width="2"/><polygon points="198,90 203.2,100.8 192.8,100.8" fill="#1e1e1e"/>
+<text x="214" y="125" font-size="11.5" fill="#222" text-anchor="middle" transform="rotate(-90 214 125)">largura</text>
+<text x="118.0" y="218" font-size="12" fill="#1e3a5f" font-weight="bold" text-anchor="middle">Área = comprimento × largura</text>
+<text x="118.0" y="234" font-size="12" fill="#222" text-anchor="middle">Ex.: canteiro 10 m × 1,2 m</text>
+<text x="118.0" y="250" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="middle">= 12 m²</text>
+<text x="340.0" y="68" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">Triângulo</text>
+<polygon points="266,170 414,170 362,90" fill="#f6e3b5" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="362" y1="90" x2="362" y2="170" stroke="#b3001b" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="356" y="158" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="end">altura</text>
+<line x1="266" y1="184" x2="408.0" y2="184.0" stroke="#1e1e1e" stroke-width="2"/><polygon points="414,184 403.2,189.2 403.2,178.8" fill="#1e1e1e"/><line x1="414" y1="184" x2="272.0" y2="184.0" stroke="#1e1e1e" stroke-width="2"/><polygon points="266,184 276.8,178.8 276.8,189.2" fill="#1e1e1e"/>
+<text x="340" y="202" font-size="11.5" fill="#222" text-anchor="middle">base</text>
+<text x="340.0" y="226" font-size="12" fill="#1e3a5f" font-weight="bold" text-anchor="middle">Área = base × altura ÷ 2</text>
+<text x="340.0" y="242" font-size="12" fill="#222" text-anchor="middle">Ex.: 30 m × 20 m ÷ 2</text>
+<text x="340.0" y="258" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="middle">= 300 m²</text>
+<text x="562.0" y="68" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">Círculo (roda, tanque)</text>
+<circle cx="562" cy="138" r="50" fill="#cfe6fb" stroke="#1e1e1e" stroke-width="2.5"/>
+<circle cx="562" cy="138" r="3" fill="#1e1e1e"/>
+<line x1="562" y1="138" x2="604.0" y2="138.0" stroke="#b3001b" stroke-width="2.5"/><polygon points="610,138 599.2,143.2 599.2,132.8" fill="#b3001b"/>
+<text x="586" y="132" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="middle">raio</text>
+<text x="562" y="206" font-size="11.5" fill="#444" text-anchor="middle">diâmetro = 2 × raio</text>
+<text x="562.0" y="228" font-size="12" fill="#1e3a5f" font-weight="bold" text-anchor="middle">Área = 3,14 × raio × raio</text>
+<text x="562.0" y="244" font-size="12" fill="#1e3a5f" font-weight="bold" text-anchor="middle">Volta = 3,14 × diâmetro</text>
+<text x="562.0" y="260" font-size="12" fill="#b3001b" text-anchor="middle">Ex.: raio 2 m → 12,6 m²</text>
+<text x="118.0" y="312" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">Cilindro (tambor, cisterna)</text>
+<path d="M68 352 L68 436 A50 12 0 0 0 168 436 L168 352" fill="#cfe6fb" stroke="#1e1e1e" stroke-width="2.5"/>
+<ellipse cx="118" cy="352" rx="50" ry="12" fill="#e6f2fd" stroke="#1e1e1e" stroke-width="2.5"/>
+<line x1="118" y1="352" x2="160.0" y2="352.0" stroke="#b3001b" stroke-width="2.5"/><polygon points="166,352 155.2,357.2 155.2,346.8" fill="#b3001b"/>
+<text x="174" y="356" font-size="11.5" fill="#b3001b" font-weight="bold" text-anchor="start">raio</text>
+<line x1="54" y1="352" x2="54.0" y2="430.0" stroke="#1e1e1e" stroke-width="2"/><polygon points="54,436 48.8,425.2 59.2,425.2" fill="#1e1e1e"/><line x1="54" y1="436" x2="54.0" y2="358.0" stroke="#1e1e1e" stroke-width="2"/><polygon points="54,352 59.2,362.8 48.8,362.8" fill="#1e1e1e"/>
+<text x="44" y="394.0" font-size="11.5" fill="#222" text-anchor="middle" transform="rotate(-90 44 394.0)">altura</text>
+<text x="118.0" y="462" font-size="12" fill="#1e3a5f" font-weight="bold" text-anchor="middle">Volume = 3,14 × r × r × altura</text>
+<text x="118.0" y="478" font-size="12" fill="#222" text-anchor="middle">em metros → × 1.000 = litros</text>
+<text x="118.0" y="494" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="middle">Ex.: r 1 m, alt. 2 m = 6.280 L</text>
+<text x="340.0" y="312" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">Monte (grão, areia, adubo)</text>
+<polygon points="270,426 410,426 340,346" fill="#e8d3b0" stroke="#1e1e1e" stroke-width="2.5"/>
+<ellipse cx="340" cy="426" rx="70" ry="10" fill="#d9bf92" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="340" y1="346" x2="340" y2="426" stroke="#b3001b" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="342" y1="346" x2="428" y2="346" stroke="#888" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="424" y1="348" x2="424.0" y2="418.0" stroke="#b3001b" stroke-width="2"/><polygon points="424,424 418.8,413.2 429.2,413.2" fill="#b3001b"/><line x1="424" y1="424" x2="424.0" y2="354.0" stroke="#b3001b" stroke-width="2"/><polygon points="424,348 429.2,358.8 418.8,358.8" fill="#b3001b"/>
+<text x="437" y="386" font-size="11.5" font-weight="bold" fill="#b3001b" text-anchor="middle" transform="rotate(-90 437 386)">altura</text>
+<line x1="340" y1="426" x2="402.0" y2="426.0" stroke="#1e3a5f" stroke-width="2.5"/><polygon points="408,426 397.2,431.2 397.2,420.8" fill="#1e3a5f"/>
+<text x="380" y="446" font-size="11.5" fill="#1e3a5f" font-weight="bold" text-anchor="middle">raio</text>
+<text x="340.0" y="470" font-size="12" fill="#1e3a5f" font-weight="bold" text-anchor="middle">Vol. = 3,14 × r × r × alt. ÷ 3</text>
+<text x="340.0" y="486" font-size="12" fill="#222" text-anchor="middle">Ex.: r 1 m, alt. 0,9 m</text>
+<text x="340.0" y="502" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="middle">≈ 0,94 m³ ≈ 940 L</text>
+<text x="562.0" y="312" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">Canto reto: regra 3-4-5</text>
+<polygon points="500,440 628,440 500,344" fill="#eee4f7" stroke="#1e1e1e" stroke-width="2.5"/>
+<rect x="500" y="426" width="14" height="14" rx="0" fill="none" stroke="#b3001b" stroke-width="2"/>
+<text x="564" y="458" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">4 m</text>
+<text x="476" y="396" font-size="13" fill="#222" font-weight="bold" text-anchor="middle">3 m</text>
+<text x="576" y="384" font-size="13" fill="#b3001b" font-weight="bold" text-anchor="middle">5 m</text>
+<text x="562.0" y="480" font-size="12" fill="#222" text-anchor="middle">Se a diagonal der 5, o canto</text>
+<text x="562.0" y="496" font-size="12" fill="#222" text-anchor="middle">é reto (90°). Vale 0,6-0,8-1,0 m.</text>
+</svg>

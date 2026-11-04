@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 550" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="550" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Medidas de cozinha: volume e peso</text>
+<line x1="169.4" y1="110" x2="201.8" y2="101.9" stroke="#1e1e1e" stroke-width="4.0" stroke-linecap="round"/><line x1="169.4" y1="110" x2="201.8" y2="101.9" stroke="#c8ccd2" stroke-width="1.5" stroke-linecap="round"/><ellipse cx="164" cy="110" rx="9" ry="6.1" fill="#c8ccd2" stroke="#1e1e1e" stroke-width="2"/><ellipse cx="164" cy="111" rx="6.3" ry="3.8" fill="#cfe6fb"/>
+<text x="184.0" y="150" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">colher</text>
+<text x="184.0" y="164" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">de chá</text>
+<text x="184.0" y="188" font-size="17" fill="#4a90d9" font-weight="bold" text-anchor="middle">5 mL</text>
+<line x1="277.2" y1="110" x2="320.4" y2="99.2" stroke="#1e1e1e" stroke-width="5.4" stroke-linecap="round"/><line x1="277.2" y1="110" x2="320.4" y2="99.2" stroke="#c8ccd2" stroke-width="2.9" stroke-linecap="round"/><ellipse cx="270" cy="110" rx="12" ry="8.2" fill="#c8ccd2" stroke="#1e1e1e" stroke-width="2"/><ellipse cx="270" cy="111" rx="8.4" ry="5.0" fill="#cfe6fb"/>
+<text x="292.0" y="150" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">colher de</text>
+<text x="292.0" y="164" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">sobremesa</text>
+<text x="292.0" y="188" font-size="17" fill="#4a90d9" font-weight="bold" text-anchor="middle">10 mL</text>
+<line x1="385.0" y1="110" x2="439.0" y2="96.5" stroke="#1e1e1e" stroke-width="6.8" stroke-linecap="round"/><line x1="385.0" y1="110" x2="439.0" y2="96.5" stroke="#c8ccd2" stroke-width="4.2" stroke-linecap="round"/><ellipse cx="376" cy="110" rx="15" ry="10.2" fill="#c8ccd2" stroke="#1e1e1e" stroke-width="2"/><ellipse cx="376" cy="111" rx="10.5" ry="6.3" fill="#cfe6fb"/>
+<text x="400.0" y="150" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">colher</text>
+<text x="400.0" y="164" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">de sopa</text>
+<text x="400.0" y="188" font-size="17" fill="#4a90d9" font-weight="bold" text-anchor="middle">15 mL</text>
+<ellipse cx="508" cy="132" rx="40" ry="7" fill="#e8e8e8" stroke="#1e1e1e" stroke-width="2"/><path d="M532 80 q22 4 18 18 q-3 12 -22 14" fill="none" stroke="#1e1e1e" stroke-width="5"/><path d="M478 72 L538 72 Q536 124 508 126 Q480 124 478 72 Z" fill="#fff" stroke="#1e1e1e" stroke-width="2.5"/><path d="M481 82 L535 82 Q532 121 508 123 Q484 121 481 82 Z" fill="#cfe6fb"/>
+<text x="508.0" y="150" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">xícara</text>
+<text x="508.0" y="164" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">(de receita)</text>
+<text x="508.0" y="188" font-size="17" fill="#4a90d9" font-weight="bold" text-anchor="middle">240 mL</text>
+<path d="M590 62 L642 62 L635 128 L597 128 Z" fill="#eef6fc" stroke="#1e1e1e" stroke-width="2.5"/><path d="M592 76 L640 76 L634 126 L598 126 Z" fill="#cfe6fb"/><line x1="603.4" y1="82" x2="607.0" y2="125" stroke="#7aa6cf" stroke-width="1.5"/><line x1="616.0" y1="82" x2="616.0" y2="125" stroke="#7aa6cf" stroke-width="1.5"/><line x1="628.6" y1="82" x2="625.0" y2="125" stroke="#7aa6cf" stroke-width="1.5"/><line x1="591" y1="74" x2="641" y2="74" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="616.0" y="150" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">copo</text>
+<text x="616.0" y="164" font-size="12" fill="#222" font-weight="bold" text-anchor="middle">americano</text>
+<text x="616.0" y="188" font-size="17" fill="#4a90d9" font-weight="bold" text-anchor="middle">190 mL</text>
+<text x="12" y="188" font-size="14" fill="#222" font-weight="bold" text-anchor="start">Volume:</text>
+<text x="12" y="212" font-size="12" fill="#555" font-weight="bold" text-anchor="start">Peso (gramas), medida rasa:</text>
+<rect x="10" y="226" width="660" height="30" fill="#f3f3f3" stroke="#ddd"/>
+<text x="16" y="246" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Água</text>
+<text x="184.0" y="246" font-size="13" fill="#222" text-anchor="middle">5 g</text>
+<text x="292.0" y="246" font-size="13" fill="#222" text-anchor="middle">10 g</text>
+<text x="400.0" y="246" font-size="13" fill="#222" text-anchor="middle">15 g</text>
+<text x="508.0" y="246" font-size="13" fill="#222" text-anchor="middle">240 g</text>
+<text x="616.0" y="246" font-size="13" fill="#222" text-anchor="middle">190 g</text>
+<rect x="10" y="256" width="660" height="30" fill="#fff" stroke="#ddd"/>
+<text x="16" y="276" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Sal refinado</text>
+<text x="184.0" y="276" font-size="13" fill="#222" text-anchor="middle">5–6 g</text>
+<text x="292.0" y="276" font-size="13" fill="#222" text-anchor="middle">10–12 g</text>
+<text x="400.0" y="276" font-size="13" fill="#222" text-anchor="middle">15–18 g</text>
+<text x="508.0" y="276" font-size="13" fill="#222" text-anchor="middle">≈ 290 g</text>
+<text x="616.0" y="276" font-size="13" fill="#222" text-anchor="middle">≈ 230 g</text>
+<rect x="10" y="286" width="660" height="30" fill="#f3f3f3" stroke="#ddd"/>
+<text x="16" y="306" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Açúcar refinado</text>
+<text x="184.0" y="306" font-size="13" fill="#222" text-anchor="middle">4 g</text>
+<text x="292.0" y="306" font-size="13" fill="#222" text-anchor="middle">8 g</text>
+<text x="400.0" y="306" font-size="13" fill="#222" text-anchor="middle">12 g</text>
+<text x="508.0" y="306" font-size="13" fill="#222" text-anchor="middle">≈ 180 g</text>
+<text x="616.0" y="306" font-size="13" fill="#222" text-anchor="middle">≈ 145 g</text>
+<rect x="10" y="316" width="660" height="30" fill="#fff" stroke="#ddd"/>
+<text x="16" y="336" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Farinha de trigo</text>
+<text x="184.0" y="336" font-size="13" fill="#222" text-anchor="middle">3 g</text>
+<text x="292.0" y="336" font-size="13" fill="#222" text-anchor="middle">5 g</text>
+<text x="400.0" y="336" font-size="13" fill="#222" text-anchor="middle">7–8 g</text>
+<text x="508.0" y="336" font-size="13" fill="#222" text-anchor="middle">≈ 120 g</text>
+<text x="616.0" y="336" font-size="13" fill="#222" text-anchor="middle">≈ 95 g</text>
+<rect x="10" y="346" width="660" height="30" fill="#f3f3f3" stroke="#ddd"/>
+<text x="16" y="366" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Arroz ou feijão cru</text>
+<text x="184.0" y="366" font-size="13" fill="#222" text-anchor="middle">4 g</text>
+<text x="292.0" y="366" font-size="13" fill="#222" text-anchor="middle">8 g</text>
+<text x="400.0" y="366" font-size="13" fill="#222" text-anchor="middle">12 g</text>
+<text x="508.0" y="366" font-size="13" fill="#222" text-anchor="middle">≈ 185 g</text>
+<text x="616.0" y="366" font-size="13" fill="#222" text-anchor="middle">≈ 150 g</text>
+<rect x="10" y="376" width="660" height="30" fill="#fff" stroke="#ddd"/>
+<text x="16" y="396" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Óleo</text>
+<text x="184.0" y="396" font-size="13" fill="#222" text-anchor="middle">4,5 g</text>
+<text x="292.0" y="396" font-size="13" fill="#222" text-anchor="middle">9 g</text>
+<text x="400.0" y="396" font-size="13" fill="#222" text-anchor="middle">13–14 g</text>
+<text x="508.0" y="396" font-size="13" fill="#222" text-anchor="middle">≈ 220 g</text>
+<text x="616.0" y="396" font-size="13" fill="#222" text-anchor="middle">≈ 175 g</text>
+<rect x="10" y="406" width="660" height="30" fill="#f3f3f3" stroke="#ddd"/>
+<text x="16" y="426" font-size="12.5" fill="#222" font-weight="bold" text-anchor="start">Mel</text>
+<text x="184.0" y="426" font-size="13" fill="#222" text-anchor="middle">7 g</text>
+<text x="292.0" y="426" font-size="13" fill="#222" text-anchor="middle">14 g</text>
+<text x="400.0" y="426" font-size="13" fill="#222" text-anchor="middle">21 g</text>
+<text x="508.0" y="426" font-size="13" fill="#222" text-anchor="middle">≈ 340 g</text>
+<text x="616.0" y="426" font-size="13" fill="#222" text-anchor="middle">≈ 270 g</text>
+<rect x="10" y="448" width="660" height="92" rx="8" fill="#fff4e5" stroke="#ef8a2b" stroke-width="1.5"/>
+<text x="22" y="470" font-size="12" fill="#222" text-anchor="start">Medidas RASAS: encha e passe as costas de uma faca por cima. Colher CHEIA ≈ 1,5 a 2 rasas.</text>
+<text x="22" y="490" font-size="12" fill="#222" text-anchor="start">1 xícara = 16 colheres de sopa = 48 colheres de chá.  Farinha: solta, sem apertar na xícara.</text>
+<text x="22" y="510" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="start">A xícara de beber da sua casa pode ter 150 a 200 mL e as colheres variam: meça as suas</text>
+<text x="22" y="528" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="start">uma vez com água numa seringa ou mamadeira graduada e anote.</text>
+</svg>
