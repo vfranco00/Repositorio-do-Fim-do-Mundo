@@ -1,0 +1,37 @@
+/* Estilo do livro (tela e impressão) */
+:root { --texto: #1e1e1e; --suave: #555; --linha: #cfcfcf; --destaque: #b3001b; --fundo-aviso: #fdecea; --fundo-tabela: #f4f4f4; }
+html { font-size: 16px; }
+body { font-family: "DejaVu Sans", Arial, Helvetica, sans-serif; color: var(--texto); background: #fff;
+       max-width: 860px; margin: 0 auto; padding: 16px; line-height: 1.5; }
+h1 { font-size: 1.9rem; border-bottom: 3px solid var(--texto); padding-bottom: .2em; margin-top: 2.2em; }
+h2 { font-size: 1.45rem; border-bottom: 1px solid var(--linha); padding-bottom: .15em; margin-top: 2em; }
+h3 { font-size: 1.15rem; margin-top: 1.6em; }
+h4, h5, h6 { font-size: 1rem; }
+a { color: #1d4ed8; }
+img { max-width: 100%; height: auto; display: block; margin: 1em auto; border: 1px solid var(--linha); border-radius: 6px; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: .92rem; display: block; overflow-x: auto; }
+th, td { border: 1px solid var(--linha); padding: .35em .55em; vertical-align: top; text-align: left; }
+th { background: var(--fundo-tabela); }
+blockquote { margin: 1em 0; padding: .6em 1em; border-left: 5px solid var(--destaque); background: var(--fundo-aviso); }
+blockquote p { margin: .3em 0; }
+code, pre { font-family: "DejaVu Sans Mono", monospace; font-size: .88rem; }
+pre { background: #f6f6f6; border: 1px solid var(--linha); padding: .7em; overflow-x: auto; white-space: pre-wrap; }
+hr { border: 0; border-top: 1px solid var(--linha); margin: 1.5em 0; }
+#TOC { background: #f8f8f8; border: 1px solid var(--linha); padding: .5em 1.2em; border-radius: 6px; }
+#TOC ul { padding-left: 1.2em; }
+#TOC > ul > li { margin-top: .4em; font-weight: bold; }
+#TOC > ul > li > ul { font-weight: normal; }
+#TOC ul ul ul { display: none; }
+header#title-block-header { text-align: center; margin: 2em 0; }
+header#title-block-header .title { font-size: 2.4rem; border: 0; }
+header#title-block-header .subtitle { font-size: 1.1rem; color: var(--suave); }
+.quebra { break-before: page; }
+@media print {
+  html { font-size: 11pt; }
+  body { max-width: none; padding: 0; }
+  h1 { break-before: page; }
+  h1, h2, h3 { break-after: avoid; }
+  img, table, blockquote, pre { break-inside: avoid; }
+  a { color: inherit; text-decoration: none; }
+  table { display: table; }
+}
