@@ -10,8 +10,8 @@
 <text x="70.348351646022" y="68.20403635830314" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="middle">NORTE DA</text>
 <text x="70.348351646022" y="83.20403635830314" font-size="12.5" fill="#b3001b" font-weight="bold" text-anchor="middle">BÚSSOLA</text>
 <path d="M170 180 A150 150 0 0 0 113.8 190.9" fill="none" stroke="#3f6d9e" stroke-width="2.5"/>
-<text x="106" y="170" font-size="15" fill="#3f6d9e" font-weight="bold" text-anchor="middle">22°</text>
-<text x="106" y="186" font-size="12" fill="#3f6d9e" font-weight="bold" text-anchor="middle">oeste</text>
+<text x="78" y="162" font-size="15" fill="#3f6d9e" font-weight="bold" text-anchor="middle">22°</text>
+<text x="78" y="178" font-size="12" fill="#3f6d9e" font-weight="bold" text-anchor="middle">oeste</text>
 <line x1="170" y1="330" x2="340" y2="330" stroke="#2b8a3e" stroke-width="3"/>
 <line x1="310" y1="330" x2="342.0" y2="330.0" stroke="#2b8a3e" stroke-width="3"/><polygon points="348,330 337.2,335.2 337.2,324.8" fill="#2b8a3e"/>
 <text x="280" y="352" font-size="12.5" fill="#2b8a3e" font-weight="bold" text-anchor="middle">alvo a LESTE</text>

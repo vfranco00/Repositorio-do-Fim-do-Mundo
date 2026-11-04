@@ -242,7 +242,7 @@ Rato come, suja e transmite **leptospirose** (urina) e outras doenças
 | Arroz integral | 6 meses | 1–2 anos | Cheiro de ranço (a gordura do grão estraga) |
 | Feijão | 1–2 anos | 10–20 anos | Fica duro: deixe de molho 12–24 h e use panela de pressão |
 | Milho em grão | 1–2 anos | 10–20 anos | Mofo, grão ardido (escuro) |
-| Fubá, farinha de milho | 6–12 meses | 2 anos | Ranço, gosto amargo, mofo |
+| Fubá de mercado (sem gérmen) | 6–12 meses | 2 anos | Ranço, gosto amargo, mofo. Fubá caseiro (com gérmen): 1–3 meses |
 | Farinha de mandioca torrada | 6–12 meses | 1–2 anos | Mofo, umidade, gosto azedo |
 | Farinha de trigo branca | 6–12 meses | 5–10 anos | Bicho, cheiro de mofo |
 | Trigo em grão | 5 anos | 25 anos ou mais | Mofo |

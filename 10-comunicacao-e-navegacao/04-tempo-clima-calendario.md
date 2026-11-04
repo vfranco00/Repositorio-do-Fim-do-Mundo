@@ -38,8 +38,8 @@ Sem celular, **mantenha o calendário** riscando um caderno ou um pau todos os d
 - **Vento norte quente e abafado** no Sul e Sudeste: frente fria chegando em 1–2 dias.
 - **Calma total e calor úmido** à tarde, com cúmulos crescendo: trovoada no fim da tarde.
 - **Geada vem com:** céu completamente limpo, sem vento, ar seco e tarde fria (abaixo de ~10 °C
-  ao pôr do sol no Sul). Proteja mudas com palha ou pano e molhe as plantas antes do amanhecer
-  só se souber fazer (ver [Calendário de plantio](../04-agricultura/05-calendario-de-plantio.md)).
+  ao pôr do sol no Sul). Cubra mudas e canteiros com palha, pano ou caixas à noite (ver
+  [Calendário de plantio](../04-agricultura/05-calendario-de-plantio.md)).
 
 ### Sinais naturais (use como pista, nunca como certeza)
 
@@ -61,7 +61,8 @@ Sem celular, **mantenha o calendário** riscando um caderno ou um pau todos os d
   pluviômetro de garrafa), pressão. Em 1–2 anos você terá a melhor previsão possível **para o
   seu lugar**, e um registro precioso para a agricultura.
 - **Pluviômetro caseiro:** garrafa PET cortada com a boca virada para dentro (funil), lados retos.
-  Chuva em mm = volume coletado (mL) ÷ área da boca (cm²) × 10. Esvazie todo dia na mesma hora.
+  Chuva em mm = volume coletado (mL) × 10 ÷ área da boca (cm²), sendo a área = 3,14 × raio².
+  Ex.: boca de 10 cm de diâmetro (78,5 cm²) e 157 mL coletados = 20 mm. Esvazie todo dia na mesma hora.
 
 ---
 

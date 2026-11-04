@@ -126,7 +126,7 @@ verme). **Curtir:**
 2. Molhe até ficar úmido como esponja torcida e cubra com palha ou lona.
 3. Revire a cada 15 dias. Fica pronto quando **não esquenta mais, não tem cheiro forte e esfarela**:
    gado e cavalo 60–90 dias; galinha, porco e cabra 45–90 dias. Melhor ainda: ponha na
-   [compostagem](#6-compostagem).
+   compostagem (seção 6, abaixo).
 
 ### Tabela de doses (adubação de plantio)
 

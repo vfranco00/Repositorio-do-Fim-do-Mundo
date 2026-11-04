@@ -141,7 +141,7 @@ a doença **mata pessoas** (febre longa, barriga inchada, emagrecimento).
   vacina previne. Isole.
 - **Parvovirose** (filhotes): vômito, **diarreia com sangue e cheiro forte**, desidratação. Dê soro
   caseiro em goles a cada 15–30 min; isole. O vírus fica meses no chão: desinfete com **água sanitária**
-  (1 parte para 30 de água), o único desinfetante caseiro que funciona.
+  (1 parte para 10 de água, agindo 10 minutos), o único desinfetante caseiro que funciona.
 - **Piometra** (cadela ou gata inteira, 1–2 meses após o cio): muita sede, urina muito, barriga
   inchada, às vezes pus pela vulva, febre. Precisa de cirurgia; antibiótico só ganha tempo.
 

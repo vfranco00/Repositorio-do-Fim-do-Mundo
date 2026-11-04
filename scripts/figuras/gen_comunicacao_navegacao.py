@@ -279,8 +279,8 @@ b.append(f'<line x1="{ox}" y1="{oy}" x2="{mx_:.1f}" y2="{my_:.1f}" stroke="{RED}
 b.append(f'<polygon points="{mx_:.1f},{my_-6:.1f} {mx_-7:.1f},{my_+12:.1f} {mx_+7:.1f},{my_+12:.1f}" fill="{RED}" transform="rotate({-dec} {mx_:.1f} {my_:.1f})"/>')
 b.append(text(mx_ - 6, my_ - 30, "NORTE DA", 12.5, "#b3001b", True, "middle")); b.append(text(mx_ - 6, my_ - 15, "BÚSSOLA", 12.5, "#b3001b", True, "middle"))
 b.append(f'<path d="M{ox} {oy-150} A150 150 0 0 0 {ox+150*math.sin(a):.1f} {oy-150*math.cos(a):.1f}" fill="none" stroke="{BLUE}" stroke-width="2.5"/>')
-b.append(text(ox - 64, oy - 160, f"{dec}°", 15, BLUE, True, "middle"))
-b.append(text(ox - 64, oy - 144, "oeste", 12, BLUE, True, "middle"))
+b.append(text(ox - 92, oy - 168, f"{dec}°", 15, BLUE, True, "middle"))
+b.append(text(ox - 92, oy - 152, "oeste", 12, BLUE, True, "middle"))
 # alvo leste
 b.append(f'<line x1="{ox}" y1="{oy}" x2="{ox+170}" y2="{oy}" stroke="{GREEN}" stroke-width="3"/>')
 b.append(arrow(ox + 140, oy, ox + 178, oy, GREEN, 3))

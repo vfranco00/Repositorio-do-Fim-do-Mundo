@@ -185,4 +185,204 @@ b.append(text(20, 440, "A decoada é cáustica como a soda: óculos e luvas. Olh
 b.append(text(20, 458, "Use só cinza de madeira sem tinta, verniz ou cola. Cinza de madeira dura (lenha) é a mais forte.", 12.5))
 b.append(text(20, 476, "Rende: ~10 L de cinza dão 3–5 L de decoada forte. As primeiras porções são as mais fortes.", 12.5))
 open(D + "barril-lixivia.svg", "w").write(svg(680, 496, "Barril de decoada (lixívia de cinza) — corte", "\n".join(b)))
+
+# =====================================================================
+# TEAR DE PENTE-LICO
+# =====================================================================
+b = []
+b.append(text(170, 64, "O pente-liço visto de frente", 13.5, "#222", True, "middle"))
+fx0, fx1, fy0, fy1 = 30, 310, 84, 236
+b.append(f'<rect x="{fx0}" y="{fy0}" width="{fx1-fx0}" height="{fy1-fy0}" rx="6" fill="{WOOD}" stroke="{OUT}" stroke-width="2.5"/>')
+b.append(f'<rect x="{fx0+14}" y="{fy0+14}" width="{fx1-fx0-28}" height="{fy1-fy0-28}" fill="#f6f3ee" stroke="{OUT}" stroke-width="1.5"/>')
+slats = [fx0 + 26 + k * 22 for k in range(12)]
+for xs in slats:
+    b.append(f'<rect x="{xs-3.5}" y="{fy0+14}" width="7" height="{fy1-fy0-28}" fill="#d7b98c" stroke="{OUT}" stroke-width="1.2"/>')
+    b.append(f'<circle cx="{xs}" cy="{(fy0+fy1)/2}" r="3.2" fill="#fff" stroke="{OUT}" stroke-width="1"/>')
+for xs in slats:   # fio do furo (vermelho)
+    b.append(f'<line x1="{xs}" y1="{fy0-14}" x2="{xs}" y2="{(fy0+fy1)/2-3}" stroke="#c0392b" stroke-width="2"/>')
+    b.append(f'<line x1="{xs}" y1="{(fy0+fy1)/2+3}" x2="{xs}" y2="{fy1+14}" stroke="#c0392b" stroke-width="2"/>')
+for xs in slats[:-1]:   # fio da fenda (azul)
+    b.append(f'<line x1="{xs+11}" y1="{fy0-14}" x2="{xs+11}" y2="{fy1+14}" stroke="#2f6ea8" stroke-width="2"/>')
+b.append(lbl(36, 258, "azul: fio passa na FENDA (livre)", 11.5, "#2f6ea8", True))
+b.append(lbl(36, 274, "vermelho: fio passa no FURO da ripa (preso)", 11.5, "#c0392b", True))
+b.append(lbl(36, 290, "1 ripa a cada 5–8 mm = 25–40 fios em 10 cm", 11.5, "#222"))
+b.append(lbl(36, 306, "ripas: taquara, palito de picolé, madeira fina", 11.5, "#222"))
+# vistas laterais
+b.append('<line x1="340" y1="50" x2="340" y2="312" stroke="#ccc" stroke-width="2"/>')
+def cala(y0, sobe, titulo, nomes):
+    s = text(354, y0 - 50, titulo, 12.5, "#222", True)
+    s += f'<rect x="356" y="{y0-8}" width="10" height="16" rx="3" fill="{WOOD}" stroke="{OUT}" stroke-width="1.5"/>'
+    s += f'<rect x="652" y="{y0-8}" width="10" height="16" rx="3" fill="{WOOD}" stroke="{OUT}" stroke-width="1.5"/>'
+    dh = 32
+    hy = y0 - dh if sobe else y0 + dh
+    s += f'<rect x="556" y="{min(hy, y0)-14}" width="9" height="{dh+28}" rx="3" fill="#d7b98c" stroke="{OUT}" stroke-width="1.5"/>'
+    s += f'<polyline points="366,{y0} 560,{hy} 652,{y0}" fill="none" stroke="#c0392b" stroke-width="2.5"/>'
+    s += f'<line x1="366" y1="{y0}" x2="652" y2="{y0}" stroke="#2f6ea8" stroke-width="2.5"/>'
+    xs = 490
+    my = y0 + (hy - y0) * (xs - 366) / (560 - 366) / 2
+    s += f'<ellipse cx="{xs}" cy="{my:.1f}" rx="15" ry="4.5" fill="#a0522d" stroke="{OUT}" stroke-width="1.5"/>'
+    ly = y0 + 18 if sobe else y0 - 10
+    s += lbl(xs, ly, "lançadeira passa na cala", 10.5, "#6b3a10", True, "middle")
+    s += lbl(572, y0 + (14 if sobe else -20), "pente", 10.5, "#222", True)
+    if nomes:
+        s += lbl(380, y0 + 36, "lado do tecido", 10.5, "#555", False) + lbl(648, y0 + 36, "urdume", 10.5, "#555", False, "end")
+    return s
+b.append(cala(124, True, "Pente PARA CIMA: abre a 1ª cala", True))
+b.append(cala(258, False, "Pente PARA BAIXO: abre a 2ª cala", False))
+
+# tear de cintura
+b.append('<line x1="8" y1="322" x2="672" y2="322" stroke="#ccc" stroke-width="2"/>')
+b.append(text(340, 344, "Tear de cintura com pente-liço (sem armação)", 13.5, "#222", True, "middle"))
+b.append(f'<rect x="0" y="470" width="680" height="16" fill="{SOLO}"/><line x1="0" y1="470" x2="680" y2="470" stroke="#6b4f2a" stroke-width="2"/>')
+b.append(f'<rect x="640" y="352" width="26" height="118" fill="{WOOD}" stroke="{OUT}" stroke-width="2"/>')
+b.append(f'<line x1="640" y1="404" x2="606" y2="398" stroke="#555" stroke-width="2"/><line x1="640" y1="404" x2="606" y2="426" stroke="#555" stroke-width="2"/>')
+b.append(f'<rect x="600" y="394" width="8" height="36" rx="3" fill="{WOOD}" stroke="{OUT}" stroke-width="1.5"/>')
+for k in range(7):
+    ya = 398 + k * 5; yb = 400 + k * 4
+    b.append(f'<line x1="604" y1="{ya}" x2="300" y2="{yb}" stroke="#c9a46a" stroke-width="1.6"/>')
+b.append(f'<rect x="200" y="398" width="100" height="30" fill="#e9d2a2" stroke="#8a6a3a" stroke-width="1.5"/>')
+for k in range(9):
+    b.append(f'<line x1="{206+k*11}" y1="398" x2="{206+k*11}" y2="428" stroke="#c9a46a" stroke-width="1"/>')
+b.append(f'<rect x="430" y="380" width="9" height="66" rx="3" fill="#d7b98c" stroke="{OUT}" stroke-width="1.5"/>')
+b.append(f'<rect x="192" y="392" width="10" height="42" rx="3" fill="{WOOD}" stroke="{OUT}" stroke-width="1.5"/>')
+# tecelao sentado inclinado para tras
+b.append(limb([(132, 452), (196, 460), (238, 462)], 20, "#6f8aa3"))
+b.append(limb([(134, 448), (104, 380)], 34, "#6f8aa3"))
+b.append(head(96, 352, 20, "#f2c9a5", 1, 0.1))
+b.append(limb([(108, 392), (150, 410), (188, 410)], 11, "#6f8aa3")); b.append(hand(192, 410, 8))
+b.append(f'<path d="M196 394 L 128 430 M196 432 L 130 444" stroke="#7a4a1a" stroke-width="3"/>')
+b.append(f'<path d="M126 428 Q 112 438 128 448" fill="none" stroke="#7a4a1a" stroke-width="7"/>')
+b += [lbl(612, 344, "árvore/poste", 11, "#222", True, "middle"), lbl(520, 392, "urdume", 11, "#222", True, "middle"),
+      lbl(434, 372, "pente-liço", 11, "#222", True, "middle"), lbl(250, 392, "tecido pronto", 11, "#222", True, "middle"),
+      lbl(150, 486, "cinto nas costas: você estica a urdidura inclinando o corpo", 11, "#222", True)]
+b.append(box(8, 494, 664, 66, "#eef5ff", "#3f6d9e"))
+b.append(text(20, 514, "Tecer: pente para cima → passe a lançadeira → bata o fio com o pente → pente para baixo →", 12.5))
+b.append(text(20, 532, "passe de volta → bata. Deixe o fio da trama em arco (não esticado) antes de bater, senão o", 12.5))
+b.append(text(20, 550, "tecido vai estreitando. Fios das bordas firmes, mas sem puxar.", 12.5))
+open(D + "tear-pente-lico.svg", "w").write(svg(680, 570, "Tear de pente-liço", "\n".join(b)))
+
+# =====================================================================
+# CERAMICA: queima em buraco (corte)
+# =====================================================================
+def pote(cx, base_y, w, h, boca_baixo=True, cor="#c87f4a"):
+    # pote de boca para baixo: corpo arredondado, boca no chao
+    if boca_baixo:
+        return (f'<path d="M{cx-w*0.32} {base_y} C {cx-w*0.62} {base_y-h*0.35}, {cx-w*0.5} {base_y-h}, {cx} {base_y-h} '
+                f'C {cx+w*0.5} {base_y-h}, {cx+w*0.62} {base_y-h*0.35}, {cx+w*0.32} {base_y} Z" fill="{cor}" stroke="{OUT}" stroke-width="2.5"/>')
+    return ""
+b = []
+b.append(f'<rect x="0" y="200" width="420" height="200" fill="{SOLO}"/><line x1="0" y1="200" x2="420" y2="200" stroke="#6b4f2a" stroke-width="3"/>')
+b.append(f'<path d="M50 200 L 90 296 L 330 296 L 370 200 Z" fill="#5a4a3a" stroke="{OUT}" stroke-width="2.5"/>')
+b.append(f'<path d="M86 286 L 90 296 L 330 296 L 334 286 Z" fill="#c8a878"/>')   # serragem/esterco
+random.seed(5)
+for k in range(60):
+    xx = random.uniform(92, 328); yy = random.uniform(287, 295)
+    b.append(f'<circle cx="{xx:.1f}" cy="{yy:.1f}" r="1.2" fill="#8a6a40"/>')
+for (cx, w, h) in ((140, 70, 56), (210, 80, 66), (284, 66, 50)):
+    b.append(pote(cx, 286, w, h))
+# combustivel em volta e por cima
+for k in range(16):
+    x1 = 70 + k * 18; y1 = 204 + (k % 3) * 8
+    b.append(f'<line x1="{x1}" y1="{y1}" x2="{x1+40}" y2="{y1+30+(k%4)*6}" stroke="{WOOD}" stroke-width="5" stroke-linecap="round"/>')
+for (ex, ey) in ((100, 262), (330, 262), (180, 214), (250, 212)):
+    b.append(f'<ellipse cx="{ex}" cy="{ey}" rx="16" ry="6" fill="#6b5a3a" stroke="{OUT}" stroke-width="1.5"/>')
+# pilha de lenha acima
+for k in range(9):
+    xa = 90 + k * 30
+    b.append(f'<line x1="{xa}" y1="198" x2="{210+(xa-210)*0.2:.0f}" y2="92" stroke="{WOOD}" stroke-width="9" stroke-linecap="round"/>')
+    b.append(f'<line x1="{xa}" y1="198" x2="{210+(xa-210)*0.2:.0f}" y2="92" stroke="#a87443" stroke-width="4" stroke-linecap="round"/>')
+for (fx, fy, sc) in ((150, 196, 1.1), (210, 186, 1.5), (270, 196, 1.1), (180, 150, 1.0), (240, 150, 1.0), (210, 120, 1.0)):
+    b.append(chama(fx, fy, sc))
+b.append(lbl(380, 230, "40–50 cm", 11.5, "#222", True))
+b.append(f'<line x1="372" y1="204" x2="372" y2="294" stroke="#222" stroke-width="1.5"/>')
+b.append(lbl(210, 318, "≈ 1 m de largura", 11.5, "#222", True, "middle"))
+b.append(lbl(14, 330, "fundo: serragem, palha", 11, "#222", True)); b.append(lbl(14, 344, "ou esterco seco", 11, "#222", True))
+b.append(f'<line x1="70" y1="326" x2="96" y2="292" stroke="#555" stroke-width="1.5"/>')
+b.append(lbl(160, 356, "potes BEM SECOS, de boca para baixo,", 11, "#222", True)); b.append(lbl(160, 370, "cobertos de gravetos, casca e esterco seco", 11, "#222", True))
+b.append(lbl(14, 100, "pilha de lenha", 11.5, "#222", True)); b.append(lbl(14, 114, "em forma de oca", 11.5, "#222", True))
+# passos
+b.append('<line x1="430" y1="50" x2="430" y2="396" stroke="#ccc" stroke-width="2"/>')
+steps = [("Esquente devagar", ["Potes ao lado da fogueira", "1–2 h, virando, até ficarem", "quentes demais para tocar."]),
+         ("Monte o buraco", ["Fundo com serragem/esterco,", "potes, gravetos e lenha por", "cima (como no desenho)."]),
+         ("Queime 2–4 h", ["Mantenha fogo forte. Os", "potes devem brilhar vermelho", "escuro: 600–800 °C."]),
+         ("Abafe e espere", ["Cubra com cacos, chapas e", "terra. Espere esfriar sozinho", "(12 h ou mais)."])]
+for i, (t, arr) in enumerate(steps):
+    y = 70 + i * 82
+    b.append(num(452, y, i + 1)); b.append(text(472, y + 5, t, 13, "#222", True))
+    b.append(lines(446, y + 24, arr, 11.5))
+b.append(box(8, 404, 664, 50, "#fdecec", RED))
+b.append(text(20, 424, "Pote úmido explode no fogo: seque 1–3 semanas à sombra. Perdas de 10–30% são normais.", 12.5, DRED, True))
+b.append(text(20, 442, "Abaixo de ~600 °C o barro NÃO vira cerâmica (desmancha na água). Teste um caco fervendo.", 12.5))
+open(D + "queima-em-buraco.svg", "w").write(svg(680, 464, "Queima de cerâmica em buraco (fogueira)", "\n".join(b)))
+
+# =====================================================================
+# CERAMICA: forno simples de tijolos (corte)
+# =====================================================================
+def tijolos(x, y, w, h, bw=30, bh=12):
+    s = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="#b5523b" stroke="{OUT}" stroke-width="2"/>'
+    r = 0; yy = y
+    while yy < y + h - 1:
+        s += f'<line x1="{x}" y1="{yy}" x2="{x+w}" y2="{yy}" stroke="#7a2e1e" stroke-width="1"/>'
+        off = (bw / 2) if r % 2 else 0
+        xx = x + off
+        while xx < x + w:
+            s += f'<line x1="{xx:.0f}" y1="{yy}" x2="{xx:.0f}" y2="{min(yy+bh, y+h)}" stroke="#7a2e1e" stroke-width="1"/>'
+            xx += bw
+        yy += bh; r += 1
+    return s
+b = []
+G = 440
+b.append(f'<rect x="0" y="{G}" width="680" height="20" fill="{SOLO}"/><line x1="0" y1="{G}" x2="680" y2="{G}" stroke="#6b4f2a" stroke-width="3"/>')
+# paredes
+b.append(tijolos(70, 110, 30, G - 110)); b.append(tijolos(330, 110, 30, G - 110))
+# fornalha (interior escuro) e boca
+b.append(f'<rect x="100" y="340" width="230" height="{G-340}" fill="#3a2a22"/>')
+b.append(f'<rect x="66" y="384" width="38" height="{G-384}" fill="#3a2a22"/>')
+b.append(f'<rect x="66" y="376" width="38" height="10" fill="#7d7d7d" stroke="{OUT}" stroke-width="1.5"/>')
+for k in range(4):
+    b.append(f'<line x1="{20+k*8}" y1="{428-k*7}" x2="{170+k*10}" y2="{420-k*6}" stroke="{WOOD}" stroke-width="7" stroke-linecap="round"/>')
+for (fx, fy, sc) in ((150, 430, 1.2), (200, 432, 1.5), (250, 430, 1.3), (295, 432, 1.0)):
+    b.append(chama(fx, fy, sc))
+# grelha
+for k in range(6):
+    b.append(f'<rect x="{100+k*40}" y="326" width="26" height="14" fill="#b5523b" stroke="{OUT}" stroke-width="1.5"/>')
+# camara
+b.append(f'<rect x="100" y="110" width="230" height="216" fill="#f1e6d6"/>')
+for (cx, by, w, h) in ((140, 326, 56, 50), (215, 326, 64, 58), (290, 326, 56, 50), (170, 266, 54, 46), (255, 266, 54, 46)):
+    b.append(pote(cx, by, w, h))
+b.append(f'<rect x="150" y="266" width="130" height="6" fill="#b5523b" stroke="{OUT}" stroke-width="1"/>')
+# topo com cacos
+for k in range(6):
+    xa = 74 + k * 50
+    b.append(f'<path d="M{xa} 110 L {xa+30} 104 L {xa+34} 112 L {xa+4} 116 Z" fill="#c87f4a" stroke="{OUT}" stroke-width="1.5"/>')
+# setas de tiragem
+b.append(arrow(30, 412, 64, 412, AGUA, 4))
+for (x1, y1, x2, y2) in ((113, 350, 113, 300), (193, 350, 193, 300), (273, 350, 273, 300), (150, 240, 150, 160), (215, 230, 215, 150), (285, 240, 285, 160),
+                         (122, 100, 122, 66), (222, 100, 222, 60), (322, 100, 322, 66)):
+    b.append(arrow(x1, y1, x2, y2, "#f08c00", 3.5))
+# rotulos
+R = [(380, 80, ["saída do calor: cubra com cacos,", "deixando frestas (tiragem)"]),
+     (380, 190, ["câmara: potes secos, com", "folga de 2–3 dedos entre eles"]),
+     (380, 318, ["grelha: tijolos com vãos", "de 5–8 cm"]),
+     (380, 384, ["fornalha: lenha seca e fina;", "boca de 30 × 30 cm"])]
+for (x, y, arr) in R:
+    b.append(lines(x, y, arr, 11.5, "#222", False))
+    b.append(f'<line x1="{x-6}" y1="{y-4}" x2="{x-24}" y2="{y-4}" stroke="#555" stroke-width="1.5"/>')
+b.append(lbl(14, 400, "ar", 12, AGUA, True))
+b.append(lbl(215, 104, "", 11))
+b.append(lbl(215, 96, "60–80 cm por dentro", 11, "#222", True, "middle").replace("y=\"96\"", "y=\"128\""))
+b.append(lbl(84, 106, "", 11))
+b.append(lines(380, 240, ["paredes: 2 tijolos (20–25 cm)", "assentados com barro + areia"], 11.5, "#222"))
+# escala de cor
+b.append(text(590, 300, "Cor do fogo", 12, "#222", True, "middle"))
+cores = [("#5a1a10", "~550 °C vermelho escuro"), ("#a01e10", "~700 °C vermelho"), ("#e0401a", "~850 °C cereja"), ("#f08c20", "~950 °C laranja"), ("#ffd040", "~1100 °C amarelo")]
+for i, (c, t) in enumerate(cores):
+    b.append(f'<rect x="530" y="{310+i*22}" width="22" height="18" fill="{c}" stroke="{OUT}" stroke-width="1"/>')
+    b.append(text(558, 324 + i * 22, t, 10.5, "#222"))
+b.append(box(8, 466, 664, 86, "#eef5ff", "#3f6d9e"))
+b.append(text(20, 486, "Queima: 1) fogo pequeno na boca 2–3 h (secar; até ~100–200 °C); 2) aumente aos poucos por 2–3 h;", 12.5))
+b.append(text(20, 504, "3) fogo forte 2–4 h até o brilho cereja (800–900 °C); mantenha 30–60 min; 4) feche boca e topo", 12.5))
+b.append(text(20, 522, "e espere esfriar 12–24 h. Abrir quente racha tudo. Lenha: ~1 a 2 m³ por queima (forno pequeno).", 12.5))
+b.append(text(20, 540, "Cimento comum não aguenta o calor: use tijolo e barro. Afaste de casas e de mato seco.", 12.5, DRED, True))
+open(D + "forno-tijolo.svg", "w").write(svg(680, 562, "Forno simples de tijolos para cerâmica (corte)", "\n".join(b)))
 print("ok")
