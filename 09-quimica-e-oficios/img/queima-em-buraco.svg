@@ -67,6 +67,7 @@
 <path d="M117.6 286 C 96.6 266.4, 105.0 230, 140 230 C 175.0 230, 183.4 266.4, 162.4 286 Z" fill="#c87f4a" stroke="#1e1e1e" stroke-width="2.5"/>
 <path d="M184.4 286 C 160.4 262.9, 170.0 220, 210 220 C 250.0 220, 259.6 262.9, 235.6 286 Z" fill="#c87f4a" stroke="#1e1e1e" stroke-width="2.5"/>
 <path d="M262.88 286 C 243.07999999999998 268.5, 251.0 236, 284 236 C 317.0 236, 324.92 268.5, 305.12 286 Z" fill="#c87f4a" stroke="#1e1e1e" stroke-width="2.5"/>
+<clipPath id="cova"><path d="M50 200 L 90 296 L 330 296 L 370 200 Z"/></clipPath><g clip-path="url(#cova)">
 <line x1="70" y1="204" x2="110" y2="234" stroke="#8b5a2b" stroke-width="5" stroke-linecap="round"/>
 <line x1="88" y1="212" x2="128" y2="248" stroke="#8b5a2b" stroke-width="5" stroke-linecap="round"/>
 <line x1="106" y1="220" x2="146" y2="262" stroke="#8b5a2b" stroke-width="5" stroke-linecap="round"/>
@@ -83,6 +84,7 @@
 <line x1="304" y1="212" x2="344" y2="248" stroke="#8b5a2b" stroke-width="5" stroke-linecap="round"/>
 <line x1="322" y1="220" x2="362" y2="262" stroke="#8b5a2b" stroke-width="5" stroke-linecap="round"/>
 <line x1="340" y1="204" x2="380" y2="252" stroke="#8b5a2b" stroke-width="5" stroke-linecap="round"/>
+</g>
 <ellipse cx="100" cy="262" rx="16" ry="6" fill="#6b5a3a" stroke="#1e1e1e" stroke-width="1.5"/>
 <ellipse cx="330" cy="262" rx="16" ry="6" fill="#6b5a3a" stroke="#1e1e1e" stroke-width="1.5"/>
 <ellipse cx="180" cy="214" rx="16" ry="6" fill="#6b5a3a" stroke="#1e1e1e" stroke-width="1.5"/>
@@ -111,14 +113,14 @@
 <path d="M180 150 C 166.0 136.0, 174.0 124.0, 180 110.0 C 184.0 124.0, 196.0 132.0, 180 150 Z" fill="#f4a020" stroke="#c0400a" stroke-width="1.5"/><path d="M180 147.0 C 174.0 140.0, 178.0 132.0, 180 126.0 C 183.0 134.0, 187.0 140.0, 180 147.0 Z" fill="#ffe066"/>
 <path d="M240 150 C 226.0 136.0, 234.0 124.0, 240 110.0 C 244.0 124.0, 256.0 132.0, 240 150 Z" fill="#f4a020" stroke="#c0400a" stroke-width="1.5"/><path d="M240 147.0 C 234.0 140.0, 238.0 132.0, 240 126.0 C 243.0 134.0, 247.0 140.0, 240 147.0 Z" fill="#ffe066"/>
 <path d="M210 120 C 196.0 106.0, 204.0 94.0, 210 80.0 C 214.0 94.0, 226.0 102.0, 210 120 Z" fill="#f4a020" stroke="#c0400a" stroke-width="1.5"/><path d="M210 117.0 C 204.0 110.0, 208.0 102.0, 210 96.0 C 213.0 104.0, 217.0 110.0, 210 117.0 Z" fill="#ffe066"/>
-<text x="380" y="230" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">40–50 cm</text>
-<line x1="372" y1="204" x2="372" y2="294" stroke="#222" stroke-width="1.5"/>
+<text x="404" y="250" font-size="11.5" font-weight="bold" fill="#222" text-anchor="middle" transform="rotate(-90 404 250)">40–50 cm</text>
+<line x1="390" y1="202" x2="390" y2="296" stroke="#222" stroke-width="1.5"/><line x1="384" y1="296" x2="396" y2="296" stroke="#222" stroke-width="1.5"/><line x1="384" y1="202" x2="396" y2="202" stroke="#222" stroke-width="1.5"/>
 <text x="210" y="318" font-size="11.5" fill="#222" font-weight="bold" text-anchor="middle" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">≈ 1 m de largura</text>
 <text x="14" y="330" font-size="11" fill="#222" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">fundo: serragem, palha</text>
 <text x="14" y="344" font-size="11" fill="#222" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">ou esterco seco</text>
 <line x1="70" y1="326" x2="96" y2="292" stroke="#555" stroke-width="1.5"/>
-<text x="160" y="356" font-size="11" fill="#222" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">potes BEM SECOS, de boca para baixo,</text>
-<text x="160" y="370" font-size="11" fill="#222" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">cobertos de gravetos, casca e esterco seco</text>
+<text x="160" y="356" font-size="11" fill="#222" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">potes BEM SECOS, boca para baixo,</text>
+<text x="160" y="370" font-size="11" fill="#222" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">cobertos de gravetos e esterco seco</text>
 <text x="14" y="100" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">pilha de lenha</text>
 <text x="14" y="114" font-size="11.5" fill="#222" font-weight="bold" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">em forma de oca</text>
 <line x1="430" y1="50" x2="430" y2="396" stroke="#ccc" stroke-width="2"/>

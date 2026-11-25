@@ -149,7 +149,7 @@ com parte dele ([Nutrição](03-nutricao-e-racionamento.md)).
    de cima (a decoada).
 2. Cozinhe 1 kg de milho nessa água até a pele soltar (30–90 minutos), depois siga os passos 3 a 5 acima.
 
-> **ATENÇÃO:** cal e decoada são **cáusticas**: protegem-se olhos e mãos (luvas), crianças longe.
+> **ATENÇÃO:** cal e decoada são **cáusticas**: proteja olhos e mãos (luvas) e mantenha crianças longe.
 > Cal virgem esquenta muito ao molhar: use cal **hidratada**. **Não use panela de alumínio** (é
 > corroída); use ferro, inox, esmaltada ou barro.
 

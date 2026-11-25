@@ -269,7 +269,7 @@ trauma**: torniquete, gazes, atadura de crepom, luvas, tesoura, manta térmica.
 
 1. **Segurança da cena primeiro:** não vire a próxima vítima.
 2. **Sangramento forte:** pressão direta **firme e contínua** com gaze ou pano por **10 minutos**
-   sem espiar. Braço ou perna jorrando e não para: **torniquete** 5–7 cm acima da ferida, aperte
+   sem espiar. Braço ou perna jorrando e não para: **torniquete** 5–8 cm acima da ferida, aperte
    até parar, **anote a hora**.
 3. **Objeto encravado:** não tire; fixe no lugar com panos em volta.
 4. Deite a vítima, aqueça (manta térmica), observe sinais de choque (pele fria, pálida,

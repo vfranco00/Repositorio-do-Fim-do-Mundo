@@ -99,7 +99,7 @@ resultado: se a postura cai e a galinha emagrece (quilha do peito saltada), aume
 | Milho moído (fubá grosso ou quirera) | 6,2 kg | 7,0 kg | 6,45 kg |
 | Farelo de soja | 3,4 kg | 2,6 kg | 2,4 kg |
 | Calcário calcítico (ou casca de ovo moída) | 120 g | 130 g | **900 g** |
-| Fosfato bicálcico (ou 2× de farinha de osso calcinada) | 200 g | 150 g | 150 g |
+| Fosfato bicálcico (ou 1,5 vez o peso em farinha de osso calcinada) | 200 g | 150 g | 150 g |
 | Sal | 40 g | 40 g | 40 g |
 | Premix vitamínico-mineral (núcleo), se houver | 50 g | 50 g | 50 g |
 

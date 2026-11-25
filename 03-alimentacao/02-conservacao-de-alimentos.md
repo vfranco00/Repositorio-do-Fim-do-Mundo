@@ -239,9 +239,10 @@ toxina mais forte que existe. **A comida pode parecer, cheirar e ter gosto norma
 | Molho de tomate com limão | 35 min (1 L: 40 min) |
 | Tomate em pedaços com limão | 40 min (1 L: 45 min) |
 
-   **Altitude:** de 300 a 900 m some 5 min; de 900 a 1.800 m some 10 min.
-   **Tomate:** acrescente **1 colher (sopa) de suco de limão por vidro de 500 mL** (2 por litro).
-   O tomate sozinho não é ácido o bastante.
+- **Altitude:** de 300 a 900 m some 5 min; de 900 a 1.800 m some 10 min.
+- **Tomate:** acrescente **1 colher (sopa) de suco de limão por vidro de 500 mL** (2 por litro).
+  O tomate sozinho não é ácido o bastante.
+
 6. Desligue, espere 5 minutos, retire os vidros e deixe esfriar **24 horas** sem mexer, longe de
    vento frio.
 7. **Ponto de vácuo:** ao esfriar a tampa faz "plim" e **afunda**. Aperte o centro: **não pode

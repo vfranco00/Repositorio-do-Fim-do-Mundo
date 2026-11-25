@@ -237,10 +237,10 @@ b.append(lines(196, 150, ["2. DUTO enterrado: 2 a 4 m,", "sempre SUBINDO (manilh
 b.append(lead(300, 206, 316, 322))
 b.append(lines(545, 66, ["tampa com fresta:", "fumaça sai devagar"], 12, "#222", [0]))
 b.append(lead(542, 80, 528, 102))
-b.append(lines(545, 130, ["3. CÂMARA", "tambor de 200 L", "sem fundo, ou", "caixa de madeira", "ou de tijolo"], 12, "#222", [0]))
-b.append(lead(542, 146, 532, 156))
-b.append(lines(545, 214, ["varas ou grelhas;", "peças sem encostar", "uma na outra"], 12))
-b.append(lead(542, 218, 526, 194))
+b.append(lines(545, 124, ["3. CÂMARA", "tambor de 200 L", "sem fundo, ou", "caixa de madeira", "ou de tijolo"], 12, "#222", [0]))
+b.append(lead(542, 140, 532, 150))
+b.append(lines(545, 207, ["varas ou grelhas;", "peças sem encostar", "uma na outra"], 12))
+b.append(lead(542, 211, 526, 194))
 b.append(box(20, 432, 640, 84, "#fff4e5", "#ef8a2b"))
 b.append(lines(34, 452, ["FRIA (abaixo de 30 °C): duto longo, fogo fraco; dias a semanas. NÃO cozinha: só para",
                          "carne já bem salgada. QUENTE (câmara a 70–100 °C): duto curto ou fogo quase embaixo;",

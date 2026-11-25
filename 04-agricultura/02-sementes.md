@@ -118,7 +118,7 @@ semente bem seca, várias vezes mais.
 | Feijão comum | 6–8 kg | Abóbora | 100–200 g |
 | Feijão-de-corda | 2–3 kg | Sorgo | 1 kg |
 | Arroz de sequeiro | 6–8 kg | Girassol | 500 g |
-| Mandioca | ~1.700 manivas (ramas de ~300 m² de mandiocal) | Batata-doce | 3.000–4.000 ramas |
+| Mandioca | ~1.700 manivas (ramas de 200–300 m² de mandiocal) | Batata-doce | 3.000–4.000 ramas |
 
 Guarde **o dobro** do que vai plantar: replantio por falha, seca ou praga é comum.
 
@@ -158,8 +158,8 @@ insetos com variedades vizinhas **da mesma espécie** — e a semente sai mistur
 | Sorgo | Moderado (vento) | 200–300 m | Ensacar o cacho |
 | Mandioca, batata-doce, cará, banana, cana, alho, batata | Não importa | — | Plantadas por rama ou muda, saem iguais à mãe |
 
-**Quem cruza com quem nas abóboras:** abóbora-de-pescoço, jerimum, abobrinha-menina e
-abóbora-paulista são uma espécie (cruzam entre si); moranga e abóbora-japonesa são outra;
+**Quem cruza com quem nas abóboras:** abóbora-de-pescoço, abobrinha-menina e a maioria dos
+jerimuns são uma espécie (cruzam entre si); moranga e abóbora-japonesa são outra;
 abobrinha-italiana é outra. Espécies diferentes quase não cruzam. **Pepino não cruza com melão,
 melancia, maxixe nem abóbora.** Cabotiá é híbrida: não guarde.
 

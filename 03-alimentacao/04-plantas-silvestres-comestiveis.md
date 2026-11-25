@@ -44,7 +44,7 @@ que você identificou com 100% de certeza**. Na dúvida, não coma. Cogumelo sil
 - **Nunca coma crua.** Toda a família das aráceas tem cristais de oxalato que **ferem e incham**
   boca e garganta.
 
-> **ATENÇÃO — confusões perigosas:** **taioba-brava e inhame** (talo preso **no meio** da folha,
+> **ATENÇÃO:** confusões perigosas: **taioba-brava e inhame** (talo preso **no meio** da folha,
 > por dentro, muitas vezes com mancha roxa): queimam a boca, não use as folhas como taioba.
 > **Comigo-ninguém-pode** (folhas compridas com manchas brancas, caule grosso tipo cana),
 > **tinhorão** (folhas coloridas), **copo-de-leite** e **antúrio** são **venenosos**: incham a
@@ -181,12 +181,12 @@ transparentes** quando vistas contra a luz e **cheiro aromático** ao amassar; f
 "coroinha" na ponta. Pitanga, goiaba, araçá, jabuticaba, cambuci, uvaia, guabiroba, grumixama e
 cagaita são dessa família, e não se conhecem frutos venenosos nela. **Ainda assim, confirme.**
 
-> **ATENÇÃO — açaí e caldo de cana:** o **barbeiro** pode ser moído junto e transmitir a **doença
+> **ATENÇÃO:** no **açaí e no caldo de cana**, o **barbeiro** pode ser moído junto e transmitir a **doença
 > de Chagas** pela boca. Lave e escolha os frutos e faça o **branqueamento**: mergulhe o açaí em
-> água a **80 °C por 10 segundos** (água bem quente, antes de ferver) e depois em água fria, antes de
-> bater. Na cana, lave e raspe bem, longe de onde haja barbeiros.
+> água a **80 °C por 10 segundos** e depois em água fria, antes de bater. Sem termômetro: **3 partes
+> de água fervendo + 1 parte de água fria** dão cerca de 80 °C; use bastante água para pouca fruta. Na cana, lave e raspe bem, longe de onde haja barbeiros.
 
-> **ATENÇÃO — castanha de caju crua:** a casca tem um óleo que **queima a pele, os olhos e a
+> **ATENÇÃO:** na **castanha de caju crua**, a casca tem um óleo que **queima a pele, os olhos e a
 > boca**. Asse ao ar livre em lata furada sobre o fogo, **de costas para o vento** (a fumaça irrita
 > olhos e pulmões), até a casca queimar e ficar quebradiça. Use luvas para quebrar e tire a película.
 

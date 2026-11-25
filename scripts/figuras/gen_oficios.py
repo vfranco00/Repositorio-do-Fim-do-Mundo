@@ -280,10 +280,12 @@ for k in range(60):
     b.append(f'<circle cx="{xx:.1f}" cy="{yy:.1f}" r="1.2" fill="#8a6a40"/>')
 for (cx, w, h) in ((140, 70, 56), (210, 80, 66), (284, 66, 50)):
     b.append(pote(cx, 286, w, h))
-# combustivel em volta e por cima
+# combustivel em volta e por cima (recortado no formato do buraco)
+b.append('<clipPath id="cova"><path d="M50 200 L 90 296 L 330 296 L 370 200 Z"/></clipPath><g clip-path="url(#cova)">')
 for k in range(16):
     x1 = 70 + k * 18; y1 = 204 + (k % 3) * 8
     b.append(f'<line x1="{x1}" y1="{y1}" x2="{x1+40}" y2="{y1+30+(k%4)*6}" stroke="{WOOD}" stroke-width="5" stroke-linecap="round"/>')
+b.append('</g>')
 for (ex, ey) in ((100, 262), (330, 262), (180, 214), (250, 212)):
     b.append(f'<ellipse cx="{ex}" cy="{ey}" rx="16" ry="6" fill="#6b5a3a" stroke="{OUT}" stroke-width="1.5"/>')
 # pilha de lenha acima
@@ -293,12 +295,12 @@ for k in range(9):
     b.append(f'<line x1="{xa}" y1="198" x2="{210+(xa-210)*0.2:.0f}" y2="92" stroke="#a87443" stroke-width="4" stroke-linecap="round"/>')
 for (fx, fy, sc) in ((150, 196, 1.1), (210, 186, 1.5), (270, 196, 1.1), (180, 150, 1.0), (240, 150, 1.0), (210, 120, 1.0)):
     b.append(chama(fx, fy, sc))
-b.append(lbl(380, 230, "40–50 cm", 11.5, "#222", True))
-b.append(f'<line x1="372" y1="204" x2="372" y2="294" stroke="#222" stroke-width="1.5"/>')
+b.append(f'<text x="404" y="250" font-size="11.5" font-weight="bold" fill="#222" text-anchor="middle" transform="rotate(-90 404 250)">40–50 cm</text>')
+b.append(f'<line x1="390" y1="202" x2="390" y2="296" stroke="#222" stroke-width="1.5"/><line x1="384" y1="296" x2="396" y2="296" stroke="#222" stroke-width="1.5"/><line x1="384" y1="202" x2="396" y2="202" stroke="#222" stroke-width="1.5"/>')
 b.append(lbl(210, 318, "≈ 1 m de largura", 11.5, "#222", True, "middle"))
 b.append(lbl(14, 330, "fundo: serragem, palha", 11, "#222", True)); b.append(lbl(14, 344, "ou esterco seco", 11, "#222", True))
 b.append(f'<line x1="70" y1="326" x2="96" y2="292" stroke="#555" stroke-width="1.5"/>')
-b.append(lbl(160, 356, "potes BEM SECOS, de boca para baixo,", 11, "#222", True)); b.append(lbl(160, 370, "cobertos de gravetos, casca e esterco seco", 11, "#222", True))
+b.append(lbl(160, 356, "potes BEM SECOS, boca para baixo,", 11, "#222", True)); b.append(lbl(160, 370, "cobertos de gravetos e esterco seco", 11, "#222", True))
 b.append(lbl(14, 100, "pilha de lenha", 11.5, "#222", True)); b.append(lbl(14, 114, "em forma de oca", 11.5, "#222", True))
 # passos
 b.append('<line x1="430" y1="50" x2="430" y2="396" stroke="#ccc" stroke-width="2"/>')
@@ -343,7 +345,8 @@ for k in range(4):
     b.append(f'<line x1="{20+k*8}" y1="{428-k*7}" x2="{170+k*10}" y2="{420-k*6}" stroke="{WOOD}" stroke-width="7" stroke-linecap="round"/>')
 for (fx, fy, sc) in ((150, 430, 1.2), (200, 432, 1.5), (250, 430, 1.3), (295, 432, 1.0)):
     b.append(chama(fx, fy, sc))
-# grelha
+# grelha (vaos com brilho do fogo)
+b.append(f'<rect x="100" y="326" width="230" height="14" fill="#f08c00"/>')
 for k in range(6):
     b.append(f'<rect x="{100+k*40}" y="326" width="26" height="14" fill="#b5523b" stroke="{OUT}" stroke-width="1.5"/>')
 # camara
@@ -374,15 +377,15 @@ b.append(lbl(215, 96, "60–80 cm por dentro", 11, "#222", True, "middle").repla
 b.append(lbl(84, 106, "", 11))
 b.append(lines(380, 240, ["paredes: 2 tijolos (20–25 cm)", "assentados com barro + areia"], 11.5, "#222"))
 # escala de cor
-b.append(text(590, 300, "Cor do fogo", 12, "#222", True, "middle"))
-cores = [("#5a1a10", "~550 °C vermelho escuro"), ("#a01e10", "~700 °C vermelho"), ("#e0401a", "~850 °C cereja"), ("#f08c20", "~950 °C laranja"), ("#ffd040", "~1100 °C amarelo")]
-for i, (c, t) in enumerate(cores):
-    b.append(f'<rect x="530" y="{310+i*22}" width="22" height="18" fill="{c}" stroke="{OUT}" stroke-width="1"/>')
-    b.append(text(558, 324 + i * 22, t, 10.5, "#222"))
-b.append(box(8, 466, 664, 86, "#eef5ff", "#3f6d9e"))
-b.append(text(20, 486, "Queima: 1) fogo pequeno na boca 2–3 h (secar; até ~100–200 °C); 2) aumente aos poucos por 2–3 h;", 12.5))
-b.append(text(20, 504, "3) fogo forte 2–4 h até o brilho cereja (800–900 °C); mantenha 30–60 min; 4) feche boca e topo", 12.5))
-b.append(text(20, 522, "e espere esfriar 12–24 h. Abrir quente racha tudo. Lenha: ~1 a 2 m³ por queima (forno pequeno).", 12.5))
-b.append(text(20, 540, "Cimento comum não aguenta o calor: use tijolo e barro. Afaste de casas e de mato seco.", 12.5, DRED, True))
-open(D + "forno-tijolo.svg", "w").write(svg(680, 562, "Forno simples de tijolos para cerâmica (corte)", "\n".join(b)))
+b.append(text(20, 482, "Cor do brilho dentro do forno (no escuro):", 12, "#222", True))
+cores = [("#5a1a10", "~550 °C", "vermelho escuro"), ("#a01e10", "~700 °C", "vermelho"), ("#e0401a", "~850 °C", "cereja"), ("#f08c20", "~950 °C", "laranja"), ("#ffd040", "~1100 °C", "amarelo")]
+for i, (c, t, n) in enumerate(cores):
+    b.append(f'<rect x="{20+i*131}" y="490" width="120" height="16" fill="{c}" stroke="{OUT}" stroke-width="1"/>')
+    b.append(text(80 + i * 131, 522, t + " " + n, 10.5, "#222", False, "middle"))
+b.append(box(8, 532, 664, 86, "#eef5ff", "#3f6d9e"))
+b.append(text(20, 552, "Queima: 1) fogo pequeno na boca 2–3 h (secar; até ~100–200 °C); 2) aumente aos poucos por 2–3 h;", 12.5))
+b.append(text(20, 570, "3) fogo forte 2–4 h até o brilho cereja (800–900 °C); mantenha 30–60 min; 4) feche boca e topo", 12.5))
+b.append(text(20, 588, "e espere esfriar 12–24 h. Abrir quente racha tudo. Lenha: ~1 a 2 m³ por queima (forno pequeno).", 12.5))
+b.append(text(20, 606, "Cimento comum não aguenta o calor: use tijolo e barro. Afaste de casas e de mato seco.", 12.5, DRED, True))
+open(D + "forno-tijolo.svg", "w").write(svg(680, 628, "Forno simples de tijolos para cerâmica (corte)", "\n".join(b)))
 print("ok")
