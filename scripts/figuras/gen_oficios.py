@@ -388,4 +388,71 @@ b.append(text(20, 570, "3) fogo forte 2–4 h até o brilho cereja (800–900 °
 b.append(text(20, 588, "e espere esfriar 12–24 h. Abrir quente racha tudo. Lenha: ~0,5 a 1 m³ por queima (forno pequeno).", 12.5))
 b.append(text(20, 606, "Cimento comum não aguenta o calor: use tijolo e barro. Afaste de casas e de mato seco.", 12.5, DRED, True))
 open(D + "forno-tijolo.svg", "w").write(svg(680, 628, "Forno simples de tijolos para cerâmica (corte)", "\n".join(b)))
+
+# =====================================================================
+# PONTOS DE COSTURA A MAO
+# =====================================================================
+b = []
+TEC = "#dbe8f5"; LIN = "#c0392b"
+rows = [("Alinhavo", ["pontos e espaços iguais;", "5–10 mm = provisório"]),
+        ("Pesponto", ["1 ponto à frente, volta", "por baixo: o mais forte"]),
+        ("Chuleado", ["por cima da borda:", "a borda não desfia"]),
+        ("Caseado", ["pontos encostados com", "um nó na borda (casas)"]),
+        ("Bainha", ["dobra dupla; pega 1–2", "fios do lado de fora"])]
+for i, (nome, desc) in enumerate(rows):
+    y = 52 + i * 86
+    b.append(f'<rect x="8" y="{y}" width="664" height="78" rx="8" fill="#f7f7f7" stroke="#bbb" stroke-width="1.2"/>')
+    b.append(num(28, y + 22, i + 1))
+    b.append(text(46, y + 27, nome, 14, "#222", True))
+    b.append(lines(20, y + 48, desc, 11.5))
+    x0, x1 = 210, 640
+    if nome in ("Alinhavo", "Pesponto", "Bainha"):
+        b.append(f'<rect x="{x0}" y="{y+14}" width="{x1-x0}" height="52" fill="{TEC}" stroke="#7a9cc0" stroke-width="1.5"/>')
+    yc = y + 40
+    if nome == "Alinhavo":
+        for k in range(10):
+            xa = x0 + 20 + k * 40
+            b.append(f'<line x1="{xa}" y1="{yc}" x2="{xa+20}" y2="{yc}" stroke="{LIN}" stroke-width="3.5" stroke-linecap="round"/>')
+        b.append(lbl(x0 + 50, y + 28, "frente", 10.5, "#555"))
+        b.append(f'<line x1="{x0+40}" y1="{y+60}" x2="{x0+60}" y2="{y+60}" stroke="#555" stroke-width="1"/><line x1="{x0+40}" y1="{y+56}" x2="{x0+40}" y2="{y+64}" stroke="#555"/><line x1="{x0+60}" y1="{y+56}" x2="{x0+60}" y2="{y+64}" stroke="#555"/>')
+    elif nome == "Pesponto":
+        for k in range(9):
+            xa = x0 + 20 + k * 30
+            b.append(f'<line x1="{xa}" y1="{yc}" x2="{xa+30}" y2="{yc}" stroke="{LIN}" stroke-width="3.5"/>')
+            b.append(f'<circle cx="{xa}" cy="{yc}" r="2" fill="#7a1a10"/>')
+        xn = x0 + 20 + 9 * 30
+        b.append(f'<path d="M{xn} {yc} Q {xn+25} {yc+20} {xn+45} {yc}" fill="none" stroke="{LIN}" stroke-width="2" stroke-dasharray="4 3"/>')
+        b.append(f'<line x1="{xn+45}" y1="{yc}" x2="{xn+100}" y2="{yc-14}" stroke="#777" stroke-width="3"/>')
+        b.append(arrow(xn + 46, yc - 12, xn + 8, yc - 12, "#1e6b2e", 2.5))
+        b.append(lbl(xn + 12, y + 22, "volta", 10.5, "#1e6b2e", True))
+        b.append(lbl(xn + 20, y + 64, "por baixo: 1 ponto adiante", 10.5, "#555"))
+    elif nome in ("Chuleado", "Caseado"):
+        edge = y + 26
+        b.append(f'<rect x="{x0}" y="{edge}" width="{x1-x0}" height="40" fill="{TEC}" stroke="none"/>')
+        b.append(f'<line x1="{x0}" y1="{edge+40}" x2="{x1}" y2="{edge+40}" stroke="#7a9cc0" stroke-width="1.5"/>')
+        for k in range(43):
+            xa = x0 + k * 10
+            b.append(f'<line x1="{xa}" y1="{edge}" x2="{xa+3}" y2="{edge-5}" stroke="#7a9cc0" stroke-width="1"/>')
+        if nome == "Chuleado":
+            for k in range(13):
+                xa = x0 + 20 + k * 30
+                b.append(f'<line x1="{xa}" y1="{edge+16}" x2="{xa+18}" y2="{edge-8}" stroke="{LIN}" stroke-width="3" stroke-linecap="round"/>')
+                b.append(f'<line x1="{xa+18}" y1="{edge-8}" x2="{xa+30}" y2="{edge+16}" stroke="{LIN}" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.6"/>')
+            b.append(lbl(x0 + 6, y + 14, "borda cortada", 10.5, "#555"))
+        else:
+            b.append(f'<line x1="{x0+20}" y1="{edge-1}" x2="{x0+20+40*9}" y2="{edge-1}" stroke="{LIN}" stroke-width="3"/>')
+            for k in range(41):
+                xa = x0 + 20 + k * 9
+                b.append(f'<line x1="{xa}" y1="{edge-1}" x2="{xa}" y2="{edge+18}" stroke="{LIN}" stroke-width="2.5" stroke-linecap="round"/>')
+            b.append(lbl(x0 + 6, y + 14, "nó de linha na borda", 10.5, "#555"))
+    elif nome == "Bainha":
+        b.append(f'<line x1="{x0}" y1="{y+32}" x2="{x1}" y2="{y+32}" stroke="#7a9cc0" stroke-width="1.5" stroke-dasharray="6 4"/>')
+        for k in range(14):
+            xa = x0 + 30 + k * 30
+            b.append(f'<line x1="{xa}" y1="{y+32}" x2="{xa+2}" y2="{y+35}" stroke="{LIN}" stroke-width="2"/>')
+        b.append(lbl(x0 + 8, y + 26, "borda da dobra (por dentro)", 10.5, "#555"))
+        b.append(lbl(x0 + 8, y + 60, "por fora: só pontinhos quase invisíveis", 10.5, "#555"))
+        # corte da dobra
+        b.append(f'<path d="M150 {y+70} L 150 {y+30} Q 150 {y+22} 158 {y+22} L 158 {y+46} Q 158 {y+52} 164 {y+52} L 164 {y+40}" fill="none" stroke="#3f6d9e" stroke-width="3"/>')
+open(D + "pontos-costura.svg", "w").write(svg(680, 488, "Pontos de costura à mão", "\n".join(b)))
 print("ok")
