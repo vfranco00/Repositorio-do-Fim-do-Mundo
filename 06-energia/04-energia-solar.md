@@ -165,7 +165,7 @@ todo o painel em 30–80%, porque as células estão em série.
 - Fixe bem (vento de tempestade arranca painel). Deixe 10 cm de ar embaixo para ventilar.
 - Painéis em série ou paralelo: veja a figura abaixo e [Eletricidade básica](03-eletricidade-basica.md).
 
-![Série soma a tensão; paralelo soma a corrente](img/serie-paralelo.svg)
+(Veja a figura de série e paralelo em [Eletricidade básica](03-eletricidade-basica.md).)
 
 ## O solar da rede (on-grid) desliga no apagão
 
