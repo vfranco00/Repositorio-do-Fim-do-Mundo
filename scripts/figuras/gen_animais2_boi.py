@@ -250,3 +250,56 @@ def timpanismo():
     return svg(680, y + 6, "Timpanismo (boi estufado): onde furar em último caso", "\n".join(b))
 
 open(D + "vet-timpanismo-trocater.svg", "w").write(timpanismo())
+
+# ====================== 4) LOCAIS DE INJEÇÃO ======================
+def injecao():
+    tx, ty, s = 10, 60, 0.62
+    b = [cow(tx, ty, s)]
+    tri = [P(tx, ty, s, x, y) for x, y in ((112, 104), (150, 84), (150, 168))]
+    pts = " ".join(f"{x:.0f},{y:.0f}" for x, y in tri)
+    b.append(f'<polygon points="{pts}" fill="#2b8a3e" fill-opacity="0.45" stroke="{GREEN}" stroke-width="2.5"/>')
+    gx, gy = P(tx, ty, s, 440, 120)
+    b.append(f'<line x1="{gx-9:.0f}" y1="{gy-9:.0f}" x2="{gx+9:.0f}" y2="{gy+9:.0f}" stroke="{DRED}" stroke-width="4"/>'
+             f'<line x1="{gx-9:.0f}" y1="{gy+9:.0f}" x2="{gx+9:.0f}" y2="{gy-9:.0f}" stroke="{DRED}" stroke-width="4"/>')
+    b.append(text(14, 300, "VERDE = tábua do pescoço: um palmo à frente", 12, GREEN, True))
+    b.append(text(14, 315, "da paleta, abaixo da crina e acima da coluna", 12, GREEN, True))
+    b.append(text(14, 330, "do pescoço. Injeção no MÚSCULO e SOB A PELE.", 12, GREEN, True))
+    b.append(text(14, 352, "X = NÃO aplique na anca e na coxa (estraga", 12, DRED, True))
+    b.append(text(14, 367, "os melhores cortes e pode atingir nervo).", 12, DRED, True))
+    # cortes da pele
+    def pele(ox, oy):
+        return (f'<rect x="{ox}" y="{oy}" width="150" height="16" fill="#e8b98f" stroke="{OUT}" stroke-width="1.5"/>'
+                f'<rect x="{ox}" y="{oy+16}" width="150" height="20" fill="#fbe7a1" stroke="{OUT}" stroke-width="1.5"/>'
+                f'<rect x="{ox}" y="{oy+36}" width="150" height="54" fill="#d9776b" stroke="{OUT}" stroke-width="1.5"/>')
+    ox = 360
+    b.append(text(ox, 66, "SUBCUTÂNEA (SC): sob a pele", 13, "#1e1e1e", True))
+    b.append(f'<path d="M{ox},120 L{ox+50},120 L{ox+75},78 L{ox+100},120 L{ox+150},120 L{ox+150},136 L{ox},136 Z" fill="#e8b98f" stroke="{OUT}" stroke-width="1.5"/>')
+    b.append(f'<rect x="{ox}" y="136" width="150" height="20" fill="#fbe7a1" stroke="{OUT}" stroke-width="1.5"/>')
+    b.append(f'<rect x="{ox}" y="156" width="150" height="40" fill="#d9776b" stroke="{OUT}" stroke-width="1.5"/>')
+    b.append(hand(ox + 75, 74, 9))
+    b.append(f'<line x1="{ox+190}" y1="104" x2="{ox+92}" y2="116" stroke="#555" stroke-width="4"/>')
+    b.append(f'<rect x="{ox+190}" y="96" width="60" height="16" fill="#eef5ff" stroke="{OUT}" stroke-width="1.5" transform="rotate(-7 {ox+190} 104)"/>')
+    b.append(text(ox, 214, "Belisque a pele (\"tenda\") e entre na", 11.5))
+    b.append(text(ox, 229, "base dela, quase deitado. Agulha curta.", 11.5))
+    oy = 262
+    b.append(text(ox, oy, "INTRAMUSCULAR (IM): no músculo", 13, "#1e1e1e", True))
+    b.append(pele(ox, oy + 20))
+    b.append(f'<line x1="{ox+75}" y1="{oy+6}" x2="{ox+75}" y2="{oy+82}" stroke="#555" stroke-width="4"/>')
+    b.append(f'<rect x="{ox+67}" y="{oy-40}" width="16" height="46" fill="#eef5ff" stroke="{OUT}" stroke-width="1.5"/>')
+    b.append(text(ox + 160, oy + 30, "pele", 11, "#555"))
+    b.append(text(ox + 160, oy + 48, "gordura", 11, "#555"))
+    b.append(text(ox + 160, oy + 80, "músculo", 11, "#555"))
+    b.append(text(ox, oy + 130, "Agulha reta (90°), até o fundo. Puxe", 11.5))
+    b.append(text(ox, oy + 145, "o êmbolo: veio sangue? Tire e mude.", 11.5))
+    y = 430
+    b.append(box(12, y, 656, 128, "#f7f7f7", "#999"))
+    rows = ["Porco: atrás da orelha, 2–3 dedos da base (IM); pele solta atrás da orelha (SC).",
+            "Cabra, ovelha, bezerro: pescoço, como no boi. Cão e gato: SC na pele solta do cangote.",
+            "Máximo por ponto no músculo: boi 10–15 mL; porco 5–10 mL; cabra e ovelha 3–5 mL.",
+            "Agulha nova (ou fervida 20 min) para cada animal: agulha usada espalha doença.",
+            "Animal bem contido. Remédio frio e grosso: aqueça na mão antes."]
+    for i, r in enumerate(rows):
+        b.append(text(24, y + 24 + i * 22, r, 12.5))
+    return svg(680, y + 138, "Onde e como aplicar injeção", "\n".join(b))
+
+open(D + "vet-injecao-locais.svg", "w").write(injecao())

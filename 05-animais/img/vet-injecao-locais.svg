@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 568" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<rect width="680" height="568" fill="#fff"/>
+<text x="340.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Onde e como aplicar injeção</text>
+<g transform="translate(10,60) scale(0.62)"><path d="M206,240 L212,300 L214,368 C214,374 212,378 210,382 L240,382 L240,368 L238,300 L236,246 Z" fill="#b89d7c" stroke="#1e1e1e" stroke-width="2"/><path d="M420,240 C428,262 432,282 434,300 L432,368 C432,374 430,378 428,382 L458,382 L458,368 L460,322 C462,312 466,304 468,296 L470,250 Z" fill="#b89d7c" stroke="#1e1e1e" stroke-width="2"/><path d="M482,74 C496,100 500,160 498,232" fill="none" stroke="#1e1e1e" stroke-width="5" stroke-linecap="round"/><path d="M498,226 C490,240 492,262 500,272 C508,262 508,240 498,226 Z" fill="#6b5236" stroke="#1e1e1e" stroke-width="2"/><path d="M95,70 C80,66 62,74 50,86 C36,100 24,124 16,148 C12,160 12,170 22,180 C34,186 58,182 78,166 C88,162 96,164 102,176 C110,196 126,214 146,226 C154,232 158,236 160,240 C164,262 166,284 166,300 L168,368 C168,374 166,378 164,382 L196,382 C196,376 196,372 196,368 L198,300 C200,280 202,262 206,242 C240,248 300,250 340,246 C366,243 382,236 392,226 C400,246 408,262 414,282 C418,292 418,300 416,310 L414,368 C414,374 412,378 410,382 L442,382 C442,376 442,372 442,368 L444,322 C446,312 450,304 454,298 C460,272 468,248 472,228 C482,190 490,140 486,84 C484,76 482,72 478,68 C462,58 446,56 430,56 C390,56 350,54 300,52 C260,50 236,48 214,44 C196,34 180,30 166,34 C150,40 136,52 120,60 C110,64 102,68 95,70 Z" fill="#d9c2a3" stroke="#1e1e1e" stroke-width="2.5" stroke-linejoin="round"/><path d="M92,68 C90,56 92,46 100,38 C100,48 102,58 104,66 Z" fill="#efe6d2" stroke="#1e1e1e" stroke-width="2"/><path d="M104,74 C120,70 136,74 146,84 C132,90 116,88 104,82 Z" fill="#d9c2a3" stroke="#1e1e1e" stroke-width="2"/><path d="M24,140 C16,150 14,166 22,178 C34,184 50,182 60,174 C50,160 38,146 24,140 Z" fill="#c9a98a" stroke="none"/><ellipse cx="68" cy="100" rx="6" ry="4.5" fill="#1e1e1e"/><ellipse cx="22" cy="156" rx="3.5" ry="5" fill="#1e1e1e"/><path d="M20,172 C30,176 44,176 52,172" fill="none" stroke="#1e1e1e" stroke-width="1.8"/><rect x="164" y="374" width="32" height="8" fill="#3a2e22"/><rect x="410" y="374" width="32" height="8" fill="#3a2e22"/></g>
+<polygon points="79,124 103,112 103,164" fill="#2b8a3e" fill-opacity="0.45" stroke="#2b8a3e" stroke-width="2.5"/>
+<line x1="274" y1="125" x2="292" y2="143" stroke="#b3001b" stroke-width="4"/><line x1="274" y1="143" x2="292" y2="125" stroke="#b3001b" stroke-width="4"/>
+<text x="14" y="300" font-size="12" fill="#2b8a3e" font-weight="bold" text-anchor="start">VERDE = tábua do pescoço: um palmo à frente</text>
+<text x="14" y="315" font-size="12" fill="#2b8a3e" font-weight="bold" text-anchor="start">da paleta, abaixo da crina e acima da coluna</text>
+<text x="14" y="330" font-size="12" fill="#2b8a3e" font-weight="bold" text-anchor="start">do pescoço. Injeção no MÚSCULO e SOB A PELE.</text>
+<text x="14" y="352" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="start">X = NÃO aplique na anca e na coxa (estraga</text>
+<text x="14" y="367" font-size="12" fill="#b3001b" font-weight="bold" text-anchor="start">os melhores cortes e pode atingir nervo).</text>
+<text x="360" y="66" font-size="13" fill="#1e1e1e" font-weight="bold" text-anchor="start">SUBCUTÂNEA (SC): sob a pele</text>
+<path d="M360,120 L410,120 L435,78 L460,120 L510,120 L510,136 L360,136 Z" fill="#e8b98f" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="360" y="136" width="150" height="20" fill="#fbe7a1" stroke="#1e1e1e" stroke-width="1.5"/>
+<rect x="360" y="156" width="150" height="40" fill="#d9776b" stroke="#1e1e1e" stroke-width="1.5"/>
+<circle cx="435" cy="74" r="9" fill="#f2c9a5" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="550" y1="104" x2="452" y2="116" stroke="#555" stroke-width="4"/>
+<rect x="550" y="96" width="60" height="16" fill="#eef5ff" stroke="#1e1e1e" stroke-width="1.5" transform="rotate(-7 550 104)"/>
+<text x="360" y="214" font-size="11.5" fill="#222" text-anchor="start">Belisque a pele ("tenda") e entre na</text>
+<text x="360" y="229" font-size="11.5" fill="#222" text-anchor="start">base dela, quase deitado. Agulha curta.</text>
+<text x="360" y="262" font-size="13" fill="#1e1e1e" font-weight="bold" text-anchor="start">INTRAMUSCULAR (IM): no músculo</text>
+<rect x="360" y="282" width="150" height="16" fill="#e8b98f" stroke="#1e1e1e" stroke-width="1.5"/><rect x="360" y="298" width="150" height="20" fill="#fbe7a1" stroke="#1e1e1e" stroke-width="1.5"/><rect x="360" y="318" width="150" height="54" fill="#d9776b" stroke="#1e1e1e" stroke-width="1.5"/>
+<line x1="435" y1="268" x2="435" y2="344" stroke="#555" stroke-width="4"/>
+<rect x="427" y="222" width="16" height="46" fill="#eef5ff" stroke="#1e1e1e" stroke-width="1.5"/>
+<text x="520" y="292" font-size="11" fill="#555" text-anchor="start">pele</text>
+<text x="520" y="310" font-size="11" fill="#555" text-anchor="start">gordura</text>
+<text x="520" y="342" font-size="11" fill="#555" text-anchor="start">músculo</text>
+<text x="360" y="392" font-size="11.5" fill="#222" text-anchor="start">Agulha reta (90°), até o fundo. Puxe</text>
+<text x="360" y="407" font-size="11.5" fill="#222" text-anchor="start">o êmbolo: veio sangue? Tire e mude.</text>
+<rect x="12" y="430" width="656" height="128" rx="8" fill="#f7f7f7" stroke="#999" stroke-width="1.5"/>
+<text x="24" y="454" font-size="12.5" fill="#222" text-anchor="start">Porco: atrás da orelha, 2–3 dedos da base (IM); pele solta atrás da orelha (SC).</text>
+<text x="24" y="476" font-size="12.5" fill="#222" text-anchor="start">Cabra, ovelha, bezerro: pescoço, como no boi. Cão e gato: SC na pele solta do cangote.</text>
+<text x="24" y="498" font-size="12.5" fill="#222" text-anchor="start">Máximo por ponto no músculo: boi 10–15 mL; porco 5–10 mL; cabra e ovelha 3–5 mL.</text>
+<text x="24" y="520" font-size="12.5" fill="#222" text-anchor="start">Agulha nova (ou fervida 20 min) para cada animal: agulha usada espalha doença.</text>
+<text x="24" y="542" font-size="12.5" fill="#222" text-anchor="start">Animal bem contido. Remédio frio e grosso: aqueça na mão antes.</text>
+</svg>
