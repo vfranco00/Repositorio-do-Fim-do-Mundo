@@ -236,5 +236,5 @@
 <line x1="630" y1="428" x2="632" y2="431" stroke="#c0392b" stroke-width="2"/>
 <text x="218" y="422" font-size="10.5" fill="#555" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">borda da dobra (por dentro)</text>
 <text x="218" y="456" font-size="10.5" fill="#555" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">por fora: só pontinhos quase invisíveis</text>
-<path d="M150 466 L 150 426 Q 150 418 158 418 L 158 442 Q 158 448 164 448 L 164 436" fill="none" stroke="#3f6d9e" stroke-width="3"/>
+<path d="M186 466 L 186 426 Q 186 418 194 418 L 194 442 Q 194 448 200 448 L 200 436" fill="none" stroke="#3f6d9e" stroke-width="3"/>
 </svg>

@@ -453,6 +453,6 @@ for i, (nome, desc) in enumerate(rows):
         b.append(lbl(x0 + 8, y + 26, "borda da dobra (por dentro)", 10.5, "#555"))
         b.append(lbl(x0 + 8, y + 60, "por fora: só pontinhos quase invisíveis", 10.5, "#555"))
         # corte da dobra
-        b.append(f'<path d="M150 {y+70} L 150 {y+30} Q 150 {y+22} 158 {y+22} L 158 {y+46} Q 158 {y+52} 164 {y+52} L 164 {y+40}" fill="none" stroke="#3f6d9e" stroke-width="3"/>')
+        b.append(f'<path d="M186 {y+70} L 186 {y+30} Q 186 {y+22} 194 {y+22} L 194 {y+46} Q 194 {y+52} 200 {y+52} L 200 {y+40}" fill="none" stroke="#3f6d9e" stroke-width="3"/>')
 open(D + "pontos-costura.svg", "w").write(svg(680, 488, "Pontos de costura à mão", "\n".join(b)))
 print("ok")
