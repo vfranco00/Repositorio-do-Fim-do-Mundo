@@ -152,7 +152,7 @@ def viveiro():
     b.append(f'<line x1="565" y1="170" x2="615" y2="170" stroke="{GR}" stroke-width="5"/>')
     b.append(f'<line x1="615" y1="170" x2="660" y2="330" stroke="{GR}" stroke-width="5"/>')
     # peixes
-    for (fx, fy) in ((326, 228), (376, 252), (290, 262)):
+    for (fx, fy) in ((326, 226), (346, 254), (290, 262)):
         b.append(f'<ellipse cx="{fx}" cy="{fy}" rx="16" ry="7" fill="#7f8c99" stroke="{OUT}" stroke-width="1.5"/>'
                  f'<polygon points="{fx+14},{fy} {fx+26},{fy-7} {fx+26},{fy+7}" fill="#7f8c99" stroke="{OUT}" stroke-width="1.5"/>')
     # entrada: cano com tela e registro

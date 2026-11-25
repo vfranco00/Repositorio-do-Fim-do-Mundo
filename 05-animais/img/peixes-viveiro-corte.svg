@@ -7,8 +7,8 @@
 <line x1="0" y1="170" x2="110" y2="170" stroke="#5aa04a" stroke-width="5"/>
 <line x1="565" y1="170" x2="615" y2="170" stroke="#5aa04a" stroke-width="5"/>
 <line x1="615" y1="170" x2="660" y2="330" stroke="#5aa04a" stroke-width="5"/>
-<ellipse cx="326" cy="228" rx="16" ry="7" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/><polygon points="340,228 352,221 352,235" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/>
-<ellipse cx="376" cy="252" rx="16" ry="7" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/><polygon points="390,252 402,245 402,259" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/>
+<ellipse cx="326" cy="226" rx="16" ry="7" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/><polygon points="340,226 352,219 352,233" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/>
+<ellipse cx="346" cy="254" rx="16" ry="7" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/><polygon points="360,254 372,247 372,261" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/>
 <ellipse cx="290" cy="262" rx="16" ry="7" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/><polygon points="304,262 316,255 316,269" fill="#7f8c99" stroke="#1e1e1e" stroke-width="1.5"/>
 <rect x="0" y="176" width="150" height="10" fill="#9a9a9a" stroke="#1e1e1e" stroke-width="1.5"/>
 <rect x="4" y="172" width="12" height="18" fill="none" stroke="#1e1e1e" stroke-width="1.5"/>
