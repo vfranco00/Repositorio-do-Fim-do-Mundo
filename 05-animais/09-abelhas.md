@@ -77,7 +77,7 @@ ideais para iniciantes, quintais e cidade.
 
 | Peça | Medida interna aproximada | Função |
 |---|---|---|
-| Fundo | — (com alvado de 1,5 × 30 cm, reduzível com tarugo) | Piso e entrada |
+| Fundo | — (com alvado de 1,5–2 cm de altura na largura da caixa, reduzível com tarugo) | Piso e entrada |
 | **Ninho** | 46,5 × 37 × **24 cm** de altura, 10 quadros | Rainha, cria e reserva de inverno. **Não se colhe** |
 | **Melgueira** | 46,5 × 37 × **14,5 cm**, 10 quadros | Onde as abelhas guardam o mel que você colhe |
 | Quadro de ninho | 48 × 23 cm (com as "orelhas") | Moldura com 4 arames esticados e cera alveolada |

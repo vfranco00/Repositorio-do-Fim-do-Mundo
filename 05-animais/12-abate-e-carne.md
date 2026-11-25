@@ -14,7 +14,7 @@ miúdos, sangue, banha, couro e ossos.
 - Animal **doente**, com febre, magro sem motivo, com diarreia, tosse ou feridas com pus.
 - Animal com **sinais nervosos** (anda em círculo, paralisia, baba, agressividade): pode ser **raiva**.
 - Animal **encontrado morto**, ou que morreu de repente sangrando pelo nariz e ânus (veja carbúnculo
-  na seção 8).
+  na seção 10).
 - Animal tratado com remédio e ainda dentro do **prazo de carência** (veja
   [Veterinária básica](14-veterinaria-basica.md)).
 

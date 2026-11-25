@@ -385,7 +385,7 @@ for i, (c, t, n) in enumerate(cores):
 b.append(box(8, 532, 664, 86, "#eef5ff", "#3f6d9e"))
 b.append(text(20, 552, "Queima: 1) fogo pequeno na boca 2–3 h (secar; até ~100–200 °C); 2) aumente aos poucos por 2–3 h;", 12.5))
 b.append(text(20, 570, "3) fogo forte 2–4 h até o brilho cereja (800–900 °C); mantenha 30–60 min; 4) feche boca e topo", 12.5))
-b.append(text(20, 588, "e espere esfriar 12–24 h. Abrir quente racha tudo. Lenha: ~1 a 2 m³ por queima (forno pequeno).", 12.5))
+b.append(text(20, 588, "e espere esfriar 12–24 h. Abrir quente racha tudo. Lenha: ~0,5 a 1 m³ por queima (forno pequeno).", 12.5))
 b.append(text(20, 606, "Cimento comum não aguenta o calor: use tijolo e barro. Afaste de casas e de mato seco.", 12.5, DRED, True))
 open(D + "forno-tijolo.svg", "w").write(svg(680, 628, "Forno simples de tijolos para cerâmica (corte)", "\n".join(b)))
 print("ok")
